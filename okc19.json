@@ -1,0 +1,4943 @@
+[
+  {
+    "name": "Pro/Am Ladies Adult B3 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Am. Tango  (T)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Open Bronze Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Smooth  (WF)",
+    "couples": [
+      "Norman Pishny & Krista Pishny",
+      "Edward Nockunas & Beth Schuette",
+      "Mark Mellow & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Silver Smooth  (WTF)",
+    "couples": [
+      "David Humphrey & Karen Humphrey",
+      "Norman Pishny & Krista Pishny",
+      "Eugene Ichinose & Ellen Ichinose",
+      "Juan Brou & Ziggy Brou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Advanced Bronze Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Advanced Bronze Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Advanced Bronze Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Advanced Bronze Am. Tango  (T)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Advanced Bronze Am. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Advanced Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Advanced Bronze Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Silver Smooth  (WTF)",
+    "couples": [
+      "David Humphrey & Karen Humphrey",
+      "Melvin Paterline & Victoria Paterline",
+      "Norman Pishny & Krista Pishny",
+      "Mark Mellow & Patti Mellow",
+      "Juan Brou & Ziggy Brou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Advanced Bronze Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Advanced Bronze Am. Tango  (T)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Advanced Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Advanced Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Silver Smooth  (WTF)",
+    "couples": [
+      "Melvin Paterline & Victoria Paterline",
+      "Steve Sturgeon & Pat Cunningham",
+      "Mark Mellow & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Veva Daugherty",
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Advanced Bronze Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "David Wood & Veva Daugherty",
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Advanced Bronze Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Veva Daugherty",
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Advanced Bronze Am. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Advanced Bronze Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Gold Smooth  (WTFV)",
+    "couples": [
+      "Randy Heysek & Sandra Sha",
+      "David Humphrey & Karen Humphrey",
+      "Britt Nokes & Margaret Nokes",
+      "Juan Brou & Ziggy Brou"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Veva Daugherty",
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Veva Daugherty",
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Tango  (T)",
+    "couples": [
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Gold Smooth  (WTFV)",
+    "couples": [
+      "David Humphrey & Karen Humphrey",
+      "Melvin Paterline & Victoria Paterline",
+      "Britt Nokes & Margaret Nokes",
+      "Juan Brou & Ziggy Brou"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Pre-Silver Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Silver Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Silver Am. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Pre-Silver Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Silver Am. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Silver Am. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Pre-Silver Am. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Silver Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Pre-Silver Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Silver Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Advanced Silver Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Gold Am. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Advanced Silver Am. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Gold Am. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Advanced Silver Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Advanced Silver Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Bronze Smooth  (WF)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis",
+      "David Wood & Veva Daugherty",
+      "David Elliott & Ellen Keller",
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Advanced Silver Am. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Gold Am. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Advanced Silver Am. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Gold Am. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Advanced Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Silver Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Silver Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Lee Harpe & Angie Ohman",
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Silver Am. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Lee Harpe & Angie Ohman",
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Silver Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Advanced Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Bronze Smooth  (WF)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor",
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Novice Smooth  (WTF)",
+    "couples": [
+      "Randy Heysek & Sandra Sha",
+      "Matt Pansing & Ellen Pansing",
+      "Britt Nokes & Margaret Nokes"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Novice Smooth  (WTF)",
+    "couples": [
+      "David Dockery & Nena Dockery"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Am. Waltz  (W)",
+    "couples": [
+      "Lee Harpe & Angie Ohman",
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Silver Am. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Silver Am. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Am. Tango  (T)",
+    "couples": [
+      "Lee Harpe & Angie Ohman",
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Silver Am. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Smooth  (WF)",
+    "couples": [
+      "Norman Pishny & Krista Pishny",
+      "Eugene Ichinose & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Smooth  (WF)",
+    "couples": [
+      "Edward Nockunas & Beth Schuette",
+      "Mark Mellow & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Int. Silver Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Gold Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Gold Am. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Int. Silver Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Gold Am. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Gold Am. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Int. Silver Am. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Gold Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Int. Silver Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Gold Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Novice Smooth  (WTF)",
+    "couples": [
+      "David Dockery & Nena Dockery",
+      "Matt Pansing & Ellen Pansing",
+      "Britt Nokes & Margaret Nokes"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Silver Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Gold Am. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Silver Am. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Gold Am. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Am. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Silver Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Silver Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Gold Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Gold Am. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Gold Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Gold Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Patrick Datoc & Antoinette Datoc",
+      "Thomas Hirata & Kenna Jackson",
+      "Stephen Takata & Joanna Mielnick",
+      "Henry Hudson & Olivia Hudson",
+      "Matt Pansing & Ellen Pansing"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Silver Am. Waltz  (W)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski",
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Silver Am. Tango  (T)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski",
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski",
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Nan Frates",
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Am. Tango  (T)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens",
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens",
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Patrick Datoc & Antoinette Datoc",
+      "Thomas Hirata & Kenna Jackson",
+      "Stephen Takata & Joanna Mielnick",
+      "Matt Pansing & Ellen Pansing",
+      "Henry Hudson & Olivia Hudson",
+      "Ron Magee & Carol Magee",
+      "Peter Quintero & Marilyn Stechert"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Open Bronze Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Gold Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Open Bronze Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Gold Am. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Am. Tango  (T)",
+    "couples": [
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Open Bronze Am. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Gold Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Open Bronze Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Gold Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Bronze Am. Waltz  (W)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Bronze Am. Tango  (T)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Am. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Am. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Gold Smooth  (WTFV)",
+    "couples": [
+      "Melvin Paterline & Victoria Paterline",
+      "Steve Sturgeon & Pat Cunningham"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Peter Quintero & Marilyn Stechert",
+      "Ron Magee & Carol Magee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Waltz  (W)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Tango  (T)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Am. Tango  (T)",
+    "couples": [
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Newcomer Am. Tango  (T)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Silver Smooth  (WTF)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski",
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Silver Smooth  (WTF)",
+    "couples": [
+      "Lee Harpe & Angie Ohman",
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Gold Smooth  (WTFV)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Gold Smooth  (WTFV)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Open Bronze Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Open Bronze Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Am. Rumba  (R)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Open Bronze Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Am. Swing  (S)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Bolero  (B)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Open Bronze Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Mambo  (M)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Mambo  (M)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Open Bronze Am. Mambo  (M)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Silver Rhythm  (CRS)",
+    "couples": [
+      "Britt Nokes & Margaret Nokes",
+      "Brian Greenwood & Barbara Greenwood",
+      "Norman Pishny & Krista Pishny",
+      "Steve Sturgeon & Pat Cunningham",
+      "Juan Brou & Ziggy Brou",
+      "Mark Mellow & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Advanced Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Open Bronze Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Open Bronze Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Bronze Am. Rumba  (R)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Open Bronze Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Bronze Am. Swing  (S)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Bolero  (B)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Open Bronze Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Mambo  (M)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Open Bronze Am. Mambo  (M)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Bronze Am. Mambo  (M)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Rhythm  (CR)",
+    "couples": [
+      "Edward Nockunas & Beth Schuette",
+      "Norman Pishny & Krista Pishny",
+      "Juan Brou & Ziggy Brou",
+      "Mark Mellow & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Silver Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Advanced Bronze Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Advanced Bronze Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Am. Rumba  (R)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Advanced Bronze Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Am. Swing  (S)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Bolero  (B)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Advanced Bronze Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Mambo  (M)",
+    "couples": [
+      "Hays Hopkins & Vicki Davis"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Advanced Bronze Am. Mambo  (M)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Am. Mambo  (M)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Rhythm  (CR)",
+    "couples": [
+      "Norman Pishny & Krista Pishny",
+      "Eugene Ichinose & Ellen Ichinose",
+      "Juan Brou & Ziggy Brou"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Rhythm  (CR)",
+    "couples": [
+      "Edward Nockunas & Beth Schuette",
+      "Mark Mellow & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Advanced Bronze Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Bronze Am. Rumba  (R)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Rumba  (R)",
+    "couples": [
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Advanced Bronze Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Silver Am. Rumba  (R)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Bronze Am. Swing  (S)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Advanced Bronze Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Silver Am. Swing  (S)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Advanced Bronze Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Advanced Bronze Am. Mambo  (M)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Novice Rhythm  (CRS)",
+    "couples": [
+      "David Dockery & Nena Dockery"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Silver Rhythm  (CRS)",
+    "couples": [
+      "Brian Greenwood & Barbara Greenwood",
+      "Britt Nokes & Margaret Nokes",
+      "Norman Pishny & Krista Pishny",
+      "Eugene Ichinose & Ellen Ichinose",
+      "Juan Brou & Ziggy Brou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Silver Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Pre-Silver Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Am. Rumba  (R)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Pre-Silver Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Pre-Silver Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Am. Swing  (S)",
+    "couples": [
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen Newcomer Am. Swing  (S)",
+    "couples": [
+      "Steve Hamilton & Brianna Pyle"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Pre-Silver Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior IV Silver Rhythm  (CRS)",
+    "couples": [
+      "Mark Mellow & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Novice Rhythm  (CRS)",
+    "couples": [
+      "Randy Heysek & Sandra Sha"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Novice Rhythm  (CRS)",
+    "couples": [
+      "David Dockery & Nena Dockery"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Advanced Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Silver Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Advanced Bronze Am. Rumba  (R)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Silver Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "Darren Fernandez & Vonda Wood"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Silver Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Advanced Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Silver Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Silver Am. Mambo  (M)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Rhythm  (CRSB)",
+    "couples": [
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Hirata & Kenna Jackson"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Gold Rhythm  (CRSB)",
+    "couples": [
+      "Randy Heysek & Sandra Sha",
+      "Britt Nokes & Margaret Nokes"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Int. Silver Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Int. Silver Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Am. Rumba  (R)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Int. Silver Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Am. Swing  (S)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Am. Swing  (S)",
+    "couples": [
+      "Juan Brou & Ziggy Brou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B1 Int. Silver Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Gold Rhythm  (CRSB)",
+    "couples": [
+      "Britt Nokes & Margaret Nokes",
+      "Brian Greenwood & Barbara Greenwood",
+      "Steve Sturgeon & Pat Cunningham"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Pre-Champ Rhythm  (CRSB)",
+    "couples": [
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Hirata & Kenna Jackson"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Gold Rhythm  (CRSB)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Bronze Am. Swing  (S)",
+    "couples": [
+      "Edward Nockunas & Beth Schuette",
+      "Juan Brou & Ziggy Brou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Elliott & Ellen Keller",
+      "David Wood & Veva Daugherty"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Bronze Am. Bolero  (B)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Bronze Rhythm  (CR)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Bronze Rhythm  (CR)",
+    "couples": [
+      "David Wood & Sharon Lewis",
+      "David Elliott & Ellen Keller",
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Silver Rhythm  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Silver Rhythm  (CRS)",
+    "couples": [
+      "Dadbeh Jafari & Marie Pijanowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Open Scholarship Smooth  (WTFV)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Ryan McDaniel & Toni Moore",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Am. V. Waltz  (V)",
+    "couples": [
+      "John Springli & Lauren Springli",
+      "Mike Shelton & Daneen Shelton",
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick",
+      "Randy Heysek & Sandra Sha",
+      "Ravi Narayan & Prita Narayan",
+      "Matt Pansing & Ellen Pansing",
+      "Eugene Ichinose & Ellen Ichinose",
+      "David Humphrey & Karen Humphrey"
+    ]
+  },
+  {
+    "name": "WDSF Senior II Championship Latin  (SCRPJ)",
+    "couples": [
+      "Denis Kojinov & Jeanette Chevalier",
+      "Cyrus Razavi & Natalia Razavi",
+      "Ian Redmount & Hisako Matsuo"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Smooth  (WTFV)",
+    "couples": [
+      "Mike Shelton & Daneen Shelton",
+      "Juan Vasquez & Janice Vasquez",
+      "Patrick Datoc & Antoinette Datoc",
+      "Thomas Hirata & Kenna Jackson",
+      "Stephen Takata & Joanna Mielnick"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Rising Star Latin  (SCRPJ)",
+    "couples": [
+      "Alessandro Scalora & Sofia Ward",
+      "Michael May & Pallany English",
+      "Maxim Moscaliov & Sutton Severance",
+      "Tyler Li & Anjelica Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Open Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Championship Smooth  (WTFV)",
+    "couples": [
+      "Peter Quintero & Marilyn Stechert",
+      "Ron Magee & Carol Magee"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Smooth  (WTFV)",
+    "couples": [
+      "Patrick Stone & Carlyn Hemphill",
+      "John Springli & Lauren Springli"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Championship Standard  (WTVFQ)",
+    "couples": [
+      "Eugene Lobko & Alla Zemlyak",
+      "Alan Burns & Kelly Batchelor",
+      "Dominick Montie & Barbara Haskins",
+      "Denis Kojinov & Jeanette Chevalier"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Salsa  (S)",
+    "couples": [
+      "Stephen Takata & Joanna Mielnick",
+      "Steve Sturgeon & Pat Cunningham",
+      "Matt Pansing & Ellen Pansing"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Am. Bolero  (B)",
+    "couples": [
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Hirata & Kenna Jackson",
+      "Randy Heysek & Sandra Sha",
+      "Matt Pansing & Ellen Pansing",
+      "Norman Pishny & Krista Pishny",
+      "Mark Mellow & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Standard  (WTVFQ)",
+    "couples": [
+      "Song KIm & Nicole Suh",
+      "Juan Vasquez & Janice Vasquez",
+      "Richard Abney & Paula Abney",
+      "John Linn & Kathy Linn",
+      "Robert Tempas & Laurel Tempas",
+      "Ian Redmount & Hisako Matsuo"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Am. Mambo  (M)",
+    "couples": [
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Hirata & Kenna Jackson",
+      "Randy Heysek & Sandra Sha",
+      "Matt Pansing & Ellen Pansing"
+    ]
+  },
+  {
+    "name": "Amateur Youth Championship Standard  (WTVFQ)",
+    "couples": [
+      "Tyler Li & Anjelica Lowe",
+      "Michael May & Pallany English",
+      "Aliaksandr Rybakou & Madeleine Mravkarov",
+      "Alessandro Scalora & Sofia Ward",
+      "Maxim Moscaliov & Sutton Severance"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open West Coast Swing  (W)",
+    "couples": [
+      "Mike Shelton & Daneen Shelton",
+      "Stephen Takata & Joanna Mielnick",
+      "Matt Pansing & Ellen Pansing"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Hustle  (H)",
+    "couples": [
+      "Stephen Takata & Joanna Mielnick",
+      "Mike Shelton & Daneen Shelton",
+      "Thomas Hirata & Kenna Jackson",
+      "Steve Sturgeon & Pat Cunningham",
+      "Randy Heysek & Sandra Sha",
+      "Matt Pansing & Ellen Pansing"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Rising Star Standard  (WTVFQ)",
+    "couples": [
+      "Michael May & Pallany English",
+      "Aliaksandr Rybakou & Madeleine Mravkarov",
+      "Alessandro Scalora & Sofia Ward",
+      "Maxim Moscaliov & Sutton Severance"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Rhythm  (CRSBM)",
+    "couples": [
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Hirata & Kenna Jackson"
+    ]
+  },
+  {
+    "name": "WDSF Senior II Open Standard  (WTVFQ)",
+    "couples": [
+      "Alan Burns & Kelly Batchelor",
+      "Dominick Montie & Barbara Haskins",
+      "Juan Vasquez & Janice Vasquez",
+      "Song KIm & Nicole Suh",
+      "Denis Kojinov & Jeanette Chevalier",
+      "Ian Redmount & Hisako Matsuo"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Championship Standard  (WTVFQ)",
+    "couples": [
+      "Tyler Li & Anjelica Lowe",
+      "Aliaksandr Rybakou & Madeleine Mravkarov",
+      "Michael May & Pallany English",
+      "Maxim Moscaliov & Sutton Severance"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Newcomer Hustle  (H)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Hustle  (H)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Hustle  (H)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Salsa  (S)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Salsa  (S)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Salsa  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Newcomer West Coast Swing  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver West Coast Swing  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Newcomer Merengue  (M)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Merengue  (M)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Merengue  (M)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Merengue  (M)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Newcomer West Coast Swing  (W)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Silver West Coast Swing  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Newcomer Argentine Tango  (A)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Argentine Tango  (A)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Argentine Tango  (A)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Silver Argentine Tango  (A)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Newcomer Salsa  (S)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Salsa  (S)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Silver Salsa  (S)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Newcomer Merengue  (M)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Merengue  (M)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Merengue  (M)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Newcomer Hustle  (H)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Hustle  (H)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Silver Hustle  (H)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Newcomer West Coast Swing  (W)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Newcomer West Coast Swing  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver West Coast Swing  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Newcomer Hustle  (H)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Hustle  (H)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Newcomer Argentine Tango  (A)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Argentine Tango  (A)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Advanced Bronze Argentine Tango  (A)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Argentine Tango  (A)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Newcomer Salsa  (S)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Salsa  (S)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Bronze Salsa  (S)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Salsa  (S)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Salsa  (S)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Newcomer Merengue  (M)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Newcomer Merengue  (M)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Merengue  (M)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Bronze Merengue  (M)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Merengue  (M)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Hustle  (H)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Bronze Hustle  (H)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Hustle  (H)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze West Coast Swing  (W)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze West Coast Swing  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Advanced Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Silver West Coast Swing  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Argentine Tango  (A)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Bronze Argentine Tango  (A)",
+    "couples": [
+      "David Wood & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Silver Argentine Tango  (A)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Salsa  (S)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Salsa  (S)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Advanced Bronze Salsa  (S)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Salsa  (S)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Silver Salsa  (S)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Merengue  (M)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Merengue  (M)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Merengue  (M)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Merengue  (M)",
+    "couples": [
+      "Darren Fernandez & Patsy Hutchens"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Pre-Bronze Hustle  (H)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Hustle  (H)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Hustle  (H)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Silver Hustle  (H)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Pre-Bronze West Coast Swing  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze West Coast Swing  (W)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver West Coast Swing  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Pre-Bronze Argentine Tango  (A)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Argentine Tango  (A)",
+    "couples": [
+      "David Wood & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Argentine Tango  (A)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Salsa  (S)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Salsa  (S)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Salsa  (S)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Salsa  (S)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Pre-Bronze Merengue  (M)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Merengue  (M)",
+    "couples": [
+      "Bake Whisenhunt & Sarah Minor"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Merengue  (M)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Hustle  (H)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Hustle  (H)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Bronze West Coast Swing  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Advanced Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Silver West Coast Swing  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Argentine Tango  (A)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Bronze Argentine Tango  (A)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Silver Argentine Tango  (A)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Advanced Bronze Salsa  (S)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Silver Salsa  (S)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Merengue  (M)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Bronze Merengue  (M)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Advanced Bronze Merengue  (M)",
+    "couples": [
+      "David Wood & Nan Frates"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Hustle  (H)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Bronze Hustle  (H)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Silver Hustle  (H)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze West Coast Swing  (W)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Wood & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver West Coast Swing  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Argentine Tango  (A)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Argentine Tango  (A)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Argentine Tango  (A)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Bronze Salsa  (S)",
+    "couples": [
+      "David Wood & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Salsa  (S)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Hustle  (H)",
+    "couples": [
+      "David Elliott & Ellen Keller"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Hustle  (H)",
+    "couples": [
+      "Jim Smith & Kinsey Marshall"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Hustle  (H)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Wood & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Advanced Bronze Salsa  (S)",
+    "couples": [
+      "David Wood & Patti Mellow"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Silver Intl. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Silver Intl. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Standard  (TF)",
+    "couples": [
+      "Jonathan Hillman & Nicole Humpal"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Standard  (TF)",
+    "couples": [
+      "Nicholas Pappas & Vicki Wells",
+      "David Humphrey & Karen Humphrey"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Standard  (TF)",
+    "couples": [
+      "David Dockery & Nena Dockery"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Gold Intl. Waltz  (W)",
+    "couples": [
+      "Lee Harpe & Cheryl Orr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Gold Intl. Tango  (T)",
+    "couples": [
+      "Lee Harpe & Cheryl Orr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Lee Harpe & Cheryl Orr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Lee Harpe & Cheryl Orr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Lee Harpe & Cheryl Orr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Standard  (WQ)",
+    "couples": [
+      "Steve Hamilton & Pamela Hamilton",
+      "Nicholas Pappas & Vicki Wells",
+      "Norman Pishny & Krista Pishny",
+      "David Humphrey & Karen Humphrey",
+      "Michael McCauley & Linda McCauley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Standard  (WQ)",
+    "couples": [
+      "Nicholas Pappas & Vicki Wells",
+      "David Humphrey & Karen Humphrey",
+      "Norman Pishny & Krista Pishny"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Standard  (WQ)",
+    "couples": [
+      "Steve Hamilton & Pamela Hamilton",
+      "Michael McCauley & Linda McCauley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Open Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Standard  (WTFQ)",
+    "couples": [
+      "Harrison Berggren & Suzie Chhouk",
+      "Ravi Narayan & Prita Narayan"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Gold Standard  (WTFQ)",
+    "couples": [
+      "Stuart Lucas & Virginia Lucas",
+      "Matt Pansing & Ellen Pansing",
+      "Jon Hochberg & Ginger Pizer"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Gold Standard  (WTFQ)",
+    "couples": [
+      "Melvin Paterline & Victoria Paterline"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Open Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Open Bronze Intl. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Open Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Open Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Pamela Hamilton"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Open Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Standard  (WTFQ)",
+    "couples": [
+      "Ravi Narayan & Synthia Sumukti",
+      "Jon Hochberg & Ginger Pizer"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Gold Standard  (WTFQ)",
+    "couples": [
+      "Stuart Lucas & Virginia Lucas",
+      "Matt Pansing & Ellen Pansing",
+      "Melvin Paterline & Victoria Paterline"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Bronze Intl. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Standard  (WFQ)",
+    "couples": [
+      "Louis Riendeau & Tracy Card"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Novice Standard  (WFQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Novice Standard  (WFQ)",
+    "couples": [
+      "Stuart Lucas & Virginia Lucas",
+      "Matt Pansing & Ellen Pansing",
+      "Melvin Paterline & Victoria Paterline"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Advanced Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Advanced Bronze Intl. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Advanced Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Advanced Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Advanced Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Novice Standard  (WFQ)",
+    "couples": [
+      "Stuart Lucas & Virginia Lucas",
+      "Matt Pansing & Ellen Pansing"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Novice Standard  (WFQ)",
+    "couples": [
+      "Melvin Paterline & Victoria Paterline"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Advanced Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Advanced Bronze Intl. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Advanced Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Advanced Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Advanced Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Standard  (WFQ)",
+    "couples": [
+      "Jonathan Hillman & Nicole Humpal",
+      "Harrison Berggren & Suzie Chhouk"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Silver Standard  (WFQ)",
+    "couples": [
+      "Norman Pishny & Krista Pishny",
+      "Nicholas Pappas & Vicki Wells"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Silver Standard  (WFQ)",
+    "couples": [
+      "Steve Hamilton & Pamela Hamilton",
+      "Michael McCauley & Linda McCauley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby",
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Dominick Montie & Barbara Haskins",
+      "Louis Riendeau & Tracy Card"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "John Linn & Kathy Linn",
+      "Robert Tempas & Laurel Tempas",
+      "Jerry Orr & Cheryl Orr",
+      "Robert Wirts & Donlyn Wirts",
+      "Ron Magee & Carol Magee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "John Linn & Kathy Linn",
+      "Jerry Orr & Cheryl Orr",
+      "Robert Tempas & Laurel Tempas",
+      "Ian Redmount & Hisako Matsuo",
+      "Robert Wirts & Donlyn Wirts",
+      "Ron Magee & Carol Magee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Nikki Singer",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Silver Standard  (WFQ)",
+    "couples": [
+      "Steve Hamilton & Pamela Hamilton",
+      "Nicholas Pappas & Vicki Wells",
+      "Norman Pishny & Krista Pishny",
+      "Michael McCauley & Linda McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Standard  (TF)",
+    "couples": [
+      "David Humphrey & Karen Humphrey",
+      "Nicholas Pappas & Vicki Wells"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Patti Mellow",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Patti Mellow",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Patti Mellow",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Patti Mellow",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Smooth  (WTF)",
+    "couples": [
+      "Eugene Ichinose & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Novice Smooth  (WTF)",
+    "couples": [
+      "Randy Heysek & Sandra Sha",
+      "Ravi Narayan & Synthia Sumukti"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Wood & Patti Mellow",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Wood & Patti Mellow",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Wood & Patti Mellow",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Patti Mellow",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Smooth  (WTFV)",
+    "couples": [
+      "Randy Heysek & Sandra Sha"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Smooth  (WTF)",
+    "couples": [
+      "Ravi Narayan & Prita Narayan"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Patrick Stone & Carlyn Hemphill",
+      "John Springli & Lauren Springli"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby",
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby",
+      "David Wood & Sharon Lewis"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Intl. V. Waltz  (V)",
+    "couples": [
+      "Matt Pansing & Ellen Pansing",
+      "Stuart Lucas & Virginia Lucas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Wood & Sharon Lewis",
+      "Stefan Easter & Aletha Oglesby"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Smooth  (WF)",
+    "couples": [
+      "Eugene Ichinose & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Am. Tango  (T)",
+    "couples": [
+      "Eugene Ichinose & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Bronze Standard  (WQ)",
+    "couples": [
+      "David Wood & Nikki Singer"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Gold Standard  (WTFQ)",
+    "couples": [
+      "Lee Harpe & Cheryl Orr"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Standard  (WQ)",
+    "couples": [
+      "Jonathan Hillman & Nicole Humpal"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Silver Standard  (WFQ)",
+    "couples": [
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Silver Standard  (WFQ)",
+    "couples": [
+      "David Wood & Pamela Hamilton",
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Louis Riendeau & Tracy Card"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Dominick Montie & Barbara Haskins",
+      "Arkady Dudko & Lena Dudko",
+      "Ian Redmount & Hisako Matsuo"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Smooth  (WTFV)",
+    "couples": [
+      "Mike Shelton & Daneen Shelton",
+      "Juan Vasquez & Janice Vasquez",
+      "Patrick Datoc & Antoinette Datoc",
+      "Thomas Hirata & Kenna Jackson",
+      "Stephen Takata & Joanna Mielnick",
+      "Henry Hudson & Olivia Hudson",
+      "Peter Quintero & Marilyn Stechert",
+      "Ron Magee & Carol Magee"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Championship Latin  (SCRPJ)",
+    "couples": [
+      "Louis Riendeau & Tracy Card",
+      "Cyrus Razavi & Natalia Razavi"
+    ]
+  },
+  {
+    "name": "WDSF Youth Open Standard  (WTVFQ)",
+    "couples": [
+      "Tyler Li & Anjelica Lowe",
+      "Michael May & Pallany English",
+      "Alessandro Scalora & Sofia Ward",
+      "Maxim Moscaliov & Sutton Severance",
+      "Aliaksandr Rybakou & Madeleine Mravkarov"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Open Scholarship Standard  (WTVFQ)",
+    "couples": [
+      "Lee Harpe & Angie Ohman"
+    ]
+  },
+  {
+    "name": "WDSF Senior II Open Smooth  (WTFV)",
+    "couples": [
+      "Mike Shelton & Daneen Shelton",
+      "Juan Vasquez & Janice Vasquez",
+      "Patrick Datoc & Antoinette Datoc",
+      "Thomas Hirata & Kenna Jackson",
+      "Stephen Takata & Joanna Mielnick"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Open Scholarship Standard  (WTVFQ)",
+    "couples": [
+      "Lee Harpe & Cheryl Orr",
+      "David Wood & Pamela Hamilton",
+      "Ryan McDaniel & Toni Moore",
+      "Stefan Easter & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Latin  (SCRPJ)",
+    "couples": [
+      "Wade Butaud & Kim Butaud",
+      "John Linn & Kathy Linn",
+      "Henry Hudson & Olivia Hudson",
+      "Ian Redmount & Hisako Matsuo"
+    ]
+  },
+  {
+    "name": "WDSF Senior I Open Smooth  (WTFV)",
+    "couples": [
+      "Mike Shelton & Daneen Shelton",
+      "Juan Vasquez & Janice Vasquez",
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick"
+    ]
+  },
+  {
+    "name": "Amateur Youth Championship Latin  (SCRPJ)",
+    "couples": [
+      "Alessandro Scalora & Sofia Ward",
+      "Michael May & Pallany English",
+      "Tyler Li & Anjelica Lowe",
+      "Maxim Moscaliov & Sutton Severance"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Latin  (SCRPJ)",
+    "couples": [
+      "Wade Butaud & Kim Butaud",
+      "John Linn & Kathy Linn",
+      "Cyrus Razavi & Natalia Razavi",
+      "Ian Redmount & Hisako Matsuo"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Rhythm  (CRS)",
+    "couples": [
+      "Ravi Narayan & Prita Narayan"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Rhythm  (CRSB)",
+    "couples": [
+      "Patrick Stone & Carlyn Hemphill"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Rhythm  (CRSBM)",
+    "couples": [
+      "Patrick Stone & Carlyn Hemphill"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Rhythm  (CRSBM)",
+    "couples": [
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Hirata & Kenna Jackson"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Championship Latin  (SCRPJ)",
+    "couples": [
+      "Alessandro Scalora & Sofia Ward",
+      "Michael May & Pallany English",
+      "Tyler Li & Anjelica Lowe",
+      "Maxim Moscaliov & Sutton Severance"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Standard  (WTVFQ)",
+    "couples": [
+      "Eugene Lobko & Alla Zemlyak",
+      "Aliaksandr Rybakou & Madeleine Mravkarov"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Standard  (WTVFQ)",
+    "couples": [
+      "Alan Burns & Kelly Batchelor",
+      "Dominick Montie & Barbara Haskins",
+      "Song KIm & Nicole Suh",
+      "Juan Vasquez & Janice Vasquez",
+      "Arkady Dudko & Lena Dudko",
+      "Ian Redmount & Hisako Matsuo"
+    ]
+  },
+  {
+    "name": "WDSF Youth Open Latin  (SCRPJ)",
+    "couples": [
+      "Alessandro Scalora & Sofia Ward",
+      "Michael May & Pallany English",
+      "Tyler Li & Anjelica Lowe",
+      "Maxim Moscaliov & Sutton Severance"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Championship Standard  (WTVFQ)",
+    "couples": [
+      "Richard Abney & Paula Abney",
+      "John Linn & Kathy Linn",
+      "Jerry Orr & Cheryl Orr",
+      "Robert Tempas & Laurel Tempas",
+      "Robert Wirts & Donlyn Wirts",
+      "Ron Magee & Carol Magee"
+    ]
+  },
+  {
+    "name": "WDSF Senior I Open Standard  (WTVFQ)",
+    "couples": [
+      "Eugene Lobko & Alla Zemlyak",
+      "Alan Burns & Kelly Batchelor",
+      "Eckhard Grosz & Gabriela Grosz",
+      "Dominick Montie & Barbara Haskins",
+      "Arkady Dudko & Lena Dudko",
+      "Louis Riendeau & Tracy Card",
+      "Song KIm & Nicole Suh"
+    ]
+  },
+  {
+    "name": "Am Team Match Open Open Am. Multi-Dance  (WRFC)",
+    "couples": [
+      "North Atlantic Dance Heros (Antoineitte Datoc) & North Atlantic Dance Heros (Antoineitte Datoc)",
+      "Seniorlicious (Daneen Shelton) & Seniorlicious (Daneen Shelton)",
+      "Fearless Invalids (Stephen Takata) & Fearless Invalids (Stephen Takata)",
+      "Team Bling (Jan Vasquez) & Team Bling (Jan Vasquez)",
+      "Rhythmic Thunder (Pamela Hamilton) & Rhythmic Thunder (Pamela Hamilton)"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Hays Hopkins & Lisa McCauley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Hays Hopkins & Lisa McCauley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Hays Hopkins & Lisa McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Silver Latin  (SCR)",
+    "couples": [
+      "Norman Pishny & Krista Pishny"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Latin  (SCRJ)",
+    "couples": [
+      "Brett Overesch & Jessica Overesch",
+      "Jonathan Hillman & Nicole Humpal",
+      "Ravi Narayan & Prita Narayan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Hays Hopkins & Lisa McCauley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Hays Hopkins & Lisa McCauley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Hays Hopkins & Lisa McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Latin  (SCRJ)",
+    "couples": [
+      "Ravi Narayan & Synthia Sumukti"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Latin  (SCR)",
+    "couples": [
+      "Louis Riendeau & Tracy Card"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Hays Hopkins & Lisa McCauley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Hays Hopkins & Lisa McCauley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Hays Hopkins & Lisa McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Latin  (CR)",
+    "couples": [
+      "Norman Pishny & Krista Pishny"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Latin  (SCR)",
+    "couples": [
+      "Brett Overesch & Jessica Overesch",
+      "Jonathan Hillman & Nicole Humpal"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Silver Latin  (SCR)",
+    "couples": [
+      "Norman Pishny & Krista Pishny"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Rhythm  (CR)",
+    "couples": [
+      "Eugene Ichinose & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Intl. Paso Doble  (P)",
+    "couples": [
+      "Thomas Hamrick & Rebecca Hamrick"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Rhythm  (CRS)",
+    "couples": [
+      "Eugene Ichinose & Ellen Ichinose"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Novice Rhythm  (CRS)",
+    "couples": [
+      "Ravi Narayan & Synthia Sumukti"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Novice Latin  (SCR)",
+    "couples": [
+      "Thomas Hamrick & Rebecca Hamrick"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Louis Riendeau & Tracy Card"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Novice Latin  (SCR)",
+    "couples": [
+      "Thomas Hamrick & Rebecca Hamrick"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Louis Riendeau & Tracy Card"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Latin  (CR)",
+    "couples": [
+      "Norman Pishny & Krista Pishny"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Bronze Latin  (CR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior II Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Henry Hudson & Olivia Hudson",
+      "Thomas Hamrick & Rebecca Hamrick"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Henry Hudson & Olivia Hudson",
+      "Thomas Hamrick & Rebecca Hamrick"
+    ]
+  }
+]

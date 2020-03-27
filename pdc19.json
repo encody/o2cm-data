@@ -1,0 +1,4455 @@
+[
+  {
+    "name": "Amateur Adult Silver Am. Waltz  (W)",
+    "couples": [
+      "Brad Hoover & Lynn Hoover",
+      "Michael Naught & Liz Glicksman",
+      "Liam Sheard & Chloe Durfee",
+      "Nick Kaldawi & Victoria Esposito",
+      "Will Dinyes & Mary Goodman",
+      "Gregg See & Sue Putzier",
+      "Stephen Addington & Taylor Burghard",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "James Malone & Trinity Strecker",
+      "Andy Burch & Grace Gustafson",
+      "Jacob Uhl & Cayla Millar",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Irish Doherty & Danelle McCauley",
+      "Ray Vogel & Svetlana Yarrow",
+      "Niall O`Keefe & Mary Mello",
+      "Antonio Nace & Leena Osorno",
+      "Jim Wisnor & Sue Ketterer",
+      "Mikhail Rudinskiy & Jessica Guise"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Am. Tango  (T)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Jacob Uhl & Cayla Millar",
+      "Nick Kaldawi & Victoria Esposito",
+      "Will Dinyes & Mary Goodman",
+      "Liam Sheard & Chloe Durfee",
+      "Andy Burch & Grace Gustafson",
+      "James Malone & Trinity Strecker",
+      "Gregg See & Sue Putzier",
+      "Irish Doherty & Danelle McCauley",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Antonio Nace & Leena Osorno",
+      "Ray Vogel & Svetlana Yarrow",
+      "Stephen Addington & Taylor Burghard",
+      "Jim Wisnor & Sue Ketterer",
+      "Niall O`Keefe & Mary Mello"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Brad Hoover & Lynn Hoover",
+      "Michael Naught & Liz Glicksman",
+      "Nick Kaldawi & Victoria Esposito",
+      "Jacob Uhl & Cayla Millar",
+      "Liam Sheard & Chloe Durfee",
+      "Ray Vogel & Svetlana Yarrow",
+      "Will Dinyes & Mary Goodman",
+      "James Malone & Trinity Strecker",
+      "Gregg See & Sue Putzier",
+      "Andy Burch & Grace Gustafson",
+      "Irish Doherty & Danelle McCauley",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Antonio Nace & Leena Osorno",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Niall O`Keefe & Mary Mello",
+      "Jim Wisnor & Sue Ketterer",
+      "Stephen Addington & Taylor Burghard"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Nick Kaldawi & Victoria Esposito",
+      "James Malone & Trinity Strecker",
+      "Liam Sheard & Chloe Durfee",
+      "Will Dinyes & Mary Goodman",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Irish Doherty & Danelle McCauley",
+      "Andy Burch & Grace Gustafson",
+      "Antonio Nace & Riley Haveman",
+      "Jacob Uhl & Cayla Millar",
+      "Jim Wisnor & Sue Ketterer",
+      "Niall O`Keefe & Mary Mello",
+      "Stephen Addington & Taylor Burghard"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Am. Waltz  (W)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Tyler Beason & Ashley Beason",
+      "Manuel Perez & Adison Dahle",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Brandon Metz & Gwen Metz",
+      "Stephen Addington & Taylor Burghard",
+      "Irish Doherty & Holly Doherty",
+      "Danelle McCauley & Grace Gustafson",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Antonio Nace & Leena Osorno",
+      "Christian Osorno & Jocelyn Acuna",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Mikhail Rudinskiy & Jessica Guise",
+      "Giang Nguyen & Veronique Villalba",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Christopher Pimentel & Kaylee Allan",
+      "Capri Fain & Savannah Uhl",
+      "Kai Sweeney & Sarah Alvarez",
+      "Nicolas Tan & Fabienne Mirza",
+      "Benjamin Adams & Lauren Felix"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Am. Tango  (T)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Tyler Beason & Ashley Beason",
+      "Manuel Perez & Adison Dahle",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Brandon Metz & Gwen Metz",
+      "Irish Doherty & Holly Doherty",
+      "Danelle McCauley & Grace Gustafson",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Benjamin Adams & Lauren Felix",
+      "Mikhail Rudinskiy & Jessica Guise",
+      "Antonio Nace & Leena Osorno",
+      "Christian Osorno & Jocelyn Acuna",
+      "Stephen Addington & Taylor Burghard",
+      "Christopher Pimentel & Kaylee Allan",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Nicolas Tan & Fabienne Mirza",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Capri Fain & Savannah Uhl",
+      "Giang Nguyen & Veronique Villalba",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Tyler Beason & Ashley Beason",
+      "Manuel Perez & Adison Dahle",
+      "Brandon Metz & Gwen Metz",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Irish Doherty & Holly Doherty",
+      "Danelle McCauley & Grace Gustafson",
+      "Antonio Nace & Leena Osorno",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Christopher Pimentel & Meghan Muldoon",
+      "Stephen Addington & Taylor Burghard",
+      "Mikhail Rudinskiy & Jessica Guise",
+      "Benjamin Adams & Lauren Felix",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Christian Osorno & Jocelyn Acuna",
+      "Capri Fain & Savannah Uhl",
+      "Kai Sweeney & Sarah Alvarez",
+      "Nicolas Tan & Fabienne Mirza"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Am. Waltz  (W)",
+    "couples": [
+      "Antonio Nace & Leena Osorno",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Newcomer Am. Tango  (T)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Am. Tango  (T)",
+    "couples": [
+      "Antonio Nace & Leena Osorno",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Antonio Nace & Leena Osorno",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Am. Waltz  (W)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Andy Burch & Kristina Burch",
+      "Ray Vogel & Sarah Troster",
+      "Will Dinyes & Mary Goodman",
+      "Gregg See & Sue Putzier",
+      "Irish Doherty & Danelle McCauley",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Mark Crigler & Sheila Crigler",
+      "Jay Raile & Veronica Stockwell",
+      "Jim Wisnor & Sue Ketterer",
+      "Douglas MacIntyre & Carole MacIntyre"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Am. Tango  (T)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Ray Vogel & Sarah Troster",
+      "Will Dinyes & Mary Goodman",
+      "Andy Burch & Kristina Burch",
+      "Irish Doherty & Danelle McCauley",
+      "Gregg See & Sue Putzier",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Mark Crigler & Sheila Crigler",
+      "Jim Wisnor & Sue Ketterer",
+      "Douglas MacIntyre & Carole MacIntyre"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Brad Hoover & Lynn Hoover",
+      "Michael Naught & Liz Glicksman",
+      "Ray Vogel & Sarah Troster",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Gregg See & Sue Putzier",
+      "Andy Burch & Kristina Burch",
+      "Will Dinyes & Mary Goodman",
+      "Mark Crigler & Sheila Crigler",
+      "Irish Doherty & Danelle McCauley",
+      "Jay Raile & Veronica Stockwell",
+      "Jim Wisnor & Sue Ketterer",
+      "Douglas MacIntyre & Carole MacIntyre"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Brad Hoover & Lynn Hoover",
+      "Michael Naught & Liz Glicksman",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Andy Burch & Kristina Burch",
+      "Will Dinyes & Mary Goodman",
+      "Jim Wisnor & Sue Ketterer",
+      "Irish Doherty & Danelle McCauley",
+      "Mark Crigler & Sheila Crigler"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Tyler Beason & Ashley Beason",
+      "Brandon Metz & Gwen Metz",
+      "Manuel Perez & Adison Dahle",
+      "Christopher Pimentel & Kaylee Allan",
+      "Benjamin Adams & Lauren Felix",
+      "Christian Osorno & Jocelyn Acuna",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Dennett Brown & Lily Sklar",
+      "Capri Fain & Savannah Uhl",
+      "Giang Nguyen & Veronique Villalba",
+      "Kai Sweeney & Sarah Alvarez",
+      "Nicolas Tan & Fabienne Mirza"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. Tango  (T)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Tyler Beason & Ashley Beason",
+      "Manuel Perez & Adison Dahle",
+      "Brandon Metz & Gwen Metz",
+      "Benjamin Adams & Lauren Felix",
+      "Christopher Pimentel & Kaylee Allan",
+      "Christian Osorno & Jocelyn Acuna",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Nicolas Tan & Fabienne Mirza",
+      "Meghan Muldoon & Andrea Urquidez",
+      "Dennett Brown & Lily Sklar",
+      "Capri Fain & Savannah Uhl",
+      "Giang Nguyen & Veronique Villalba",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Tyler Beason & Ashley Beason",
+      "Brandon Metz & Gwen Metz",
+      "Christopher Pimentel & Meghan Muldoon",
+      "Manuel Perez & Adison Dahle",
+      "Benjamin Adams & Lauren Felix",
+      "Nicolas Tan & Fabienne Mirza",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Dennett Brown & Lily Sklar",
+      "Christian Osorno & Jocelyn Acuna",
+      "Capri Fain & Savannah Uhl",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Am. Waltz  (W)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Nick Kaldawi & Victoria Esposito",
+      "Jacob Uhl & Cayla Millar",
+      "Liam Sheard & Ashlea Mondoro",
+      "Weston Beebe & Jessica Lacy",
+      "Andy Burch & Riley Haveman",
+      "Jim Wisnor & Danelle McCauley",
+      "Phil Malinowski & Svetlana Yarrow",
+      "James Malone & Trinity Strecker"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Am. Tango  (T)",
+    "couples": [
+      "Brad Hoover & Lynn Hoover",
+      "Nick Kaldawi & Victoria Esposito",
+      "Michael Naught & Liz Glicksman",
+      "Jacob Uhl & Cayla Millar",
+      "Weston Beebe & Jessica Lacy",
+      "Andy Burch & Riley Haveman",
+      "Phil Malinowski & Svetlana Yarrow",
+      "James Malone & Trinity Strecker",
+      "Liam Sheard & Ashlea Mondoro",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Jacob Uhl & Cayla Millar",
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Liam Sheard & Ashlea Mondoro",
+      "Weston Beebe & Jessica Lacy",
+      "Nick Kaldawi & Victoria Esposito",
+      "Andy Burch & Riley Haveman",
+      "Phil Malinowski & Svetlana Yarrow",
+      "James Malone & Trinity Strecker",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Weston Beebe & Jessica Lacy",
+      "Jacob Uhl & Cayla Millar",
+      "Nick Kaldawi & Victoria Esposito",
+      "Liam Sheard & Ashlea Mondoro",
+      "Andy Burch & Riley Haveman",
+      "Jim Wisnor & Danelle McCauley",
+      "Phil Malinowski & Svetlana Yarrow",
+      "James Malone & Trinity Strecker"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Luke Serafin & Katelyn MacIntyre",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Stephen Addington & Taylor Burghard",
+      "Irish Doherty & Holly Doherty",
+      "Mikhail Rudinskiy & Jessica Guise",
+      "Nicolas Tan & Fabienne Mirza",
+      "Capri Fain & Savannah Uhl",
+      "Giang Nguyen & Veronique Villalba",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Am. Waltz  (W)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Irish Doherty & Holly Doherty",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Danelle McCauley & Sue Ketterer",
+      "Jay Raile & Veronica Stockwell"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Am. Tango  (T)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Irish Doherty & Holly Doherty",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Danelle McCauley & Sue Ketterer"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Irish Doherty & Holly Doherty",
+      "Jay Raile & Veronica Stockwell",
+      "Danelle McCauley & Sue Ketterer"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Irish Doherty & Holly Doherty"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Am. Waltz  (W)",
+    "couples": [
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Am. Tango  (T)",
+    "couples": [
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. V. Waltz  (V)",
+    "couples": [
+      "Nicolas Tan & Fabienne Mirza",
+      "Giang Nguyen & Veronique Villalba",
+      "Capri Fain & Savannah Uhl",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Am. Waltz  (W)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch",
+      "Brad Hoover & Lynn Hoover",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Am. Tango  (T)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Andy Burch & Kristina Burch",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Jim Wisnor & Danelle McCauley",
+      "Brad Hoover & Lynn Hoover",
+      "Andy Burch & Kristina Burch",
+      "Phil Malinowski & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch",
+      "Jim Wisnor & Danelle McCauley",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Brad Hoover & Lynn Hoover"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Smooth  (WTFV)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Weston Beebe & Jessica Lacy",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Liam Sheard & Ashlea Mondoro",
+      "Andy Burch & Riley Haveman",
+      "James Malone & Trinity Strecker",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Smooth  (WTF)",
+    "couples": [
+      "Weston Beebe & Jessica Lacy",
+      "Liam Sheard & Ashlea Mondoro"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Smooth  (WTFV)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch",
+      "Brad Hoover & Lynn Hoover",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Smooth  (WTFV)",
+    "couples": [
+      "Aaron Steele & Kelli Kiekens"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Scholarship Silver Scholarship Smooth  (WTF)",
+    "couples": [
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Silver Scholarship Smooth  (WTF)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Nick Kaldawi & Victoria Esposito",
+      "Andy Burch & Kristina Burch",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Brad Hoover & Lynn Hoover",
+      "Gregg See & Sue Putzier",
+      "Mark Crigler & Sheila Crigler"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Scholarship Bronze Scholarship Smooth  (WF)",
+    "couples": [
+      "Antonio Nace & Leena Osorno",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Bronze Scholarship Smooth  (WF)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Tyler Beason & Ashley Beason",
+      "Brandon Metz & Gwen Metz",
+      "Irish Doherty & Holly Doherty",
+      "Manuel Perez & Adison Dahle",
+      "Christopher Pimentel & Meghan Muldoon"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Open Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Aaron Steele & Kelli Kiekens",
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch",
+      "Brad Hoover & Lynn Hoover"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Gregg See & Cheryl See"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Intl. Tango  (T)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Newcomer Intl. Foxtrot  (F)",
+    "couples": [
+      "Gregg See & Cheryl See"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Gregg See & Cheryl See"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Intl. Waltz  (W)",
+    "couples": [
+      "Aaron Steele & Kelli Kiekens",
+      "Stuart Lucas & Gina Lucas",
+      "Weston Beebe & Jessica Lacy",
+      "Liam Sheard & Chloe Durfee",
+      "James Malone & Trinity Strecker"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Intl. Tango  (T)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Weston Beebe & Jessica Lacy",
+      "Liam Sheard & Chloe Durfee",
+      "James Malone & Trinity Strecker"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Aaron Steele & Kelli Kiekens",
+      "Stuart Lucas & Gina Lucas",
+      "Weston Beebe & Jessica Lacy",
+      "James Malone & Trinity Strecker",
+      "Liam Sheard & Chloe Durfee"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Weston Beebe & Jessica Lacy",
+      "Liam Sheard & Chloe Durfee",
+      "James Malone & Trinity Strecker"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Liam Sheard & Chloe Durfee",
+      "Weston Beebe & Jessica Lacy"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Gregg See & Cheryl See"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Intl. Waltz  (W)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Intl. Tango  (T)",
+    "couples": [
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Intl. Tango  (T)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Gregg See & Cheryl See"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Gregg See & Cheryl See"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Gregg See & Cheryl See"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Intl. Waltz  (W)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Intl. Waltz  (W)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Intl. Tango  (T)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Intl. Tango  (T)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Intl. V. Waltz  (V)",
+    "couples": [
+      "Meghan Muldoon & Andrea Urquidez"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Intl. Foxtrot  (F)",
+    "couples": [
+      "Gregg See & Cheryl See"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Gregg See & Cheryl See"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Waltz  (W)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Michael Naught & Liz Glicksman",
+      "Stephen Addington & Taylor Burghard",
+      "Liam Sheard & Chloe Durfee",
+      "James Malone & Trinity Strecker",
+      "Andy Burch & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Tango  (T)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Stephen Addington & Taylor Burghard",
+      "Michael Naught & Liz Glicksman",
+      "Liam Sheard & Chloe Durfee",
+      "James Malone & Trinity Strecker",
+      "Andy Burch & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Michael Naught & Liz Glicksman",
+      "Liam Sheard & Chloe Durfee",
+      "James Malone & Trinity Strecker",
+      "Stephen Addington & Taylor Burghard",
+      "Andy Burch & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Michael Naught & Liz Glicksman",
+      "Liam Sheard & Chloe Durfee",
+      "Stephen Addington & Taylor Burghard",
+      "James Malone & Trinity Strecker",
+      "Andy Burch & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Michael Naught & Liz Glicksman",
+      "Liam Sheard & Chloe Durfee",
+      "Stephen Addington & Taylor Burghard",
+      "Andy Burch & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Standard  (WTVFQ)",
+    "couples": [
+      "Ibrahim Fatkullin & Amy Jennings"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Championship Standard  (WTVFQ)",
+    "couples": [
+      "Richard Miles & Annette Miles",
+      "Zoar Leggett & Cheryl Leggett",
+      "Norberto Perez & Suzanne Combs",
+      "Patrick Wilcox & Karen Wagley"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Standard  (WTFQ)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Weston Beebe & Jessica Lacy",
+      "Liam Sheard & Chloe Durfee"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Standard  (WTFQ)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Richard Lee & Virginia Zeroulias",
+      "Norberto Perez & Suzanne Combs"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Standard  (WFQ)",
+    "couples": [
+      "Weston Beebe & Jessica Lacy"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Novice Standard  (WFQ)",
+    "couples": [
+      "Richard Miles & Sarah Troster",
+      "Richard Lee & Virginia Zeroulias"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Scholarship Bronze Scholarship Standard  (WQ)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Bronze Scholarship Standard  (WQ)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Stephen Addington & Taylor Burghard",
+      "Gregg See & Cheryl See"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Open Scholarship Standard  (WTVFQ)",
+    "couples": [
+      "Ibrahim Fatkullin & Amy Jennings",
+      "Richard Lee & Virginia Zeroulias",
+      "Zoar Leggett & Cheryl Leggett",
+      "Andy Burch & Kristina Burch",
+      "Patrick Wilcox & Karen Wagley",
+      "Norberto Perez & Suzanne Combs"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Scholarship Silver Scholarship Standard  (WFQ)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Silver Scholarship Standard  (WFQ)",
+    "couples": [
+      "Stuart Lucas & Gina Lucas",
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Open Social Dance Salsa  (S)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman",
+      "Aaron Steele & Taylor Burghard",
+      "Nick Kaldawi & Victoria Esposito",
+      "James Malone & Trinity Strecker",
+      "Weston Beebe & Jessica Lacy",
+      "Irish Doherty & Holly Doherty",
+      "Phil Malinowski & Mary Goodman",
+      "Danelle McCauley & Grace Gustafson",
+      "Antonio Nace & Leena Osorno",
+      "Angel Rodriguez & Christine Rodriguez",
+      "Liam Sheard & Ashlea Mondoro",
+      "Brad Hoover & Lynn Hoover",
+      "Richard Lee & Virginia Zeroulias",
+      "Manuel Perez & Andrea Urquidez",
+      "Christopher Pimentel & Honor Barrett",
+      "Jacob Uhl & Cayla Millar",
+      "Ray Vogel & Svetlana Yarrow",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Mark Crigler & Sheila Crigler",
+      "Jay Raile & Veronica Stockwell",
+      "Jim Wisnor & Sue Ketterer",
+      "Niall O`Keefe & Mary Mello"
+    ]
+  },
+  {
+    "name": "Amateur Open Social Dance Merengue  (M)",
+    "couples": [
+      "Phil Malinowski & Mary Goodman",
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch",
+      "Liam Sheard & Ashlea Mondoro",
+      "Brad Hoover & Lynn Hoover",
+      "Weston Beebe & Jessica Lacy",
+      "Antonio Nace & Leena Osorno",
+      "Manuel Perez & Andrea Urquidez",
+      "Aaron Steele & Taylor Burghard",
+      "Jacob Uhl & Cayla Millar",
+      "Christopher Pimentel & Honor Barrett",
+      "Ray Vogel & Svetlana Yarrow",
+      "Irish Doherty & Holly Doherty",
+      "Danelle McCauley & Sue Ketterer",
+      "Christian Osorno & Jocelyn Acuna",
+      "Niall O`Keefe & Mary Mello",
+      "James Malone & Trinity Strecker",
+      "Jim Wisnor & Grace Gustafson",
+      "Capri Fain & Savannah Uhl"
+    ]
+  },
+  {
+    "name": "Amateur Open Social Dance Hustle  (H)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Phil Malinowski & Mary Goodman",
+      "Michael Naught & Liz Glicksman",
+      "Antonio Nace & Leena Osorno",
+      "Jim Wisnor & Danelle McCauley",
+      "Jacob Uhl & Cayla Millar",
+      "Liam Sheard & Ashlea Mondoro",
+      "Weston Beebe & Jessica Lacy",
+      "Will Dinyes & Sue Ketterer",
+      "Irish Doherty & Holly Doherty",
+      "Ray Vogel & Svetlana Yarrow",
+      "Brad Hoover & Lynn Hoover",
+      "James Malone & Trinity Strecker",
+      "Manuel Perez & Adison Dahle",
+      "Mark Crigler & Sheila Crigler",
+      "Jay Raile & Veronica Stockwell",
+      "Niall O`Keefe & Mary Mello",
+      "Stephen Addington & Taylor Burghard",
+      "Capri Fain & Savannah Uhl"
+    ]
+  },
+  {
+    "name": "Amateur Open Social Dance West Coast Swing  (W)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Aaron Steele & Taylor Burghard",
+      "Nick Kaldawi & Victoria Esposito",
+      "Michael Naught & Liz Glicksman",
+      "Ray Vogel & Beth Kahn",
+      "Jim Wisnor & Danelle McCauley",
+      "Weston Beebe & Jessica Lacy",
+      "Brad Hoover & Lynn Hoover",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Liam Sheard & Chloe Durfee",
+      "James Malone & Cayla Millar",
+      "Antonio Nace & Sue Ketterer",
+      "Gregg See & Shelli Marti",
+      "Jay Raile & Veronica Stockwell",
+      "Capri Fain & Savannah Uhl",
+      "Meghan Muldoon & Andrea Urquidez"
+    ]
+  },
+  {
+    "name": "Amateur Open Social Dance Night Club 2-Step  (N)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch",
+      "Stephen Addington & Taylor Burghard",
+      "Danelle McCauley & Grace Gustafson",
+      "James Malone & Chloe Durfee",
+      "Weston Beebe & Jessica Lacy",
+      "Antonio Nace & Leena Osorno",
+      "Irish Doherty & Holly Doherty",
+      "Richard Lee & Virginia Zeroulias",
+      "Gregg See & Claudia See",
+      "Liam Sheard & Ashlea Mondoro",
+      "Ray Vogel & Svetlana Yarrow",
+      "Mark Crigler & Sheila Crigler",
+      "Christopher Pimentel & Honor Barrett",
+      "Jay Raile & Veronica Stockwell"
+    ]
+  },
+  {
+    "name": "Amateur Open Social Dance Bachata  (B)",
+    "couples": [
+      "Aaron Steele & Taylor Burghard",
+      "Andy Burch & Kristina Burch",
+      "Nick Kaldawi & Victoria Esposito",
+      "Jacob Uhl & Cayla Millar",
+      "Antonio Nace & Leena Osorno",
+      "Michael Naught & Liz Glicksman",
+      "Irish Doherty & Holly Doherty",
+      "Liam Sheard & Mary Mello",
+      "Niall O`Keefe & Adison Dahle",
+      "Manuel Perez & Andrea Urquidez",
+      "Ray Vogel & Svetlana Yarrow",
+      "Weston Beebe & Jessica Lacy",
+      "Brad Hoover & Lynn Hoover",
+      "Danelle McCauley & Sue Ketterer",
+      "Christopher Pimentel & Honor Barrett",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Jim Wisnor & Grace Gustafson",
+      "Capri Fain & Savannah Uhl"
+    ]
+  },
+  {
+    "name": "Amateur Open Social Dance Argentine Tango  (A)",
+    "couples": [
+      "Richard Lee & Virginia Zeroulias",
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch",
+      "Antonio Nace & Danelle McCauley",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Jim Wisnor & Grace Gustafson"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Tyler Beason & Ashley Beason",
+      "Angel Rodriguez & Christine Rodriguez",
+      "Antonio Nace & Leena Osorno",
+      "Will Dinyes & Mary Goodman",
+      "Manuel Perez & Adison Dahle",
+      "Stephen Addington & Annalise Cooper",
+      "Niall O`Keefe & Honor Barrett",
+      "Danelle McCauley & Grace Gustafson",
+      "Irish Doherty & Holly Doherty",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Benjamin Adams & Lauren Felix",
+      "Brandon Metz & Gwen Metz",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Christian Osorno & Jocelyn Acuna",
+      "Christopher Pimentel & Meghan Muldoon",
+      "Hernan Cortez & Jacqueline Johnson"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Am. Rumba  (R)",
+    "couples": [
+      "Tyler Beason & Ashley Beason",
+      "Irish Doherty & Holly Doherty",
+      "Will Dinyes & Mary Goodman",
+      "Manuel Perez & Adison Dahle",
+      "Antonio Nace & Leena Osorno",
+      "Niall O`Keefe & Honor Barrett",
+      "Stephen Addington & Annalise Cooper",
+      "Danelle McCauley & Grace Gustafson",
+      "Brandon Metz & Gwen Metz",
+      "Angel Rodriguez & Christine Rodriguez",
+      "Benjamin Adams & Lauren Felix",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Christopher Pimentel & Kaylee Allan",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Am. Swing  (S)",
+    "couples": [
+      "Irish Doherty & Holly Doherty",
+      "Brandon Metz & Gwen Metz",
+      "Manuel Perez & Adison Dahle",
+      "Stephen Addington & Annalise Cooper",
+      "Will Dinyes & Mary Goodman",
+      "Antonio Nace & Leena Osorno",
+      "Christian Osorno & Jocelyn Acuna",
+      "Tyler Beason & Ashley Beason",
+      "Christopher Pimentel & Meghan Muldoon",
+      "Angel Rodriguez & Christine Rodriguez",
+      "Niall O`Keefe & Honor Barrett",
+      "Benjamin Adams & Lauren Felix",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Danelle McCauley & Grace Gustafson",
+      "Mikhail Rudinskiy & Jessica Guise",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Douglas MacIntyre & Carole MacIntyre"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Jacob Uhl & Cayla Millar",
+      "James Malone & Trinity Strecker",
+      "Phil Malinowski & Mary Goodman",
+      "Michael Naught & Liz Glicksman",
+      "Weston Beebe & Jessica Lacy",
+      "Liam Sheard & Chloe Durfee",
+      "Niall O`Keefe & Mary Mello",
+      "Antonio Nace & Leena Osorno",
+      "Andy Burch & Grace Gustafson",
+      "Brad Hoover & Lynn Hoover",
+      "Ray Vogel & Svetlana Yarrow",
+      "Jim Wisnor & Danelle McCauley",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Irish Doherty & Sue Ketterer",
+      "Gregg See & Claudia See"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Am. Rumba  (R)",
+    "couples": [
+      "Jacob Uhl & Cayla Millar",
+      "Phil Malinowski & Mary Goodman",
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "James Malone & Trinity Strecker",
+      "Liam Sheard & Chloe Durfee",
+      "Antonio Nace & Leena Osorno",
+      "Niall O`Keefe & Mary Mello",
+      "Weston Beebe & Jessica Lacy",
+      "Andy Burch & Grace Gustafson",
+      "Ray Vogel & Svetlana Yarrow",
+      "Jim Wisnor & Danelle McCauley",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Gregg See & Claudia See",
+      "Irish Doherty & Sue Ketterer"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Am. Swing  (S)",
+    "couples": [
+      "Jacob Uhl & Cayla Millar",
+      "Phil Malinowski & Mary Goodman",
+      "James Malone & Trinity Strecker",
+      "Michael Naught & Liz Glicksman",
+      "Niall O`Keefe & Mary Mello",
+      "Antonio Nace & Leena Osorno",
+      "Weston Beebe & Jessica Lacy",
+      "Andy Burch & Grace Gustafson",
+      "Brad Hoover & Lynn Hoover",
+      "Liam Sheard & Chloe Durfee",
+      "Ray Vogel & Svetlana Yarrow",
+      "Jim Wisnor & Danelle McCauley",
+      "Irish Doherty & Sue Ketterer",
+      "Gregg See & Claudia See",
+      "Douglas MacIntyre & Carole MacIntyre"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Am. Bolero  (B)",
+    "couples": [
+      "Jacob Uhl & Cayla Millar",
+      "Brad Hoover & Lynn Hoover",
+      "Phil Malinowski & Mary Goodman",
+      "James Malone & Trinity Strecker",
+      "Michael Naught & Liz Glicksman",
+      "Weston Beebe & Jessica Lacy",
+      "Antonio Nace & Leena Osorno",
+      "Niall O`Keefe & Mary Mello",
+      "Andy Burch & Grace Gustafson",
+      "Irish Doherty & Sue Ketterer",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Am. Mambo  (M)",
+    "couples": [
+      "Jacob Uhl & Cayla Millar",
+      "Phil Malinowski & Mary Goodman",
+      "Brad Hoover & Lynn Hoover",
+      "Antonio Nace & Leena Osorno",
+      "Michael Naught & Liz Glicksman",
+      "James Malone & Trinity Strecker",
+      "Irish Doherty & Sue Ketterer",
+      "Andy Burch & Grace Gustafson",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Phil Malinowski & Mary Goodman",
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Irish Doherty & Holly Doherty",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Gregg See & Claudia See",
+      "Mark Crigler & Sheila Crigler",
+      "Jay Raile & Svetlana Yarrow",
+      "Ray Vogel & Veronica Stockwell",
+      "Jim Wisnor & Sue Ketterer"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Am. Rumba  (R)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Brad Hoover & Lynn Hoover",
+      "Phil Malinowski & Mary Goodman",
+      "Michael Naught & Liz Glicksman",
+      "Irish Doherty & Holly Doherty",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Ray Vogel & Veronica Stockwell",
+      "Mark Crigler & Sheila Crigler",
+      "Jay Raile & Svetlana Yarrow",
+      "Gregg See & Claudia See",
+      "Jim Wisnor & Sue Ketterer"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Am. Swing  (S)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Phil Malinowski & Mary Goodman",
+      "Irish Doherty & Holly Doherty",
+      "Brad Hoover & Lynn Hoover",
+      "Michael Naught & Liz Glicksman",
+      "Mark Crigler & Sheila Crigler",
+      "Ray Vogel & Veronica Stockwell",
+      "Jim Wisnor & Sue Ketterer",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Jay Raile & Svetlana Yarrow",
+      "Gregg See & Claudia See"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Jacob Uhl & Cayla Millar",
+      "James Malone & Trinity Strecker",
+      "Aaron Steele & Taylor Burghard",
+      "Liam Sheard & Ashlea Mondoro",
+      "Andy Burch & Danelle McCauley",
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Jim Wisnor & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Am. Rumba  (R)",
+    "couples": [
+      "Jacob Uhl & Cayla Millar",
+      "Aaron Steele & Taylor Burghard",
+      "James Malone & Trinity Strecker",
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Danelle McCauley",
+      "Brad Hoover & Lynn Hoover",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Liam Sheard & Ashlea Mondoro",
+      "Jim Wisnor & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Am. Swing  (S)",
+    "couples": [
+      "Jacob Uhl & Cayla Millar",
+      "James Malone & Trinity Strecker",
+      "Aaron Steele & Taylor Burghard",
+      "Andy Burch & Danelle McCauley",
+      "Nick Kaldawi & Victoria Esposito",
+      "Brad Hoover & Lynn Hoover",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Michael Naught & Liz Glicksman",
+      "Liam Sheard & Ashlea Mondoro",
+      "Jim Wisnor & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Newcomer Am. Swing  (S)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Am. Bolero  (B)",
+    "couples": [
+      "Phil Malinowski & Mary Goodman",
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman",
+      "Irish Doherty & Holly Doherty",
+      "Brad Hoover & Lynn Hoover",
+      "Jay Raile & Svetlana Yarrow",
+      "Jim Wisnor & Sue Ketterer"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Am. Mambo  (M)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Irish Doherty & Holly Doherty",
+      "Michael Naught & Liz Glicksman",
+      "Phil Malinowski & Mary Goodman",
+      "Brad Hoover & Lynn Hoover",
+      "Jim Wisnor & Sue Ketterer",
+      "Jay Raile & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Tyler Beason & Ashley Beason",
+      "Angel Rodriguez & Christine Rodriguez",
+      "Brandon Metz & Gwen Metz",
+      "Manuel Perez & Adison Dahle",
+      "Benjamin Adams & Lauren Felix",
+      "Christopher Pimentel & Meghan Muldoon",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Tyler Beason & Ashley Beason",
+      "Angel Rodriguez & Christine Rodriguez",
+      "Brandon Metz & Gwen Metz",
+      "Benjamin Adams & Lauren Felix",
+      "Christian Osorno & Jocelyn Acuna",
+      "Christopher Pimentel & Kaylee Allan",
+      "Manuel Perez & Adison Dahle",
+      "Hernan Cortez & Jacqueline Johnson"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. Swing  (S)",
+    "couples": [
+      "Tyler Beason & Ashley Beason",
+      "Angel Rodriguez & Christine Rodriguez",
+      "Brandon Metz & Gwen Metz",
+      "Benjamin Adams & Lauren Felix",
+      "Christian Osorno & Jocelyn Acuna",
+      "Christopher Pimentel & Meghan Muldoon",
+      "Manuel Perez & Adison Dahle",
+      "Hernan Cortez & Jacqueline Johnson",
+      "Capri Fain & Savannah Uhl"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Brad Hoover & Lynn Hoover",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Michael Naught & Liz Glicksman",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Am. Rumba  (R)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Am. Rumba  (R)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Brad Hoover & Lynn Hoover",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Am. Swing  (S)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Am. Swing  (S)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Brad Hoover & Lynn Hoover",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Am. Bolero  (B)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Am. Bolero  (B)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Am. Mambo  (M)",
+    "couples": [
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Am. Mambo  (M)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman",
+      "Brad Hoover & Lynn Hoover",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Antonio Nace & Leena Osorno",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Irish Doherty & Holly Doherty",
+      "Will Dinyes & Mary Goodman",
+      "Angel Rodriguez & Christine Rodriguez",
+      "Jay Raile & Veronica Stockwell",
+      "Danelle McCauley & Sue Ketterer",
+      "Douglas MacIntyre & Carole MacIntyre"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Am. Rumba  (R)",
+    "couples": [
+      "Antonio Nace & Leena Osorno",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Am. Rumba  (R)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Will Dinyes & Mary Goodman",
+      "Irish Doherty & Holly Doherty",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Danelle McCauley & Sue Ketterer",
+      "Jay Raile & Veronica Stockwell"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Am. Swing  (S)",
+    "couples": [
+      "Antonio Nace & Leena Osorno",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Am. Swing  (S)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Irish Doherty & Holly Doherty",
+      "Will Dinyes & Mary Goodman",
+      "Jay Raile & Veronica Stockwell",
+      "Douglas MacIntyre & Carole MacIntyre",
+      "Danelle McCauley & Sue Ketterer"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Am. Bolero  (B)",
+    "couples": [
+      "Antonio Nace & Leena Osorno",
+      "Meghan Muldoon & Andrea Urquidez"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Am. Bolero  (B)",
+    "couples": [
+      "Will Dinyes & Mary Goodman",
+      "Irish Doherty & Holly Doherty",
+      "Jay Raile & Svetlana Yarrow",
+      "Danelle McCauley & Sue Ketterer"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Am. Mambo  (M)",
+    "couples": [
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Am. Mambo  (M)",
+    "couples": [
+      "Irish Doherty & Holly Doherty",
+      "Danelle McCauley & Sue Ketterer",
+      "Will Dinyes & Mary Goodman",
+      "Jay Raile & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Am. Bolero  (B)",
+    "couples": [
+      "Aaron Steele & Taylor Burghard",
+      "James Malone & Trinity Strecker",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Danelle McCauley",
+      "Brad Hoover & Lynn Hoover",
+      "Liam Sheard & Ashlea Mondoro",
+      "Jim Wisnor & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Am. Mambo  (M)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Nick Kaldawi & Victoria Esposito",
+      "Andy Burch & Danelle McCauley",
+      "James Malone & Trinity Strecker",
+      "Liam Sheard & Ashlea Mondoro",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Brad Hoover & Lynn Hoover",
+      "Jim Wisnor & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Am. Bolero  (B)",
+    "couples": [
+      "Niall O`Keefe & Honor Barrett",
+      "Antonio Nace & Leena Osorno",
+      "Irish Doherty & Holly Doherty",
+      "Danelle McCauley & Grace Gustafson",
+      "Will Dinyes & Mary Goodman",
+      "Stephen Addington & Annalise Cooper"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Am. Mambo  (M)",
+    "couples": [
+      "Will Dinyes & Mary Goodman",
+      "Irish Doherty & Holly Doherty",
+      "Antonio Nace & Leena Osorno",
+      "Stephen Addington & Annalise Cooper",
+      "Danelle McCauley & Grace Gustafson",
+      "Luke Serafin & Katelyn MacIntyre"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Rhythm  (CRSB)",
+    "couples": [
+      "Jacob Uhl & Cayla Millar",
+      "Aaron Steele & Taylor Burghard",
+      "Liam Sheard & Ashlea Mondoro",
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Riley Haveman",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Rhythm  (CRS)",
+    "couples": [
+      "Liam Sheard & Ashlea Mondoro",
+      "Aaron Steele & Taylor Burghard"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Rhythm  (CRSB)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman",
+      "Phil Malinowski & Svetlana Yarrow",
+      "Jim Wisnor & Danelle McCauley"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Open Scholarship Rhythm  (CRSBM)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Aaron Steele & Taylor Burghard",
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Scholarship Bronze Scholarship Rhythm  (CR)",
+    "couples": [
+      "Antonio Nace & Leena Osorno",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Bronze Scholarship Rhythm  (CR)",
+    "couples": [
+      "Angel Rodriguez & Christine Rodriguez",
+      "Tyler Beason & Ashley Beason",
+      "Irish Doherty & Holly Doherty",
+      "Manuel Perez & Adison Dahle",
+      "Brandon Metz & Gwen Metz",
+      "Niall O`Keefe & Honor Barrett",
+      "Christopher Pimentel & Kaylee Allan"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Scholarship Silver Scholarship Rhythm  (CRS)",
+    "couples": [
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Silver Scholarship Rhythm  (CRS)",
+    "couples": [
+      "Jacob Uhl & Cayla Millar",
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman",
+      "Phil Malinowski & Mary Goodman",
+      "Irish Doherty & Holly Doherty",
+      "Gregg See & Claudia See",
+      "Mark Crigler & Sheila Crigler"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Intl. Samba  (S)",
+    "couples": [
+      "Niall O`Keefe & Jacqueline Johnson",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Stephen Addington & Annalise Cooper",
+      "Antonio Nace & Leena Osorno",
+      "Michael Naught & Liz Glicksman",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Mikhail Rudinskiy & Jessica Guise",
+      "Nicolas Tan & Fabienne Mirza",
+      "Christopher Pimentel & Kaylee Allan",
+      "Capri Fain & Savannah Uhl",
+      "Giang Nguyen & Veronique Villalba",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Andrew Repko & Felicia Escaner",
+      "Michael Naught & Liz Glicksman",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Stephen Addington & Annalise Cooper",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Christopher Pimentel & Honor Barrett",
+      "Antonio Nace & Leena Osorno",
+      "Mikhail Rudinskiy & Jessica Guise",
+      "Capri Fain & Savannah Uhl",
+      "Giang Nguyen & Veronique Villalba",
+      "Kai Sweeney & Sarah Alvarez",
+      "Nicolas Tan & Fabienne Mirza"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Andrew Repko & Felicia Escaner",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Michael Naught & Liz Glicksman",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Stephen Addington & Annalise Cooper",
+      "Nicolas Tan & Fabienne Mirza",
+      "Mikhail Rudinskiy & Jessica Guise",
+      "Antonio Nace & Leena Osorno",
+      "Christopher Pimentel & Honor Barrett",
+      "Capri Fain & Savannah Uhl",
+      "Giang Nguyen & Veronique Villalba",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Stephen Addington & Annalise Cooper",
+      "Michael Naught & Liz Glicksman",
+      "Antonio Nace & Leena Osorno",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Christopher Pimentel & Honor Barrett",
+      "Capri Fain & Savannah Uhl"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Intl. Jive  (J)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Stephen Addington & Annalise Cooper",
+      "Antonio Nace & Leena Osorno",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Mikhail Rudinskiy & Jessica Guise",
+      "Capri Fain & Savannah Uhl",
+      "Giang Nguyen & Veronique Villalba",
+      "Kai Sweeney & Sarah Alvarez",
+      "Nicolas Tan & Fabienne Mirza"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Michael Wolfson & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Xander Johnson & Brielle Johnson",
+      "Nazar Liakhovich & Harlow Kaye",
+      "Weston Johnson & Carla Pop",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Michael Wolfson & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Xander Johnson & Brielle Johnson",
+      "Nazar Liakhovich & Harlow Kaye",
+      "Weston Johnson & Carla Pop"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Michael Wolfson & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Xander Johnson & Brielle Johnson",
+      "Weston Johnson & Carla Pop",
+      "Nazar Liakhovich & Harlow Kaye"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Samba  (S)",
+    "couples": [
+      "Nick Kaldawi & Victoria Esposito",
+      "Michael Naught & Liz Glicksman",
+      "Weston Beebe & Jessica Lacy",
+      "Antonio Nace & Leena Osorno",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Luke Serafin & Katelyn MacIntyre"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Nick Kaldawi & Victoria Esposito",
+      "Michael Naught & Liz Glicksman",
+      "Weston Beebe & Jessica Lacy",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Antonio Nace & Leena Osorno",
+      "Nathaniel Whitthorne & Keerthana Kesavan"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Rumba  (R)",
+    "couples": [
+      "Nick Kaldawi & Victoria Esposito",
+      "Michael Naught & Liz Glicksman",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Luke Serafin & Katelyn MacIntyre",
+      "Weston Beebe & Jessica Lacy",
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Nick Kaldawi & Victoria Esposito",
+      "Michael Naught & Liz Glicksman",
+      "Nathaniel Whitthorne & Keerthana Kesavan"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Jive  (J)",
+    "couples": [
+      "Nick Kaldawi & Victoria Esposito",
+      "Nathaniel Whitthorne & Keerthana Kesavan",
+      "Michael Naught & Liz Glicksman",
+      "Mikhail Rudinskiy & Jessica Guise",
+      "Luke Serafin & Katelyn MacIntyre"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Xander Johnson & Carla Pop",
+      "Weston Johnson & Brielle Johnson",
+      "Nazar Liakhovich & Katerina Liakhovich",
+      "Sean Popper & Catherine Wolfson",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Nazar Liakhovich & Katerina Liakhovich",
+      "Xander Johnson & Carla Pop",
+      "Weston Johnson & Brielle Johnson",
+      "Sean Popper & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Xander Johnson & Carla Pop",
+      "Weston Johnson & Brielle Johnson",
+      "Nazar Liakhovich & Katerina Liakhovich",
+      "Sean Popper & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Sean Popper & Harlow Kaye",
+      "Nazar Liakhovich & Katerina Liakhovich",
+      "Weston Johnson & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Intl. Samba  (S)",
+    "couples": [
+      "Xander Johnson & Hailey Johnson",
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Nazar Liakhovich & Katerina Liakhovich",
+      "Sean Popper & Harlow Kaye",
+      "Weston Johnson & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Xander Johnson & Hailey Johnson",
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Sam Miller & Allie Papuc",
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Weston Johnson & Catherine Wolfson",
+      "Nazar Liakhovich & Katerina Liakhovich",
+      "Sean Popper & Harlow Kaye"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Bronze Intl. Jive  (J)",
+    "couples": [
+      "Sam Miller & Allie Papuc",
+      "Xander Johnson & Hailey Johnson",
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nazar Liakhovich & Katerina Liakhovich",
+      "Weston Johnson & Catherine Wolfson",
+      "Sean Popper & Harlow Kaye"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Nazar Liakhovich & Katerina Liakhovich",
+      "Sean Popper & Harlow Kaye",
+      "Weston Johnson & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Bronze Intl. Jive  (J)",
+    "couples": [
+      "Weston Johnson & Catherine Wolfson",
+      "Nazar Liakhovich & Katerina Liakhovich",
+      "Sean Popper & Harlow Kaye"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Bronze Intl. Samba  (S)",
+    "couples": [
+      "Michael Wolfson & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Intl. Samba  (S)",
+    "couples": [
+      "Xander Johnson & Katerina Liakhovich",
+      "Weston Johnson & Hailey Johnson",
+      "Nazar Liakhovich & Brielle Johnson"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Manuel Perez & Adison Dahle",
+      "Christopher Pimentel & Kaylee Allan",
+      "Nicolas Tan & Fabienne Mirza",
+      "Capri Fain & Savannah Uhl",
+      "Giang Nguyen & Veronique Villalba",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Michael Wolfson & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Xander Johnson & Katerina Liakhovich",
+      "Nazar Liakhovich & Brielle Johnson",
+      "Weston Johnson & Hailey Johnson"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Andrew Repko & Felicia Escaner",
+      "Christopher Pimentel & Honor Barrett",
+      "Nicolas Tan & Fabienne Mirza",
+      "Giang Nguyen & Veronique Villalba",
+      "Dennett Brown & Lily Sklar",
+      "Capri Fain & Savannah Uhl",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Andrew Repko & Felicia Escaner",
+      "Christopher Pimentel & Honor Barrett",
+      "Dennett Brown & Lily Sklar",
+      "Nicolas Tan & Fabienne Mirza",
+      "Giang Nguyen & Veronique Villalba",
+      "Capri Fain & Savannah Uhl",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Intl. Paso Doble  (P)",
+    "couples": [
+      "Nicolas Tan & Fabienne Mirza",
+      "Dennett Brown & Lily Sklar",
+      "Giang Nguyen & Veronique Villalba",
+      "Christopher Pimentel & Honor Barrett",
+      "Capri Fain & Savannah Uhl",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Bronze Intl. Jive  (J)",
+    "couples": [
+      "Michael Wolfson & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Intl. Jive  (J)",
+    "couples": [
+      "Xander Johnson & Katerina Liakhovich",
+      "Weston Johnson & Hailey Johnson",
+      "Nazar Liakhovich & Brielle Johnson"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Nicolas Tan & Fabienne Mirza",
+      "Dennett Brown & Lily Sklar",
+      "Giang Nguyen & Veronique Villalba",
+      "Capri Fain & Savannah Uhl",
+      "Kai Sweeney & Sarah Alvarez"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Xander Johnson & Katerina Liakhovich",
+      "Nazar Liakhovich & Brielle Johnson",
+      "Weston Johnson & Hailey Johnson"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Intl. Samba  (S)",
+    "couples": [
+      "Sam Miller & Monica Sawicki",
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Intl. Samba  (S)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Nazar Liakhovich & Brielle Johnson",
+      "Xander Johnson & Katerina Liakhovich",
+      "Weston Johnson & Hailey Johnson"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Sam Miller & Monica Sawicki",
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Intl. Rumba  (R)",
+    "couples": [
+      "Sam Miller & Monica Sawicki",
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Intl. Rumba  (R)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Sam Miller & Monica Sawicki",
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Michael Naught & Liz Glicksman",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Weston Johnson & Hailey Johnson",
+      "Xander Johnson & Katerina Liakhovich",
+      "Nazar Liakhovich & Brielle Johnson"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Silver Intl. Jive  (J)",
+    "couples": [
+      "Sam Miller & Monica Sawicki",
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Intl. Jive  (J)",
+    "couples": [
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Bronze Intl. Samba  (S)",
+    "couples": [
+      "Xander Johnson & Carla Pop",
+      "Weston Johnson & Brielle Johnson",
+      "Nazar Liakhovich & Katerina Liakhovich",
+      "Sean Popper & Catherine Wolfson",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Weston Johnson & Brielle Johnson",
+      "Xander Johnson & Carla Pop",
+      "Sean Popper & Catherine Wolfson",
+      "Nazar Liakhovich & Katerina Liakhovich"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Bronze Intl. Jive  (J)",
+    "couples": [
+      "Weston Johnson & Brielle Johnson",
+      "Xander Johnson & Carla Pop",
+      "Nazar Liakhovich & Katerina Liakhovich",
+      "Sean Popper & Catherine Wolfson"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Intl. Samba  (S)",
+    "couples": [
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Gold Intl. Samba  (S)",
+    "couples": [
+      "Sam Miller & Lexi Popper"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Intl. Samba  (S)",
+    "couples": [
+      "Nick Kaldawi & Victoria Esposito",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Sam Miller & Lexi Popper"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Nick Kaldawi & Victoria Esposito",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Gold Intl. Rumba  (R)",
+    "couples": [
+      "Sam Miller & Lexi Popper"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Intl. Rumba  (R)",
+    "couples": [
+      "Nick Kaldawi & Victoria Esposito",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Sam Miller & Lexi Popper"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Nick Kaldawi & Victoria Esposito",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Intl. Jive  (J)",
+    "couples": [
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Gold Intl. Jive  (J)",
+    "couples": [
+      "Sam Miller & Lexi Popper"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Intl. Jive  (J)",
+    "couples": [
+      "Nick Kaldawi & Victoria Esposito",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nazar Liakhovich & Harlow Kaye",
+      "Xander Johnson & Brielle Johnson",
+      "Weston Johnson & Carla Pop",
+      "Christian Osorno & Jocelyn Acuna"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Xander Johnson & Brielle Johnson",
+      "Nazar Liakhovich & Harlow Kaye",
+      "Weston Johnson & Carla Pop"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Bronze Intl. Jive  (J)",
+    "couples": [
+      "Nazar Liakhovich & Harlow Kaye",
+      "Xander Johnson & Brielle Johnson",
+      "Weston Johnson & Carla Pop"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Scholarship Open Scholarship Latin  (SCRPJ)",
+    "couples": [
+      "Asher Ralphs & Lena Malkin",
+      "Sasha Patschke & Julia Lane"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Open Scholarship Latin  (SCRPJ)",
+    "couples": [
+      "Caitanya Thialan & Jee Nam",
+      "Nick Kaldawi & Victoria Esposito",
+      "Andy Burch & Kristina Burch"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Scholarship Bronze Scholarship Latin  (CR)",
+    "couples": [
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Bronze Scholarship Latin  (CR)",
+    "couples": [
+      "Andrew Repko & Felicia Escaner",
+      "Michael Naught & Liz Glicksman",
+      "Christopher Pimentel & Honor Barrett"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Gold Latin  (SCRJ)",
+    "couples": [
+      "Sam Miller & Lexi Popper"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Scholarship Silver Scholarship Latin  (SCR)",
+    "couples": [
+      "Sam Miller & Monica Sawicki",
+      "Antonio Nace & Leena Osorno"
+    ]
+  },
+  {
+    "name": "Amateur Adult/Sr Scholarship Silver Scholarship Latin  (SCR)",
+    "couples": [
+      "Nick Kaldawi & Victoria Esposito",
+      "Andy Burch & Kristina Burch",
+      "Michael Naught & Liz Glicksman"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Sam Miller & Allie Papuc"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Asher Ralphs & Lena Malkin",
+      "Sasha Patschke & Julia Lane"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Novice Latin  (SCR)",
+    "couples": [
+      "Sam Miller & Allie Papuc"
+    ]
+  },
+  {
+    "name": "Amateur Under 19 Championship Latin  (SCRPJ)",
+    "couples": [
+      "Asher Ralphs & Lena Malkin",
+      "Sasha Patschke & Julia Lane"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Latin  (SCRPJ)",
+    "couples": [
+      "Caitanya Thialan & Jee Nam"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Donovon Dominguez & Tamara Diamond",
+      "Genadi Lulchev & Nancy Mowry",
+      "JC Yeh & Kristina Stetson",
+      "Freddie Maese & Jim Wisnor",
+      "Gene Johnson & Devorah Kastner",
+      "Mark Crigler & Julianne Daniels",
+      "Will Dinyes & Sarah Mollison",
+      "Jeffrey Trinka & Stephanie Montejano",
+      "Moses Ramos & Karen Edmonds"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Am. Tango  (T)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Donovon Dominguez & Tamara Diamond",
+      "Genadi Lulchev & Nancy Mowry",
+      "Will Dinyes & Sarah Mollison",
+      "Mark Crigler & Julianne Daniels",
+      "Gene Johnson & Devorah Kastner",
+      "Freddie Maese & Jim Wisnor",
+      "JC Yeh & Kristina Stetson",
+      "Jeffrey Trinka & Stephanie Montejano",
+      "Moses Ramos & Karen Edmonds"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Genadi Lulchev & Carol Baldwin"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Newcomer Am. Tango  (T)",
+    "couples": [
+      "Genadi Lulchev & Carol Baldwin"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Genadi Lulchev & Carol Baldwin"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Genadi Lulchev & Carol Baldwin"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Am. Tango  (T)",
+    "couples": [
+      "Genadi Lulchev & Carol Baldwin"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Genadi Lulchev & Carol Baldwin"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Donovon Dominguez & Tamara Diamond",
+      "Genadi Lulchev & Nancy Mowry",
+      "JC Yeh & Kristina Stetson",
+      "Moses Ramos & Donna Hopkins",
+      "Freddie Maese & Jim Wisnor",
+      "Will Dinyes & Sarah Mollison",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Donovon Dominguez & Tamara Diamond",
+      "Genadi Lulchev & Nancy Mowry",
+      "Will Dinyes & Sarah Mollison",
+      "JC Yeh & Kristina Stetson",
+      "Moses Ramos & Donna Hopkins",
+      "Freddie Maese & Jim Wisnor",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Donovon Dominguez & Tamara Diamond",
+      "Genadi Lulchev & Nancy Mowry",
+      "Will Dinyes & Sarah Mollison",
+      "JC Yeh & Kristina Stetson",
+      "Moses Ramos & Donna Hopkins",
+      "Freddie Maese & Jim Wisnor",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Donovon Dominguez & Tamara Diamond",
+      "Genadi Lulchev & Nancy Mowry",
+      "Will Dinyes & Sarah Mollison",
+      "Moses Ramos & Donna Hopkins",
+      "Freddie Maese & Jim Wisnor",
+      "JC Yeh & Kristina Stetson",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Donovon Dominguez & Tamara Diamond",
+      "Genadi Lulchev & Nancy Mowry",
+      "Will Dinyes & Sarah Mollison",
+      "JC Yeh & Kristina Stetson",
+      "Mark Crigler & Julianne Daniels",
+      "Jeffrey Trinka & Stephanie Montejano",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Donovon Dominguez & Tamara Diamond",
+      "Genadi Lulchev & Nancy Mowry",
+      "Will Dinyes & Sarah Mollison",
+      "Mark Crigler & Julianne Daniels",
+      "JC Yeh & Kristina Stetson",
+      "Jeffrey Trinka & Stephanie Montejano",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Genadi Lulchev & Lauren Kobley",
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Gold Am. Waltz  (W)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Brad Hoover & Sarah Mollison"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Genadi Lulchev & Lauren Kobley",
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Gold Am. Tango  (T)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Brad Hoover & Sarah Mollison"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Genadi Lulchev & Lauren Kobley",
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Gold Am. Foxtrot  (F)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Brad Hoover & Sarah Mollison"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Genadi Lulchev & Lauren Kobley",
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Gold Am. V. Waltz  (V)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Brad Hoover & Sarah Mollison"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Gold Am. Waltz  (W)",
+    "couples": [
+      "Brad Hoover & Sarah Mollison",
+      "JC Yeh & Betty Jo Gregolynskyj"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Gold Am. Tango  (T)",
+    "couples": [
+      "JC Yeh & Betty Jo Gregolynskyj",
+      "Brad Hoover & Sarah Mollison"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Brad Hoover & Sarah Mollison",
+      "JC Yeh & Betty Jo Gregolynskyj"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Gold Am. V. Waltz  (V)",
+    "couples": [
+      "JC Yeh & Betty Jo Gregolynskyj",
+      "Brad Hoover & Sarah Mollison"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Will Dinyes & Sarah Mollison",
+      "Moses Ramos & Karen Edmonds",
+      "Jim Wisnor & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Gold Am. Waltz  (W)",
+    "couples": [
+      "JC Yeh & Cindy Vana"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Will Dinyes & Sarah Mollison",
+      "Moses Ramos & Karen Edmonds",
+      "Jim Wisnor & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Gold Am. Tango  (T)",
+    "couples": [
+      "JC Yeh & Cindy Vana"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Will Dinyes & Sarah Mollison",
+      "Moses Ramos & Karen Edmonds",
+      "Jim Wisnor & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Gold Am. Foxtrot  (F)",
+    "couples": [
+      "JC Yeh & Cindy Vana"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Will Dinyes & Sarah Mollison",
+      "Jim Wisnor & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Gold Am. V. Waltz  (V)",
+    "couples": [
+      "JC Yeh & Cindy Vana"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Will Dinyes & Sarah Mollison"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Am. Waltz  (W)",
+    "couples": [
+      "JC Yeh & Betty Jo Gregolynskyj"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Am. Tango  (T)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Will Dinyes & Sarah Mollison"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Am. Tango  (T)",
+    "couples": [
+      "JC Yeh & Betty Jo Gregolynskyj"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Will Dinyes & Sarah Mollison"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Am. Foxtrot  (F)",
+    "couples": [
+      "JC Yeh & Betty Jo Gregolynskyj"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Will Dinyes & Sarah Mollison",
+      "Yavor Genev & Helen Sorrell"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Am. V. Waltz  (V)",
+    "couples": [
+      "JC Yeh & Betty Jo Gregolynskyj"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Smooth  (WTF)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Smooth  (WTF)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Donovon Dominguez & Tamara Diamond",
+      "Genadi Lulchev & Nancy Mowry",
+      "Will Dinyes & Sarah Mollison",
+      "JC Yeh & Kristina Stetson",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Smooth  (WTFV)",
+    "couples": [
+      "Donovon Dominguez & Tamara Diamond",
+      "Brad Hoover & Sarah Mollison",
+      "JC Yeh & Betty Jo Gregolynskyj"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Bronze Smooth  (WF)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Smooth  (WTF)",
+    "couples": [
+      "Will Dinyes & Sarah Mollison"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Gold Smooth  (WTFV)",
+    "couples": [
+      "Brad Hoover & Sarah Mollison"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Open Smooth  (WTFV)",
+    "couples": [
+      "JC Yeh & Cindy Vana"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Open Smooth  (WTFV)",
+    "couples": [
+      "Genadi Lulchev & Nancy Mowry",
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Silver Scholarship Smooth  (WTF)",
+    "couples": [
+      "Donovon Dominguez & Tamara Diamond",
+      "Yavor Genev & Helen Sorrell",
+      "Genadi Lulchev & Nancy Mowry",
+      "Will Dinyes & Sarah Mollison",
+      "Moses Ramos & Donna Hopkins",
+      "JC Yeh & Kristina Stetson",
+      "Jim Wisnor & Reese Kelly",
+      "Mark Crigler & Julianne Daniels",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Scholarship Bronze Scholarship Smooth  (WF)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Bronze Scholarship Smooth  (WF)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Elizabeth Lambert",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Scholarship Silver Scholarship Smooth  (WTF)",
+    "couples": [
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Open Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Brad Hoover & Sarah Mollison",
+      "JC Yeh & Betty Jo Gregolynskyj"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Newcomer Intl. Foxtrot  (F)",
+    "couples": [
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Paul Jack & H. Conquistadore"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Intl. Foxtrot  (F)",
+    "couples": [
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Paul Jack & H. Conquistadore"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Paul Jack & H. Conquistadore"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Paul Jack & H. Conquistadore"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Vladimir Pavlov & Marzena Sucinski"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Paul Jack & H. Conquistadore",
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Intl. Tango  (T)",
+    "couples": [
+      "Vladimir Pavlov & Marzena Sucinski"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Paul Jack & H. Conquistadore"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Vladimir Pavlov & Marzena Sucinski"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Paul Jack & H. Conquistadore",
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Vladimir Pavlov & Marzena Sucinski"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "Vladimir Pavlov & Marzena Sucinski",
+      "Paul Jack & H. Conquistadore",
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Intl. Waltz  (W)",
+    "couples": [
+      "Egor Abashkin & Elka Hristova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Intl. Tango  (T)",
+    "couples": [
+      "Vladimir Pavlov & Marzena Sucinski",
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Intl. Tango  (T)",
+    "couples": [
+      "Egor Abashkin & Elka Hristova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Egor Abashkin & Elka Hristova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Vladimir Pavlov & Marzena Sucinski",
+      "Paul Jack & H. Conquistadore",
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Egor Abashkin & Elka Hristova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Vladimir Pavlov & Marzena Sucinski",
+      "Paul Jack & H. Conquistadore",
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Egor Abashkin & Elka Hristova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Intl. Waltz  (W)",
+    "couples": [
+      "Vladimir Pavlov & Marzena Sucinski"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Intl. Tango  (T)",
+    "couples": [
+      "Vladimir Pavlov & Marzena Sucinski"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Vladimir Pavlov & Marzena Sucinski"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Vladimir Pavlov & Marzena Sucinski"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Standard  (WFQ)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Vladimir Pavlov & Marzena Sucinski",
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Standard  (WQ)",
+    "couples": [
+      "Paul Jack & H. Conquistadore"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Open Standard  (WTVFQ)",
+    "couples": [
+      "Egor Abashkin & Elka Hristova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Standard  (WQ)",
+    "couples": [
+      "Paul Jack & H. Conquistadore",
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Silver Scholarship Standard  (WFQ)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Vladimir Pavlov & Marzena Sucinski",
+      "Paul Jack & H. Conquistadore",
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Open Scholarship Standard  (WTVFQ)",
+    "couples": [
+      "Egor Abashkin & Elka Hristova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Bronze Scholarship Standard  (WQ)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Open Social Dance West Coast Swing  (W)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Tyler Willingham & Shelli Marti",
+      "Paul Jack & H. Conquistadore",
+      "Moses Ramos & Karen Edmonds",
+      "Jim Wisnor & Reese Kelly",
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Open Social Dance Salsa  (S)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Tyler Willingham & Shelli Marti",
+      "Brad Hoover & Reese Kelly",
+      "Moses Ramos & Karen Edmonds",
+      "Paul Jack & H. Conquistadore",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Open Social Dance Night Club 2-Step  (N)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Vladimir Pavlov & June Moreno",
+      "Tyler Willingham & Shelli Marti",
+      "Paul Jack & H. Conquistadore",
+      "Moses Ramos & Karen Edmonds",
+      "Mark Crigler & Julianne Daniels"
+    ]
+  },
+  {
+    "name": "Teacher/Student Open Social Dance Argentine Tango  (A)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Mark Crigler & Julianne Daniels",
+      "Freddie Maese & Jim Wisnor"
+    ]
+  },
+  {
+    "name": "Teacher/Student Open Social Dance Merengue  (M)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Brad Hoover & Reese Kelly",
+      "Tyler Willingham & Shelli Marti",
+      "Moses Ramos & Karen Edmonds"
+    ]
+  },
+  {
+    "name": "Teacher/Student Open Social Dance Hustle  (H)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Viacheslav Aladinskiy & Shannon Horton",
+      "Tyler Willingham & Shelli Marti",
+      "Brad Hoover & Reese Kelly",
+      "Paul Jack & H. Conquistadore",
+      "Mark Crigler & Julianne Daniels",
+      "Freddie Maese & Jim Wisnor"
+    ]
+  },
+  {
+    "name": "Teacher/Student Open Social Dance Bachata  (B)",
+    "couples": [
+      "JC Yeh & Cindy Vana",
+      "Tyler Willingham & Shelli Marti",
+      "Moses Ramos & Karen Edmonds",
+      "Jim Wisnor & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Moses Ramos & Karen Edmonds"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Moses Ramos & Karen Edmonds",
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Am. Swing  (S)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Am. Bolero  (B)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Bronze Am. Bolero  (B)",
+    "couples": [
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Am. Mambo  (M)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Jim Wisnor & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton",
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Jim Wisnor & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Jim Wisnor & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Am. Bolero  (B)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins",
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Am. Mambo  (M)",
+    "couples": [
+      "Moses Ramos & Donna Hopkins",
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton",
+      "Vladimir Pavlov & Arlys Eaton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Gold Am. Rumba  (R)",
+    "couples": [
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Gold Am. Swing  (S)",
+    "couples": [
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Am. Bolero  (B)",
+    "couples": [
+      "Vladimir Pavlov & Arlys Eaton",
+      "Moses Ramos & Donna Hopkins"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Gold Am. Bolero  (B)",
+    "couples": [
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Am. Mambo  (M)",
+    "couples": [
+      "Moses Ramos & Donna Hopkins"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Gold Am. Mambo  (M)",
+    "couples": [
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Moses Ramos & Karen Edmonds"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Tyler Willingham & Shelli Marti",
+      "Genadi Lulchev & Nancy Mowry",
+      "Gene Johnson & Devorah Kastner",
+      "Freddie Maese & Jim Wisnor"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Moses Ramos & Karen Edmonds"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Tyler Willingham & Shelli Marti",
+      "Genadi Lulchev & Nancy Mowry",
+      "Gene Johnson & Devorah Kastner",
+      "Freddie Maese & Jim Wisnor"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Genadi Lulchev & Nancy Mowry",
+      "Gene Johnson & Devorah Kastner",
+      "Freddie Maese & Jim Wisnor"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Am. Bolero  (B)",
+    "couples": [
+      "Tyler Willingham & Shelli Marti",
+      "Genadi Lulchev & Nancy Mowry",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Am. Mambo  (M)",
+    "couples": [
+      "Genadi Lulchev & Nancy Mowry",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo",
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Jim Wisnor & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo",
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Jim Wisnor & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Am. Rumba  (R)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo",
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Am. Bolero  (B)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo",
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Am. Bolero  (B)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Am. Mambo  (M)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo",
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Genadi Lulchev & Nancy Mowry",
+      "Will Dinyes & Reese Kelly",
+      "Mark Crigler & Julianne Daniels",
+      "Gene Johnson & Devorah Kastner",
+      "Jeffrey Trinka & Stephanie Montejano"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Freddie Maese & Lynn Hoover",
+      "Genadi Lulchev & Nancy Mowry",
+      "Will Dinyes & Reese Kelly",
+      "Mark Crigler & Julianne Daniels",
+      "Jeffrey Trinka & Stephanie Montejano",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Am. Swing  (S)",
+    "couples": [
+      "Freddie Maese & Lynn Hoover",
+      "Will Dinyes & Reese Kelly",
+      "Genadi Lulchev & Nancy Mowry",
+      "Jeffrey Trinka & Stephanie Montejano",
+      "Mark Crigler & Julianne Daniels",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Am. Bolero  (B)",
+    "couples": [
+      "Freddie Maese & Lynn Hoover",
+      "Will Dinyes & Reese Kelly",
+      "Genadi Lulchev & Nancy Mowry",
+      "Mark Crigler & Julianne Daniels",
+      "Jeffrey Trinka & Stephanie Montejano",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Freddie Maese & Lynn Hoover",
+      "Will Dinyes & Reese Kelly",
+      "Genadi Lulchev & Nancy Mowry",
+      "Gene Johnson & Devorah Kastner",
+      "Jeffrey Trinka & Stephanie Montejano"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo",
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Freddie Maese & Lynn Hoover",
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo",
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Gold Am. Rumba  (R)",
+    "couples": [
+      "Freddie Maese & Lynn Hoover",
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Gold Am. Rumba  (R)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo",
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Gold Am. Swing  (S)",
+    "couples": [
+      "Freddie Maese & Lynn Hoover",
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo",
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Gold Am. Bolero  (B)",
+    "couples": [
+      "Freddie Maese & Lynn Hoover",
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Gold Am. Bolero  (B)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo",
+      "Genadi Lulchev & Lauren Kobley"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Gold Am. Mambo  (M)",
+    "couples": [
+      "Freddie Maese & Lynn Hoover",
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Gold Rhythm  (CRSB)",
+    "couples": [
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Rhythm  (CRS)",
+    "couples": [
+      "Genadi Lulchev & Nancy Mowry",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Rhythm  (CRS)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Gold Rhythm  (CRSB)",
+    "couples": [
+      "Donovon Dominguez & Sophia Zarrillo"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Rhythm  (CRSB)",
+    "couples": [
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Bronze Scholarship Rhythm  (CR)",
+    "couples": [
+      "Genadi Lulchev & Diana Theos",
+      "Moses Ramos & Donna Hopkins",
+      "Viacheslav Aladinskiy & Shannon Horton"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Scholarship Silver Scholarship Rhythm  (CRS)",
+    "couples": [
+      "Genadi Lulchev & Lauren Kobley",
+      "Donovon Dominguez & Sophia Zarrillo"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Open Scholarship Rhythm  (CRSBM)",
+    "couples": [
+      "Brad Hoover & Reese Kelly"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Silver Scholarship Rhythm  (CRS)",
+    "couples": [
+      "Genadi Lulchev & Nancy Mowry",
+      "Mark Crigler & Julianne Daniels",
+      "Freddie Maese & Jim Wisnor",
+      "Gene Johnson & Devorah Kastner"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Jeffrey Trinka & Stephanie Montejano"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Genadi Lulchev & Diana Theos",
+      "Jeffrey Trinka & Stephanie Montejano"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Genadi Lulchev & Diana Theos",
+      "Jeffrey Trinka & Stephanie Montejano"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Intl. Paso Doble  (P)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Jeffrey Trinka & Stephanie Montejano"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Jeffrey Trinka & Stephanie Montejano"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Bronze Intl. Jive  (J)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Vladimir Pavlov & June Moreno",
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Vladimir Pavlov & June Moreno",
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Bronze Intl. Jive  (J)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova",
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova",
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova",
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova",
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Bronze Intl. Jive  (J)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Intl. Samba  (S)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Intl. Rumba  (R)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Int. Silver Intl. Jive  (J)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Intl. Samba  (S)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Intl. Samba  (S)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Intl. Rumba  (R)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Intl. Rumba  (R)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Int. Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Int. Silver Intl. Jive  (J)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Intl. Samba  (S)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Intl. Samba  (S)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Intl. Samba  (S)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Intl. Rumba  (R)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Intl. Rumba  (R)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Intl. Rumba  (R)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Intl. Jive  (J)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Gold Intl. Jive  (J)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Bronze Latin  (CR)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Bronze Latin  (CR)",
+    "couples": [
+      "Vladimir Pavlov & June Moreno"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Full Silver Latin  (SCR)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Open Latin  (SCRPJ)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult Full Silver Latin  (SCR)",
+    "couples": [
+      "Tudor Alexander & Ektarina Jansenova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Senior I Full Silver Latin  (SCR)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 19 Scholarship Bronze Scholarship Latin  (CR)",
+    "couples": [
+      "Tudor Alexander & Addison Shahdadi"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Bronze Scholarship Latin  (CR)",
+    "couples": [
+      "Yavor Genev & Shanna Roloff",
+      "Vladimir Pavlov & June Moreno",
+      "Genadi Lulchev & Diana Theos"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Silver Scholarship Latin  (SCR)",
+    "couples": [
+      "Yavor Genev & Helen Sorrell",
+      "Tudor Alexander & Ektarina Jansenova",
+      "Richard Dault & Svetlana Yarrow"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult/Sr Scholarship Open Scholarship Latin  (SCRPJ)",
+    "couples": [
+      "Moses Ramos & Elizabeth Lambert"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Luke Serafin & Katelyn MacIntyre",
+      "Michael Naught & Liz Glicksman",
+      "Stephen Addington & Taylor Burghard",
+      "Gregg See & Cheryl See",
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Intl. Tango  (T)",
+    "couples": [
+      "Luke Serafin & Katelyn MacIntyre",
+      "Michael Naught & Liz Glicksman",
+      "Stephen Addington & Taylor Burghard",
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Luke Serafin & Katelyn MacIntyre",
+      "Michael Naught & Liz Glicksman",
+      "Stephen Addington & Taylor Burghard",
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Luke Serafin & Katelyn MacIntyre",
+      "Michael Naught & Liz Glicksman",
+      "Stephen Addington & Taylor Burghard",
+      "Gregg See & Cheryl See",
+      "Antonio Nace & Riley Haveman"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Luke Serafin & Katelyn MacIntyre",
+      "Michael Naught & Liz Glicksman",
+      "Stephen Addington & Taylor Burghard",
+      "Gregg See & Cheryl See",
+      "Antonio Nace & Riley Haveman"
+    ]
+  }
+]

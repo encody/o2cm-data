@@ -1,0 +1,647 @@
+[
+  {
+    "name": "Adult Silver Smooth  (WT)",
+    "couples": [
+      "Kevin Li & Andrea Kemter",
+      "Timothy Bagiackas & Lia Triscari",
+      "Colin Richter & huaran liu",
+      "Gunnar Thompson & Sabrina Lin",
+      "Darren Chen & Erica Lin",
+      "Timothy Chin & Katie Bolan",
+      "Gabriel Jones & Lara Braverman",
+      "James Tonks & Julia Whiting",
+      "Chase Gunderud & Samantha Botros"
+    ]
+  },
+  {
+    "name": "Adult Silver Smooth  (FV)",
+    "couples": [
+      "Colin Richter & huaran liu",
+      "Kevin Li & Andrea Kemter",
+      "Timothy Bagiackas & Lia Triscari",
+      "Gunnar Thompson & Sabrina Lin",
+      "Darren Chen & Erica Lin",
+      "Gabriel Jones & Lara Braverman",
+      "Timothy Chin & Katie Bolan",
+      "Chase Gunderud & Samantha Botros",
+      "James Tonks & Julia Whiting"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Jason Chiu & Shannon Kollasch",
+      "Joseph Mohr & Tiffany Huang",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Luke Liu & Annika Pracher",
+      "Xiao Zhang & Deimante Tankus",
+      "Lars Johnson & Rachel Zhou"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Tango  (T)",
+    "couples": [
+      "Jason Chiu & Shannon Kollasch",
+      "Luke Liu & Annika Pracher",
+      "Joseph Mohr & Tiffany Huang",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Xiao Zhang & Deimante Tankus",
+      "Lars Johnson & Rachel Zhou"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Jason Chiu & Shannon Kollasch",
+      "Luke Liu & Annika Pracher",
+      "Joseph Mohr & Tiffany Huang",
+      "Xiao Zhang & Deimante Tankus",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Lars Johnson & Rachel Zhou"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. V. Waltz  (V)",
+    "couples": [
+      "Jason Chiu & Shannon Kollasch",
+      "Joseph Mohr & Tiffany Huang",
+      "Lars Johnson & Rachel Zhou",
+      "Xiao Zhang & Deimante Tankus"
+    ]
+  },
+  {
+    "name": "Adult Novice Smooth  (WTF)",
+    "couples": [
+      "Peter Tran & Angelia Wang",
+      "William Sokolowsky & Marissa Guillen",
+      "Erik Binter & Sophia Wienbar"
+    ]
+  },
+  {
+    "name": "Adult Bronze Smooth  (WT)",
+    "couples": [
+      "Gunnar Thompson & Sabrina Lin",
+      "Gabriel Jones & Tiffany Huang",
+      "Darren Chen & Erica Lin",
+      "Jace Chen & Vivien Ng",
+      "Jason Chiu & Shannon Kollasch",
+      "Timothy Chin & Katie Bolan",
+      "Luke Liu & Annika Pracher",
+      "Joseph Mohr & Lara Braverman",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Christian Pullings & Samantha Flannelly",
+      "Robin Whitesel & Yettif Campbell",
+      "James Tonks & Julia Whiting",
+      "Chase Gunderud & Samantha Botros",
+      "Xiao Zhang & Deimante Tankus",
+      "Ji Hun Lee & Louise Barbossa",
+      "Lars Johnson & Rachel Zhou"
+    ]
+  },
+  {
+    "name": "Adult Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Gunnar Thompson & Sabrina Lin",
+      "Darren Chen & Erica Lin",
+      "Gabriel Jones & Tiffany Huang",
+      "Jason Chiu & Shannon Kollasch",
+      "Timothy Chin & Katie Bolan",
+      "Xiao Zhang & Deimante Tankus",
+      "James Tonks & Julia Whiting",
+      "Luke Liu & Annika Pracher",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Ji Hun Lee & Louise Barbossa",
+      "Chase Gunderud & Samantha Botros",
+      "Joseph Mohr & Lara Braverman",
+      "Jace Chen & Vivien Ng",
+      "Christian Pullings & Samantha Flannelly",
+      "Wen Hung Chou & TBA3 TBA3",
+      "Lars Johnson & Rachel Zhou",
+      "Robin Whitesel & Yettif Campbell"
+    ]
+  },
+  {
+    "name": "Adult Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Gabriel Jones & Tiffany Huang",
+      "Gunnar Thompson & Sabrina Lin",
+      "Jace Chen & Vivien Ng",
+      "Darren Chen & Erica Lin",
+      "Chase Gunderud & Samantha Botros",
+      "Joseph Mohr & Lara Braverman",
+      "Lars Johnson & Rachel Zhou",
+      "James Tonks & Julia Whiting",
+      "Timothy Chin & Katie Bolan",
+      "Jason Chiu & Shannon Kollasch",
+      "Christian Pullings & Samantha Flannelly",
+      "Xiao Zhang & Deimante Tankus",
+      "Ji Hun Lee & Louise Barbossa"
+    ]
+  },
+  {
+    "name": "Adult Gold Smooth  (WTFV)",
+    "couples": [
+      "Jerome Dyson & Tiffany Jeung",
+      "Colin Richter & huaran liu",
+      "Kevin Li & Andrea Kemter",
+      "Timothy Bagiackas & Lia Triscari"
+    ]
+  },
+  {
+    "name": "Adult Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Erik Binter & Sophia Wienbar",
+      "Peter Tran & Angelia Wang",
+      "William Sokolowsky & Marissa Guillen"
+    ]
+  },
+  {
+    "name": "Adult Silver Standard  (WQ)",
+    "couples": [
+      "Kevin Li & Andrea Kemter",
+      "Colin Richter & huaran liu",
+      "Timothy Bagiackas & Lia Triscari",
+      "Carol Lockwood & Odette Suter",
+      "Chase Gunderud & Page Kirkpatrick",
+      "Darren Chen & Erica Lin",
+      "Gabriel Jones & Lara Braverman",
+      "Timothy Chin & Katie Bolan",
+      "James Tonks & Julia Whiting"
+    ]
+  },
+  {
+    "name": "Adult Silver Standard  (TF)",
+    "couples": [
+      "Colin Richter & huaran liu",
+      "Kevin Li & Andrea Kemter",
+      "Timothy Bagiackas & Lia Triscari",
+      "Carol Lockwood & Odette Suter",
+      "Darren Chen & Erica Lin",
+      "Timothy Chin & Katie Bolan",
+      "Gabriel Jones & Lara Braverman",
+      "Chase Gunderud & Page Kirkpatrick",
+      "James Tonks & Julia Whiting"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Joseph Mohr & Tiffany Huang",
+      "Jason Chiu & Shannon Kollasch",
+      "Luke Liu & Annika Pracher",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Xiao Zhang & Deimante Tankus",
+      "Alex Ionkov & Keeley Collins",
+      "Caleb Diny & Audrey Fetsko",
+      "Lars Johnson & Rachel Zhou"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Joseph Mohr & Tiffany Huang",
+      "Jason Chiu & Shannon Kollasch",
+      "Luke Liu & Annika Pracher",
+      "Xiao Zhang & Deimante Tankus",
+      "Caleb Diny & Audrey Fetsko",
+      "Tristan Bachmann & Huibo Daisy Li"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Intl. Foxtrot  (F)",
+    "couples": [
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Joseph Mohr & Tiffany Huang",
+      "Xiao Zhang & Deimante Tankus",
+      "Jason Chiu & Shannon Kollasch",
+      "Caleb Diny & Audrey Fetsko"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Jason Chiu & Shannon Kollasch",
+      "Joseph Mohr & Tiffany Huang",
+      "Luke Liu & Annika Pracher",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Lars Johnson & Rachel Zhou",
+      "Xiao Zhang & Deimante Tankus",
+      "Caleb Diny & Audrey Fetsko"
+    ]
+  },
+  {
+    "name": "Adult Novice Standard  (WFQ)",
+    "couples": [
+      "Arkady Dudko & Lena Dudko",
+      "Gunnar Thompson & Raina Petersen",
+      "Jerome Dyson & Angelia Wang"
+    ]
+  },
+  {
+    "name": "Adult Bronze Standard  (WQ)",
+    "couples": [
+      "Gabriel Jones & Tiffany Huang",
+      "Darren Chen & Erica Lin",
+      "James Tonks & Julia Whiting",
+      "Timothy Chin & Katie Bolan",
+      "Chase Gunderud & Samantha Botros",
+      "Jace Chen & Vivien Ng",
+      "Jason Chiu & Shannon Kollasch",
+      "Christian Pullings & Samantha Flannelly",
+      "Luke Liu & Annika Pracher",
+      "Joseph Mohr & Lara Braverman",
+      "Xiao Zhang & Deimante Tankus",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Ji Hun Lee & Louise Barbossa",
+      "Bin Zhang & Sarah Vanrensselaer",
+      "Wen-hung Chou & Pin",
+      "Lars Johnson & Rachel Zhou",
+      "Caleb Diny & Audrey Fetsko",
+      "Bobby Martinez & Yettif Campbell"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. Tango  (T)",
+    "couples": [
+      "Gabriel Jones & Tiffany Huang",
+      "Darren Chen & Erica Lin",
+      "Timothy Chin & Katie Bolan",
+      "Jace Chen & Vivien Ng",
+      "Joseph Mohr & Lara Braverman",
+      "Chase Gunderud & Samantha Botros",
+      "Jason Chiu & Shannon Kollasch",
+      "James Tonks & Julia Whiting",
+      "Luke Liu & Annika Pracher",
+      "Xiao Zhang & Deimante Tankus",
+      "Bin Zhang & Sarah Vanrensselaer",
+      "Wen-hung Chou & Pin",
+      "Caleb Diny & Audrey Fetsko",
+      "Ji Hun Lee & Louise Barbossa",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Christian Pullings & Samantha Flannelly",
+      "Bobby Martinez & Yettif Campbell"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Gabriel Jones & Tiffany Huang",
+      "Jace Chen & Vivien Ng",
+      "Darren Chen & Erica Lin",
+      "Chase Gunderud & Samantha Botros",
+      "Timothy Chin & Katie Bolan",
+      "James Tonks & Julia Whiting",
+      "Joseph Mohr & Lara Braverman",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Jason Chiu & Shannon Kollasch",
+      "Xiao Zhang & Deimante Tankus",
+      "Caleb Diny & Audrey Fetsko",
+      "Ji Hun Lee & Louise Barbossa",
+      "Bin Zhang & Sarah Vanrensselaer",
+      "Wen-hung Chou & Pin"
+    ]
+  },
+  {
+    "name": "Adult Gold Standard  (WTFQ)",
+    "couples": [
+      "Kevin Li & Andrea Kemter",
+      "Gunnar Thompson & Raina Petersen",
+      "Colin Richter & huaran liu",
+      "Jerome Dyson & Angelia Wang",
+      "Timothy Bagiackas & Lia Triscari"
+    ]
+  },
+  {
+    "name": "Adult Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Erik Binter & Sophia Wienbar",
+      "Arkady Dudko & Lena Dudko",
+      "Andreas Woytowitz & Erik Jaeger"
+    ]
+  },
+  {
+    "name": "Adult Silver Rhythm  (CR)",
+    "couples": [
+      "Kevin Li & Kaitlin McLean",
+      "Gunnar Thompson & Sabrina Lin",
+      "Gabriel Jones & Carol Wang",
+      "Darren Chen & Erica Lin",
+      "Timothy Bagiackas & Lia Triscari",
+      "Colin Richter & Juliana Panelli",
+      "Chase Gunderud & Page Kirkpatrick",
+      "James Tonks & Julia Whiting"
+    ]
+  },
+  {
+    "name": "Adult Silver Rhythm  (SM)",
+    "couples": [
+      "Gunnar Thompson & Sabrina Lin",
+      "Timothy Bagiackas & Lia Triscari",
+      "Gabriel Jones & Carol Wang",
+      "Kevin Li & Kaitlin McLean",
+      "Darren Chen & Erica Lin",
+      "Chase Gunderud & Page Kirkpatrick",
+      "Colin Richter & Juliana Panelli",
+      "James Tonks & Julia Whiting"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Joseph Mohr & Tiffany Huang",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Jason Chiu & Shannon Kollasch",
+      "Luke Liu & Annika Pracher",
+      "Lars Johnson & Rachel Zhou",
+      "Xiao Zhang & Deimante Tankus"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Joseph Mohr & Tiffany Huang",
+      "Jason Chiu & Shannon Kollasch",
+      "Luke Liu & Annika Pracher",
+      "Xiao Zhang & Deimante Tankus",
+      "Lars Johnson & Rachel Zhou"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Swing  (S)",
+    "couples": [
+      "Lars Johnson & Rachel Zhou",
+      "Jason Chiu & Shannon Kollasch",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Joseph Mohr & Tiffany Huang",
+      "Luke Liu & Annika Pracher",
+      "Xiao Zhang & Deimante Tankus"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Mambo  (M)",
+    "couples": [
+      "Joseph Mohr & Tiffany Huang",
+      "Jason Chiu & Shannon Kollasch",
+      "Lars Johnson & Rachel Zhou",
+      "Xiao Zhang & Deimante Tankus",
+      "Tristan Bachmann & Huibo Daisy Li"
+    ]
+  },
+  {
+    "name": "Adult Novice Rhythm  (CRS)",
+    "couples": [
+      "Peter Tran & Angelia Wang"
+    ]
+  },
+  {
+    "name": "Adult Bronze Rhythm  (CR)",
+    "couples": [
+      "Gunnar Thompson & Sabrina Lin",
+      "Darren Chen & Erica Lin",
+      "Colin Richter & Juliana Panelli",
+      "Gabriel Jones & Tiffany Huang",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Joseph Mohr & Lara Braverman",
+      "Jason Chiu & Shannon Kollasch",
+      "Jace Chen & Vivien Ng",
+      "Lars Johnson & Rachel Zhou",
+      "Luke Liu & Annika Pracher",
+      "Xiao Zhang & Deimante Tankus",
+      "James Tonks & Julia Whiting",
+      "Timothy Chin & Katie Bolan",
+      "Christian Pullings & Samantha Flannelly",
+      "Wen-hung Chou & Pin",
+      "Robin Whitesel & Yettif Campbell",
+      "Ji Hun Lee & Louise Barbossa"
+    ]
+  },
+  {
+    "name": "Adult Bronze Am. Swing  (S)",
+    "couples": [
+      "Colin Richter & Juliana Panelli",
+      "Jason Chiu & Shannon Kollasch",
+      "Gunnar Thompson & Sabrina Lin",
+      "Jace Chen & Vivien Ng",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Gabriel Jones & Tiffany Huang",
+      "Darren Chen & Erica Lin",
+      "Xiao Zhang & Deimante Tankus",
+      "Joseph Mohr & Lara Braverman",
+      "James Tonks & Julia Whiting",
+      "Timothy Chin & Katie Bolan",
+      "Lars Johnson & Rachel Zhou",
+      "Luke Liu & Annika Pracher",
+      "Christian Pullings & Samantha Flannelly",
+      "Chase Gunderud & Samantha Botros",
+      "Ji Hun Lee & Louise Barbossa",
+      "Wen-hung Chou & Pin"
+    ]
+  },
+  {
+    "name": "Adult Bronze Am. Mambo  (M)",
+    "couples": [
+      "Gunnar Thompson & Sabrina Lin",
+      "Colin Richter & Juliana Panelli",
+      "Gabriel Jones & Tiffany Huang",
+      "Darren Chen & Erica Lin",
+      "Chase Gunderud & Samantha Botros",
+      "Jason Chiu & Shannon Kollasch",
+      "Joseph Mohr & Lara Braverman",
+      "Timothy Chin & Katie Bolan",
+      "Lars Johnson & Rachel Zhou",
+      "James Tonks & Julia Whiting",
+      "Xiao Zhang & Deimante Tankus",
+      "Ji Hun Lee & Louise Barbossa",
+      "Wen-hung Chou & Pin"
+    ]
+  },
+  {
+    "name": "Adult Gold Rhythm  (CRSM)",
+    "couples": [
+      "Kevin Li & Kaitlin McLean",
+      "Jerome Dyson & Tiffany Jeung",
+      "Timothy Bagiackas & Lia Triscari"
+    ]
+  },
+  {
+    "name": "Adult Pre-Champ Rhythm  (CRSB)",
+    "couples": [
+      "Peter Tran & Angelia Wang"
+    ]
+  },
+  {
+    "name": "Adult Silver Latin  (CR)",
+    "couples": [
+      "Gunnar Thompson & Raina Petersen",
+      "Kevin Li & Kaitlin McLean",
+      "Colin Richter & Juliana Panelli",
+      "Darren Chen & Erica Lin",
+      "huaran liu & Sarah Godfrey",
+      "Gabriel Jones & Carol Wang",
+      "Timothy Bagiackas & Lia Triscari",
+      "Carol Lockwood & Odette Suter",
+      "Chase Gunderud & Page Kirkpatrick",
+      "James Tonks & Julia Whiting",
+      "Timothy Chin & Katie Bolan"
+    ]
+  },
+  {
+    "name": "Adult Silver Latin  (SJ)",
+    "couples": [
+      "Gunnar Thompson & Raina Petersen",
+      "Darren Chen & Erica Lin",
+      "Kevin Li & Kaitlin McLean",
+      "Colin Richter & Juliana Panelli",
+      "Gabriel Jones & Carol Wang",
+      "Timothy Bagiackas & Lia Triscari",
+      "huaran liu & Sarah Godfrey",
+      "Carol Lockwood & Odette Suter",
+      "Chase Gunderud & Page Kirkpatrick",
+      "James Tonks & Julia Whiting",
+      "Timothy Chin & Katie Bolan"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Jason Chiu & Shannon Kollasch",
+      "Joseph Mohr & Tiffany Huang",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Lars Johnson & Rachel Zhou",
+      "Xiao Zhang & Deimante Tankus",
+      "Alex Ionkov & Keeley Collins",
+      "Luke Liu & Annika Pracher"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Joseph Mohr & Tiffany Huang",
+      "Jason Chiu & Shannon Kollasch",
+      "Lars Johnson & Rachel Zhou",
+      "Xiao Zhang & Deimante Tankus",
+      "Alex Ionkov & Keeley Collins"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Jason Chiu & Shannon Kollasch",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Joseph Mohr & Tiffany Huang",
+      "Xiao Zhang & Deimante Tankus",
+      "Lars Johnson & Rachel Zhou",
+      "Luke Liu & Annika Pracher",
+      "Alex Ionkov & Keeley Collins"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Jason Chiu & Shannon Kollasch",
+      "Lars Johnson & Rachel Zhou",
+      "Joseph Mohr & Tiffany Huang",
+      "Luke Liu & Annika Pracher",
+      "Xiao Zhang & Deimante Tankus"
+    ]
+  },
+  {
+    "name": "Adult Bronze Latin  (CR)",
+    "couples": [
+      "huaran liu & Sarah Godfrey",
+      "Colin Richter & Juliana Panelli",
+      "Darren Chen & Erica Lin",
+      "Carol Wang & Tiffany Huang",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Jason Chiu & Shannon Kollasch",
+      "Joseph Mohr & Lara Braverman",
+      "Jace Chen & Vivien Ng",
+      "Chase Gunderud & Samantha Botros",
+      "James Tonks & Julia Whiting",
+      "Xiao Zhang & Deimante Tankus",
+      "Lars Johnson & Rachel Zhou",
+      "Alex Ionkov & Keeley Collins",
+      "Caleb Diny & Audrey Fetsko",
+      "Luke Liu & Annika Pracher",
+      "Ji Hun Lee & Louise Barbossa",
+      "Timothy Chin & Katie Bolan",
+      "Christian Pullings & 113 zNew_Follow",
+      "Bobby Martinez & Yettif Campbell",
+      "Wen-hung Chou & Pin"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. Samba  (S)",
+    "couples": [
+      "Darren Chen & Erica Lin",
+      "Carol Wang & Tiffany Huang",
+      "Colin Richter & Juliana Panelli",
+      "huaran liu & Sarah Godfrey",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "Jason Chiu & Shannon Kollasch",
+      "Joseph Mohr & Lara Braverman",
+      "Alex Ionkov & Keeley Collins",
+      "Jace Chen & Vivien Ng",
+      "Lars Johnson & Rachel Zhou",
+      "Chase Gunderud & Samantha Botros",
+      "Xiao Zhang & Deimante Tankus",
+      "Timothy Chin & Katie Bolan",
+      "Ji Hun Lee & Louise Barbossa",
+      "James Tonks & Julia Whiting",
+      "Caleb Diny & Audrey Fetsko",
+      "Christian Pullings & 113 zNew_Follow",
+      "Bobby Martinez & Yettif Campbell",
+      "Wen-hung Chou & Pin"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. Jive  (J)",
+    "couples": [
+      "Darren Chen & Erica Lin",
+      "Colin Richter & Juliana Panelli",
+      "Tristan Bachmann & Huibo Daisy Li",
+      "huaran liu & Sarah Godfrey",
+      "Lars Johnson & Rachel Zhou",
+      "Joseph Mohr & Lara Braverman",
+      "Xiao Zhang & Deimante Tankus",
+      "Carol Wang & Tiffany Huang",
+      "Jason Chiu & Shannon Kollasch",
+      "Jace Chen & Vivien Ng",
+      "Chase Gunderud & Samantha Botros",
+      "Timothy Chin & Katie Bolan",
+      "Luke Liu & Annika Pracher",
+      "James Tonks & Julia Whiting",
+      "Caleb Diny & Audrey Fetsko",
+      "Christian Pullings & 113 zNew_Follow",
+      "Bobby Martinez & Yettif Campbell",
+      "Ji Hun Lee & Louise Barbossa",
+      "Wen-hung Chou & Pin"
+    ]
+  },
+  {
+    "name": "Adult Championship Latin  (SCRPJ)",
+    "couples": [
+      "Omar Mirza & Aziza Suleymanzade"
+    ]
+  },
+  {
+    "name": "Adult Gold Latin  (SCRJ)",
+    "couples": [
+      "Gunnar Thompson & Raina Petersen",
+      "Kevin Li & Kaitlin McLean",
+      "Timothy Bagiackas & Lia Triscari",
+      "Gabriel Jones & Carol Wang"
+    ]
+  },
+  {
+    "name": "Adult Syllabus Intl. Paso Doble  (P)",
+    "couples": [
+      "Gunnar Thompson & Raina Petersen",
+      "Chase Gunderud & Page Kirkpatrick",
+      "Gabriel Jones & Carol Wang"
+    ]
+  }
+]

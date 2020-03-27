@@ -1,0 +1,684 @@
+[
+  {
+    "name": "AMATEUR Adulte Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Mitch Shum-Lok & Nitasha Remtoula",
+      "Sebastien Chow & Carolanne Claveau"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Argent Ballroom  (WTQ)",
+    "couples": [
+      "Rejean Goudreau & Claire Desmarais"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior IV Or Ballroom  (WTQ)",
+    "couples": [
+      "Tino Panone & Carmela Davella"
+    ]
+  },
+  {
+    "name": "AMATEUR Adulte Bronze Bloc 2 Ballroom  (FV)",
+    "couples": [
+      "Mitch Shum-Lok & Nitasha Remtoula"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior III Or Bloc 2 Ballroom  (FV)",
+    "couples": [
+      "Marc Brodeur & Brigitte Samson"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior IV Or Bloc 2 Ballroom  (FV)",
+    "couples": [
+      "Tino Panone & Carmela Davella"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Sacha Frick & Daniela Rosculet"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Tristan Guilbault & Gabryelle Caissie Jodoin"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior III Argent Ballroom  (WTQ)",
+    "couples": [
+      "Rejean Goudreau & Claire Desmarais"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior II Or Ballroom  (WTQ)",
+    "couples": [
+      "Christian Cloutier & Madelaine Dore",
+      "Marc Brodeur & Brigitte Samson"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Sacha Frick & Daniela Rosculet"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Tristan Guilbault & Gabryelle Caissie Jodoin"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior II Argent Ballroom  (WTQ)",
+    "couples": [
+      "Rejean Goudreau & Claire Desmarais"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior III Or Ballroom  (WTQ)",
+    "couples": [
+      "Marc Brodeur & Brigitte Samson",
+      "Tino Panone & Carmela Davella"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior II Or Bloc 2 Ballroom  (FV)",
+    "couples": [
+      "Christian Cloutier & Madelaine Dore",
+      "Marc Brodeur & Brigitte Samson"
+    ]
+  },
+  {
+    "name": "AMATEUR Championnat 15 - Bronze et Moins Ballroom  (WQ)",
+    "couples": [
+      "Sacha Frick & Daniela Rosculet",
+      "Tristan Guilbault & Gabryelle Caissie Jodoin"
+    ]
+  },
+  {
+    "name": "AMATEUR Championnat 16 + Bronze et Moins Ballroom  (WQ)",
+    "couples": [
+      "Mitch Shum-Lok & Nitasha Remtoula",
+      "Sebastien Chow & Carolanne Claveau"
+    ]
+  },
+  {
+    "name": "AMATEUR Championnat 16 + Argent et Or Ballroom  (WQ)",
+    "couples": [
+      "Christian Cloutier & Madelaine Dore",
+      "Marc Brodeur & Brigitte Samson",
+      "Tino Panone & Carmela Davella"
+    ]
+  },
+  {
+    "name": "SOLO 15 ans et moins Bronze et Moins Intl. Cha Cha  (C)",
+    "couples": [
+      "Stephanie He & Stephanie He",
+      "Alyssa Lavaliere & Alyssa Lavaliere",
+      "Kevin Cerneavschi & Kevin Cerneavschi",
+      "Nova Fontaine & Nova Fontaine",
+      "Mahelie Caron & Mahelie Caron",
+      "Daniel Ciobanu & Daniel Ciobanu",
+      "Laure-Anne Leclerc & Laure",
+      "Evelina Timbrilo & Evelina Timbrilo",
+      "Lea-Rose Boutin & Lea"
+    ]
+  },
+  {
+    "name": "SOLO 15 ans et moins Bronze et Moins Intl. Samba  (S)",
+    "couples": [
+      "Alyssa Lavaliere & Alyssa Lavaliere",
+      "Stephanie He & Stephanie He",
+      "Kevin Cerneavschi & Kevin Cerneavschi",
+      "Mahelie Caron & Mahelie Caron",
+      "Nova Fontaine & Nova Fontaine",
+      "Evelina Timbrilo & Evelina Timbrilo",
+      "Daniel Ciobanu & Daniel Ciobanu",
+      "Laure-Anne Leclerc & Laure",
+      "Lea-Rose Boutin & Lea"
+    ]
+  },
+  {
+    "name": "SOLO 15 ans et moins Bronze et Moins Intl. Rumba  (R)",
+    "couples": [
+      "Stephanie He & Stephanie He",
+      "Alyssa Lavaliere & Alyssa Lavaliere",
+      "Kevin Cerneavschi & Kevin Cerneavschi",
+      "Mahelie Caron & Mahelie Caron",
+      "Nova Fontaine & Nova Fontaine",
+      "Daniel Ciobanu & Daniel Ciobanu",
+      "Laure-Anne Leclerc & Laure",
+      "Evelina Timbrilo & Evelina Timbrilo"
+    ]
+  },
+  {
+    "name": "SOLO 15 ans et moins Bronze et Moins Intl. Jive  (J)",
+    "couples": [
+      "Kevin Cerneavschi & Kevin Cerneavschi",
+      "Stephanie He & Stephanie He",
+      "Alyssa Lavaliere & Alyssa Lavaliere",
+      "Nova Fontaine & Nova Fontaine",
+      "Mahelie Caron & Mahelie Caron",
+      "Evelina Timbrilo & Evelina Timbrilo",
+      "Daniel Ciobanu & Daniel Ciobanu"
+    ]
+  },
+  {
+    "name": "AM/AM PROFICIENCY Junior Or Latin  (CRS)",
+    "couples": [
+      "Vincent Corriveau & Estel Langevin"
+    ]
+  },
+  {
+    "name": "AMATEUR/AMATEUR Juvenile Debutant Latin  (CR)",
+    "couples": [
+      "Olesksiv Kioresku & Evelina Timbrilo"
+    ]
+  },
+  {
+    "name": "AMATEUR/AMATEUR Junior Bronze Latin  (CRS)",
+    "couples": [
+      "David Figueroa & Sisi Hu"
+    ]
+  },
+  {
+    "name": "AMATEUR/AMATEUR Jeunesse Bronze Latin  (CRS)",
+    "couples": [
+      "Maxime Laforest & Alicia Lamarre"
+    ]
+  },
+  {
+    "name": "AMATEUR/AMATEUR Jeunesse Bronze Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Maxime Laforest & Alicia Lamarre"
+    ]
+  },
+  {
+    "name": "AMATEUR/AMATEUR Junior Or Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Vincent Corriveau & Estel Langevin"
+    ]
+  },
+  {
+    "name": "AMATEUR/AMATEUR Juvenile Pre-Bronze Latin  (CRS)",
+    "couples": [
+      "Olesksiv Kioresku & Evelina Timbrilo"
+    ]
+  },
+  {
+    "name": "AMATEUR/AMATEUR Junior Pre-Bronze Latin  (CRS)",
+    "couples": [
+      "David Figueroa & Sisi Hu"
+    ]
+  },
+  {
+    "name": "AMATEUR/AMATEUR Jeunesse Pre-Bronze Latin  (CRS)",
+    "couples": [
+      "Maxime Laforest & Alicia Lamarre"
+    ]
+  },
+  {
+    "name": "AMATEUR/AMATEUR Junior Or Latin  (CRS)",
+    "couples": [
+      "Vincent Corriveau & Estel Langevin"
+    ]
+  },
+  {
+    "name": "AM/AM PROFICIENCY Junior Or Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Vincent Corriveau & Estel Langevin"
+    ]
+  },
+  {
+    "name": "SOLO Championnat 15 - Bronze et Moins Latin  (CS)",
+    "couples": [
+      "Stephanie He & Stephanie He",
+      "Alyssa Lavaliere & Alyssa Lavaliere",
+      "Kevin Cerneavschi & Kevin Cerneavschi",
+      "Nova Fontaine & Nova Fontaine",
+      "Mahelie Caron & Mahelie Caron",
+      "Evelina Timbrilo & Evelina Timbrilo",
+      "Daniel Ciobanu & Daniel Ciobanu",
+      "Laure-Anne Leclerc & Laure",
+      "Lea-Rose Boutin & Lea"
+    ]
+  },
+  {
+    "name": "AMATEUR Adulte Bronze Latin  (CSR)",
+    "couples": [
+      "Francois Mc Brearthy & Aryanne L`heureux"
+    ]
+  },
+  {
+    "name": "SOLO Championnat 15 - Argent et Or Latin  (CS)",
+    "couples": [
+      "Alyssa Lavaliere & Alyssa Lavaliere",
+      "Nova Fontaine & Nova Fontaine",
+      "Mahelie Caron & Mahelie Caron"
+    ]
+  },
+  {
+    "name": "SOLO Championnat 16 + Argent et Or Latin  (CS)",
+    "couples": [
+      "Claire Desmarais & Claire Desmarais"
+    ]
+  },
+  {
+    "name": "AMATEUR/AMATEUR Adulte Bronze Latin  (CSR)",
+    "couples": [
+      "David Figueroa & Liana Pampena"
+    ]
+  },
+  {
+    "name": "AMATEUR/AMATEUR Adulte Pre-Bronze Latin  (CRS)",
+    "couples": [
+      "David Figueroa & Liana Pampena"
+    ]
+  },
+  {
+    "name": "SOLO 16 ans et plus Agent et Or Intl. Cha Cha  (C)",
+    "couples": [
+      "Claire Desmarais & Claire Desmarais"
+    ]
+  },
+  {
+    "name": "SOLO 16 ans et plus Agent et Or Intl. Samba  (S)",
+    "couples": [
+      "Claire Desmarais & Claire Desmarais"
+    ]
+  },
+  {
+    "name": "SOLO 16 ans et plus Agent et Or Intl. Rumba  (R)",
+    "couples": [
+      "Claire Desmarais & Claire Desmarais"
+    ]
+  },
+  {
+    "name": "SOLO 16 ans et plus Agent et Or Intl. Jive  (J)",
+    "couples": [
+      "Claire Desmarais & Claire Desmarais"
+    ]
+  },
+  {
+    "name": "AMATEUR Adulte Argent Latin  (CRS)",
+    "couples": [
+      "Michel Sevigny & Annie Demers",
+      "Mike Williamson & Nathalie Gagnier",
+      "Marco Berube & Carmela Fontanelli",
+      "Daniel Raymond & France Bouchard",
+      "Michel Chiocchio & Nathalie Gendron",
+      "Francois Mc Brearthy & Aryanne L`heureux",
+      "Mitch Shum-Lok & Nitasha Remtoula"
+    ]
+  },
+  {
+    "name": "AMATEUR Adulte Argent Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Mike Williamson & Nathalie Gagnier",
+      "Michel Chiocchio & Nathalie Gendron",
+      "Mitch Shum-Lok & Nitasha Remtoula"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile Preliminaire Latin  (CS)",
+    "couples": [
+      "Daniel Ciobanu & Emily Scafaru"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile Pre-Bronze Latin  (CSR)",
+    "couples": [
+      "Lonax Korembliem & Victoria Vinoaga",
+      "Kevin Cerneavschi & Cristiana Jasmina Rotazu",
+      "Grigoriy Semenchenko & Bianca Besliaga"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Argent Latin  (CRS)",
+    "couples": [
+      "Marco Berube & Carmela Fontanelli",
+      "Daniel Raymond & France Bouchard",
+      "Mike Williamson & Nathalie Gagnier",
+      "Michel Chiocchio & Nathalie Gendron",
+      "Michel Sevigny & Annie Demers"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Argent Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Michel Chiocchio & Nathalie Gendron",
+      "Mike Williamson & Nathalie Gagnier"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior II Or Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Marc Brodeur & Brigitte Samson",
+      "Stephane Legault & Rachel Gauthier"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior Pre-Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "AMATEUR Juvenile Bronze Latin  (CRS)",
+    "couples": [
+      "Sacha Frick & Daniela Rosculet"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior Bronze Latin  (CRS)",
+    "couples": [
+      "Tristan Guilbault & Gabryelle Caissie Jodoin"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile Bronze Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Sacha Frick & Daniela Rosculet"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior Bronze Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Tristan Guilbault & Gabryelle Caissie Jodoin"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior Argent Latin  (CRS)",
+    "couples": [
+      "Jasmin Cartier & Alycia Champoux",
+      "Cristian Racila & Boyana Doneva"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior Or Latin  (CRS)",
+    "couples": [
+      "Jordan Warran Levasseur & Gabrielle Guerra",
+      "Charles Ste-Marie & Selena Lazure",
+      "Philip Soitu & Felicia Rosca"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior Argent Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Jasmin Cartier & Alycia Champoux",
+      "Cristian Racila & Boyana Doneva"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior Or Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Philip Soitu & Felicia Rosca",
+      "Charles Ste-Marie & Selena Lazure"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior II Argent Latin  (CRS)",
+    "couples": [
+      "Daniel Raymond & France Bouchard",
+      "Marco Berube & Carmela Fontanelli",
+      "Michel Chiocchio & Nathalie Gendron",
+      "Michel Sevigny & Annie Demers"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior II Argent Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Daniel Raymond & France Bouchard",
+      "Michel Chiocchio & Nathalie Gendron"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior II Or Latin  (CSR)",
+    "couples": [
+      "Marc Brodeur & Brigitte Samson",
+      "Stephane Legault & Rachel Gauthier"
+    ]
+  },
+  {
+    "name": "AMATEUR Championnat 16 + Bronze et Moins Latin  (CS)",
+    "couples": [
+      "Francois Mc Brearthy & Aryanne L`heureux"
+    ]
+  },
+  {
+    "name": "AMATEUR Championnat 15 - Bronze et Moins Latin  (CS)",
+    "couples": [
+      "Lonax Korembliem & Victoria Vinoaga",
+      "Kevin Cerneavschi & Cristiana Jasmina Rotazu",
+      "Grigoriy Semenchenko & Bianca Besliaga",
+      "Daniel Ciobanu & Emily Scafaru",
+      "Sacha Frick & Daniela Rosculet",
+      "Tristan Guilbault & Gabryelle Caissie Jodoin"
+    ]
+  },
+  {
+    "name": "AMATEUR Championnat 15 - Argent et Or Latin  (CS)",
+    "couples": [
+      "Jordan Warran Levasseur & Gabrielle Guerra",
+      "Jasmin Cartier & Alycia Champoux",
+      "Charles Ste-Marie & Selena Lazure",
+      "Philip Soitu & Felicia Rosca",
+      "Cristian Racila & Boyana Doneva"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior III Ouvert Ballroom  (WTVFQ)",
+    "couples": [
+      "Xingmin Lu & Katerina Lu",
+      "Mario Nadeau & Danielle Nobert",
+      "Guy Joyal & Sylvie Lortie",
+      "Claude Guimond & Martine Guay",
+      "Karl Belanger & Chantale Arcand",
+      "Denis Renaud & Ginette Beaulieu",
+      "Robert Foucault & Marie",
+      "Michel Lafrance & Sylvie Cossette"
+    ]
+  },
+  {
+    "name": "AMATEUR Championnat 16 + Pre-Amateur Latin  (CRS)",
+    "couples": [
+      "Jonathan Test & Sarah",
+      "Tim Koulaev & Athina Damos Di Luzio",
+      "David Figueroa & Maria Margarita"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior III Pre-Amateur Bloc 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "AMATEUR Championnat 16 + Pre-Amateur Bloc 2 Latin  (PJ)",
+    "couples": [
+      "Jonathan Test & Sarah",
+      "David Figueroa & Maria Margarita"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior II Pre-Amateur Ballroom  (WTQ)",
+    "couples": [
+      "Stephane Legault & Rachel Gauthier"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior III Pre-Amateur Ballroom  (WTQ)",
+    "couples": [
+      "Michel Lafrance & Sylvie Cossette"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior II Pre-Amateur Bloc 2 Ballroom  (FV)",
+    "couples": [
+      "Stephane Legault & Rachel Gauthier"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior III Pre-Amateur Bloc 2 Ballroom  (FV)",
+    "couples": [
+      "Michel Lafrance & Sylvie Cossette"
+    ]
+  },
+  {
+    "name": "AMATEUR Championnat Junior Agent et Or Latin  (CRS)",
+    "couples": [
+      "Jordan Warran Levasseur & Gabrielle Guerra",
+      "Jasmin Cartier & Alycia Champoux"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior IV Pre-Amateur Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "AMATEUR Championnat 15 - Pre-Amateur Latin  (CRS)",
+    "couples": [
+      "Cyrus Salehabadi & Emilie Mariasova"
+    ]
+  },
+  {
+    "name": "AMATEUR Adulte Pre-Amateur Bloc 2 Latin  (PJ)",
+    "couples": [
+      "David Figueroa & Maria Margarita"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior IV Pre-Amateur Bloc 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "AMATEUR Senior IV Pre-Amateur Ballroom  (WTVFQ)",
+    "couples": []
+  },
+  {
+    "name": "AMATEUR Adulte Ouvert Ballroom  (WTVFQ)",
+    "couples": [
+      "Jonathan Test & Sarah",
+      "Sylvain Collette & Caroline Trudeau"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior IV Ouvert Ballroom  (WTVFQ)",
+    "couples": []
+  },
+  {
+    "name": "AMATEUR Senior II Ouvert Ballroom  (WTVFQ)",
+    "couples": [
+      "Xingmin Lu & Katerina Lu",
+      "Jean-Francois Rousseau & Nathalie Ladouceur",
+      "Mario Nadeau & Danielle Nobert",
+      "Guy Joyal & Sylvie Lortie",
+      "Cong Nguyen & Irina Fedortchenko",
+      "Karl Belanger & Chantale Arcand",
+      "Denis Renaud & Ginette Beaulieu",
+      "Stephane Legault & Rachel Gauthier",
+      "Robert Foucault & Marie",
+      "Stephane Lemay & Melanie Milette"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior Pre-Amateur Latin  (CRS)",
+    "couples": [
+      "Cyrus Salehabadi & Emilie Mariasova"
+    ]
+  },
+  {
+    "name": "AMATEUR Jeunesse Pre-Amateur Latin  (CRS)",
+    "couples": [
+      "Tim Koulaev & Athina Damos Di Luzio"
+    ]
+  },
+  {
+    "name": "AMATEUR Adulte Pre-Amateur Latin  (CRS)",
+    "couples": [
+      "David Figueroa & Maria Margarita",
+      "Yordan Ivanov & Jaclin Leontiev"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior III Pre-Amateur Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "AMATEUR Championnat 16 + Ouvert Ballroom  (WTVFQ)",
+    "couples": [
+      "Jonathan Test & Sarah",
+      "Francis Gauthier & Anouck Fournier",
+      "Sylvain Collette & Caroline Trudeau"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Ouvert Ballroom  (WTVFQ)",
+    "couples": [
+      "Francis Gauthier & Anouck Fournier",
+      "Sylvain Collette & Caroline Trudeau",
+      "Cong Nguyen & Irina Fedortchenko",
+      "Stephane Lemay & Melanie Milette"
+    ]
+  },
+  {
+    "name": "AMATEUR Championnat 16 + Argent et Or Latin  (CS)",
+    "couples": [
+      "Marc Brodeur & Brigitte Samson",
+      "Francois Mc Brearthy & Aryanne L`heureux",
+      "Marco Berube & Carmela Fontanelli",
+      "Mike Williamson & Nathalie Gagnier",
+      "Michel Sevigny & Annie Demers",
+      "Michel Chiocchio & Nathalie Gendron",
+      "Stephane Legault & Rachel Gauthier",
+      "Daniel Raymond & France Bouchard"
+    ]
+  },
+  {
+    "name": "AMATEUR Adulte Ouvert Latin  (CSRPJ)",
+    "couples": [
+      "Marco Tremblay Brosseau & Emmy Chladek",
+      "Maxime Laforest & Fijie Hering",
+      "Bruno Ruberto & Emma Rousseau"
+    ]
+  },
+  {
+    "name": "AMATEUR Jeunesse Ouvert Latin  (CSRPJ)",
+    "couples": [
+      "Raul Sulea & Paula Golban"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Ouvert Latin  (CSRPJ)",
+    "couples": [
+      "Francis Gauthier & Anouck Fournier"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior III Ouvert Latin  (CSRPJ)",
+    "couples": [
+      "Denis Renaud & Ginette Beaulieu"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior II Ouvert Latin  (CSRPJ)",
+    "couples": [
+      "Jean-Francois Rousseau & Nathalie Ladouceur",
+      "Denis Renaud & Ginette Beaulieu",
+      "Stephane Lemay & Melanie Milette"
+    ]
+  },
+  {
+    "name": "AMATEUR Championnat 16 + Ouvert Latin  (CSRPJ)",
+    "couples": [
+      "Vincent Corriveau & Bianca Champagne",
+      "Marco Tremblay Brosseau & Emmy Chladek",
+      "Olesksiv Kioresku & Anastasiia Kioresku",
+      "Maxime Laforest & Fijie Hering",
+      "Bruno Ruberto & Emma Rousseau",
+      "Raul Sulea & Paula Golban",
+      "Francis Gauthier & Anouck Fournier"
+    ]
+  }
+]

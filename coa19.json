@@ -1,0 +1,1653 @@
+[
+  {
+    "name": "~-- Combine -- Adult B2 Full Gold ~Intl. Multi-Dance  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Ryan Anderson & Lynnette McDonald"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior II Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "Dominic Lacroix & Erin Widmark"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents CLOSED Adult A1 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Alexander Chan & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior II Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Dominic Lacroix & Erin Widmark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Int. Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Ryan Anderson & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior I Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "Dominic Lacroix & Reese Anderson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "Ryan Anderson & Lynnette McDonald"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents CLOSED Adult B2 Int. Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Full Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Ryan Anderson & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior I Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Dominic Lacroix & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Junior I Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Kevin Lee & Crysta Lam"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents CLOSED Adult B2 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan Anderson & Lynnette McDonald"
+    ]
+  },
+  {
+    "name": "Stu/Stu OPEN Junior I Int. Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Maxim Scheck & Anna Mochalov"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Int. Gold Intl. Tango  (T)",
+    "couples": [
+      "Ryan Anderson & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents CLOSED Adult B2 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Int. Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Ryan Anderson & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents CLOSED Adult B2 Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Junior II Pre-Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Kevin Lee & Lilia Belobrova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior II Full Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Dominic Lacroix & Erin Widmark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Junior I Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Kevin Lee & Crysta Lam"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Int. Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan Anderson & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Junior I Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Kevin Lee & Nelya Stoiko"
+    ]
+  },
+  {
+    "name": "Stu/Stu OPEN Junior I Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "Maxim Scheck & Anna Mochalov"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Full Gold Intl. Waltz  (W)",
+    "couples": [
+      "Ryan Anderson & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Full Gold Intl. Tango  (T)",
+    "couples": [
+      "Ryan Anderson & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents CLOSED Adult A1 Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Alexander Chan & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior I Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Dominic Lacroix & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Full Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Ryan Anderson & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Full Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan Anderson & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "David Joseph & Nancy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Full Gold Am. Waltz  (W)",
+    "couples": [
+      "Bryan Senn & Laura Watson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Pre-Champ Am. Waltz  (W)",
+    "couples": [
+      "Thu Luu & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "David Joseph & Nancy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Pre-Silver Am. Tango  (T)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Pre-Champ Am. Tango  (T)",
+    "couples": [
+      "Thu Luu & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Pre-Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Pre-Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Pre-Champ Am. V. Waltz  (V)",
+    "couples": [
+      "Thu Luu & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "David Joseph & Nancy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Open Gold Am. Waltz  (W)",
+    "couples": [
+      "Bryan Senn & Laura Watson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Championship Am. Waltz  (W)",
+    "couples": [
+      "Thu Luu & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "David Joseph & Nancy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Pre-Silver Am. Tango  (T)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Championship Am. Tango  (T)",
+    "couples": [
+      "Thu Luu & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Full Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Bryan Senn & Laura Watson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Pre-Champ Am. Foxtrot  (F)",
+    "couples": [
+      "Thu Luu & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Pre-Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Championship Am. V. Waltz  (V)",
+    "couples": [
+      "Thu Luu & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "David Joseph & Nancy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Pre-Silver Am. Waltz  (W)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "David Joseph & Nancy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Open Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Bryan Senn & Laura Watson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B2 Championship Am. Foxtrot  (F)",
+    "couples": [
+      "Thu Luu & Beverly Yee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Pre-Silver Am. Waltz  (W)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Pre-Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Adult C Full Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "STU Multi-Dance Under 18 Pre-Silver Ballroom  (WTQ)",
+    "couples": [
+      "Kevin Lee & Lilia Belobrova"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Pre-Bronze 2 Dance Ballroom  (WT)",
+    "couples": [
+      "Grigory Litvinov & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Bronze (Bloc 2) Ballroom  (FV)",
+    "couples": [
+      "Ian Edwards & Winnie Ng"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Adult B Int. Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Ryan Anderson & Lynnette McDonald"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Adult A Full Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Alexander Chan & Grace Lau"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Pre-Bronze 2 Dance Ballroom  (WT)",
+    "couples": [
+      "Grigory Litvinov & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Bronze (Bloc 2) Ballroom  (FV)",
+    "couples": [
+      "Ian Edwards & Winnie Ng"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Under 18 Int. Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Dominic Lacroix & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Adult A Int. Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Alexander Chan & Grace Lau"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Grigory Litvinov & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Ian Edwards & Winnie Ng"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Adult C Int. Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Under 18 Full Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Dominic Lacroix & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Grigory Litvinov & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Ian Edwards & Winnie Ng"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Adult B1 Beginner Country Waltz  (W)",
+    "couples": [
+      "Michael Pollock & Laura Watson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Beginner Country Waltz  (W)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Beginner Country Cha Cha  (C)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Adult B1 Beginner Country EC Swing  (E)",
+    "couples": [
+      "Michael Pollock & Laura Watson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Beginner Country EC Swing  (E)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Beginner Country WC Swing  (S)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Adult B1 Beginner Country Two-Step  (2)",
+    "couples": [
+      "Michael Pollock & Laura Watson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Beginner Country Two-Step  (2)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Adult B1 Beginner Country NCS  (N)",
+    "couples": [
+      "Michael Pollock & Laura Watson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Beginner Country NCS  (N)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Beginner Country Polka  (P)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Adult B1 Beginner Country DB Shuffle  (D)",
+    "couples": [
+      "Michael Pollock & Laura Watson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Beginner Country DB Shuffle  (D)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Beginner Country Waltz  (W)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Adult B1 Beginner Country Cha Cha  (C)",
+    "couples": [
+      "Michael Pollock & Laura Watson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Beginner Country Cha Cha  (C)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Beginner Country EC Swing  (E)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Adult B1 Beginner Country WC Swing  (S)",
+    "couples": [
+      "Michael Pollock & Laura Watson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Beginner Country WC Swing  (S)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Beginner Country Two-Step  (2)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Beginner Country NCS  (N)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Beginner Country Polka  (P)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Beginner Country DB Shuffle  (D)",
+    "couples": [
+      "Bryan Senn & Sharon Comstock"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 1 Beginner 1 Dance Intl. Waltz  (W)",
+    "couples": [
+      "Isabella Cowper-Smith & Isabella Cowper",
+      "Emmeline Harris & Emmeline Harris",
+      "Alena Srivastava & Alena Srivastava",
+      "Paulina Levita & Paulina Levita",
+      "Maximilian Petrov & Maximilian Petrov"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 2 Beginner 1 Dance Intl. Waltz  (W)",
+    "couples": [
+      "Naomi Charabin & Naomi Charabin",
+      "Kendell Higginson & Kendell Higginson"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 1 Pre-Bronze 2 Dance Ballroom  (WT)",
+    "couples": [
+      "Ryley Tokunaga & Ryley Tokunaga",
+      "Alexander Kantypowicz & Alexander Kantypowicz",
+      "Molly Feehan & Molly Feehan",
+      "Rowyn Elliott & Rowyn Elliott",
+      "Maria Fonseca & Maria Fonseca",
+      "Mariza Castro & Mariza Castro",
+      "Uldon Witts & Uldon Witts"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 1 Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Alin Todea & Sophia Moangher",
+      "Jekabs Jaudzems & Kristina Smadych",
+      "Dimitry Podgainyy & Amelia Basyul",
+      "Lev Yakuba & Milana Kosobutsky"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Marko Lepki & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Oleg Denishchitch & Francesca Costante"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior II Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Sean Padmore & Nelya Stoiko"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Juvenile 1 Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Lida Higham Sparrow & Ellie Morison"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 1 Beginner 1 Dance Intl. Waltz  (W)",
+    "couples": [
+      "Maxim Turkestanov & Anna Tepliakova",
+      "Yannick Grendar & Annika Beattie",
+      "Alexander Kantypowicz & Ryley Tokunaga",
+      "Vlad Kryzhanivskyi & Isabella Jibritchi",
+      "Uldon Witts & Molly Feehan"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Junior I Beginner 1 Dance Intl. Waltz  (W)",
+    "couples": [
+      "Kaylynn Schindelka & Kendell Higginson"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 1 Pre-Bronze 2 Dance Ballroom  (WT)",
+    "couples": [
+      "Dimitry Podgainyy & Amelia Basyul",
+      "Lev Yakuba & Milana Kosobutsky"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Pre-Bronze 2 Dance Ballroom  (WT)",
+    "couples": [
+      "Marko Lepki & Ellie Morison"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 2 Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Daniel Bibic & Jersey Rehman"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 1 Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Alin Todea & Sophia Moangher",
+      "Jekabs Jaudzems & Kristina Smadych"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Juvenile 1 Pre-Bronze 2 Dance Ballroom  (WT)",
+    "couples": [
+      "Mariza Castro & Ryley Tokunaga"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Junior I Pre-Bronze 2 Dance Ballroom  (WT)",
+    "couples": [
+      "Lucia Lugo & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Juvenile 1 Beginner 1 Dance Intl. Waltz  (W)",
+    "couples": [
+      "Mariza Castro & Rowyn Elliott"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Juvenile 2 Beginner 1 Dance Intl. Waltz  (W)",
+    "couples": [
+      "Isabel Feehan & Maria Fonseca",
+      "Lida Higham Sparrow & Kendell Higginson"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Patrick Buscu & Maria Cernat"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 2 Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Ellie Morison & Ellie Morison",
+      "Lida Higham Sparrow & Lida Higham Sparrow"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Junior I Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Marko Lepki & Marko Lepki",
+      "Lucia Lugo & Lucia Lugo"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 2 Pre-Bronze 2 Dance Ballroom  (WT)",
+    "couples": [
+      "Isabel Feehan & Isabel Feehan"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Junior I Pre-Bronze 2 Dance Ballroom  (WT)",
+    "couples": [
+      "Kaylynn Schindelka & Kaylynn Schindelka"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 2 Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Kaitlin Sali & Kaitlin Sali"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Pre-Champ (Bloc 2) Ballroom  (FV)",
+    "couples": [
+      "Patrick Buscu & Maria Cernat"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Silver Ballroom  (WTQ)",
+    "couples": [
+      "Oleg Denishchitch & Francesca Costante"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 2 Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Alexey Petrashkevich & Victoria Robertson"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Junior I Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Lida Higham Sparrow & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Junior I Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Reese Anderson & Crysta Lam"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Junior II Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Teagan Leganchuk & Kaia Mace"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Championship Ballroom  (WTVFQ)",
+    "couples": [
+      "Patrick Buscu & Maria Cernat"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior I Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Dominic Lacroix & Reese Anderson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Int. Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Jessel Yap & Tatiana Vrbancic"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult A1 Pre-Champ Intl. Cha Cha  (C)",
+    "couples": [
+      "Anthony Grafton & Greta Farr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B1 Championship Intl. Cha Cha  (C)",
+    "couples": [
+      "Ryan Anderson & Teresa Leung"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior I Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Dominic Lacroix & Reese Anderson"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Junior I Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Kevin Lee & Crysta Lam"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents CLOSED Adult B2 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult A1 Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Dominic Lacroix & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Int. Silver Intl. Rumba  (R)",
+    "couples": [
+      "Jessel Yap & Tatiana Vrbancic"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult A1 Pre-Champ Intl. Rumba  (R)",
+    "couples": [
+      "Anthony Grafton & Greta Farr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B1 Championship Intl. Rumba  (R)",
+    "couples": [
+      "Ryan Anderson & Teresa Leung"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult A1 Full Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Anthony Grafton & Halee Grimsdale"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B1 Championship Intl. Paso Doble  (P)",
+    "couples": [
+      "Ryan Anderson & Teresa Leung"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult A1 Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Dominic Lacroix & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Junior I Int. Bronze Intl. Jive  (J)",
+    "couples": [
+      "Kevin Lee & Nelya Stoiko"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult A1 Pre-Champ Intl. Jive  (J)",
+    "couples": [
+      "Anthony Grafton & Greta Farr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B1 Championship Intl. Jive  (J)",
+    "couples": [
+      "Ryan Anderson & Teresa Leung"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult A1 Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Dominic Lacroix & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Junior I Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Kevin Lee & Crysta Lam"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Pre-Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Jessel Yap & Tatiana Vrbancic"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult A2 Pre-Champ Intl. Cha Cha  (C)",
+    "couples": [
+      "Anthony Grafton & Greta Farr"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents CLOSED Adult B2 Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior I Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Dominic Lacroix & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult A2 Pre-Champ Intl. Samba  (S)",
+    "couples": [
+      "Anthony Grafton & Greta Farr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult B1 Championship Intl. Samba  (S)",
+    "couples": [
+      "Ryan Anderson & Teresa Leung"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult A2 Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Dominic Lacroix & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Pre-Silver Intl. Rumba  (R)",
+    "couples": [
+      "Jessel Yap & Tatiana Vrbancic"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult A2 Pre-Champ Intl. Rumba  (R)",
+    "couples": [
+      "Anthony Grafton & Greta Farr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult A1 Pre-Champ Intl. Paso Doble  (P)",
+    "couples": [
+      "Anthony Grafton & Greta Farr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult A2 Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Dominic Lacroix & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult A2 Pre-Champ Intl. Jive  (J)",
+    "couples": [
+      "Anthony Grafton & Greta Farr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult A2 Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Dominic Lacroix & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Junior I Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Kevin Lee & Nelya Stoiko"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Full Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Jessel Yap & Tatiana Vrbancic"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B1 Full Silver Intl. Rumba  (R)",
+    "couples": [
+      "Jessel Yap & Tatiana Vrbancic"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult A2 Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Dominic Lacroix & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents CLOSED Adult A1 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Alexander Chan & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult A1 Pre-Champ Intl. Samba  (S)",
+    "couples": [
+      "Anthony Grafton & Greta Farr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Pre-Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult A2 Pre-Champ Intl. Paso Doble  (P)",
+    "couples": [
+      "Anthony Grafton & Greta Farr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult A1 Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Dominic Lacroix & Volha Kasabutskaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents CLOSED Adult A1 Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Alexander Chan & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult A1 Full Silver Intl. Samba  (S)",
+    "couples": [
+      "Anthony Grafton & Halee Grimsdale"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Pre-Silver Am. Rumba  (R)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "David Joseph & Nancy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Pre-Silver Am. Swing  (S)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Stu/Stu CLOSED Junior II Pre-Silver Intl. Samba  (S)",
+    "couples": [
+      "Kevin Lee & Lilia Belobrova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior II Pre-Gold Intl. Samba  (S)",
+    "couples": [
+      "Dominic Lacroix & Erin Widmark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Pre-Silver Am. Bolero  (B)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Pre-Silver Am. Samba  (S)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior II Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Dominic Lacroix & Kaia Mace"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Pre-Silver Am. Rumba  (R)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "David Joseph & Nancy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Pre-Silver Am. Swing  (S)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Junior I Open Bronze Intl. Samba  (S)",
+    "couples": [
+      "Dominic Lacroix & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Pre-Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Pre-Silver Am. Bolero  (B)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Pre-Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Joseph & Nancy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult C1 Pre-Silver West Coast Swing  (W)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Pre-Silver Am. Samba  (S)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies CLOSED Adult B2 Int. Bronze West Coast Swing  (W)",
+    "couples": [
+      "David Joseph & Nancy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies OPEN Adult C1 Pre-Silver West Coast Swing  (W)",
+    "couples": [
+      "Bryan Senn & Barb Thomas"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Under 18 Int. Bronze Latin  (CRJ)",
+    "couples": [
+      "Dominic Lacroix & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Adult C Full Bronze Latin  (CRJ)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Bronze Latin  (CRS)",
+    "couples": [
+      "Ian Edwards & Winnie Ng"
+    ]
+  },
+  {
+    "name": "PA OPEN Multi-Dance A Prechamp to Champion Latin  (CSRPJ)",
+    "couples": [
+      "Anthony Grafton & Greta Farr",
+      "Dominic Lacroix & Sarah Kuntz",
+      "Ryan Anderson & Teresa Leung"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Adult C Open Bronze Latin  (CRJ)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "STU Multi-Dance Under 18 Pre-Silver Latin  (CRJ)",
+    "couples": [
+      "Kevin Lee & Lilia Belobrova"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Adult A Full Gold Latin  (CRJ)",
+    "couples": [
+      "Anthony Grafton & Halee Grimsdale"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Bronze Latin  (CRJ)",
+    "couples": [
+      "Ian Edwards & Winnie Ng"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Adult A Int. Bronze Latin  (CRJ)",
+    "couples": [
+      "Alexander Chan & Grace Lau"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Under 18 Full Bronze Latin  (CRJ)",
+    "couples": [
+      "Dominic Lacroix & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Adult C Int. Bronze Latin  (CRJ)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Under 18 Open Bronze Latin  (CRJ)",
+    "couples": [
+      "Dominic Lacroix & Kaia Mace"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Adult A Full Bronze Latin  (CRJ)",
+    "couples": [
+      "Alexander Chan & Grace Lau"
+    ]
+  },
+  {
+    "name": "PA Multi-Dance Under 18 Int. Gold Latin  (CRJ)",
+    "couples": [
+      "Dominic Lacroix & Erin Widmark"
+    ]
+  },
+  {
+    "name": "PA OPEN Multi-Dance B Silver to Gold Latin  (CRJ)",
+    "couples": []
+  },
+  {
+    "name": "AMATEUR Juvenile 1 Beginner 1 Dance Intl. Cha Cha  (C)",
+    "couples": [
+      "Maxim Turkestanov & Anna Tepliakova",
+      "Yannick Grendar & Annika Beattie",
+      "Andrew Buscu & Payton Wampler",
+      "Vlad Kryzhanivskyi & Isabella Jibritchi",
+      "Uldon Witts & Maria Fonseca",
+      "Alexander Kantypowicz & Mariza Castro"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Juvenile 2 Beginner 1 Dance Intl. Cha Cha  (C)",
+    "couples": [
+      "Isabel Feehan & Rowyn Elliott"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 1 Bronze Latin  (CRS)",
+    "couples": [
+      "Lucas Goje & Katerina Minassian",
+      "Alin Todea & Sophia Moangher",
+      "Jekabs Jaudzems & Kristina Smadych"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 2 Bronze Latin  (CRS)",
+    "couples": [
+      "Kurtis Che & Bianca Lefebvre",
+      "Luca Andriescu & Shayla Harding",
+      "Roman Ushakov & Dasha Gleba",
+      "Daniel Swainson & Abbigail Shideler"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 1 Beginner 1 Dance Intl. Cha Cha  (C)",
+    "couples": [
+      "Isabella Cowper-Smith & Isabella Cowper",
+      "Emmeline Harris & Emmeline Harris",
+      "Maximilian Petrov & Maximilian Petrov",
+      "Alena Srivastava & Alena Srivastava",
+      "Uldon Witts & Uldon Witts"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 2 Beginner 1 Dance Intl. Cha Cha  (C)",
+    "couples": [
+      "Naomi Charabin & Naomi Charabin",
+      "Kendell Higginson & Kendell Higginson"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 1 Beginner 1 Dance Intl. Jive  (J)",
+    "couples": [
+      "Andrew Buscu & Payton Wampler",
+      "Maxim Turkestanov & Anna Tepliakova",
+      "Yannick Grendar & Annika Beattie",
+      "Vlad Kryzhanivskyi & Isabella Jibritchi"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Juvenile 1 Beginner 1 Dance Intl. Jive  (J)",
+    "couples": [
+      "Rowyn Elliott & Mariza Castro"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Juvenile 2 Beginner 1 Dance Intl. Jive  (J)",
+    "couples": [
+      "Isabel Feehan & Molly Feehan"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 1 Beginner Latin  (CJ)",
+    "couples": [
+      "Andrew Buscu & Payton Wampler",
+      "Maxim Turkestanov & Anna Tepliakova",
+      "Yannick Grendar & Annika Beattie",
+      "Alexander Kantypowicz & Mariza Castro",
+      "Uldon Witts & Molly Feehan"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 2 Pre-Bronze 2 Dance Latin  (CJ)",
+    "couples": [
+      "Daniel Swainson & Abbigail Shideler"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Juvenile 1 Pre-Bronze 2 Dance Latin  (CJ)",
+    "couples": [
+      "Ryley Tokunaga & Maria Fonseca"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Junior I Pre-Bronze 2 Dance Latin  (CJ)",
+    "couples": [
+      "Lucia Lugo & Kaylynn Schindelka"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 2 Pre-Bronze Latin  (CRJ)",
+    "couples": [
+      "Daniel Bibic & Jersey Rehman",
+      "Roman Ushakov & Dasha Gleba"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 1 Pre-Bronze 2 Dance Latin  (CJ)",
+    "couples": [
+      "Nikita Voskoboyinikov & Mia Obada",
+      "Andrew Buscu & Payton Wampler",
+      "Dimitry Podgainyy & Amelia Basyul",
+      "Lev Yakuba & Milana Kosobutsky"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Pre-Bronze 2 Dance Latin  (CJ)",
+    "couples": [
+      "Marko Lepki & Lida Higham Sparrow",
+      "Daniel Swainson & Abbigail Shideler"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Pre-Bronze Latin  (CRJ)",
+    "couples": [
+      "Marko Lepki & Ellie Morison",
+      "Roman Ushakov & Dasha Gleba"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 1 Pre-Bronze Latin  (CRJ)",
+    "couples": [
+      "Nikita Voskoboyinikov & Mia Obada",
+      "Maxim Turkestanov & Anna Tepliakova",
+      "Andrew Buscu & Payton Wampler",
+      "Yannick Grendar & Annika Beattie",
+      "Alin Todea & Sophia Moangher",
+      "Jekabs Jaudzems & Kristina Smadych",
+      "Dimitry Podgainyy & Amelia Basyul",
+      "Lev Yakuba & Milana Kosobutsky"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Junior I Pre-Bronze Latin  (CRJ)",
+    "couples": [
+      "Lucia Lugo & Lida Higham Sparrow"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Bronze Latin  (CRS)",
+    "couples": [
+      "Luca Andriescu & Shayla Harding",
+      "Michael Doroshenko & Alena Gavrilenko",
+      "Jack Bryant & Phy Armstrong",
+      "Roman Ushakov & Dasha Gleba"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Pre-Champ (Bloc 2) Latin  (PJ)",
+    "couples": [
+      "Patrick Buscu & Maria Cernat"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior II Pre-Champ (Bloc 2) Latin  (PJ)",
+    "couples": [
+      "Michael Jarosz & Margarita Shepelevich"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 1 Silver Latin  (CRS)",
+    "couples": [
+      "Lucas Goje & Katerina Minassian"
+    ]
+  },
+  {
+    "name": "AMATEUR Juvenile 2 Silver Latin  (CRS)",
+    "couples": [
+      "Kurtis Che & Bianca Lefebvre"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 1 Beginner Latin  (CJ)",
+    "couples": [
+      "Ryley Tokunaga & Ryley Tokunaga",
+      "Mariza Castro & Mariza Castro",
+      "Molly Feehan & Molly Feehan",
+      "Rowyn Elliott & Rowyn Elliott",
+      "Maria Fonseca & Maria Fonseca",
+      "Alexander Kantypowicz & Alexander Kantypowicz"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 2 Beginner Latin  (CJ)",
+    "couples": [
+      "Isabel Feehan & Isabel Feehan",
+      "Kendell Higginson & Kendell Higginson"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Junior I Bronze Latin  (CRS)",
+    "couples": [
+      "Reese Anderson & Johanna Chamberland"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior II Bronze Latin  (CRS)",
+    "couples": [
+      "Sean Padmore & Reese Anderson",
+      "Jack Bryant & Phy Armstrong"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Silver Latin  (CRS)",
+    "couples": [
+      "Kurtis Che & Bianca Lefebvre",
+      "Michael Doroshenko & Alena Gavrilenko"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Gold Latin  (CRS)",
+    "couples": [
+      "Dominik Jaudzems & Vanessa Buscu"
+    ]
+  },
+  {
+    "name": "AMATEUR (SAME GEN) Junior II Bronze Latin  (CRS)",
+    "couples": [
+      "Kaia Mace & Crysta Lam",
+      "Teagan Leganchuk & Nelya Stoiko"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 2 Pre-Bronze Latin  (CRJ)",
+    "couples": [
+      "Ellie Morison & Ellie Morison",
+      "Lida Higham Sparrow & Lida Higham Sparrow"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Junior I Pre-Bronze Latin  (CRJ)",
+    "couples": [
+      "Marko Lepki & Marko Lepki",
+      "Lucia Lugo & Lucia Lugo",
+      "Kaylynn Schindelka & Kaylynn Schindelka"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Juvenile 2 Bronze Latin  (CRS)",
+    "couples": [
+      "Kaitlin Sali & Kaitlin Sali"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Junior I Bronze Latin  (CRS)",
+    "couples": [
+      "Crysta Lam & Crysta Lam",
+      "Reese Anderson & Reese Anderson",
+      "Johanna Chamberland & Johanna Chamberland",
+      "Nelya Stoiko & Nelya Stoiko"
+    ]
+  },
+  {
+    "name": "AMATEUR (SOLO) Junior II Bronze Latin  (CRS)",
+    "couples": [
+      "Kaia Mace & Kaia Mace",
+      "Teagan Leganchuk & Teagan Leganchuk",
+      "Sean Padmore & Sean Padmore"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Championship Latin  (CSRPJ)",
+    "couples": [
+      "Patrick Buscu & Maria Cernat"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior II Championship Latin  (CSRPJ)",
+    "couples": [
+      "Michael Jarosz & Margarita Shepelevich"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Silver Ballroom  (WTQ)",
+    "couples": [
+      "Denis Lvov & Halee Grimsdale"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Yury Sorokin & Maryna Semenova",
+      "Richard Plana & Priscilla Wong"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Silver (Bloc 2) Ballroom  (FV)",
+    "couples": [
+      "Denis Lvov & Halee Grimsdale"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Pre-Champ (Bloc 2) Ballroom  (FV)",
+    "couples": [
+      "Yury Sorokin & Maryna Semenova",
+      "Richard Plana & Priscilla Wong"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Championship Ballroom  (WTVFQ)",
+    "couples": [
+      "Kevin Lee & Sheena Watanabe",
+      "Richard Plana & Priscilla Wong"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Gold Ballroom  (WTQ)",
+    "couples": [
+      "Denis Lvov & Halee Grimsdale"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Yury Sorokin & Maryna Semenova"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Gold (Bloc 2) Ballroom  (FV)",
+    "couples": [
+      "Denis Lvov & Halee Grimsdale"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Pre-Champ (Bloc 2) Ballroom  (FV)",
+    "couples": [
+      "Yury Sorokin & Maryna Semenova"
+    ]
+  },
+  {
+    "name": "PA OPEN Multi-Dance A Prechamp to Champion Ballroom  (WTVFQ)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz"
+    ]
+  },
+  {
+    "name": "AMATEUR Adult Championship Ballroom  (WTVFQ)",
+    "couples": [
+      "Kevin Lee & Sheena Watanabe"
+    ]
+  },
+  {
+    "name": "AMATEUR Senior I Championship Latin  (CSRPJ)",
+    "couples": [
+      "Kevin Lee & Sheena Watanabe"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior I Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Patrick Buscu & Maria Cernat"
+    ]
+  },
+  {
+    "name": "AMATEUR Junior II Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Michael Jarosz & Margarita Shepelevich"
+    ]
+  }
+]

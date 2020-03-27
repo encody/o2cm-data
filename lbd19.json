@@ -1,0 +1,4433 @@
+[
+  {
+    "name": "Mixed Ladies Youth Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Lev Libkind & Nicole Vorkunova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Gold Intl. Rumba  (R)",
+    "couples": [
+      "Lev Libkind & Nicole Vorkunova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Lev Libkind & Nicole Vorkunova"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Daniel Grinberg & Olga Azrilevich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Daniel Vesnovskiy & Maria Bilenkis"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Nathan Cherepakhin & Valentina Munoz"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Silver Intl. Waltz  (W)",
+    "couples": [
+      "Yuriy Markovetskiy & Milana Fridman",
+      "Yuriy Nagay & Briana Bobrov",
+      "Aleksey Goncharov & Sophia Guzman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Int. Gold Intl. Waltz  (W)",
+    "couples": [
+      "Brian Fortuna & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Daniel Grinberg & Olga Azrilevich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Bronze Intl. Tango  (T)",
+    "couples": [
+      "Daniel Vesnovskiy & Maria Bilenkis"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Nathan Cherepakhin & Valentina Munoz"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Silver Intl. Tango  (T)",
+    "couples": [
+      "Yuriy Nagay & Briana Bobrov",
+      "Yuriy Markovetskiy & Milana Fridman",
+      "Aleksey Goncharov & Sophia Guzman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Int. Gold Intl. Tango  (T)",
+    "couples": [
+      "Brian Fortuna & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Yuriy Markovetskiy & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Daniel Vesnovskiy & Maria Bilenkis"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Yuriy Nagay & Briana Bobrov",
+      "Yuriy Markovetskiy & Milana Fridman",
+      "Aleksey Goncharov & Sophia Guzman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Int. Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Brian Fortuna & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Daniel Grinberg & Olga Azrilevich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Daniel Vesnovskiy & Maria Bilenkis"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Nathan Cherepakhin & Valentina Munoz"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Yuriy Nagay & Briana Bobrov",
+      "Yuriy Markovetskiy & Milana Fridman",
+      "Aleksey Goncharov & Sophia Guzman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Int. Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Brian Fortuna & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Daniel Grinberg & Olga Azrilevich",
+      "Denis Pigaryov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Open Silver Intl. Waltz  (W)",
+    "couples": [
+      "Andreas Kadel & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Full Gold Intl. Waltz  (W)",
+    "couples": [
+      "Brian Fortuna & Caroline Woodward"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Newcomer Standard  (W)",
+    "couples": [
+      "Ivan Martynenko & Ava Arbitman",
+      "Nikita Lylyk & Ariana Zavialov"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "Daniel Grinberg & Olga Azrilevich",
+      "Denis Pigaryov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Daniel Vesnovskiy & Maria Bilenkis",
+      "Roman Medvid & Olenka Velychko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Ivan Martynenko & Ava Arbitman"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Max Spodik & Lara Korotkin"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Bronze Intl. Tango  (T)",
+    "couples": [
+      "Michael Seleznyov & Alyssa Langer",
+      "Nikita Lylyk & Mia Hadria"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Open Silver Intl. Tango  (T)",
+    "couples": [
+      "Andreas Kadel & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Full Gold Intl. Tango  (T)",
+    "couples": [
+      "Brian Fortuna & Caroline Woodward"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Pre-Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Denis Pigaryov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Nikita Lylyk & Sofia Grach"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Ivan Shurin & Sophia Cherepakhin",
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Yuriy Markovetskiy & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Pre-Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Denis Pigaryov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Pre-Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Daniel Vesnovskiy & Maria Bilenkis"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Nikita Lylyk & Mia Hadria",
+      "Michael Seleznyov & Alyssa Langer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Full Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Brian Fortuna & Caroline Woodward"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Daniel Grinberg & Olga Azrilevich",
+      "Denis Pigaryov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Nikita Lylyk & Ariana Zavialov",
+      "Ivan Martynenko & Ava Arbitman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Full Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Brian Fortuna & Caroline Woodward"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Daniel Vesnovskiy & Maria Bilenkis",
+      "Roman Medvid & Olenka Velychko"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Max Spodik & Lara Korotkin"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Michael Seleznyov & Alyssa Langer",
+      "Nikita Lylyk & Mia Hadria"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Daniel Vesnovskiy & Maria Bilenkis"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Max Spodik & Lara Korotkin"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Michael Seleznyov & Alyssa Langer",
+      "Nikita Lylyk & Mia Hadria"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Daniel Vesnovskiy & Olivia Perez",
+      "Nikita Lylyk & Mia Hadria"
+    ]
+  },
+  {
+    "name": "Mixed Gents Youth Open Silver Intl. Waltz  (W)",
+    "couples": [
+      "Andreas Kadel & Natalia Iosue"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior II Full Gold Intl. Waltz  (W)",
+    "couples": [
+      "Brian Fortuna & Maya Pater"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "Ivan Martynenko & Ava Arbitman",
+      "Michal Wyszynski & Penelope Bukharovich",
+      "Roman Medvid & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "Alan Aptekar & Julia Sherstnyova",
+      "Max Spodik & Lara Korotkin"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "Nikita Lylyk & Mia Hadria",
+      "Daniel Vesnovskiy & Olivia Perez"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior II Full Gold Intl. Tango  (T)",
+    "couples": [
+      "Brian Fortuna & Maya Pater"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Denis Pigaryov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Open Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Andreas Kadel & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior II Full Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Brian Fortuna & Maya Pater"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Nikita Lylyk & Mia Hadria",
+      "Roman Medvid & Satya Hsu",
+      "Daniel Vesnovskiy & Olivia Perez"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Open Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Andreas Kadel & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior II Full Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Brian Fortuna & Maya Pater"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Nikita Lylyk & Ariana Zavialov",
+      "Ivan Martynenko & Ava Arbitman",
+      "Roman Medvid & Satya Hsu",
+      "Michal Wyszynski & Penelope Bukharovich"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Alan Aptekar & Julia Sherstnyova",
+      "Max Spodik & Lara Korotkin"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Ivan Martynenko & Ava Arbitman",
+      "Nikita Lylyk & Ariana Zavialov",
+      "Roman Medvid & Satya Hsu",
+      "Michal Wyszynski & Penelope Bukharovich"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Alan Aptekar & Julia Sherstnyova",
+      "Max Spodik & Lara Korotkin"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Jake Sadkhin & Melania Hudzen",
+      "Nathan Cherepakhin & Valentina Munoz"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Silver Intl. Waltz  (W)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Ivan Shurin & Sophia Cherepakhin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior I Full Gold Intl. Waltz  (W)",
+    "couples": [
+      "Brian Fortuna & Angelina Tkachuk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Newcomer Standard  (W)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Bronze Intl. Tango  (T)",
+    "couples": [
+      "Denis Pigaryov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "Jake Sadkhin & Melania Hudzen",
+      "Nathan Cherepakhin & Valentina Munoz"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Silver Intl. Tango  (T)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Ivan Shurin & Sophia Cherepakhin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior I Full Gold Intl. Tango  (T)",
+    "couples": [
+      "Brian Fortuna & Angelina Tkachuk"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Denis Pigaryov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Michal Wyszynski & Penelope Bukharovich"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Ivan Shurin & Sophia Cherepakhin",
+      "Samuel Khelmer & Alisa Guzman"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Novice Intl. V. Waltz  (V)",
+    "couples": [
+      "Yuriy Markovetskiy & Eva Blyakherova"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice Intl. V. Waltz  (V)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Youth Novice Intl. V. Waltz  (V)",
+    "couples": [
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Nikita Lylyk & Sofia Grach"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Ivan Shurin & Sophia Cherepakhin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior I Full Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Brian Fortuna & Angelina Tkachuk"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Jake Sadkhin & Melania Hudzen",
+      "Nathan Cherepakhin & Valentina Munoz"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Ivan Shurin & Sophia Cherepakhin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior I Full Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Brian Fortuna & Angelina Tkachuk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Daniel Zakirzyanov & Samantha Spodik",
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Roman Medvid & Olenka Velychko"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Open Silver Intl. Waltz  (W)",
+    "couples": [
+      "Paul Abalakin & Leah Yefimova",
+      "Jaiden Watkins & Natalia Iosue"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Daniel Zakirzyanov & Samantha Spodik",
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Roman Medvid & Olenka Velychko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Intl. Tango  (T)",
+    "couples": [
+      "Yuriy Nagay & Rachel Rudshteyn",
+      "Yuriy Markovetskiy & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Open Silver Intl. Tango  (T)",
+    "couples": [
+      "Paul Abalakin & Leah Yefimova",
+      "Jaiden Watkins & Natalia Iosue"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Newcomer Intl. Foxtrot  (F)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Open Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Paul Abalakin & Leah Yefimova",
+      "Jaiden Watkins & Natalia Iosue"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Pre-Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Brian Fortuna & Caroline Woodward"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Daniel Zakirzyanov & Samantha Spodik",
+      "Michal Wyszynski & Fiona Bukharovich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Open Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Paul Abalakin & Leah Yefimova",
+      "Jaiden Watkins & Natalia Iosue"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Bronze Intl. Tango  (T)",
+    "couples": [
+      "Jake Sadkhin & Melania Hudzen"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Bronze Intl. Tango  (T)",
+    "couples": [
+      "Michal Wyszynski & Penelope Bukharovich",
+      "Roman Medvid & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Bronze Intl. Tango  (T)",
+    "couples": [
+      "Alan Aptekar & Julia Sherstnyova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Bronze Intl. Tango  (T)",
+    "couples": [
+      "Nikita Lylyk & Sofia Grach",
+      "Daniel Vesnovskiy & Olivia Perez"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Silver Intl. Tango  (T)",
+    "couples": [
+      "Ivan Shurin & Sophia Cherepakhin",
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Silver Intl. Tango  (T)",
+    "couples": [
+      "Yanni Glukhovskiy & Elana Glukhovskiy",
+      "Yuriy Nagay & Rachel Rudshteyn",
+      "Michael Seleznyov & Alyssa Langer"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Novice Intl. Tango  (T)",
+    "couples": [
+      "Yuriy Markovetskiy & Eva Blyakherova"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice Intl. Tango  (T)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Youth Novice Intl. Tango  (T)",
+    "couples": [
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Yuriy Markovetskiy & Eva Blyakherova"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Amateur Youth Bronze Standard  (WQ)",
+    "couples": [
+      "Ricardo Aragon & Dorca Aragon"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Standard  (WFQ)",
+    "couples": [
+      "Yuriy Nagay & Rachel Rudshteyn",
+      "Yuriy Markovetskiy & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Bronze Standard  (WQ)",
+    "couples": [
+      "Denis Pigaryov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Bronze Standard  (WQ)",
+    "couples": [
+      "Jake Sadkhin & Melania Hudzen"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Bronze Standard  (WQ)",
+    "couples": [
+      "Michal Wyszynski & Penelope Bukharovich",
+      "Roman Medvid & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Bronze Standard  (WQ)",
+    "couples": [
+      "Alan Aptekar & Julia Sherstnyova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Bronze Standard  (WQ)",
+    "couples": [
+      "Nikita Lylyk & Sofia Grach",
+      "Daniel Vesnovskiy & Olivia Perez"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Silver Standard  (WFQ)",
+    "couples": [
+      "Ivan Shurin & Sophia Cherepakhin",
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Silver Standard  (WFQ)",
+    "couples": [
+      "Yanni Glukhovskiy & Elana Glukhovskiy",
+      "Michael Seleznyov & Alyssa Langer",
+      "Yuriy Nagay & Rachel Rudshteyn"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Standard  (WTFQ)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Standard  (WTFQ)",
+    "couples": [
+      "Paul Abalakin & Leah Yefimova",
+      "Jaiden Watkins & Ava Bella Mattioli"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Gold Standard  (WTFQ)",
+    "couples": [
+      "Yuriy Markovetskiy & Eva Blyakherova",
+      "Yanni Glukhovskiy & Elana Glukhovskiy",
+      "Yuriy Nagay & Briana Bobrov",
+      "Aleksey Goncharov & Sophia Guzman"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Standard  (WTFQ)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Standard  (WTFQ)",
+    "couples": [
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Gold Standard  (WTFQ)",
+    "couples": [
+      "Aleksey Goncharov & Alia Abulgazieva"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Novice Standard  (WFQ)",
+    "couples": [
+      "Jaiden Watkins & Ava Bella Mattioli"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Novice Standard  (WTFQ)",
+    "couples": [
+      "Yuriy Markovetskiy & Eva Blyakherova"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice Standard  (WFQ)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Youth Novice Standard  (WFQ)",
+    "couples": [
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Michal Wyszynski & Melanie Lebedinsky"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Mark Meyerzon & Mia Yudilevich",
+      "Daniel Shyvilka & Weronika Rogowski",
+      "Eric Danilov & Sarah Fleysher",
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Michael Trubkin & Olga Kokhno",
+      "Samuel Simpson & Hailey Lyman",
+      "Lucien Peev & Isabelle Krishtul",
+      "Kauschal Chikka & Satya Hsu",
+      "Gabriel Piatt & Olympia Rock"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Mark Meyerzon & Mia Yudilevich",
+      "Michael Trubkin & Olga Kokhno",
+      "Daniel Shyvilka & Weronika Rogowski",
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Samuel Simpson & Hailey Lyman",
+      "Eric Danilov & Sarah Fleysher",
+      "Lucien Peev & Isabelle Krishtul"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Mark Meyerzon & Mia Yudilevich",
+      "Daniel Shyvilka & Weronika Rogowski",
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Michael Trubkin & Olga Kokhno",
+      "Eric Danilov & Sarah Fleysher",
+      "Lucien Peev & Isabelle Krishtul",
+      "Samuel Simpson & Hailey Lyman"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Mark Meyerzon & Mia Yudilevich",
+      "Eric Danilov & Sarah Fleysher",
+      "Michael Trubkin & Olga Kokhno",
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Lucien Peev & Isabelle Krishtul",
+      "Samuel Simpson & Hailey Lyman",
+      "Kauschal Chikka & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Daniel Zakirzyanov & Emily Shcherbakov",
+      "Nikita Lylyk & Anna Pashunko",
+      "Oleksandra Vereshchak & Olivia Prus",
+      "Kirill Zakirzyanov & Lucy Kobylyanskyy",
+      "Roman Medvid & Olenka Velychko",
+      "Andrey Kirilyuk & Arielle Yaguda"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Lev Libkind & Nicole Vorkunova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Anna Pashunko",
+      "Daniel Zakirzyanov & Emily Shcherbakov",
+      "Roman Medvid & Olenka Velychko",
+      "Oleksandra Vereshchak & Olivia Prus",
+      "Kirill Zakirzyanov & Lucy Kobylyanskyy"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Silver Intl. Samba  (S)",
+    "couples": [
+      "Lev Libkind & Nicole Vorkunova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Zakirzyanov & Emily Shcherbakov",
+      "Nikita Lylyk & Anna Pashunko",
+      "Oleksandra Vereshchak & Olivia Prus",
+      "Roman Medvid & Olenka Velychko",
+      "Andrey Kirilyuk & Arielle Yaguda",
+      "Kirill Zakirzyanov & Lucy Kobylyanskyy"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Silver Intl. Rumba  (R)",
+    "couples": [
+      "Lev Libkind & Nicole Vorkunova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Nikita Lylyk & Anna Pashunko",
+      "Daniel Zakirzyanov & Emily Shcherbakov",
+      "Oleksandra Vereshchak & Olivia Prus",
+      "Andrey Kirilyuk & Arielle Yaguda"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Silver Intl. Jive  (J)",
+    "couples": [
+      "Lev Libkind & Nicole Vorkunova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Newcomer Latin  (C)",
+    "couples": [
+      "Lev Libkind & Jessica Soyfer"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Newcomer Latin  (C)",
+    "couples": [
+      "Oleksandra Vereshchak & Katrina Tatevosian"
+    ]
+  },
+  {
+    "name": "Mixed Gents Junior I Newcomer Latin  (C)",
+    "couples": [
+      "Samuel Piatt & MolliLyn Petro"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Daniel Zakirzyanov & Anastasia Valchuk",
+      "Nikita Lylyk & Nicole Oliynyk",
+      "Connor O`Kane & Ava Bulger",
+      "Gabriel Piatt & Olympia Rock"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Daniel Zakirzyanov & Anastasia Valchuk",
+      "Lev Libkind & Jessica Soyfer",
+      "Nikita Lylyk & Nicole Oliynyk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Zakirzyanov & Anastasia Valchuk",
+      "Lev Libkind & Jessica Soyfer",
+      "Nikita Lylyk & Nicole Oliynyk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Lev Libkind & Jessica Soyfer",
+      "Daniel Zakirzyanov & Anastasia Valchuk",
+      "Nikita Lylyk & Nicole Oliynyk",
+      "Connor O`Kane & Ava Bulger",
+      "Gabriel Piatt & Olympia Rock"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Julianna Walker",
+      "Oleksandra Vereshchak & Eva Mesh"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Bronze Intl. Samba  (S)",
+    "couples": [
+      "Oleksandra Vereshchak & Eva Mesh",
+      "Nikita Lylyk & Julianna Walker"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Gold Intl. Samba  (S)",
+    "couples": [
+      "Lev Libkind & Nicole Vorkunova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Nikita Lylyk & Julianna Walker",
+      "Oleksandra Vereshchak & Eva Mesh"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Bronze Intl. Jive  (J)",
+    "couples": [
+      "Nikita Lylyk & Julianna Walker",
+      "Oleksandra Vereshchak & Eva Mesh"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Gold Intl. Jive  (J)",
+    "couples": [
+      "Lev Libkind & Nicole Vorkunova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Luke Saracoglu & Hanako Ferro"
+    ]
+  },
+  {
+    "name": "Mixed Gents Junior I Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Luke Saracoglu & Hanako Ferro"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Lev Libkind & Gabriela Vassermann"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Mia Hadria",
+      "Daniel Vesnovskiy & Olivia Perez"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Slava Ben & Vicoria Sorbat"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Pre-Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Oleksandra Vereshchak & Eva Mesh"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Int. Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Brian Fortuna & Dorca Aragon"
+    ]
+  },
+  {
+    "name": "Mixed Gents Junior I Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Luke Saracoglu & Hanako Ferro"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Bronze Intl. Samba  (S)",
+    "couples": [
+      "Lev Libkind & Gabriela Vassermann"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Mia Hadria",
+      "Daniel Vesnovskiy & Olivia Perez"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Intl. Samba  (S)",
+    "couples": [
+      "Slava Ben & Vicoria Sorbat"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Pre-Silver Intl. Samba  (S)",
+    "couples": [
+      "Oleksandra Vereshchak & Eva Mesh"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Lev Libkind & Gabriela Vassermann"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Nikita Lylyk & Mia Hadria",
+      "Daniel Vesnovskiy & Olivia Perez"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Intl. Rumba  (R)",
+    "couples": [
+      "Slava Ben & Vicoria Sorbat"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Pre-Silver Intl. Rumba  (R)",
+    "couples": [
+      "Oleksandra Vereshchak & Eva Mesh"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Pre-Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Lucien Peev & Isabelle Krishtul"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Nikita Lylyk & Mia Hadria"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Slava Ben & Vicoria Sorbat",
+      "Lev Libkind & Lilianna Novykov"
+    ]
+  },
+  {
+    "name": "Mixed Gents Junior I Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Luke Saracoglu & Hanako Ferro",
+      "Samuel Piatt & MolliLyn Petro"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Bronze Intl. Jive  (J)",
+    "couples": [
+      "Lev Libkind & Gabriela Vassermann"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Bronze Intl. Jive  (J)",
+    "couples": [
+      "Nikita Lylyk & Mia Hadria",
+      "Daniel Vesnovskiy & Olivia Perez"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Pre-Silver Intl. Jive  (J)",
+    "couples": [
+      "Oleksandra Vereshchak & Eva Mesh"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Maria Azrilevich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Luke Saracoglu & Hanako Ferro"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Pre-Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Aleksey Goncharov & Sophia Guzman",
+      "Slava Ben & Vicoria Sorbat"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Maria Azrilevich",
+      "Oleksandra Vereshchak & Katrina Tatevosian"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Luke Saracoglu & Hanako Ferro"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Pre-Silver Intl. Samba  (S)",
+    "couples": [
+      "Aleksey Goncharov & Sophia Guzman",
+      "Slava Ben & Vicoria Sorbat"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Nikita Lylyk & Maria Azrilevich",
+      "Oleksandra Vereshchak & Katrina Tatevosian"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Pre-Silver Intl. Rumba  (R)",
+    "couples": [
+      "Aleksey Goncharov & Sophia Guzman",
+      "Slava Ben & Vicoria Sorbat"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Pre-Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Slava Ben & Vicoria Sorbat"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Nikita Lylyk & Maria Azrilevich",
+      "Oleksandra Vereshchak & Katrina Tatevosian"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Pre-Silver Intl. Jive  (J)",
+    "couples": [
+      "Aleksey Goncharov & Sophia Guzman",
+      "Slava Ben & Vicoria Sorbat"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Anthony Wu & Yuki Wu",
+      "Aristotle Rock & MolliLyn Petro",
+      "Connor O`Kane & Ava Bulger"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Nicole Oliynyk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Daniel Zakirzyanov & Anabella Kovnatsky",
+      "Sasha Zhukov & Mika Ribinik"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Anthony Wu & Yuki Wu",
+      "Aristotle Rock & MolliLyn Petro"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Nicole Oliynyk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Silver Intl. Samba  (S)",
+    "couples": [
+      "Daniel Zakirzyanov & Anabella Kovnatsky",
+      "Sasha Zhukov & Mika Ribinik"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Anthony Wu & Yuki Wu"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Nikita Lylyk & Nicole Oliynyk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Silver Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Zakirzyanov & Anabella Kovnatsky",
+      "Sasha Zhukov & Mika Ribinik"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Anthony Wu & Yuki Wu",
+      "Aristotle Rock & MolliLyn Petro",
+      "Connor O`Kane & Ava Bulger"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Bronze Intl. Jive  (J)",
+    "couples": [
+      "Nikita Lylyk & Nicole Oliynyk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Silver Intl. Jive  (J)",
+    "couples": [
+      "Daniel Zakirzyanov & Anabella Kovnatsky",
+      "Sasha Zhukov & Mika Ribinik"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Sophia Mancini",
+      "Daniel Vesnovskiy & Olivia Perez",
+      "Oleksandra Vereshchak & Melanie Markman"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Anthony Wu & Yuki Wu",
+      "Aristotle Rock & MolliLyn Petro",
+      "Connor O`Kane & Ava Bulger"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Andrey Kirilyuk & Aigerim Bissemaliyeva",
+      "Luke Saracoglu & Hanako Ferro"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Lev Libkind & Olivia Fridman"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Sophia Mancini",
+      "Daniel Vesnovskiy & Olivia Perez",
+      "Lev Libkind & Jessica Soyfer",
+      "Oleksandra Vereshchak & Melanie Markman"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Anthony Wu & Yuki Wu",
+      "Aristotle Rock & MolliLyn Petro"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Luke Saracoglu & Hanako Ferro",
+      "Andrey Kirilyuk & Aigerim Bissemaliyeva"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Nikita Lylyk & Sophia Mancini",
+      "Daniel Vesnovskiy & Olivia Perez",
+      "Oleksandra Vereshchak & Melanie Markman"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Anthony Wu & Yuki Wu"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Silver Intl. Rumba  (R)",
+    "couples": [
+      "Lev Libkind & Olivia Fridman",
+      "Andrey Kirilyuk & Aigerim Bissemaliyeva"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Bronze Intl. Jive  (J)",
+    "couples": [
+      "Nikita Lylyk & Sophia Mancini",
+      "Daniel Vesnovskiy & Olivia Perez",
+      "Lev Libkind & Jessica Soyfer",
+      "Oleksandra Vereshchak & Melanie Markman"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Anthony Wu & Yuki Wu",
+      "Aristotle Rock & MolliLyn Petro",
+      "Connor O`Kane & Ava Bulger"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Luke Saracoglu & Hanako Ferro",
+      "Andrey Kirilyuk & Aigerim Bissemaliyeva"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Maria Azrilevich"
+    ]
+  },
+  {
+    "name": "Mixed Gents Junior I Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Luke Saracoglu & Hanako Ferro",
+      "Samuel Piatt & MolliLyn Petro"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Open Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Brian Khelmer & Leah Naroditskiy",
+      "Jake Sadkhin & Melania Hudzen",
+      "Nathan Cherepakhin & Valentina Munoz",
+      "Kauschal Chikka & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Open Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Lev Libkind & Kurmanzhan Sharshenkulova",
+      "Victor Makovsky & Aden Nisimi"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Maria Azrilevich"
+    ]
+  },
+  {
+    "name": "Mixed Gents Junior I Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Luke Saracoglu & Hanako Ferro"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Open Bronze Intl. Samba  (S)",
+    "couples": [
+      "Brian Khelmer & Leah Naroditskiy",
+      "Nathan Cherepakhin & Valentina Munoz",
+      "Jake Sadkhin & Melania Hudzen",
+      "Kauschal Chikka & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Open Silver Intl. Samba  (S)",
+    "couples": [
+      "Victor Makovsky & Aden Nisimi",
+      "Lev Libkind & Kurmanzhan Sharshenkulova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Nikita Lylyk & Maria Azrilevich"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Open Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Brian Khelmer & Leah Naroditskiy",
+      "Nathan Cherepakhin & Valentina Munoz",
+      "Jake Sadkhin & Melania Hudzen",
+      "Kauschal Chikka & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Open Silver Intl. Rumba  (R)",
+    "couples": [
+      "Victor Makovsky & Aden Nisimi",
+      "Lev Libkind & Kurmanzhan Sharshenkulova"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Open Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Brian Khelmer & Leah Naroditskiy",
+      "Nathan Cherepakhin & Valentina Munoz",
+      "Jake Sadkhin & Melania Hudzen"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Open Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Lev Libkind & Kurmanzhan Sharshenkulova"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Aiden Shea & Rebecca Sulpovar",
+      "Anthony Tornusov & Miriam Margovskiy"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Nikita Lylyk & Maria Azrilevich"
+    ]
+  },
+  {
+    "name": "Mixed Gents Junior I Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Luke Saracoglu & Hanako Ferro",
+      "Samuel Piatt & MolliLyn Petro"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Open Bronze Intl. Jive  (J)",
+    "couples": [
+      "Brian Khelmer & Leah Naroditskiy",
+      "Nathan Cherepakhin & Valentina Munoz",
+      "Jake Sadkhin & Melania Hudzen",
+      "Kauschal Chikka & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Open Silver Intl. Jive  (J)",
+    "couples": [
+      "Victor Makovsky & Aden Nisimi",
+      "Lev Libkind & Kurmanzhan Sharshenkulova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Sophia Mancini",
+      "Daniel Zakirzyanov & Anastasia Valchuk",
+      "Gabriel Piatt & Olympia Rock",
+      "Oleksandra Vereshchak & Melanie Markman",
+      "Connor O`Kane & Ava Bulger"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Anthony Tornusov & Miriam Margovskiy",
+      "Jaiden Watkins & Ava Bella Mattioli"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Gregory Roitbourd & Irene Kobiler",
+      "Aiden Shea & Rebecca Sulpovar"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Sophia Mancini",
+      "Daniel Zakirzyanov & Anastasia Valchuk",
+      "Oleksandra Vereshchak & Melanie Markman"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Intl. Samba  (S)",
+    "couples": [
+      "Anthony Tornusov & Miriam Margovskiy",
+      "Jaiden Watkins & Ava Bella Mattioli"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Intl. Samba  (S)",
+    "couples": [
+      "Aiden Shea & Rebecca Sulpovar",
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Nikita Lylyk & Sophia Mancini",
+      "Daniel Zakirzyanov & Anastasia Valchuk",
+      "Oleksandra Vereshchak & Melanie Markman"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Intl. Rumba  (R)",
+    "couples": [
+      "Anthony Tornusov & Miriam Margovskiy",
+      "Jaiden Watkins & Ava Bella Mattioli"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Intl. Rumba  (R)",
+    "couples": [
+      "Aiden Shea & Rebecca Sulpovar",
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Lev Libkind & Olivia Fridman"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Nicholas Kopitko & Mariam Abdrachitova",
+      "Anthony Tornusov & Miriam Margovskiy"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Aiden Shea & Rebecca Sulpovar"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Nikita Lylyk & Sophia Mancini",
+      "Daniel Zakirzyanov & Anastasia Valchuk",
+      "Connor O`Kane & Ava Bulger",
+      "Oleksandra Vereshchak & Melanie Markman",
+      "Gabriel Piatt & Olympia Rock"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Intl. Jive  (J)",
+    "couples": [
+      "Anthony Tornusov & Miriam Margovskiy",
+      "Jaiden Watkins & Ava Bella Mattioli"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Intl. Jive  (J)",
+    "couples": [
+      "Gregory Roitbourd & Irene Kobiler",
+      "Aiden Shea & Rebecca Sulpovar"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Jacob Stepman & Sarah Stepman",
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Roman Sorbat & Alena Duchenko",
+      "Gabriel Piatt & Olympia Rock"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Daniel Zakirzyanov & Anabella Kovnatsky",
+      "Nikita Lylyk & Ariana Zavialov"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Aiden Shea & Rebecca Sulpovar",
+      "Arthur Manouilovitch & Anna Gladkov",
+      "Anthony Tornusov & Miriam Margovskiy"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Jacob Stepman & Sarah Stepman",
+      "Roman Sorbat & Alena Duchenko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Silver Intl. Samba  (S)",
+    "couples": [
+      "Lev Libkind & Olivia Fridman"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Silver Intl. Samba  (S)",
+    "couples": [
+      "Daniel Zakirzyanov & Anabella Kovnatsky",
+      "Nikita Lylyk & Ariana Zavialov"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Intl. Samba  (S)",
+    "couples": [
+      "Aiden Shea & Rebecca Sulpovar",
+      "Arthur Manouilovitch & Anna Gladkov",
+      "Anthony Tornusov & Miriam Margovskiy"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Jacob Stepman & Sarah Stepman",
+      "Roman Sorbat & Alena Duchenko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Silver Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Zakirzyanov & Anabella Kovnatsky",
+      "Nikita Lylyk & Ariana Zavialov"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Intl. Rumba  (R)",
+    "couples": [
+      "Aiden Shea & Rebecca Sulpovar",
+      "Arthur Manouilovitch & Anna Gladkov",
+      "Anthony Tornusov & Miriam Margovskiy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior I Int. Gold Intl. Rumba  (R)",
+    "couples": [
+      "Brian Fortuna & Maya Pater"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Roman Sorbat & Alena Duchenko",
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Jacob Stepman & Sarah Stepman",
+      "Gabriel Piatt & Olympia Rock"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Silver Intl. Jive  (J)",
+    "couples": [
+      "Daniel Zakirzyanov & Anabella Kovnatsky",
+      "Nikita Lylyk & Ariana Zavialov"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Intl. Jive  (J)",
+    "couples": [
+      "Aiden Shea & Rebecca Sulpovar",
+      "Arthur Manouilovitch & Anna Gladkov",
+      "Anthony Tornusov & Miriam Margovskiy"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Jacob Stepman & Sarah Stepman"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Mia Hadria",
+      "Daniel Zakirzyanov & Daniella Kovnatsky"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Sasha Zhukov & Giselle Brown",
+      "Yuriy Nagay & Michelle Shamis"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Open Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Jaiden Watkins & Natalia Iosue"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Yuriy Markovetskiy & Valerie Chervinskaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior I Int. Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Brian Fortuna & Maya Pater"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Jacob Stepman & Sarah Stepman"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Silver Intl. Samba  (S)",
+    "couples": [
+      "Daniel Zakirzyanov & Daniella Kovnatsky",
+      "Nikita Lylyk & Mia Hadria"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Silver Intl. Samba  (S)",
+    "couples": [
+      "Sasha Zhukov & Giselle Brown",
+      "Yuriy Nagay & Michelle Shamis"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Open Silver Intl. Samba  (S)",
+    "couples": [
+      "Jaiden Watkins & Natalia Iosue"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Gold Intl. Samba  (S)",
+    "couples": [
+      "Yuriy Markovetskiy & Valerie Chervinskaya"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Jacob Stepman & Sarah Stepman"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Silver Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Zakirzyanov & Daniella Kovnatsky",
+      "Nikita Lylyk & Mia Hadria"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Silver Intl. Rumba  (R)",
+    "couples": [
+      "Sasha Zhukov & Giselle Brown",
+      "Yuriy Nagay & Michelle Shamis"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Open Silver Intl. Rumba  (R)",
+    "couples": [
+      "Jaiden Watkins & Natalia Iosue"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Gold Intl. Rumba  (R)",
+    "couples": [
+      "Yuriy Markovetskiy & Valerie Chervinskaya"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Nikita Lylyk & Mia Hadria"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Yuriy Nagay & Michelle Shamis"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Valeriy Sachenkov & Vlada Mazur",
+      "Jacob Stepman & Sarah Stepman"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Pre-Silver Intl. Jive  (J)",
+    "couples": [
+      "Daniel Zakirzyanov & Daniella Kovnatsky",
+      "Nikita Lylyk & Mia Hadria"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Open Silver Intl. Jive  (J)",
+    "couples": [
+      "Sasha Zhukov & Giselle Brown",
+      "Yuriy Nagay & Michelle Shamis"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Open Silver Intl. Jive  (J)",
+    "couples": [
+      "Jaiden Watkins & Natalia Iosue"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Gold Intl. Jive  (J)",
+    "couples": [
+      "Yuriy Markovetskiy & Valerie Chervinskaya"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Roman Medvid & Evelis Mora",
+      "Lev Libkind & Margaret Novykov",
+      "Daniel Zakirzyanov & Juliana Yakubov",
+      "Andrey Kirilyuk & Brielle Desyatnikov",
+      "Aristotle Rock & Katelyn Fedder"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Open Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Jaiden Watkins & Maya Pater"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Int. Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Brian Fortuna & Caroline Woodward"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Roman Medvid & Evelis Mora",
+      "Lev Libkind & Margaret Novykov",
+      "Andrey Kirilyuk & Brielle Desyatnikov",
+      "Daniel Zakirzyanov & Juliana Yakubov"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Open Silver Intl. Samba  (S)",
+    "couples": [
+      "Jaiden Watkins & Maya Pater"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Int. Gold Intl. Samba  (S)",
+    "couples": [
+      "Brian Fortuna & Caroline Woodward"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Roman Medvid & Evelis Mora",
+      "Lev Libkind & Margaret Novykov",
+      "Andrey Kirilyuk & Brielle Desyatnikov",
+      "Daniel Zakirzyanov & Juliana Yakubov"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Open Silver Intl. Rumba  (R)",
+    "couples": [
+      "Jaiden Watkins & Angelina Tkachuk"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Int. Gold Intl. Rumba  (R)",
+    "couples": [
+      "Brian Fortuna & Caroline Woodward"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Roman Medvid & Evelis Mora",
+      "Lev Libkind & Margaret Novykov",
+      "Andrey Kirilyuk & Brielle Desyatnikov",
+      "Daniel Zakirzyanov & Juliana Yakubov",
+      "Aristotle Rock & Katelyn Fedder"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Open Silver Intl. Jive  (J)",
+    "couples": [
+      "Jaiden Watkins & Angelina Tkachuk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Julianna Walker",
+      "Daniel Zakirzyanov & Emily Shcherbakov",
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Oleksandra Vereshchak & Olivia Prus",
+      "Kirill Zakirzyanov & Lucy Kobylyanskyy"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Lev Libkind & Elizaveta Trush",
+      "Aleksey Goncharov & Sophia Guzman",
+      "Yuriy Markovetskiy & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior I Full Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Brian Fortuna & Angelina Tkachuk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Julianna Walker",
+      "Daniel Zakirzyanov & Emily Shcherbakov",
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Oleksandra Vereshchak & Olivia Prus",
+      "Kirill Zakirzyanov & Lucy Kobylyanskyy"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Silver Intl. Samba  (S)",
+    "couples": [
+      "Aleksey Goncharov & Sophia Guzman",
+      "Lev Libkind & Elizaveta Trush",
+      "Yuriy Markovetskiy & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior I Full Gold Intl. Samba  (S)",
+    "couples": [
+      "Brian Fortuna & Angelina Tkachuk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Zakirzyanov & Emily Shcherbakov",
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Oleksandra Vereshchak & Olivia Prus",
+      "Nikita Lylyk & Julianna Walker",
+      "Kirill Zakirzyanov & Lucy Kobylyanskyy"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Silver Intl. Rumba  (R)",
+    "couples": [
+      "Lev Libkind & Elizaveta Trush",
+      "Yuriy Markovetskiy & Milana Fridman",
+      "Aleksey Goncharov & Sophia Guzman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior I Full Gold Intl. Rumba  (R)",
+    "couples": [
+      "Brian Fortuna & Angelina Tkachuk"
+    ]
+  },
+  {
+    "name": "Mixed Gents Babies under 6yo Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Ben Bartock & Michelle"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Babies under 6yo Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Nikita Lylyk & Julianna Walker",
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Daniel Zakirzyanov & Emily Shcherbakov",
+      "Oleksandra Vereshchak & Olivia Prus"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Silver Intl. Jive  (J)",
+    "couples": [
+      "Yuriy Markovetskiy & Milana Fridman",
+      "Lev Libkind & Elizaveta Trush",
+      "Aleksey Goncharov & Sophia Guzman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior I Full Gold Intl. Jive  (J)",
+    "couples": [
+      "Brian Fortuna & Angelina Tkachuk"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Andrei Fomenko & Anastasia Viano",
+      "Maksym Haydar & Alyssa Gogan",
+      "Roman Sorbat & Alena Duchenko"
+    ]
+  },
+  {
+    "name": "Mixed Gents Babies under 6yo Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Ben Bartock & Michelle"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Daniel Zakirzyanov & Daniella Kovnatsky",
+      "Nikita Lylyk & Sofia Grach",
+      "Andrey Kirilyuk & Mya Fleyshman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior II Full Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Brian Fortuna & Maya Pater"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Maksym Haydar & Alyssa Gogan",
+      "Roman Sorbat & Alena Duchenko",
+      "Andrei Fomenko & Anastasia Viano"
+    ]
+  },
+  {
+    "name": "Mixed Gents Babies under 6yo Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Ben Bartock & Michelle"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Silver Intl. Samba  (S)",
+    "couples": [
+      "Daniel Zakirzyanov & Daniella Kovnatsky",
+      "Nikita Lylyk & Sofia Grach",
+      "Andrey Kirilyuk & Mya Fleyshman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior II Full Gold Intl. Samba  (S)",
+    "couples": [
+      "Brian Fortuna & Maya Pater"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Maksym Haydar & Alyssa Gogan",
+      "Andrei Fomenko & Anastasia Viano",
+      "Roman Sorbat & Alena Duchenko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Silver Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Zakirzyanov & Daniella Kovnatsky",
+      "Nikita Lylyk & Sofia Grach",
+      "Andrey Kirilyuk & Mya Fleyshman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior II Full Gold Intl. Rumba  (R)",
+    "couples": [
+      "Brian Fortuna & Maya Pater"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Nikita Lylyk & Sofia Grach",
+      "Andrey Kirilyuk & Mya Fleyshman"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Maksym Haydar & Alyssa Gogan",
+      "Roman Sorbat & Alena Duchenko",
+      "Andrei Fomenko & Anastasia Viano"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Silver Intl. Jive  (J)",
+    "couples": [
+      "Daniel Zakirzyanov & Daniella Kovnatsky",
+      "Nikita Lylyk & Sofia Grach",
+      "Andrey Kirilyuk & Mya Fleyshman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Junior II Full Gold Intl. Jive  (J)",
+    "couples": [
+      "Brian Fortuna & Maya Pater"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Michal Wyszynski & Penelope Bukharovich",
+      "Daniel Zakirzyanov & Alexandra Abrahamyan",
+      "Ivan Martynenko & Ava Arbitman",
+      "Nikita Lylyk & Anna Lysov",
+      "Slava Ben & Sigal Lilli"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Max Spodik & Lara Korotkin",
+      "Kauschal Chikka & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Full Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Brian Fortuna & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Bronze Intl. Samba  (S)",
+    "couples": [
+      "Daniel Zakirzyanov & Alexandra Abrahamyan",
+      "Michal Wyszynski & Penelope Bukharovich",
+      "Ivan Martynenko & Ava Arbitman",
+      "Nikita Lylyk & Anna Lysov",
+      "Slava Ben & Sigal Lilli"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Max Spodik & Lara Korotkin",
+      "Kauschal Chikka & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Full Gold Intl. Samba  (S)",
+    "couples": [
+      "Brian Fortuna & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Zakirzyanov & Alexandra Abrahamyan",
+      "Ivan Martynenko & Ava Arbitman",
+      "Michal Wyszynski & Penelope Bukharovich",
+      "Slava Ben & Sigal Lilli",
+      "Nikita Lylyk & Anna Lysov"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Max Spodik & Lara Korotkin",
+      "Kauschal Chikka & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Full Gold Intl. Rumba  (R)",
+    "couples": [
+      "Brian Fortuna & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Ivan Martynenko & Ava Arbitman",
+      "Nikita Lylyk & Anna Lysov",
+      "Slava Ben & Sigal Lilli"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Pre-Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Max Spodik & Lara Korotkin"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Bronze Intl. Jive  (J)",
+    "couples": [
+      "Daniel Zakirzyanov & Alexandra Abrahamyan",
+      "Ivan Martynenko & Ava Arbitman",
+      "Michal Wyszynski & Penelope Bukharovich",
+      "Nikita Lylyk & Anna Lysov",
+      "Slava Ben & Sigal Lilli"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Max Spodik & Lara Korotkin",
+      "Kauschal Chikka & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Full Gold Intl. Jive  (J)",
+    "couples": [
+      "Brian Fortuna & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Mixed Gents Teddy Bear Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Gregory Mayskiy & Sarah Livchits",
+      "Ben Bartock & Michelle"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Lev Libkind & Margaret Novykov",
+      "Michal Wyszynski & Penelope Bukharovich",
+      "Nikita Lylyk & Ariana Zavialov",
+      "Daniel Zakirzyanov & Juliana Yakubov",
+      "Roman Medvid & Evelis Mora",
+      "Slava Ben & Sigal Lilli",
+      "Aristotle Rock & Katelyn Fedder"
+    ]
+  },
+  {
+    "name": "Mixed Gents Teddy Bear Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Gregory Mayskiy & Sarah Livchits",
+      "Ben Bartock & Michelle"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Ariana Zavialov",
+      "Lev Libkind & Margaret Novykov",
+      "Roman Medvid & Evelis Mora",
+      "Michal Wyszynski & Penelope Bukharovich",
+      "Slava Ben & Sigal Lilli",
+      "Daniel Zakirzyanov & Juliana Yakubov"
+    ]
+  },
+  {
+    "name": "Mixed Gents Teddy Bear Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Gregory Mayskiy & Sarah Livchits"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Michal Wyszynski & Penelope Bukharovich",
+      "Lev Libkind & Margaret Novykov",
+      "Nikita Lylyk & Ariana Zavialov",
+      "Roman Medvid & Evelis Mora",
+      "Slava Ben & Sigal Lilli",
+      "Daniel Zakirzyanov & Juliana Yakubov"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Slava Ben & Sigal Lilli"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Ivan Shurin & Sophia Cherepakhin",
+      "Lucas Skvirsky & Nare Safaryan"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Yuriy Nagay & Briana Bobrov"
+    ]
+  },
+  {
+    "name": "Mixed Gents Teddy Bear Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Gregory Mayskiy & Sarah Livchits",
+      "Ben Bartock & Michelle"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Michal Wyszynski & Penelope Bukharovich",
+      "Roman Medvid & Evelis Mora",
+      "Nikita Lylyk & Ariana Zavialov",
+      "Slava Ben & Sigal Lilli",
+      "Lev Libkind & Margaret Novykov",
+      "Daniel Zakirzyanov & Juliana Yakubov",
+      "Aristotle Rock & Katelyn Fedder"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Anna Pashunko",
+      "Andrey Kirilyuk & Mia Alexandroff",
+      "Daniel Zakirzyanov & Gianna Sinnelnikov",
+      "Roman Medvid & Olenka Velychko"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Alan Aptekar & Julia Sherstnyova"
+    ]
+  },
+  {
+    "name": "Mixed Gents Pre-Teen II Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Kaelan Faria & Olga Kravchenko",
+      "Dennis Babahanov & Sarah Livchits"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Anna Pashunko",
+      "Daniel Zakirzyanov & Gianna Sinnelnikov",
+      "Andrey Kirilyuk & Mia Alexandroff",
+      "Roman Medvid & Olenka Velychko"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Bronze Intl. Samba  (S)",
+    "couples": [
+      "Alan Aptekar & Julia Sherstnyova"
+    ]
+  },
+  {
+    "name": "Mixed Gents Pre-Teen II Silver Intl. Samba  (S)",
+    "couples": [
+      "Dennis Babahanov & Sarah Livchits",
+      "Kaelan Faria & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Nikita Lylyk & Anna Pashunko",
+      "Andrey Kirilyuk & Mia Alexandroff",
+      "Roman Medvid & Olenka Velychko",
+      "Daniel Zakirzyanov & Gianna Sinnelnikov"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Alan Aptekar & Julia Sherstnyova"
+    ]
+  },
+  {
+    "name": "Mixed Gents Pre-Teen II Silver Intl. Rumba  (R)",
+    "couples": [
+      "Dennis Babahanov & Sarah Livchits",
+      "Kaelan Faria & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Alan Aptekar & Julia Sherstnyova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Yuriy Nagay & Alyssa Langer"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Nikita Lylyk & Gianna McGovern"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Novice Intl. Paso Doble  (P)",
+    "couples": [
+      "Igor Golovach & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Daniel Zakirzyanov & Gianna Sinnelnikov",
+      "Nikita Lylyk & Anna Pashunko",
+      "Andrey Kirilyuk & Mia Alexandroff"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Igor Golovach & Megan Everett"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Bronze Intl. Jive  (J)",
+    "couples": [
+      "Alan Aptekar & Julia Sherstnyova"
+    ]
+  },
+  {
+    "name": "Mixed Gents Pre-Teen II Silver Intl. Jive  (J)",
+    "couples": [
+      "Dennis Babahanov & Sarah Livchits",
+      "Kaelan Faria & Olga Kravchenko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Daniel Zakirzyanov & Samantha Spodik",
+      "Daniel Vesnovskiy & Maria Bilenkis",
+      "Oleksandra Vereshchak & Maria Vilus"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker",
+      "Igor Golovach & Megan Everett"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Ivan Shurin & Sophia Cherepakhin"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Nick Strutinskiy & Stella Chernyy"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Bronze Intl. Samba  (S)",
+    "couples": [
+      "Daniel Zakirzyanov & Samantha Spodik",
+      "Daniel Vesnovskiy & Maria Bilenkis",
+      "Oleksandra Vereshchak & Maria Vilus"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker",
+      "Igor Golovach & Megan Everett"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Silver Intl. Samba  (S)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Ivan Shurin & Sophia Cherepakhin"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Intl. Samba  (S)",
+    "couples": [
+      "Nick Strutinskiy & Stella Chernyy"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Zakirzyanov & Samantha Spodik",
+      "Daniel Vesnovskiy & Maria Bilenkis",
+      "Oleksandra Vereshchak & Maria Vilus"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Silver Intl. Rumba  (R)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Ivan Shurin & Sophia Cherepakhin"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Intl. Rumba  (R)",
+    "couples": [
+      "Nick Strutinskiy & Stella Chernyy"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Daniel Zakirzyanov & Samantha Spodik"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Brian Khelmer & Leah Naroditskiy",
+      "Jake Sadkhin & Melania Hudzen",
+      "Nathan Cherepakhin & Valentina Munoz"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Nicholas Kopitko & Mariam Abdrachitova"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Ivan Shurin & Sophia Cherepakhin"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Lev Libkind & Lilianna Novykov"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Novice Intl. Paso Doble  (P)",
+    "couples": [
+      "Nikita Lylyk & Gianna McGovern"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Bronze Intl. Jive  (J)",
+    "couples": [
+      "Daniel Zakirzyanov & Samantha Spodik",
+      "Oleksandra Vereshchak & Maria Vilus",
+      "Daniel Vesnovskiy & Maria Bilenkis"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Igor Golovach & Megan Everett"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Open Silver Intl. Jive  (J)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Ivan Shurin & Sophia Cherepakhin"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Intl. Jive  (J)",
+    "couples": [
+      "Nick Strutinskiy & Stella Chernyy"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Daniel Vesnovskiy & Maria Bilenkis",
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Daniel Zakirzyanov & Gianna Sinnelnikov",
+      "Oleksandra Vereshchak & Maria Vilus"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker",
+      "Igor Golovach & Megan Everett"
+    ]
+  },
+  {
+    "name": "Mixed Gents Pre-Teen II Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Dennis Babahanov & Sarah Livchits"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Bronze Intl. Samba  (S)",
+    "couples": [
+      "Denis Pigaryov & Emily Gulyak",
+      "Daniel Grinberg & Olga Azrilevich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Daniel Vesnovskiy & Maria Bilenkis",
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Daniel Zakirzyanov & Gianna Sinnelnikov",
+      "Oleksandra Vereshchak & Maria Vilus"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker",
+      "Igor Golovach & Megan Everett"
+    ]
+  },
+  {
+    "name": "Mixed Gents Pre-Teen II Gold Intl. Samba  (S)",
+    "couples": [
+      "Dennis Babahanov & Sarah Livchits"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Zakirzyanov & Gianna Sinnelnikov",
+      "Daniel Vesnovskiy & Maria Bilenkis",
+      "Michal Wyszynski & Fiona Bukharovich",
+      "Oleksandra Vereshchak & Maria Vilus"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Nikita Lylyk & Rachel Walker"
+    ]
+  },
+  {
+    "name": "Mixed Gents Pre-Teen II Gold Intl. Rumba  (R)",
+    "couples": [
+      "Dennis Babahanov & Sarah Livchits"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Bronze Intl. Jive  (J)",
+    "couples": [
+      "Daniel Grinberg & Olga Azrilevich",
+      "Denis Pigaryov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Teddy Bear Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Daniel Zakirzyanov & Gianna Sinnelnikov",
+      "Daniel Vesnovskiy & Maria Bilenkis",
+      "Oleksandra Vereshchak & Maria Vilus",
+      "Michal Wyszynski & Fiona Bukharovich"
+    ]
+  },
+  {
+    "name": "Mixed Gents Pre-Teen II Gold Intl. Jive  (J)",
+    "couples": [
+      "Dennis Babahanov & Sarah Livchits"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Novice Intl. Jive  (J)",
+    "couples": [
+      "Nikita Lylyk & Gianna McGovern",
+      "Lev Libkind & Michelle Shvartsman"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Daniel Grinberg & Olga Azrilevich",
+      "Maksym Haydar & Alyssa Gogan",
+      "Denis Pigaryov & Emily Gulyak",
+      "Andrei Fomenko & Anastasia Viano"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Open Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Sasha Zhukov & Mika Ribinik",
+      "Daniel Zakirzyanov & Alexandra Abrahamyan",
+      "Ivan Martynenko & Ava Arbitman",
+      "Nikita Lylyk & Anna Lysov"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Daniel Grinberg & Olga Azrilevich",
+      "Denis Pigaryov & Emily Gulyak",
+      "Maksym Haydar & Alyssa Gogan",
+      "Andrei Fomenko & Anastasia Viano"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Open Bronze Intl. Samba  (S)",
+    "couples": [
+      "Sasha Zhukov & Mika Ribinik",
+      "Ivan Martynenko & Ava Arbitman",
+      "Daniel Zakirzyanov & Alexandra Abrahamyan",
+      "Nikita Lylyk & Anna Lysov"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Grinberg & Olga Azrilevich",
+      "Denis Pigaryov & Emily Gulyak",
+      "Maksym Haydar & Alyssa Gogan",
+      "Andrei Fomenko & Anastasia Viano"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Open Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Sasha Zhukov & Mika Ribinik",
+      "Daniel Zakirzyanov & Alexandra Abrahamyan",
+      "Ivan Martynenko & Ava Arbitman",
+      "Nikita Lylyk & Anna Lysov"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Lucien Peev & Isabelle Krishtul"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Max Spodik & Lara Korotkin"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Open Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Ivan Martynenko & Ava Arbitman",
+      "Nikita Lylyk & Anna Lysov"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Lucas Skvirsky & Nare Safaryan",
+      "Alan Aptekar & Julia Sherstnyova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Pre-Champ Intl. Paso Doble  (P)",
+    "couples": [
+      "Igor Golovach & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Maksym Haydar & Alyssa Gogan",
+      "Daniel Grinberg & Olga Azrilevich",
+      "Denis Pigaryov & Emily Gulyak",
+      "Andrei Fomenko & Anastasia Viano"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Open Bronze Intl. Jive  (J)",
+    "couples": [
+      "Sasha Zhukov & Mika Ribinik",
+      "Daniel Zakirzyanov & Alexandra Abrahamyan",
+      "Ivan Martynenko & Ava Arbitman",
+      "Nikita Lylyk & Anna Lysov"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Silver Intl. Jive  (J)",
+    "couples": [
+      "Brian Khelmer & Leah Naroditskiy",
+      "Nathan Cherepakhin & Valentina Munoz",
+      "Jake Sadkhin & Melania Hudzen"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Intl. Jive  (J)",
+    "couples": [
+      "Paul Abalakin & Leah Yefimova",
+      "Nicholas Kopitko & Mariam Abdrachitova",
+      "Preston Kostioukov & Valerie Kaplan"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Intl. Jive  (J)",
+    "couples": [
+      "Lev Libkind & Lilianna Novykov",
+      "Yuriy Markovetskiy & Milana Fridman",
+      "Slava Ben & Vicoria Sorbat"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Silver Intl. Jive  (J)",
+    "couples": [
+      "Lucas Skvirsky & Nare Safaryan",
+      "Alan Aptekar & Julia Sherstnyova",
+      "Samuil Gamorin & Marianne Ayzikovich",
+      "Preston Kostioukov & Valerie Kaplan",
+      "Nick Strutinskiy & Stella Chernyy",
+      "Kaelan Faria & Ava Bella Mattioli"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Silver Intl. Jive  (J)",
+    "couples": [
+      "Lev Libkind & Olivia Fridman"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Silver Intl. Jive  (J)",
+    "couples": [
+      "Paul Abalakin & Leah Yefimova",
+      "Preston Kostioukov & Valerie Kaplan"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Novice Intl. Jive  (J)",
+    "couples": [
+      "Igor Golovach & Stephanie Micken",
+      "Lev Libkind & Michelle Shvartsman"
+    ]
+  },
+  {
+    "name": "Amateur Teddy Bear Bronze Latin  (CR)",
+    "couples": [
+      "Denis Pigaryov & Emily Gulyak",
+      "Daniel Grinberg & Olga Azrilevich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen I Bronze Latin  (CR)",
+    "couples": [
+      "Michal Wyszynski & Penelope Bukharovich"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Bronze Latin  (CR)",
+    "couples": [
+      "Max Spodik & Lara Korotkin",
+      "Kaelan Faria & Ava Bella Mattioli"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Bronze Latin  (SJ)",
+    "couples": [
+      "Max Spodik & Lara Korotkin",
+      "Kaelan Faria & Ava Bella Mattioli"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Bronze Latin  (CR)",
+    "couples": [
+      "Mark Meyerzon & Mia Yudilevich",
+      "Michael Trubkin & Olga Kokhno",
+      "Eric Danilov & Sarah Fleysher",
+      "Daniel Shyvilka & Weronika Rogowski",
+      "Samuel Simpson & Hailey Lyman",
+      "Lucien Peev & Isabelle Krishtul",
+      "Kauschal Chikka & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Amateur Youth Bronze Latin  (CR)",
+    "couples": [
+      "Ricardo Aragon & Dorca Aragon"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Bronze Latin  (SJ)",
+    "couples": [
+      "Mark Meyerzon & Mia Yudilevich",
+      "Michael Trubkin & Olga Kokhno",
+      "Eric Danilov & Sarah Fleysher",
+      "Daniel Shyvilka & Weronika Rogowski",
+      "Samuel Simpson & Hailey Lyman",
+      "Lucien Peev & Isabelle Krishtul",
+      "Kauschal Chikka & Satya Hsu"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Silver Latin  (SCR)",
+    "couples": [
+      "Brian Khelmer & Leah Naroditskiy",
+      "Jake Sadkhin & Melania Hudzen",
+      "Nathan Cherepakhin & Valentina Munoz"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Silver Latin  (SCR)",
+    "couples": [
+      "Samuil Gamorin & Marianne Ayzikovich",
+      "Lucas Skvirsky & Nare Safaryan",
+      "Alan Aptekar & Julia Sherstnyova",
+      "Preston Kostioukov & Valerie Kaplan",
+      "Nick Strutinskiy & Stella Chernyy",
+      "Kaelan Faria & Ava Bella Mattioli"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Latin  (SCR)",
+    "couples": [
+      "Nicholas Kopitko & Mariam Abdrachitova",
+      "Paul Abalakin & Leah Yefimova",
+      "Preston Kostioukov & Valerie Kaplan"
+    ]
+  },
+  {
+    "name": "Amateur Youth Silver Latin  (SCR)",
+    "couples": [
+      "Ricardo Aragon & Dorca Aragon"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Championship Latin  (SCRPJ)",
+    "couples": [
+      "Igor Golovach & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Silver Latin  (SCR)",
+    "couples": [
+      "Paul Abalakin & Leah Yefimova",
+      "Preston Kostioukov & Valerie Kaplan",
+      "Ricardo Aragon & Maya Pater"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Latin  (SCRJ)",
+    "couples": [
+      "Samuel Khelmer & Alisa Guzman",
+      "Lucas Skvirsky & Nare Safaryan",
+      "Ivan Shurin & Sophia Cherepakhin",
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Pre-Teen II Gold Latin  (SCRJ)",
+    "couples": [
+      "Sasha Zhukov & Giselle Brown",
+      "Yuriy Nagay & Alyssa Langer"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Latin  (SCRJ)",
+    "couples": [
+      "Nicholas Kopitko & Mariam Abdrachitova",
+      "Jaiden Watkins & Ava Bella Mattioli"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Gold Latin  (SCRJ)",
+    "couples": [
+      "Lev Libkind & Lilianna Novykov"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Igor Golovach & Angelina Parkhomova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Gold Latin  (SCRJ)",
+    "couples": [
+      "Yuriy Markovetskiy & Eva Blyakherova",
+      "Yuriy Nagay & Briana Bobrov",
+      "Yanni Glukhovskiy & Elana Glukhovskiy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Novice Latin  (SCR)",
+    "couples": [
+      "Andrey Kirilyuk & Juliana Bryk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Daniel Zakirzyanov & Angelina Kosyuk"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Championship Latin  (SCRPJ)",
+    "couples": [
+      "Sasha Zhukov & Anna Vakhnovetsky",
+      "Igor Golovach & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Gold Latin  (SCRJ)",
+    "couples": [
+      "Aleksey Goncharov & Alia Abulgazieva",
+      "Yanni Glukhovskiy & Elana Glukhovskiy",
+      "Nikita Lylyk & Gianna McGovern",
+      "Victor Makovsky & Aden Nisimi",
+      "Yuriy Markovetskiy & Valerie Chervinskaya"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Sasha Zhukov & Anna Vakhnovetsky",
+      "Igor Golovach & Stephanie Micken",
+      "Roman Medvid & Melanie Lebedinsky"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Novice Latin  (SCR)",
+    "couples": [
+      "Daniel Zakirzyanov & Angelina Kosyuk",
+      "Yuriy Markovetskiy & Eva Blyakherova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Novice Latin  (SCR)",
+    "couples": [
+      "Igor Golovach & Angelina Parkhomova",
+      "Nikita Lylyk & Gianna McGovern",
+      "Lev Libkind & Michelle Shvartsman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Steven Mesh & Diana Vinokurov"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Novice Intl. Jive  (J)",
+    "couples": [
+      "Daniel Zakirzyanov & Angelina Kosyuk",
+      "Yuriy Markovetskiy & Eva Blyakherova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Latin  (SCR)",
+    "couples": [
+      "Lev Libkind & Lilianna Novykov",
+      "Yuriy Markovetskiy & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Novice Latin  (SCR)",
+    "couples": [
+      "Igor Golovach & Stephanie Micken",
+      "Andrey Kirilyuk & Juliana Bryk",
+      "Lev Libkind & Michelle Shvartsman"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Youth Championship Latin  (SCRPJ)",
+    "couples": [
+      "Steven Mesh & Diana Vinokurov"
+    ]
+  },
+  {
+    "name": "Solo Star Junior II Silver Latin  (SCR)",
+    "couples": [
+      "Ava Bella Mattioli & Ava Bella Mattioli",
+      "Jaiden Watkins & Jaiden Watkins",
+      "Angelina Tkachuk & Angelina Tkachuk",
+      "Kaelan Faria & Kaelan Faria",
+      "Natalia Iosue & Natalia Iosue",
+      "Maya Pater & Maya Pater"
+    ]
+  },
+  {
+    "name": "Solo Star Youth Silver Latin  (SCR)",
+    "couples": [
+      "Dorca Aragon & Dorca Aragon",
+      "Olga Kravchenko & Olga Kravchenko",
+      "Caroline Woodward & Caroline Woodward",
+      "Ricardo Aragon & Ricardo Aragon",
+      "Andreas Kadel & Andreas Kadel"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "John Larson & Irit Grader"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Intl. Waltz  (W)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "John Larson & Irit Grader"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Intl. Tango  (T)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "John Larson & Irit Grader"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Bronze (2) Intl. Quickstep  (Q)",
+    "couples": [
+      "John Larson & Irit Grader"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Standard  (WFQ)",
+    "couples": [
+      "Adrian Sarmiento & Carly Mattox",
+      "Scott Noar & Carol Miller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Novice Standard  (WFQ)",
+    "couples": [
+      "John Larson & Irit Grader"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Bronze (2) Intl. Waltz  (W)",
+    "couples": [
+      "John Larson & Irit Grader"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Intl. Waltz  (W)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Bronze (2) Intl. Tango  (T)",
+    "couples": [
+      "John Larson & Irit Grader"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Intl. Tango  (T)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Novice Intl. V. Waltz  (V)",
+    "couples": [
+      "Douglas Raymond & Diane Kolb"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Bronze (2) Intl. Foxtrot  (F)",
+    "couples": [
+      "John Larson & Irit Grader"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Pre-Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "John Larson & Irit Grader"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Gold Standard  (WTFQ)",
+    "couples": [
+      "Douglas Raymond & Diane Kolb"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Ihor Kravets & Carol Chen Kadel"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Novice Intl. V. Waltz  (V)",
+    "couples": [
+      "Douglas Raymond & Diane Kolb"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Standard  (WTFQ)",
+    "couples": [
+      "Adrian Sarmiento & Carly Mattox"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Gold Standard  (WTFQ)",
+    "couples": [
+      "Douglas Raymond & Diane Kolb"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Ihor Kravets & Carol Chen Kadel"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Tango  (T)",
+    "couples": [
+      "Adrian Sarmiento & Carly Mattox",
+      "Scott Noar & Carol Miller"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Intl. V. Waltz  (V)",
+    "couples": [
+      "Adrian Sarmiento & Carly Mattox"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Daniel Vesnovskiy & Christina Zou"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Steven Mesh & Linda Okonkwo"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Intl. Samba  (S)",
+    "couples": [
+      "Steven Mesh & Linda Okonkwo"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Intl. Rumba  (R)",
+    "couples": [
+      "Steven Mesh & Linda Okonkwo"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Intl. Jive  (J)",
+    "couples": [
+      "Steven Mesh & Linda Okonkwo"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Int. Bronze Intl. Jive  (J)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Douglas Raymond & Diane Kolb",
+      "George Dudley & Joan Hergesheimer"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Douglas Raymond & Diane Kolb",
+      "George Dudley & Joan Hergesheimer"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Intl. Paso Doble  (P)",
+    "couples": [
+      "Fiodor Postolachi & Anna Raytsina"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Silver Latin  (SCR)",
+    "couples": [
+      "Douglas Raymond & Diane Kolb"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Senior III Silver Latin  (SCR)",
+    "couples": [
+      "Igor Golovach & Nancy Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Novice Latin  (SCR)",
+    "couples": [
+      "Ihor Kravets & Nancy Harrison"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Gold Latin  (SCRJ)",
+    "couples": [
+      "Douglas Raymond & Diane Kolb",
+      "George Dudley & Joan Hergesheimer"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Senior III Gold Latin  (SCRJ)",
+    "couples": [
+      "Igor Golovach & Nancy Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Championship Latin  (SCRPJ)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Silver Latin  (SCR)",
+    "couples": [
+      "Douglas Raymond & Diane Kolb"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Senior IV Silver Latin  (SCR)",
+    "couples": [
+      "Igor Golovach & Nancy Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Ihor Kravets & Nancy Harrison"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Championship Latin  (SCRPJ)",
+    "couples": [
+      "Steven Mesh & Natalya Katz"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Latin  (SCRJ)",
+    "couples": [
+      "Adrian Sarmiento & Carly Mattox",
+      "Andreas Kadel & Dorca Aragon"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Championship Latin  (SCRPJ)",
+    "couples": [
+      "Steven Mesh & Natalya Katz"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Gold Latin  (SCRJ)",
+    "couples": [
+      "Douglas Raymond & Diane Kolb",
+      "George Dudley & Joan Hergesheimer"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Senior IV Gold Latin  (SCRJ)",
+    "couples": [
+      "Igor Golovach & Nancy Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Championship Latin  (SCRPJ)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. Waltz  (W)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. Tango  (T)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Am. Waltz  (W)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Am. Tango  (T)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Tony Siu & Emma Sunog"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Pre-Silver Am. Waltz  (W)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Smooth  (WTF)",
+    "couples": [
+      "Tony Siu & Emma Sunog"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Novice Smooth  (WTF)",
+    "couples": [
+      "Jerry Harrison & Nancy Harrison"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Steven Mesh & Natalya Katz"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Pre-Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Adult III Gold Argentine Tango  (A)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Silver Smooth  (WTF)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Steven Mesh & Linda Okonkwo"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Silver Am. Waltz  (W)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Pre-Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. Rumba  (R)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Silver Am. Swing  (S)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. Swing  (S)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. Bolero  (B)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Silver Am. Mambo  (M)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Am. Mambo  (M)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold West Coast Swing  (W)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Bronze Hustle  (H)",
+    "couples": [
+      "Sharonne Vinokurov & Sharon Topley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Gold Hustle  (H)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Am. Rumba  (R)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Am. Swing  (S)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Am. Bolero  (B)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Am. Mambo  (M)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold West Coast Swing  (W)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Bronze Hustle  (H)",
+    "couples": [
+      "Sharonne Vinokurov & Sharon Topley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Gold Hustle  (H)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Adult III Open Silver Bachata  (B)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Bronze Hustle  (H)",
+    "couples": [
+      "Sharonne Vinokurov & Sharon Topley"
+    ]
+  },
+  {
+    "name": "Pro/Am Adult III Gold Bachata  (B)",
+    "couples": [
+      "Steven Mesh & Joan Campbell"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Full Silver Am. Swing  (S)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "James Larkey & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Terry Bussard & Sandra Fortuna"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Championship Rhythm  (CRSBM)",
+    "couples": [
+      "Steven Mesh & Natalya Katz"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Novice Smooth  (WTF)",
+    "couples": [
+      "Jerry Harrison & Nancy Harrison"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Smooth  (WTFV)",
+    "couples": [
+      "George Cometa & Jessica Wang"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Smooth  (WTFV)",
+    "couples": [
+      "Mike Lynch & Rose"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Championship Standard  (WTVFQ)",
+    "couples": [
+      "Noah Cylich & Abigail Kupka"
+    ]
+  },
+  {
+    "name": "Amateur Youth Championship Standard  (WTVFQ)",
+    "couples": [
+      "Daniel Tikhomirov & Elizabeth Pozniakova"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Championship Standard  (WTVFQ)",
+    "couples": [
+      "Mathew Kheyfets & Sima Sadykhov"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Novice Standard  (WFQ)",
+    "couples": [
+      "Douglas Raymond & Diane Kolb",
+      "Thomas Carroll & Maureen Carroll"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Jerry Harrison & Nancy Harrison"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Smooth  (WTFV)",
+    "couples": [
+      "Mike Lynch & Rose"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Noah Cylich & Abigail Kupka"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice Latin  (SCR)",
+    "couples": [
+      "Aiden Shea & Rebecca Sulpovar",
+      "Daniel Alshansky & Regina Bass",
+      "Noah Cylich & Abigail Kupka",
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Fiodor Postolachi & Anna Raytsina",
+      "Dimitri Billan & Britany Lavko",
+      "Igor Tugluk & Alice Margovsky"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice (1) Intl. Jive  (J)",
+    "couples": [
+      "Aiden Shea & Rebecca Sulpovar",
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Jerry Harrison & Nancy Harrison"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Steven Mesh & Linda Okonkwo"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Novice Latin  (SCR)",
+    "couples": [
+      "Daniel Alshansky & Regina Bass",
+      "Matthew Koptyakov & Aurika Avizienyte"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Standard  (WTVFQ)",
+    "couples": [
+      "Mathew Kheyfets & Sima Sadykhov",
+      "Phil Beylison & Jenna Rubenchik"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Novice Standard  (WFQ)",
+    "couples": [
+      "Thomas Carroll & Maureen Carroll",
+      "Douglas Raymond & Diane Kolb"
+    ]
+  },
+  {
+    "name": "Amateur Youth Novice Latin  (SCR)",
+    "couples": [
+      "Dima Romanenko & Abigail Pukin",
+      "Alen Glaizer & Jacklyn Mogilevsky",
+      "Iurii Ishopovich & Katya Nikitin",
+      "Igor Tugluk & Alice Margovsky"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Thomas Carroll & Maureen Carroll"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Standard  (WTVFQ)",
+    "couples": [
+      "Mike Lynch & Rose"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Daniel Alshansky & Regina Bass",
+      "Noah Cylich & Abigail Kupka",
+      "Matthew Koptyakov & Aurika Avizienyte"
+    ]
+  },
+  {
+    "name": "Amateur Youth Championship Latin  (SCRPJ)",
+    "couples": [
+      "Yanni Glukhovskiy & Julia Seleznyov",
+      "Daniel Tikhomirov & Elizabeth Pozniakova",
+      "Lev Libkind & Anastasiia Melnychenko"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Thomas Carroll & Maureen Carroll"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Standard  (WTVFQ)",
+    "couples": [
+      "Mike Lynch & Rose"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Lev Libkind & Anastasiia Melnychenko",
+      "Dima Romanenko & Abigail Pukin",
+      "Dimitri Billan & Britany Lavko",
+      "Alen Glaizer & Jacklyn Mogilevsky",
+      "Iurii Ishopovich & Katya Nikitin",
+      "Igor Tugluk & Alice Margovsky"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Championship Latin  (SCRPJ)",
+    "couples": [
+      "Anatoliy Shvarts & Tatiana Keegan"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Championship Latin  (SCRPJ)",
+    "couples": [
+      "Mathew Kheyfets & Sima Sadykhov",
+      "Yuriy Markovetskiy & Alicia Philips",
+      "Yanni Glukhovskiy & Julia Seleznyov",
+      "Kairat Algadaev & Brigitte Fay",
+      "Daniel Tikhomirov & Elizabeth Pozniakova"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Latin  (SCR)",
+    "couples": [
+      "Fiodor Postolachi & Anna Raytsina",
+      "Igor Tugluk & Alice Margovsky",
+      "Adrian Sarmiento & Carly Mattox"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice (1) Intl. Paso Doble  (P)",
+    "couples": [
+      "Noah Cylich & Abigail Kupka",
+      "Matthew Koptyakov & Aurika Avizienyte"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Intl. Paso Doble  (P)",
+    "couples": [
+      "Fiodor Postolachi & Anna Raytsina",
+      "Adrian Sarmiento & Carly Mattox"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Intl. Jive  (J)",
+    "couples": [
+      "Fiodor Postolachi & Anna Raytsina",
+      "Adrian Sarmiento & Carly Mattox"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Latin  (SCRPJ)",
+    "couples": [
+      "Mathew Kheyfets & Sima Sadykhov",
+      "Yuriy Markovetskiy & Alicia Philips",
+      "Kairat Algadaev & Brigitte Fay"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Latin  (SCRPJ)",
+    "couples": [
+      "Anatoliy Shvarts & Tatiana Keegan"
+    ]
+  }
+]

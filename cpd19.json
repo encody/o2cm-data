@@ -1,0 +1,1841 @@
+[
+  {
+    "name": "Amateur  Bronze Am. Waltz  (W)",
+    "couples": [
+      "Michael Perez & Alison Eling",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Kevin Enario & Jasmine Galdamez",
+      "Jordan Churi & Amberley Powell",
+      "Kevin Gutierrez & Zoe Schack",
+      "Alexander Hazen & Sara Kwan",
+      "Renee De Palma & Maggie Zhang",
+      "Juha Nieminen & Mingze Sun",
+      "Clark Whitsett & Syd Clark",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Connor Tom & Tomona Tanaka",
+      "Kalani Newman & Hannah Kernal",
+      "Haikuo Yin & Joan Li",
+      "Berni Padeller & Alicia Jassner",
+      "Lawton Nichols & Emily Le",
+      "Alexander Weitzel & Samantha Chen",
+      "Jackson Jin & Clara Chu",
+      "Ronoldy Vargas & Lisa Homeidan",
+      "Crystal Phung & Katherine Chen",
+      "Matthew Carlson & Isabella Walker",
+      "Scott Lopez & Brandee Lamb"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Am. Tango  (T)",
+    "couples": [
+      "Michael Perez & Alison Eling",
+      "Kevin Enario & Jasmine Galdamez",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Kevin Gutierrez & Zoe Schack",
+      "Connor Tom & Tomona Tanaka",
+      "Renee De Palma & Maggie Zhang",
+      "Alexander Hazen & Sara Kwan",
+      "Clark Whitsett & Syd Clark",
+      "Jordan Churi & Amberley Powell",
+      "Juha Nieminen & Mingze Sun",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Kalani Newman & Hannah Kernal",
+      "Haikuo Yin & Joan Li",
+      "Berni Padeller & Alicia Jassner",
+      "Ronoldy Vargas & Kimberly Franco",
+      "Scott Lopez & Brandee Lamb",
+      "Alexander Weitzel & Lyudmila Panina",
+      "Jackson Jin & Clara Chu",
+      "Madhu Majji & Bianca Wu",
+      "Crystal Phung & Katherine Chen"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Jordan Churi & Amberley Powell",
+      "Kevin Enario & Jasmine Galdamez",
+      "Renee De Palma & Maggie Zhang",
+      "Connor Tom & Tomona Tanaka",
+      "Clark Whitsett & Syd Clark",
+      "Ronoldy Vargas & Lisa Homeidan",
+      "Haikuo Yin & Joan Li",
+      "Alexander Hazen & Sara Kwan",
+      "Kalani Newman & Hannah Kernal",
+      "Lawton Nichols & Emily Le",
+      "Scott Lopez & Brandee Lamb",
+      "Juha Nieminen & Mingze Sun",
+      "Alexander Weitzel & Samantha Chen",
+      "Jackson Jin & Clara Chu",
+      "Crystal Phung & Katherine Chen"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Am. Waltz  (W)",
+    "couples": [
+      "Michael Perce & Queenique Dinh",
+      "Daniel Egert & Riley McGarrigle",
+      "Michael Perez & Alison Eling",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Christopher Morales & Kathlyn Lopez",
+      "Kevin Enario & Jasmine Galdamez",
+      "Jeremiah Gonzales & Vanessa Garcia",
+      "Zachary Machado & Danielle Shen",
+      "Matthew Carlson & Isabella Walker",
+      "Kevin Gutierrez & Zoe Schack",
+      "Kalani Newman & Hannah Kernal",
+      "Ariel Hsieh & Aaron Sy",
+      "Renee De Palma & Maggie Zhang",
+      "Clark Whitsett & Syd Clark",
+      "Connor Tom & Priya Garcia",
+      "Alexey Tregubov & Dana Dinh",
+      "Jordan Churi & Amberley Powell",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Alexander Hazen & Sara Kwan"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Am. Tango  (T)",
+    "couples": [
+      "Michael Perce & Queenique Dinh",
+      "Daniel Egert & Riley McGarrigle",
+      "Michael Perez & Alison Eling",
+      "Jeremiah Gonzales & Vanessa Garcia",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Kevin Enario & Jasmine Galdamez",
+      "Zachary Machado & Danielle Shen",
+      "Kevin Gutierrez & Zoe Schack",
+      "Kalani Newman & Hannah Kernal",
+      "Alexey Tregubov & Dana Dinh",
+      "Ariel Hsieh & Aaron Sy",
+      "Clark Whitsett & Syd Clark",
+      "Jordan Churi & Amberley Powell",
+      "Alexander Hazen & Sara Kwan",
+      "Connor Tom & Priya Garcia",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Renee De Palma & Maggie Zhang"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Michael Perce & Queenique Dinh",
+      "Daniel Egert & Riley McGarrigle",
+      "Michael Perez & Alison Eling",
+      "Zachary Machado & Danielle Shen",
+      "Jeremiah Gonzales & Vanessa Garcia",
+      "Kevin Enario & Jasmine Galdamez",
+      "Jordan Churi & Amberley Powell",
+      "Christopher Morales & Kathlyn Lopez",
+      "Clark Whitsett & Syd Clark",
+      "Connor Tom & Priya Garcia",
+      "Kalani Newman & Hannah Kernal",
+      "Renee De Palma & Maggie Zhang",
+      "Alexander Hazen & Sara Kwan",
+      "Ariel Hsieh & Aaron Sy",
+      "Alexey Tregubov & Dana Dinh",
+      "Kevin Gutierrez & Zoe Schack"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Daniel Egert & Riley McGarrigle",
+      "Michael Perce & Queenique Dinh",
+      "Jeremiah Gonzales & Vanessa Garcia",
+      "Zachary Machado & Danielle Shen",
+      "Kalani Newman & Hannah Kernal",
+      "Jordan Churi & Amberley Powell",
+      "Renee De Palma & Maggie Zhang",
+      "Alexander Hazen & Sara Kwan",
+      "Clark Whitsett & Syd Clark",
+      "Michael Perez & Alison Eling",
+      "Connor Tom & Priya Garcia",
+      "Alexey Tregubov & Dana Dinh"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Kevin Enario & Jasmine Galdamez",
+      "Michael Perez & Alison Eling",
+      "Jordan Churi & Amberley Powell",
+      "Kalani Newman & Hannah Kernal",
+      "Alexander Hazen & Sara Kwan",
+      "Connor Tom & Tomona Tanaka",
+      "Renee De Palma & Maggie Zhang",
+      "Clark Whitsett & Syd Clark"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Smooth  (WF)",
+    "couples": [
+      "Michael Perce & Queenique Dinh",
+      "Mark Gauderman & Ashley Grist",
+      "Eric Gauderman & Sarah Harper",
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Max Pflueger & Sarah Berry",
+      "Daniel Egert & Riley McGarrigle",
+      "Alexey Tregubov & Dana Dinh"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Am. Tango  (T)",
+    "couples": [
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Mark Gauderman & Ashley Grist",
+      "Michael Perce & Queenique Dinh",
+      "Daniel Egert & Riley McGarrigle",
+      "Alexey Tregubov & Dana Dinh",
+      "Eric Gauderman & Sarah Harper",
+      "Max Pflueger & Sarah Berry"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Mark Gauderman & Ashley Grist",
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Michael Perce & Queenique Dinh",
+      "Eric Gauderman & Sarah Harper",
+      "Daniel Egert & Riley McGarrigle",
+      "Max Pflueger & Sarah Berry",
+      "Alexey Tregubov & Dana Dinh"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Ronoldy Vargas & Kimberly Franco",
+      "Alexander Weitzel & Samantha Chen",
+      "Scott Lopez & Brandee Lamb",
+      "Berni Padeller & Alicia Jassner",
+      "Jackson Jin & Clara Chu"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Am. Tango  (T)",
+    "couples": [
+      "Ronoldy Vargas & Kimberly Franco",
+      "Alexander Weitzel & Lyudmila Panina",
+      "Scott Lopez & Brandee Lamb",
+      "Jackson Jin & Clara Chu",
+      "Madhu Majji & Bianca Wu",
+      "Berni Padeller & Alicia Jassner"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Alexander Weitzel & Samantha Chen",
+      "Hao Zhang & Kimberly Franco",
+      "Scott Lopez & Brandee Lamb",
+      "Jackson Jin & Clara Chu"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Am. Waltz  (W)",
+    "couples": [
+      "Jason Disbrow & Rebecca Jones",
+      "Reed Blaylock & Michael Perez",
+      "Alexey Tregubov & Sara Kwan",
+      "Christopher Ellwood & Siena Fiorentino",
+      "Christopher Morales & Marina Perry",
+      "Michael Perce & Maggie Zhang"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Am. Waltz  (W)",
+    "couples": [
+      "Alexander Hazen & Dana Dinh",
+      "Scott Lopez & Yuna Choi",
+      "Ronoldy Vargas & Kathlyn Lopez",
+      "Crystal Phung & Priya Garcia",
+      "Mitchell Lee & Queenique Dinh"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Am. Tango  (T)",
+    "couples": [
+      "Jason Disbrow & Rebecca Jones",
+      "Alexey Tregubov & Sara Kwan",
+      "Christopher Ellwood & Siena Fiorentino",
+      "Michael Perce & Maggie Zhang",
+      "Reed Blaylock & Michael Perez",
+      "Christopher Morales & Lisa Homeidan"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Am. Tango  (T)",
+    "couples": [
+      "Alexander Hazen & Dana Dinh",
+      "Ronoldy Vargas & Kathlyn Lopez",
+      "Crystal Phung & Priya Garcia",
+      "Scott Lopez & Yuna Choi",
+      "Mitchell Lee & Queenique Dinh"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Jason Disbrow & Rebecca Jones",
+      "Alexey Tregubov & Sara Kwan",
+      "Michael Perce & Maggie Zhang",
+      "Christopher Morales & Kimberly Franco",
+      "Christopher Ellwood & Siena Fiorentino"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Alexander Hazen & Dana Dinh",
+      "Crystal Phung & Priya Garcia",
+      "Scott Lopez & Yuna Choi",
+      "Ronoldy Vargas & Kathlyn Lopez",
+      "Mitchell Lee & Queenique Dinh"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Christopher Morales & Marina Perry",
+      "Michael Perce & Maggie Zhang",
+      "Alexey Tregubov & Sara Kwan",
+      "Reed Blaylock & Michael Perez"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Alexander Hazen & Dana Dinh",
+      "Crystal Phung & Priya Garcia"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Pavel Gladkevich & Flora Dong",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Matthew Panelo & Carla Chehadeh",
+      "Aaron Sy & Ariel Hsieh",
+      "David Laubner & Allison Naylor",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Jackson Hurley & Ariana Weiss",
+      "Ishaan Gandhi & Anna Teske",
+      "Harry Dong & Helen Tang",
+      "Mingjun Lim & Elaine Yeo",
+      "Renee De Palma & Maggie Zhang",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Areeb Yaqub & Samantha Santana",
+      "Elijah Whitsett & Logan Kramer",
+      "Imam Widodo & Violet Buxton",
+      "Connor Tom & Lauren Walker",
+      "Zeyu Lin & Michelle Perelmutor",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Juha Nieminen & Mingze Sun",
+      "Ali Mahmood & Y Nguyen",
+      "Scott Suzuki & Diane Bennett",
+      "Crystal Phung & Anais Hamel",
+      "Sarah Chen & Megan Kaye",
+      "Benjamin McAnally & Emma Paulini",
+      "Akshay Srivastava & Lisa Ho",
+      "Haikuo Yin & Joan Li",
+      "Amanda Lam & Emily Zhang",
+      "Lawton Nichols & Emily Le",
+      "Spencer Gibson & Joanna Sobczyk",
+      "George Troulis & Clara Hess",
+      "Manuel Caro Torregrosa & Arianna Martinez",
+      "Cesar Vargas & Sarah Robertson",
+      "Jonathan Codina & Katie White",
+      "Scott Lopez & Brandee Lamb",
+      "David Quintero & Daysia Torres",
+      "Josue Alvarado & Kelly Chow"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Intl. Tango  (T)",
+    "couples": [
+      "Pavel Gladkevich & Flora Dong",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Aaron Sy & Ariel Hsieh",
+      "Harry Dong & Helen Tang",
+      "Renee De Palma & Maggie Zhang",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Amanda Lam & Emily Zhang",
+      "Elijah Whitsett & Logan Kramer",
+      "Mingjun Lim & Elaine Yeo",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "George Troulis & Clara Hess",
+      "Connor Tom & Lauren Walker",
+      "Haikuo Yin & Joan Li",
+      "Matthew Panelo & Carla Chehadeh",
+      "Imam Widodo & Violet Buxton",
+      "Scott Lopez & Brandee Lamb",
+      "Juha Nieminen & Mingze Sun",
+      "Crystal Phung & Anais Hamel",
+      "Manuel Caro Torregrosa & Arianna Martinez",
+      "Sarah Chen & Megan Kaye",
+      "Benjamin McAnally & Emma Paulini",
+      "Akshay Srivastava & Lisa Ho",
+      "Josue Alvarado & Kelly Chow",
+      "Lawton Nichols & Emily Le",
+      "Cesar Vargas & Sarah Robertson"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Matthew Panelo & Emily Liu",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Ishaan Gandhi & Anna Teske",
+      "Areeb Yaqub & Hanruo Wang",
+      "Zeyu Lin & Michelle Perelmutor",
+      "Hannah Kernal & Joan Li",
+      "George Troulis & Clara Hess",
+      "Scott Lopez & Brandee Lamb",
+      "David Quintero & Daysia Torres",
+      "Spencer Gibson & Samantha Santana",
+      "Manuel Caro Torregrosa & Arianna Martinez",
+      "Sarah Chen & Megan Kaye",
+      "Cesar Vargas & Sarah Robertson"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Pavel Gladkevich & Flora Dong",
+      "Harry Dong & Helen Tang",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Aaron Sy & Ariel Hsieh",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Mingjun Lim & Elaine Yeo",
+      "Elijah Whitsett & Logan Kramer",
+      "Akshay Srivastava & Lisa Ho",
+      "Connor Tom & Lauren Walker",
+      "Scott Lopez & Brandee Lamb",
+      "Nikki DelosReyes & Nicole DelosReyes"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Pavel Gladkevich & Flora Dong",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Harry Dong & Helen Tang",
+      "Aaron Sy & Ariel Hsieh",
+      "Jackson Hurley & Ariana Weiss",
+      "Mingjun Lim & Elaine Yeo",
+      "Connor Tom & Lauren Walker",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Elijah Whitsett & Logan Kramer",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Imam Widodo & Violet Buxton",
+      "David Laubner & Allison Naylor",
+      "Scott Suzuki & Diane Bennett",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Scott Lopez & Brandee Lamb",
+      "Zeyu Lin & Michelle Perelmutor",
+      "Haikuo Yin & Joan Li",
+      "Lawton Nichols & Emily Le",
+      "Spencer Gibson & Joanna Sobczyk",
+      "Areeb Yaqub & Samantha Santana",
+      "Crystal Phung & Anais Hamel",
+      "Ali Mahmood & Y Nguyen",
+      "Sarah Chen & Megan Kaye",
+      "Benjamin McAnally & Emma Paulini",
+      "Akshay Srivastava & Lisa Ho"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Intl. Waltz  (W)",
+    "couples": [
+      "Arthur Huynh & Emily Payne",
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Zachary Machado & Melanie Bruce",
+      "Shawn Recinos & Calvin Ma",
+      "Daniel Egert & Riley McGarrigle",
+      "Pavel Gladkevich & Flora Dong",
+      "Hans Zhou & Ana Stevens",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Daniel Werth & Jae Marie Tabuada",
+      "Imam Widodo & Violet Buxton",
+      "Connor Tom & Priya Garcia",
+      "Aaron Sy & Ariel Hsieh",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Mingjun Lim & Elaine Yeo",
+      "Harry Dong & Helen Tang",
+      "Elijah Whitsett & Logan Kramer",
+      "Akshay Srivastava & Lisa Ho",
+      "Renee De Palma & Maggie Zhang",
+      "Gustavo Ortega & Jade Burchett",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Jamshed Ashurov & A`Mariah Lovelace",
+      "Ali Mahmood & Y Nguyen",
+      "Benjamin McAnally & Emma Paulini"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Intl. Tango  (T)",
+    "couples": [
+      "Arthur Huynh & Emily Payne",
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Zachary Machado & Melanie Bruce",
+      "Pavel Gladkevich & Flora Dong",
+      "Daniel Egert & Riley McGarrigle",
+      "Daniel Werth & Jae Marie Tabuada",
+      "Hans Zhou & Ana Stevens",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Imam Widodo & Violet Buxton",
+      "Harry Dong & Helen Tang",
+      "Aaron Sy & Ariel Hsieh",
+      "Renee De Palma & Maggie Zhang",
+      "Gustavo Ortega & Jade Burchett",
+      "Connor Tom & Priya Garcia",
+      "Mingjun Lim & Elaine Yeo",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Elijah Whitsett & Logan Kramer",
+      "Akshay Srivastava & Lisa Ho",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Jamshed Ashurov & A`Mariah Lovelace",
+      "Benjamin McAnally & Emma Paulini"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Arthur Huynh & Emily Payne",
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Daniel Egert & Riley McGarrigle",
+      "Pavel Gladkevich & Flora Dong",
+      "Hans Zhou & Ana Stevens",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Gustavo Ortega & Jade Burchett",
+      "Harry Dong & Helen Tang",
+      "Daniel Werth & Jae Marie Tabuada",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Aaron Sy & Ariel Hsieh",
+      "Mingjun Lim & Elaine Yeo",
+      "Elijah Whitsett & Logan Kramer",
+      "Akshay Srivastava & Lisa Ho",
+      "Connor Tom & Priya Garcia",
+      "Nikki DelosReyes & Nicole DelosReyes"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Arthur Huynh & Emily Payne",
+      "Zachary Machado & Melanie Bruce",
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Shawn Recinos & Calvin Ma",
+      "Hans Zhou & Ana Stevens",
+      "Pavel Gladkevich & Flora Dong",
+      "Daniel Egert & Riley McGarrigle",
+      "Daniel Werth & Jae Marie Tabuada",
+      "Connor Tom & Priya Garcia",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Harry Dong & Helen Tang",
+      "Aaron Sy & Ariel Hsieh",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Imam Widodo & Violet Buxton",
+      "Mingjun Lim & Elaine Yeo",
+      "Gustavo Ortega & Jade Burchett",
+      "Benjamin McAnally & Emma Paulini",
+      "Akshay Srivastava & Lisa Ho",
+      "Elijah Whitsett & Logan Kramer",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Ali Mahmood & Y Nguyen"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Matthew Panelo & Emily Liu",
+      "George Troulis & Clara Hess",
+      "Scott Lopez & Brandee Lamb",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Hannah Kernal & Joan Li",
+      "David Quintero & Daysia Torres",
+      "Sarah Chen & Megan Kaye",
+      "Cesar Vargas & Sarah Robertson",
+      "Manuel Caro Torregrosa & Arianna Martinez"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Areeb Yaqub & Hanruo Wang",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Zeyu Lin & Michelle Perelmutor",
+      "Sarah Chen & Megan Kaye",
+      "Hannah Kernal & Joan Li",
+      "Scott Lopez & Brandee Lamb",
+      "Spencer Gibson & Samantha Santana",
+      "Indronil Ghosh & Jin Xu"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Standard  (WQ)",
+    "couples": [
+      "Jingjie Zhan & He Ma",
+      "Jaren Ko & Jessica Yu",
+      "Arthur Huynh & Emily Payne",
+      "Zachary Machado & Melanie Bruce",
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Daniel Egert & Riley McGarrigle",
+      "Hans Zhou & Ana Stevens",
+      "Gustavo Ortega & Jade Burchett"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Standard  (TF)",
+    "couples": [
+      "Jingjie Zhan & He Ma",
+      "Jaren Ko & Jessica Yu",
+      "Arthur Huynh & Emily Payne",
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Hans Zhou & Ana Stevens",
+      "Daniel Egert & Riley McGarrigle",
+      "Gustavo Ortega & Jade Burchett"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Jingjie Zhan & He Ma",
+      "Arthur Huynh & Emily Payne",
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Daniel Egert & Riley McGarrigle",
+      "Zachary Machado & Melanie Bruce",
+      "Hans Zhou & Ana Stevens",
+      "Gustavo Ortega & Jade Burchett"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Intl. Waltz  (W)",
+    "couples": [
+      "William Stansbury & Lyudmila Panina",
+      "Daniel Werth & Violet Buxton",
+      "Joel Ramirez II & Samantha Santana",
+      "Arthur Huynh & Czarinah Micah Rodriguez"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Matthew Panelo & Nicole Wells",
+      "Imam Widodo & Jenny Sokolsky",
+      "Ali Mahmood & Zachary Machado",
+      "Crystal Phung & Priya Garcia"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Intl. Tango  (T)",
+    "couples": [
+      "William Stansbury & Lyudmila Panina",
+      "Zachary Machado & Nikki DelosReyes",
+      "Joel Ramirez II & Samantha Santana",
+      "Arthur Huynh & Czarinah Micah Rodriguez",
+      "Daniel Werth & Violet Buxton"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Intl. Tango  (T)",
+    "couples": [
+      "Imam Widodo & Jenny Sokolsky",
+      "Matthew Panelo & Nicole Wells",
+      "Crystal Phung & Priya Garcia"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "William Stansbury & Lyudmila Panina"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Crystal Phung & Priya Garcia"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Christopher Ellwood & Siena Fiorentino",
+      "Joel Ramirez II & Samantha Santana",
+      "Daniel Werth & Violet Buxton",
+      "Zachary Machado & Joanna Sobczyk",
+      "Arthur Huynh & Czarinah Micah Rodriguez"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Imam Widodo & Jenny Sokolsky",
+      "Ali Mahmood & Melanie Bruce",
+      "Matthew Panelo & Nicole Wells",
+      "Crystal Phung & Priya Garcia"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Am. Rumba  (R)",
+    "couples": [
+      "Alexey Tregubov & Maggie Zhang",
+      "Michael Perez & Alison Eling",
+      "Kevin Enario & Jasmine Galdamez",
+      "Connor Tom & Tomona Tanaka",
+      "Jordan Churi & Amberley Powell",
+      "Areeb Yaqub & Hanruo Wang",
+      "Alexander Hazen & Sara Kwan",
+      "Juha Nieminen & Mingze Sun",
+      "Ronoldy Vargas & Kimberly Franco",
+      "Crystal Phung & Katherine Chen",
+      "Franco Vidal & Marina Perry",
+      "Scott Lopez & Brandee Lamb",
+      "Jackson Jin & Clara Chu"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Am. Swing  (S)",
+    "couples": [
+      "Alexey Tregubov & Maggie Zhang",
+      "Kevin Enario & Jasmine Galdamez",
+      "Michael Perez & Alison Eling",
+      "Jordan Churi & Amberley Powell",
+      "Connor Tom & Tomona Tanaka",
+      "Alexander Hazen & Sara Kwan",
+      "Alexander Weitzel & Samantha Chen",
+      "Ronoldy Vargas & Kimberly Franco",
+      "Franco Vidal & Marina Perry",
+      "Hao Zhang & Lisa Homeidan",
+      "Juha Nieminen & Mingze Sun",
+      "Jackson Jin & Clara Chu",
+      "Crystal Phung & Katherine Chen"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Alexey Tregubov & Maggie Zhang",
+      "Connor Tom & Tomona Tanaka",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Ronoldy Vargas & Kimberly Franco",
+      "Jordan Churi & Amberley Powell",
+      "Areeb Yaqub & Hanruo Wang",
+      "Alexander Hazen & Sara Kwan",
+      "Hao Zhang & Lisa Homeidan",
+      "Jackson Jin & Clara Chu",
+      "Crystal Phung & Katherine Chen"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Am. Bolero  (B)",
+    "couples": [
+      "Kevin Enario & Jasmine Galdamez",
+      "Michael Perez & Alison Eling",
+      "Alexey Tregubov & Maggie Zhang",
+      "Connor Tom & Tomona Tanaka",
+      "Jordan Churi & Amberley Powell",
+      "Alexander Hazen & Sara Kwan",
+      "Crystal Phung & Katherine Chen",
+      "Juha Nieminen & Mingze Sun"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Jeremiah Gonzales & Vanessa Garcia",
+      "Christopher Morales & Kathlyn Lopez",
+      "Kevin Enario & Jasmine Galdamez",
+      "Michael Perce & Queenique Dinh",
+      "Zachary Machado & Danielle Shen",
+      "Michael Perez & Alison Eling",
+      "Jordan Churi & Amberley Powell",
+      "Reed Blaylock & Sara Kwan",
+      "Connor Tom & Priya Garcia",
+      "Alexander Hazen & Dana Dinh",
+      "Alexey Tregubov & Maggie Zhang"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Am. Rumba  (R)",
+    "couples": [
+      "Jeremiah Gonzales & Vanessa Garcia",
+      "Michael Perce & Queenique Dinh",
+      "Kevin Enario & Jasmine Galdamez",
+      "Christopher Morales & Kathlyn Lopez",
+      "Alexey Tregubov & Maggie Zhang",
+      "Reed Blaylock & Sara Kwan",
+      "Michael Perez & Alison Eling",
+      "Zachary Machado & Danielle Shen",
+      "Jordan Churi & Amberley Powell",
+      "Alexander Hazen & Dana Dinh",
+      "Connor Tom & Priya Garcia"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Am. Swing  (S)",
+    "couples": [
+      "Jeremiah Gonzales & Vanessa Garcia",
+      "Christopher Morales & Kathlyn Lopez",
+      "Michael Perce & Queenique Dinh",
+      "Kevin Enario & Jasmine Galdamez",
+      "Zachary Machado & Danielle Shen",
+      "Michael Perez & Alison Eling",
+      "Jordan Churi & Amberley Powell",
+      "Reed Blaylock & Sara Kwan",
+      "Alexey Tregubov & Maggie Zhang",
+      "Alexander Hazen & Dana Dinh",
+      "Connor Tom & Priya Garcia"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Am. Bolero  (B)",
+    "couples": [
+      "Jeremiah Gonzales & Vanessa Garcia",
+      "Michael Perce & Queenique Dinh",
+      "Reed Blaylock & Sara Kwan",
+      "Michael Perez & Alison Eling",
+      "Alexey Tregubov & Maggie Zhang",
+      "Zachary Machado & Danielle Shen",
+      "Jordan Churi & Amberley Powell",
+      "Connor Tom & Priya Garcia",
+      "Alexander Hazen & Dana Dinh"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Areeb Yaqub & Hanruo Wang",
+      "Jackson Jin & Clara Chu"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Areeb Yaqub & Hanruo Wang",
+      "Scott Lopez & Brandee Lamb",
+      "Jackson Jin & Clara Chu"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Rhythm  (CR)",
+    "couples": [
+      "Mark Gauderman & Ashley Grist",
+      "Michael Perce & Queenique Dinh"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Am. Swing  (S)",
+    "couples": [
+      "Alexander Weitzel & Samantha Chen",
+      "Jackson Jin & Clara Chu"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Rhythm  (SB)",
+    "couples": [
+      "Michael Perce & Queenique Dinh",
+      "Mark Gauderman & Ashley Grist",
+      "Jeremiah Gonzales & Vanessa Garcia"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Am. Mambo  (M)",
+    "couples": [
+      "Mark Gauderman & Ashley Grist"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Jeremiah Gonzales & Kimberly Franco",
+      "Jason Disbrow & Rebecca Jones",
+      "Michael Perce & Maggie Zhang",
+      "Fook Tham & Katherine Chen"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Crystal Phung & Priya Garcia",
+      "Ronoldy Vargas & Christopher Morales",
+      "Mitchell Lee & Queenique Dinh"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Am. Rumba  (R)",
+    "couples": [
+      "Jeremiah Gonzales & Kimberly Franco",
+      "Jason Disbrow & Rebecca Jones",
+      "Christopher Morales & Lisa Homeidan",
+      "Fook Tham & Tomona Tanaka",
+      "Shawn Recinos & Ming Ze",
+      "Michael Perce & Maggie Zhang"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Am. Rumba  (R)",
+    "couples": [
+      "Crystal Phung & Priya Garcia",
+      "Ronoldy Vargas & Kathlyn Lopez",
+      "Mitchell Lee & Queenique Dinh"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Am. Swing  (S)",
+    "couples": [
+      "Jeremiah Gonzales & Kimberly Franco",
+      "Jason Disbrow & Rebecca Jones",
+      "Shawn Recinos & Ming Ze",
+      "Christopher Morales & Marina Perry",
+      "Michael Perce & Maggie Zhang",
+      "Fook Tham & Anais Hamel"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Am. Swing  (S)",
+    "couples": [
+      "Crystal Phung & Priya Garcia",
+      "Ronoldy Vargas & Kathlyn Lopez",
+      "Mitchell Lee & Queenique Dinh"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Am. Bolero  (B)",
+    "couples": [
+      "Michael Perce & Maggie Zhang",
+      "Fook Tham & Lauren Walker",
+      "Shawn Recinos & Ming Ze"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Am. Bolero  (B)",
+    "couples": [
+      "Crystal Phung & Priya Garcia"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Nathan Carlson & Sadie Rhen",
+      "Kyle Rathbone & Kim Marquez",
+      "David Laubner & Allison Naylor",
+      "Zachary Topper & Elisabeth Marciano",
+      "Elijah Whitsett & Logan Kramer",
+      "Matthew Panelo & Carla Chehadeh",
+      "Arthur Yuriychuk & Yiling Wang",
+      "Pavel Gladkevich & Flora Dong",
+      "Alex Goldstein & Meg Sintef",
+      "Michael Perez & Queenique Dinh",
+      "Amanda Lam & Emily Zhang",
+      "Jordan Churi & Amberley Powell",
+      "Ali Mahmood & Ruby Esparza",
+      "Harry Dong & Helen Tang",
+      "Ariel Hsieh & Aaron Sy",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Connor Tom & Lauren Walker",
+      "Mingjun Lim & Elaine Yeo",
+      "Kevin Gutierrez & Zoe Schack",
+      "Jackson Hurley & Ariana Weiss",
+      "Josue Alvarado & Kelly Chow",
+      "Alexander Weitzel & Lyudmila Panina",
+      "Sarah Chen & Megan Kaye",
+      "Jonathan Codina & Katie White",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Areeb Yaqub & Samantha Santana",
+      "Jesse Ren & Joan Li",
+      "Jamshed Ashurov & Clara Hess",
+      "Galen Borgman & Anya Restivo",
+      "Crystal Phung & Anais Hamel",
+      "Zeyu Lin & Michelle Perelmutor",
+      "Edgar Ramirez & Jade Burchett",
+      "Akshay Srivastava & Lisa Ho",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Haikuo Yin & Lucy Cui",
+      "Hayden Farris & Isabella Walker",
+      "Lawton Nichols & Samantha Caputo",
+      "Spencer Gibson & Joanna Sobczyk",
+      "Berni Padeller & Alicia Jassner",
+      "Imam Widodo & Violet Buxton",
+      "Benjamin McAnally & Emma Paulini",
+      "Sofia Bayliss & Chelsea Lindayen",
+      "Sharjil Bashir & Lissett Franco",
+      "David Quintero & Daysia Torres",
+      "Madhu Majji & Bianca Wu",
+      "Indronil Ghosh & Jin Xu",
+      "Manuel Caro Torregrosa & Arianna Martinez",
+      "Cesar Vargas & Sarah Robertson"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nathan Carlson & Sadie Rhen",
+      "Elijah Whitsett & Logan Kramer",
+      "Arthur Yuriychuk & Yiling Wang",
+      "Ali Mahmood & Ruby Esparza",
+      "Zachary Topper & Elisabeth Marciano",
+      "Kyle Rathbone & Kim Marquez",
+      "Pavel Gladkevich & Flora Dong",
+      "Kevin Gutierrez & Zoe Schack",
+      "Jordan Churi & Amberley Powell",
+      "Michael Perez & Queenique Dinh",
+      "Amanda Lam & Emily Zhang",
+      "Harry Dong & Helen Tang",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Hayden Farris & Isabella Walker",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Imam Widodo & Violet Buxton",
+      "Connor Tom & Lauren Walker",
+      "Edgar Ramirez & Jade Burchett",
+      "Ariel Hsieh & Aaron Sy",
+      "Jonathan Codina & Katie White",
+      "Jackson Hurley & Ariana Weiss",
+      "Jesse Ren & Joan Li",
+      "Mingjun Lim & Elaine Yeo",
+      "Sarah Chen & Megan Kaye",
+      "Alex Goldstein & Meg Sintef",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Benjamin McAnally & Emma Paulini",
+      "Akshay Srivastava & Lisa Ho",
+      "Areeb Yaqub & Samantha Santana",
+      "Berni Padeller & Alicia Jassner",
+      "Joan Valls Cuevas & Amanda Ridgeway",
+      "Crystal Phung & Anais Hamel",
+      "Haikuo Yin & Lucy Cui",
+      "Lawton Nichols & Samantha Caputo",
+      "Galen Borgman & Anya Restivo",
+      "Josue Alvarado & Emily Liu"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Nathan Carlson & Sadie Rhen",
+      "Pavel Gladkevich & Flora Dong",
+      "Matthew Panelo & Carla Chehadeh",
+      "Zachary Topper & Elisabeth Marciano",
+      "Harry Dong & Helen Tang",
+      "Kyle Rathbone & Kim Marquez",
+      "Elijah Whitsett & Logan Kramer",
+      "Kevin Gutierrez & Zoe Schack",
+      "Ali Mahmood & Ruby Esparza",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Alexander Weitzel & Samantha Chen",
+      "Amanda Lam & Emily Zhang",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Jordan Churi & Amberley Powell",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Arthur Yuriychuk & Yiling Wang",
+      "David Laubner & Allison Naylor",
+      "Ariel Hsieh & Aaron Sy",
+      "Areeb Yaqub & Samantha Santana",
+      "Sharjil Bashir & Lissett Franco",
+      "Haikuo Yin & Lucy Cui",
+      "Jackson Hurley & Ariana Weiss",
+      "Imam Widodo & Violet Buxton",
+      "Connor Tom & Lauren Walker",
+      "Sarah Chen & Megan Kaye",
+      "Mingjun Lim & Elaine Yeo",
+      "Benjamin McAnally & Emma Paulini",
+      "Edgar Ramirez & Jade Burchett",
+      "Michael Perez & Queenique Dinh",
+      "Jesse Ren & Joan Li",
+      "Alex Goldstein & Meg Sintef",
+      "Zeyu Lin & Michelle Perelmutor",
+      "Hayden Farris & Isabella Walker",
+      "Josue Alvarado & Kelly Chow",
+      "Jamshed Ashurov & Clara Hess",
+      "Galen Borgman & Anya Restivo",
+      "Sofia Bayliss & Chelsea Lindayen",
+      "Cesar Vargas & Sarah Robertson",
+      "Jonathan Codina & Katie White",
+      "Scott Lopez & Brandee Lamb",
+      "David Quintero & Daysia Torres",
+      "Lawton Nichols & Samantha Caputo",
+      "Indronil Ghosh & Jin Xu",
+      "Spencer Gibson & Joanna Sobczyk",
+      "Berni Padeller & Alicia Jassner",
+      "Soha Sadeghinejad & Emily Le",
+      "Crystal Phung & Anais Hamel",
+      "Manuel Caro Torregrosa & Arianna Martinez",
+      "Akshay Srivastava & Lisa Ho"
+    ]
+  },
+  {
+    "name": "Amateur  Bronze Intl. Jive  (J)",
+    "couples": [
+      "Nathan Carlson & Sadie Rhen",
+      "Pavel Gladkevich & Flora Dong",
+      "Elijah Whitsett & Logan Kramer",
+      "Kyle Rathbone & Kim Marquez",
+      "Zachary Topper & Elisabeth Marciano",
+      "Arthur Yuriychuk & Yiling Wang",
+      "Michael Perez & Queenique Dinh",
+      "Jordan Churi & Amberley Powell",
+      "Harry Dong & Helen Tang",
+      "Galen Borgman & Anya Restivo",
+      "Connor Tom & Lauren Walker",
+      "Ariel Hsieh & Aaron Sy",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Benjamin McAnally & Emma Paulini",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Berni Padeller & Alicia Jassner",
+      "Mingjun Lim & Elaine Yeo",
+      "Sarah Chen & Megan Kaye",
+      "Alex Goldstein & Meg Sintef",
+      "Hayden Farris & Isabella Walker",
+      "Lawton Nichols & Samantha Caputo",
+      "Edgar Ramirez & Jade Burchett",
+      "Ishaan Gandhi & Anna Teske",
+      "Soha Sadeghinejad & Emily Le",
+      "Kevin Gutierrez & Zoe Schack",
+      "Crystal Phung & Anais Hamel",
+      "Akshay Srivastava & Lisa Ho"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Joan Valls Cuevas & Amanda Ridgeway",
+      "Nathan Carlson & Sadie Rhen",
+      "Zachary Machado & Melanie Bruce",
+      "Daniel Egert & Riley McGarrigle",
+      "Joel Ramirez II & Jordan Santagata",
+      "Elijah Whitsett & Logan Kramer",
+      "Arthur Yuriychuk & Yiling Wang",
+      "Michael Perez & Queenique Dinh",
+      "Pavel Gladkevich & Flora Dong",
+      "Bob Zhou & Vanessa Gordillo",
+      "Kye Shi & Sophia Cheng",
+      "Kevin Gutierrez & Zoe Schack",
+      "Ali Mahmood & Ruby Esparza",
+      "Zachary Topper & Elisabeth Marciano",
+      "Harry Dong & Helen Tang",
+      "Ariel Hsieh & Aaron Sy",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Imam Widodo & Violet Buxton",
+      "Connor Tom & Priya Garcia",
+      "Mingjun Lim & Elaine Yeo",
+      "Edgar Ramirez & Jade Burchett",
+      "Max Pflueger & Sarah Berry",
+      "Hans Zhou & Ana Stevens",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Jordan Churi & Amberley Powell",
+      "Lawton Nichols & Samantha Caputo",
+      "Benjamin McAnally & Emma Paulini",
+      "Akshay Srivastava & Lisa Ho"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Intl. Samba  (S)",
+    "couples": [
+      "Nathan Carlson & Sadie Rhen",
+      "Joel Ramirez II & Jordan Santagata",
+      "Zachary Machado & Melanie Bruce",
+      "David Laubner & Allison Naylor",
+      "Ali Mahmood & Ruby Esparza",
+      "Daniel Egert & Riley McGarrigle",
+      "Elijah Whitsett & Logan Kramer",
+      "Zachary Topper & Elisabeth Marciano",
+      "Pavel Gladkevich & Flora Dong",
+      "Michael Perez & Queenique Dinh",
+      "Kevin Gutierrez & Zoe Schack",
+      "Edgar Ramirez & Jade Burchett",
+      "Max Pflueger & Sarah Berry",
+      "Harry Dong & Helen Tang",
+      "Bob Zhou & Vanessa Gordillo",
+      "Kye Shi & Sophia Cheng",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Imam Widodo & Violet Buxton",
+      "Arthur Yuriychuk & Yiling Wang",
+      "Hans Zhou & Ana Stevens",
+      "Jordan Churi & Amberley Powell",
+      "Connor Tom & Priya Garcia",
+      "Akshay Srivastava & Lisa Ho",
+      "Ariel Hsieh & Aaron Sy",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Lawton Nichols & Samantha Caputo",
+      "Mingjun Lim & Elaine Yeo",
+      "Benjamin McAnally & Emma Paulini"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Intl. Rumba  (R)",
+    "couples": [
+      "Joan Valls Cuevas & Amanda Ridgeway",
+      "Nathan Carlson & Sadie Rhen",
+      "Joel Ramirez II & Jordan Santagata",
+      "Zachary Machado & Melanie Bruce",
+      "Daniel Egert & Riley McGarrigle",
+      "Hans Zhou & Ana Stevens",
+      "Zachary Topper & Elisabeth Marciano",
+      "Elijah Whitsett & Logan Kramer",
+      "Arthur Yuriychuk & Yiling Wang",
+      "Pavel Gladkevich & Flora Dong",
+      "Kevin Gutierrez & Zoe Schack",
+      "Harry Dong & Helen Tang",
+      "Mingjun Lim & Elaine Yeo",
+      "Edgar Ramirez & Jade Burchett",
+      "Ariel Hsieh & Aaron Sy",
+      "Jordan Churi & Amberley Powell",
+      "Ali Mahmood & Ruby Esparza",
+      "Bob Zhou & Vanessa Gordillo",
+      "Michael Perez & Queenique Dinh",
+      "Kevin Wu & Srilekha Gnanashanmugam",
+      "Kye Shi & Sophia Cheng",
+      "Imam Widodo & Violet Buxton",
+      "Max Pflueger & Sarah Berry",
+      "Lawton Nichols & Samantha Caputo",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Connor Tom & Priya Garcia",
+      "Benjamin McAnally & Emma Paulini",
+      "Akshay Srivastava & Lisa Ho"
+    ]
+  },
+  {
+    "name": "Amateur  Silver Intl. Jive  (J)",
+    "couples": [
+      "Nathan Carlson & Sadie Rhen",
+      "David Laubner & Allison Naylor",
+      "Joan Valls Cuevas & Amanda Ridgeway",
+      "Joel Ramirez II & Jordan Santagata",
+      "Daniel Egert & Riley McGarrigle",
+      "Arthur Yuriychuk & Yiling Wang",
+      "Zachary Machado & Melanie Bruce",
+      "Zachary Topper & Elisabeth Marciano",
+      "Elijah Whitsett & Logan Kramer",
+      "Pavel Gladkevich & Flora Dong",
+      "Max Pflueger & Sarah Berry",
+      "Harry Dong & Helen Tang",
+      "Ariel Hsieh & Aaron Sy",
+      "Hans Zhou & Ana Stevens",
+      "Michael Perez & Queenique Dinh",
+      "Jordan Churi & Amberley Powell",
+      "Kye Shi & Sophia Cheng",
+      "Connor Tom & Priya Garcia",
+      "Mingjun Lim & Elaine Yeo",
+      "Edgar Ramirez & Jade Burchett",
+      "Bob Zhou & Vanessa Gordillo",
+      "Lawton Nichols & Samantha Caputo",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Benjamin McAnally & Emma Paulini",
+      "Akshay Srivastava & Lisa Ho"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Kyle Rathbone & Kim Marquez",
+      "Matthew Panelo & Emily Liu",
+      "Alex Goldstein & Meg Sintef",
+      "Areeb Yaqub & Samantha Santana",
+      "Hayden Farris & Isabella Walker",
+      "Sarah Chen & Megan Kaye",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Galen Borgman & Anya Restivo",
+      "Zeyu Lin & Michelle Perelmutor",
+      "Jesse Ren & Joan Li",
+      "David Quintero & Daysia Torres",
+      "Jamshed Ashurov & Clara Hess",
+      "Manuel Caro Torregrosa & Arianna Martinez",
+      "Sharjil Bashir & Lissett Franco",
+      "Alexander Weitzel & Lyudmila Panina",
+      "Berni Padeller & Alicia Jassner",
+      "Madhu Majji & Bianca Wu",
+      "Indronil Ghosh & Jin Xu",
+      "Cesar Vargas & Sarah Robertson"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Kyle Rathbone & Kim Marquez",
+      "Alex Goldstein & Meg Sintef",
+      "Matthew Panelo & Emily Liu",
+      "Hayden Farris & Isabella Walker",
+      "Sarah Chen & Megan Kaye",
+      "Alexander Weitzel & Samantha Chen",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Areeb Yaqub & Samantha Santana",
+      "Jesse Ren & Joan Li",
+      "Zeyu Lin & Michelle Perelmutor",
+      "David Quintero & Daysia Torres",
+      "Galen Borgman & Anya Restivo",
+      "Soha Sadeghinejad & Emily Le",
+      "Jamshed Ashurov & Clara Hess",
+      "Scott Lopez & Brandee Lamb",
+      "Cesar Vargas & Sarah Robertson",
+      "Sharjil Bashir & Lissett Franco",
+      "Indronil Ghosh & Jin Xu",
+      "Berni Padeller & Alicia Jassner",
+      "Manuel Caro Torregrosa & Arianna Martinez"
+    ]
+  },
+  {
+    "name": "Amateur  Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Kyle Rathbone & Kim Marquez",
+      "Alex Goldstein & Meg Sintef",
+      "Hayden Farris & Isabella Walker",
+      "Sarah Chen & Megan Kaye",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Jesse Ren & Joan Li",
+      "Areeb Yaqub & Samantha Santana",
+      "Berni Padeller & Alicia Jassner",
+      "Galen Borgman & Anya Restivo"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Latin  (CR)",
+    "couples": [
+      "Matthew Carlson & Gianna Garza",
+      "Kevin Ho & Katrina Kennedy",
+      "Matthew Abrahamsen & Nicole Pang",
+      "Arthur Huynh & Emily Payne",
+      "Daniel Egert & Riley McGarrigle",
+      "Matthew Kuo & Katherine Hamilton",
+      "Calvin Ma & Shawn Recinos",
+      "Hans Zhou & Ana Stevens",
+      "Zachary Machado & Melanie Bruce",
+      "Max Pflueger & Sarah Berry",
+      "Bob Zhou & Vanessa Gordillo"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Latin  (SJ)",
+    "couples": [
+      "Matthew Carlson & Gianna Garza",
+      "Kevin Ho & Katrina Kennedy",
+      "Zachary Machado & Melanie Bruce",
+      "Matthew Abrahamsen & Nicole Pang",
+      "Matthew Kuo & Katherine Hamilton",
+      "Arthur Huynh & Emily Payne",
+      "Daniel Egert & Riley McGarrigle",
+      "Hans Zhou & Ana Stevens",
+      "Bob Zhou & Vanessa Gordillo",
+      "Max Pflueger & Sarah Berry"
+    ]
+  },
+  {
+    "name": "Amateur  Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Kevin Ho & Katrina Kennedy",
+      "Daniel Egert & Riley McGarrigle"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Bob Zhou & Violet Buxton",
+      "Christopher Ellwood & Siena Fiorentino",
+      "Simon Huang & Soraya Gargash",
+      "Arthur Huynh & Czarinah Micah Rodriguez",
+      "Fook Tham & Katherine Chen",
+      "Zachary Machado & Joanna Sobczyk"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Matthew Panelo & Nicole Wells",
+      "Clay Tsay & Katrina Kennedy",
+      "Syd Clark & Ariana Weiss",
+      "Ali Mahmood & Melanie Bruce",
+      "Areeb Yaqub & Nicole DelosReyes",
+      "Crystal Phung & Priya Garcia",
+      "Spencer Gibson & Nikki DelosReyes"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Intl. Samba  (S)",
+    "couples": [
+      "Bob Zhou & Violet Buxton",
+      "Arthur Huynh & Czarinah Micah Rodriguez",
+      "Fook Tham & Tomona Tanaka"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Intl. Samba  (S)",
+    "couples": [
+      "Clay Tsay & Katrina Kennedy",
+      "Syd Clark & Ariana Weiss",
+      "Areeb Yaqub & Nicole DelosReyes",
+      "Crystal Phung & Priya Garcia"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Bob Zhou & Violet Buxton",
+      "Arthur Huynh & Czarinah Micah Rodriguez",
+      "Simon Huang & Soraya Gargash",
+      "Fook Tham & Lauren Walker"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Matthew Panelo & Nicole Wells",
+      "Clay Tsay & Katrina Kennedy",
+      "Christian Femat & Melanie Bruce",
+      "Syd Clark & Ariana Weiss",
+      "Areeb Yaqub & Nicole DelosReyes",
+      "Crystal Phung & Priya Garcia",
+      "Spencer Gibson & Nikki DelosReyes"
+    ]
+  },
+  {
+    "name": "Rookie Follower  Bronze Intl. Jive  (J)",
+    "couples": [
+      "Bob Zhou & Violet Buxton",
+      "Arthur Huynh & Czarinah Micah Rodriguez",
+      "Fook Tham & Anais Hamel"
+    ]
+  },
+  {
+    "name": "Rookie Leader  Bronze Intl. Jive  (J)",
+    "couples": [
+      "Clay Tsay & Katrina Kennedy",
+      "Crystal Phung & Priya Garcia"
+    ]
+  },
+  {
+    "name": "Amateur  Beginner Hustle  (H)",
+    "couples": [
+      "Christopher Sanchez & Karen Villanueva",
+      "Michael Perce & Queenique Dinh",
+      "Nathan Carlson & Sadie Rhen",
+      "Matthew Carlson & Sandra McAteer",
+      "Jonathan Codina & Katie White",
+      "Arthur Huynh & Katrina Kennedy",
+      "Kalani Newman & Hannah Kernal",
+      "Elijah Whitsett & Logan Kramer",
+      "Michael Perez & Alison Eling",
+      "Ali Mahmood & Danielle Shen",
+      "Alexander Weitzel & Lyudmila Panina",
+      "Areeb Yaqub & Y Nguyen",
+      "Berni Padeller & Monika Engelsberger",
+      "Jordan Churi & Amberley Powell",
+      "Zeyu Lin & Michelle Perelmutor",
+      "Cesar Vargas & Sarah Robertson",
+      "Alexander Hazen & Sara Kwan",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Ronoldy Vargas & Kathlyn Lopez",
+      "Jeremiah Gonzales & Kimberly Franco",
+      "Connor Tom & Tomona Tanaka",
+      "Kevin Gutierrez & Zoe Schack",
+      "Crystal Phung & Lauren Walker",
+      "Sofia Bayliss & Chelsea Lindayen",
+      "Priya Garcia & Anais Hamel"
+    ]
+  },
+  {
+    "name": "Amateur  Beginner Salsa  (S)",
+    "couples": [
+      "Christopher Sanchez & Karen Villanueva",
+      "Apurva Kumar & Jae Marie Tabuada",
+      "Elijah Whitsett & Logan Kramer",
+      "Alexander Weitzel & Samantha Chen",
+      "Michael Perez & Alison Eling",
+      "Ronoldy Vargas & Kimberly Franco",
+      "Brandee Lamb & Emily Le",
+      "Oscar Melendez & Kimberly Segura",
+      "Kalani Newman & Hannah Kernal",
+      "Franco Vidal & Marina Perry",
+      "Syd Clark & Ariana Weiss",
+      "Alexander Hazen & Sara Kwan",
+      "Zeyu Lin & Michelle Perelmutor",
+      "Jordan Churi & Amberley Powell",
+      "Jesse Ren & Joan Li",
+      "Madhu Majji & Bianca Wu",
+      "Lawton Nichols & Samantha Caputo",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Priya Garcia & Anais Hamel",
+      "Mitchell Lee & Queenique Dinh",
+      "Kevin Gutierrez & Zoe Schack",
+      "Crystal Phung & Lauren Walker"
+    ]
+  },
+  {
+    "name": "Amateur  Intermediate/Advanced Hustle  (H)",
+    "couples": [
+      "Can Aksoy & Olivia Seitz",
+      "Kevin Enario & Jasmine Galdamez",
+      "Christopher Morales & Lisa Homeidan",
+      "Chien-Kai Wang & Jessica Nguyen",
+      "David Laubner & Allison Naylor",
+      "Reed Blaylock & Erin Soares",
+      "Eric Gauderman & Sarah Harper",
+      "Shawn Recinos & Sarah Robertson",
+      "Jason Disbrow & Rebecca Jones",
+      "Gustavo Ortega & Jade Burchett",
+      "Max Pflueger & Sarah Berry",
+      "Mark Gauderman & Ashley Grist",
+      "Alexey Tregubov & Maggie Zhang",
+      "Zachary Machado & Joanna Sobczyk",
+      "Ryan Santos & Vanessa Gordillo",
+      "Scott Suzuki & Diane Bennett",
+      "Joel Ramirez II & Jordan Santagata",
+      "Simon Huang & Nicole Wells"
+    ]
+  },
+  {
+    "name": "Amateur  Beginner Bachata  (B)",
+    "couples": [
+      "Oscar Melendez & Kimberly Segura",
+      "Arthur Huynh & Katrina Kennedy",
+      "Apurva Kumar & Violet Buxton",
+      "Michael Perce & Queenique Dinh",
+      "Jordan Churi & Amberley Powell",
+      "Lawton Nichols & Samantha Chen",
+      "Ronoldy Vargas & Kathlyn Lopez",
+      "Alexander Weitzel & Lyudmila Panina",
+      "Franco Vidal & Marina Perry",
+      "Christian Femat & Ruby Esparza",
+      "Daniel Werth & Jae Marie Tabuada",
+      "Spencer Gibson & Samantha Santana",
+      "Hao Zhang & Lisa Homeidan",
+      "Clay Tsay & Czarinah Micah Rodriguez",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Sarah Chen & Megan Kaye",
+      "Priya Garcia & Anais Hamel",
+      "Samantha Caputo & Emily Le",
+      "Syd Clark & Ariana Weiss",
+      "Connor Tom & Tomona Tanaka",
+      "Kevin Gutierrez & Zoe Schack",
+      "Crystal Phung & Lauren Walker"
+    ]
+  },
+  {
+    "name": "Amateur  Beginner West Coast Swing  (W)",
+    "couples": [
+      "Christopher Sanchez & Ruby Esparza",
+      "Joan Valls Cuevas & Amanda Ridgeway",
+      "Ali Mahmood & Melanie Bruce",
+      "Michael Perce & Queenique Dinh",
+      "Jordan Churi & Amberley Powell",
+      "Elijah Whitsett & Logan Kramer",
+      "Alexander Weitzel & Samantha Chen",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Areeb Yaqub & Y Nguyen",
+      "Alexander Hazen & Sara Kwan",
+      "Brandee Lamb & Emily Le",
+      "Lawton Nichols & Samantha Caputo",
+      "Aaron Sy & Ariel Hsieh",
+      "Ethan Green & Anais Hamel",
+      "Kalani Newman & Hannah Kernal"
+    ]
+  },
+  {
+    "name": "Amateur  Beginner Merengue  (M)",
+    "couples": [
+      "Christopher Sanchez & Karen Villanueva",
+      "Michael Perce & Queenique Dinh",
+      "Franco Vidal & Marina Perry",
+      "Michael Perez & Alison Eling",
+      "Jordan Churi & Amberley Powell",
+      "Ronoldy Vargas & Kimberly Franco",
+      "Oscar Melendez & Kimberly Segura",
+      "Ali Mahmood & Ruby Esparza",
+      "Kalani Newman & Hannah Kernal",
+      "Priya Garcia & Anais Hamel",
+      "Nikki DelosReyes & Nicole DelosReyes",
+      "Syd Clark & Ariana Weiss",
+      "Alexander Hazen & Sara Kwan",
+      "Ethan Green & Priya Garcia",
+      "Connor Tom & Tomona Tanaka",
+      "Crystal Phung & Katherine Chen"
+    ]
+  },
+  {
+    "name": "Amateur  Intermediate/Advanced Salsa  (S)",
+    "couples": [
+      "Edgar Ramirez & Jade Burchett",
+      "Can Aksoy & Olivia Seitz",
+      "Joan Valls Cuevas & Amanda Ridgeway",
+      "Christopher Morales & Kathlyn Lopez",
+      "Kevin Enario & Jasmine Galdamez",
+      "Shawn Recinos & Sarah Robertson",
+      "Joel Ramirez II & Jordan Santagata",
+      "Jason Disbrow & Rebecca Jones",
+      "Mark Gauderman & Ashley Grist",
+      "Gustavo Ortega & Autumn Murphy",
+      "Max Pflueger & Sarah Berry",
+      "Alexey Tregubov & Maggie Zhang"
+    ]
+  },
+  {
+    "name": "Amateur  Intermediate/Advanced West Coast Swing  (W)",
+    "couples": [
+      "Justin Tomas & Morgan Orsolini",
+      "Christopher Ellwood & Brittany Shakespear",
+      "Chase Henry & Leah Kopp",
+      "Jason Disbrow & Rebecca Jones",
+      "Christopher Morales & Kathlyn Lopez",
+      "Chien-Kai Wang & Jessica Nguyen",
+      "Ryan Santos & Vanessa Gordillo",
+      "Jeffrey Huynh & Jordan Santagata",
+      "Edgar Ramirez & Jade Burchett",
+      "Gustavo Ortega & Autumn Murphy",
+      "Reed Blaylock & Erin Soares",
+      "Mark Gauderman & Ashley Grist",
+      "Joshua Maddox & Danielle Shen"
+    ]
+  },
+  {
+    "name": "Amateur  Intermediate/Advanced Bachata  (B)",
+    "couples": [
+      "Can Aksoy & Olivia Seitz",
+      "Edgar Ramirez & Jade Burchett",
+      "Kevin Enario & Jasmine Galdamez",
+      "Jason Disbrow & Rebecca Jones",
+      "Joel Ramirez II & Jordan Santagata",
+      "Gustavo Ortega & Autumn Murphy"
+    ]
+  },
+  {
+    "name": "Amateur  Intermediate/Advanced Night Club 2-Step  (2)",
+    "couples": [
+      "Christopher Ellwood & Brittany Shakespear",
+      "Chien-Kai Wang & Jessica Nguyen",
+      "Scott Suzuki & Diane Bennett",
+      "Eric Gauderman & Sarah Harper",
+      "Ryan Santos & Vanessa Gordillo",
+      "Alexey Tregubov & Sara Kwan"
+    ]
+  },
+  {
+    "name": "Amateur  Beginner Blues  (P)",
+    "couples": [
+      "Kalani Newman & Hannah Kernal",
+      "Jordan Churi & Amberley Powell",
+      "Cesar Vargas & Sarah Robertson"
+    ]
+  },
+  {
+    "name": "Amateur  Intermediate/Advanced Blues  (P)",
+    "couples": [
+      "Can Aksoy & Olivia Seitz",
+      "David Laubner & Allison Naylor",
+      "Gustavo Ortega & Jade Burchett",
+      "Kevin Enario & Jasmine Galdamez"
+    ]
+  },
+  {
+    "name": "Amateur  Beginner Argentine Tango  (A)",
+    "couples": [
+      "Ronoldy Vargas & Lisa Homeidan",
+      "Jordan Churi & Amberley Powell",
+      "Berni Padeller & Monika Engelsberger"
+    ]
+  },
+  {
+    "name": "Amateur  Intermediate/Advanced Argentine Tango  (A)",
+    "couples": [
+      "Can Aksoy & Maura O`Leary",
+      "Zeyu Lin & Michelle Perelmutor",
+      "Cesar Vargas & Sarah Robertson"
+    ]
+  },
+  {
+    "name": "Amateur  Intermediate/Advanced Merengue  (M)",
+    "couples": [
+      "Edgar Ramirez & Jade Burchett",
+      "Shawn Recinos & Sarah Robertson",
+      "Christopher Morales & Kathlyn Lopez",
+      "Kevin Enario & Jasmine Galdamez",
+      "Joel Ramirez II & Jordan Santagata",
+      "Eric Gauderman & Sarah Harper",
+      "Mark Gauderman & Ashley Grist",
+      "Alexey Tregubov & Maggie Zhang"
+    ]
+  },
+  {
+    "name": "Amateur  Beginner Lindy Hop  (L)",
+    "couples": [
+      "Jonathan Codina & Katie White",
+      "Ali Mahmood & Jordan Santagata",
+      "Kalani Newman & Hannah Kernal",
+      "Elijah Whitsett & Logan Kramer",
+      "Queenique Dinh & Sara Kwan",
+      "Kevin Gutierrez & Zoe Schack"
+    ]
+  },
+  {
+    "name": "Amateur  Intermediate/Advanced Lindy Hop  (L)",
+    "couples": [
+      "David Laubner & Allison Naylor",
+      "Eric Gauderman & Sarah Harper",
+      "Max Pflueger & Sarah Berry"
+    ]
+  },
+  {
+    "name": "Amateur  Beginner Night Club 2-Step  (2)",
+    "couples": [
+      "Arthur Huynh & Katrina Kennedy",
+      "Jordan Churi & Amberley Powell",
+      "Kalani Newman & Hannah Kernal",
+      "Michael Perez & Alison Eling",
+      "Alexander Hazen & Dana Dinh",
+      "Aaron Sy & Ariel Hsieh",
+      "Nikki DelosReyes & Nicole DelosReyes"
+    ]
+  },
+  {
+    "name": "Amateur  Novice Standard  (WFQ)",
+    "couples": [
+      "Oguz Ulgen & Amy Leung",
+      "Jingjie Zhan & He Ma",
+      "Kevin Viratyosin & Rachel Marusinec",
+      "Sergiy Vasylyev & Letitia Mueller",
+      "Mark Leal & Yuna Choi"
+    ]
+  },
+  {
+    "name": "Amateur  Novice Intl. Tango  (T)",
+    "couples": [
+      "Oguz Ulgen & Amy Leung",
+      "Sergiy Vasylyev & Letitia Mueller",
+      "Kevin Viratyosin & Rachel Marusinec",
+      "Jingjie Zhan & He Ma",
+      "Mark Leal & Yuna Choi"
+    ]
+  },
+  {
+    "name": "Amateur  Novice Intl. V. Waltz  (V)",
+    "couples": [
+      "Sergiy Vasylyev & Letitia Mueller",
+      "Oguz Ulgen & Amy Leung",
+      "Jingjie Zhan & He Ma",
+      "Mark Leal & Yuna Choi"
+    ]
+  },
+  {
+    "name": "Amateur  Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Jihai Chen & Amy Ishiguro",
+      "Timothy Kwock & Christine Yim",
+      "Oguz Ulgen & Amy Leung",
+      "Shaquiel Pashtunyar & Samantha Lunsford",
+      "Sergiy Vasylyev & Letitia Mueller",
+      "Kevin Viratyosin & Rachel Marusinec",
+      "Mark Leal & Yuna Choi"
+    ]
+  },
+  {
+    "name": "Amateur  Novice Rhythm  (CRS)",
+    "couples": [
+      "Mark Gauderman & Ashley Grist"
+    ]
+  },
+  {
+    "name": "Amateur  Pre-Champ Intl. V. Waltz  (V)",
+    "couples": [
+      "Oguz Ulgen & Amy Leung",
+      "Sergiy Vasylyev & Letitia Mueller",
+      "Mark Leal & Yuna Choi"
+    ]
+  },
+  {
+    "name": "Amateur  Novice Am. Bolero  (B)",
+    "couples": [
+      "Mark Gauderman & Ashley Grist"
+    ]
+  },
+  {
+    "name": "Amateur  Novice Am. Mambo  (M)",
+    "couples": [
+      "Mark Gauderman & Ashley Grist"
+    ]
+  },
+  {
+    "name": "Amateur  Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Sean Chen & Mengsha Gong",
+      "Reed Blaylock & Erin Soares",
+      "Kevin Viratyosin & Rachel Marusinec",
+      "Mark Leal & Yuna Choi"
+    ]
+  },
+  {
+    "name": "Amateur  Novice Smooth  (WTF)",
+    "couples": [
+      "Reed Blaylock & Erin Soares",
+      "Mark Leal & Yuna Choi",
+      "Kevin Viratyosin & Rachel Marusinec",
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Mark Gauderman & Ashley Grist",
+      "Eric Gauderman & Sarah Harper",
+      "Max Pflueger & Sarah Berry"
+    ]
+  },
+  {
+    "name": "Amateur  Novice Am. V. Waltz  (V)",
+    "couples": [
+      "Mark Leal & Yuna Choi",
+      "Kevin Viratyosin & Rachel Marusinec",
+      "Reed Blaylock & Erin Soares",
+      "Mark Gauderman & Ashley Grist",
+      "Eric Gauderman & Sarah Harper",
+      "Chien-Kai Wang & Krista Rigsbee",
+      "Max Pflueger & Sarah Berry"
+    ]
+  },
+  {
+    "name": "Amateur  Championship Standard  (WTVFQ)",
+    "couples": [
+      "Chris Henzie & Rebecca Fernandez",
+      "Christopher Li & Brittany Whitehill",
+      "Loc Nguyen & Katharine Brinker",
+      "Timothy Kwock & Christine Yim",
+      "Jihai Chen & Amy Ishiguro",
+      "Shaquiel Pashtunyar & Samantha Lunsford"
+    ]
+  },
+  {
+    "name": "Amateur  Novice Latin  (CSR)",
+    "couples": [
+      "Toby Wong & Richelle Gali",
+      "Stephen Murray & Sury Misrayim",
+      "Viet Nguyen & Alexandra Leonidova",
+      "Can Aksoy & Nellwyn Olson",
+      "Simon Huang & Nicole Wells",
+      "Christopher Sanchez & Karen Villanueva",
+      "Kevin Ho & Katrina Kennedy",
+      "Matthew Carlson & Gianna Garza",
+      "Matthew Kuo & Katherine Hamilton",
+      "Mark Leal & Stephanie Wang",
+      "Arthur Huynh & Emily Payne"
+    ]
+  },
+  {
+    "name": "Amateur  Novice Intl. Jive  (J)",
+    "couples": [
+      "Simon Huang & Nicole Wells",
+      "Matthew Carlson & Gianna Garza",
+      "Stephen Murray & Sury Misrayim",
+      "Matthew Kuo & Katherine Hamilton",
+      "Kevin Ho & Katrina Kennedy",
+      "Arthur Huynh & Emily Payne"
+    ]
+  },
+  {
+    "name": "Amateur  Championship Smooth  (WTFV)",
+    "couples": [
+      "Matt Chambers & Kelly Chambers",
+      "Sean Chen & Mengsha Gong"
+    ]
+  },
+  {
+    "name": "Amateur  Pre-Champ Latin  (CSRJ)",
+    "couples": [
+      "Toby Wong & Richelle Gali",
+      "Jason Ju & Denise Machin",
+      "Stephen Murray & Sury Misrayim"
+    ]
+  }
+]

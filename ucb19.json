@@ -1,0 +1,831 @@
+[
+  {
+    "name": "Collegiate Bronze Am. Waltz  (W)",
+    "couples": [
+      "Matthew Fox & Naya Murdock",
+      "Shameeq Willis & Asia Ladson",
+      "Hannah Powers & Emily Parker",
+      "Corrado Mazzarelli & Emily Davey",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Jinqi Zhang & Skye Jacobson",
+      "Alexander Hudak & Sarah Bradshaw",
+      "Sam Wiegand & Stephanya Moran",
+      "Ryan Salazar & Joanna Lin",
+      "Daniel Bavleye & Rachel Kopacko",
+      "Manuel Bauche & Gabrielle Newman",
+      "Thomas Yakey Jr. & Vanessa Coelho",
+      "Harrison Burr & Audrey Lee",
+      "Nicholas Chan & Nicole Souza",
+      "Jessenia Martinez & Emily McGrady",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Jared Briones & Mercedez Young",
+      "Kaleb Seifert & Sara Koprek",
+      "Alexander Villatora, Jr. & Victoria Leger",
+      "Kyle Whitcomb & Ardita Hinkle",
+      "Jeffrey Dumpson & Emi Ahlo"
+    ]
+  },
+  {
+    "name": "Collegiate Bronze Am. Tango  (T)",
+    "couples": [
+      "Hannah Powers & Emily Parker",
+      "Matthew Fox & Naya Murdock",
+      "Shameeq Willis & Asia Ladson",
+      "Sam Wiegand & Stephanya Moran",
+      "Jinqi Zhang & Skye Jacobson",
+      "Corrado Mazzarelli & Emily Davey",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Jared Briones & Mercedez Young",
+      "Daniel Bavleye & Rachel Kopacko",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Harrison Burr & Audrey Lee",
+      "Thomas Yakey Jr. & Vanessa Coelho",
+      "Nicholas Chan & Nicole Souza",
+      "Manuel Bauche & Gabrielle Newman",
+      "Jessenia Martinez & Emily McGrady",
+      "Ryan Salazar & Joanna Lin",
+      "Alexander Hudak & Sarah Bradshaw",
+      "isabelle stairman & Gabrielle  Vu",
+      "Kyle Whitcomb & Ardita Hinkle",
+      "Alexander Villatora, Jr. & Victoria Leger",
+      "Jeffrey Dumpson & Emi Ahlo"
+    ]
+  },
+  {
+    "name": "Collegiate Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Hannah Powers & Emily Parker",
+      "Matthew Fox & Naya Murdock",
+      "Shameeq Willis & Asia Ladson",
+      "Sam Wiegand & Stephanya Moran",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Ryan Salazar & Joanna Lin",
+      "Corrado Mazzarelli & Emily Davey",
+      "Jinqi Zhang & Skye Jacobson",
+      "Kyle Whitcomb & Ardita Hinkle",
+      "Nicholas Chan & Nicole Souza",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Thomas Yakey Jr. & Vanessa Coelho",
+      "Harrison Burr & Audrey Lee",
+      "Daniel Bavleye & Rachel Kopacko",
+      "Jared Briones & Mercedez Young",
+      "Manuel Bauche & Gabrielle Newman",
+      "Jessenia Martinez & Emily McGrady",
+      "Alexander Hudak & Sarah Bradshaw",
+      "Alexander Villatora, Jr. & Victoria Leger",
+      "Jeffrey Dumpson & Emi Ahlo"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Smooth  (WT)",
+    "couples": [
+      "Michael Kiang & Isabel Jiah",
+      "Ang Li & Rea Yoh",
+      "Katherine Bell & Sarah Srivichitranond",
+      "Josh Keys & Vanessa Zighelboim",
+      "Jeremy Bai & Madison Leone",
+      "William Tait & Janna DiVico",
+      "Max Luo & Vivian Tao",
+      "Angela Vu & Sarah Williams",
+      "Edward McManus & Erin Shapland",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Alexander Sun & Ben Toth",
+      "Zachary Pappalau & Vivian Nwudu",
+      "Connor Theis & Meghan Mulloy",
+      "Chang Ju Kim & Allison Daboval",
+      "Derrick Powers & Liz Cordone",
+      "Owen Mooney & Rosalie Garcia",
+      "Chris McCooey & Kate Eminger",
+      "Brittany Wendzel & Isabelle Donahue",
+      "isabelle stairman & Gabrielle  Vu",
+      "Olivia Gould & Julia McAdams"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Michael Kiang & Isabel Jiah",
+      "Josh Keys & Vanessa Zighelboim",
+      "Ang Li & Rea Yoh",
+      "Katherine Bell & Sarah Srivichitranond",
+      "Jeremy Bai & Madison Leone",
+      "Max Luo & Vivian Tao",
+      "William Tait & Janna DiVico",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Edward McManus & Erin Shapland",
+      "Derrick Powers & Liz Cordone",
+      "Chang Ju Kim & Allison Daboval",
+      "Alexander Sun & Ben Toth",
+      "Zachary Pappalau & Vivian Nwudu",
+      "Owen Mooney & Rosalie Garcia",
+      "Chris McCooey & Kate Eminger",
+      "Angela Vu & Sarah Williams",
+      "Brittany Wendzel & Isabelle Donahue",
+      "Olivia Gould & Julia McAdams"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Katherine Bell & Sarah Srivichitranond",
+      "Josh Keys & Vanessa Zighelboim",
+      "Jeremy Bai & Madison Leone",
+      "Michael Kiang & Isabel Jiah",
+      "Ang Li & Rea Yoh",
+      "Max Luo & Vivian Tao",
+      "William Tait & Janna DiVico",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Edward McManus & Erin Shapland",
+      "Alexander Sun & Ben Toth",
+      "Chang Ju Kim & Allison Daboval",
+      "Zachary Pappalau & Vivian Nwudu",
+      "Chris McCooey & Kate Eminger",
+      "Derrick Powers & Vanessa Coelho",
+      "Owen Mooney & Rosalie Garcia",
+      "Brittany Wendzel & Isabelle Donahue",
+      "Angela Vu & Sarah Williams",
+      "Olivia Gould & Julia McAdams"
+    ]
+  },
+  {
+    "name": "Collegiate Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Jackson Young & Bianca Bacchus",
+      "Salman Parvez & Mary Lucas",
+      "Dejhanna Garnetto & Katherine Grist",
+      "Seth Mischo & Ashley Hein",
+      "Nicholas Chieppo & Linnea Bailor",
+      "Angelina Mos & Brooke Agro",
+      "Marissa Kaufmann & Emma Pereira",
+      "Annie Ayero & Alexa Schwartz",
+      "Peter McMichael & Leigh Davis"
+    ]
+  },
+  {
+    "name": "Collegiate Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Salman Parvez & Mary Lucas",
+      "Jackson Young & Bianca Bacchus",
+      "Angelina Mos & Brooke Agro",
+      "Seth Mischo & Ashley Hein",
+      "Nicholas Chieppo & Linnea Bailor",
+      "Dejhanna Garnetto & Katherine Grist",
+      "Peter McMichael & Leigh Davis"
+    ]
+  },
+  {
+    "name": "Collegiate Gold Smooth  (WT)",
+    "couples": [
+      "Nick Sawyer & Christine Albain",
+      "Steven Chick & Deshauna Hammond"
+    ]
+  },
+  {
+    "name": "Collegiate Gold Smooth  (FV)",
+    "couples": [
+      "Nick Sawyer & Christine Albain",
+      "Steven Chick & Deshauna Hammond"
+    ]
+  },
+  {
+    "name": "Collegiate Open Smooth  (WTFV)",
+    "couples": [
+      "Daniel Woyak & Monica Ly",
+      "George Cometa & Amelia Wills",
+      "Adam Peacock & Andrea Raynor",
+      "Alex Kellogg & Jessica Rubinstein"
+    ]
+  },
+  {
+    "name": "Collegiate Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Kaitlyn Wallace & Edward McManus",
+      "Matthew Fox & Stephanya Moran",
+      "Shameeq Willis & Asia Ladson",
+      "Ryan Salazar & Joanna Lin",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Tyler Bristow & Fiona Pham",
+      "Daniel Bavleye & Ardita Hinkle",
+      "Jinqi Zhang & Naya Murdock",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Nicholas Chan & Nicole Souza",
+      "Harrison Burr & Audrey Lee",
+      "Charlie Darling & Tianna Darling",
+      "Manuel Bauche & Gabrielle Newman",
+      "Alexander Hudak & Sarah Bradshaw",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Alexander Sun & Marissa Kaufmann",
+      "Thomas Yakey Jr. & Julia McAdams",
+      "Vanessa Coelho & Jessenia Martinez",
+      "isabelle stairman & Gabrielle  Vu",
+      "Alexander Villatora, Jr. & Victoria Leger",
+      "Ben Gingras & Rachel Kopacko"
+    ]
+  },
+  {
+    "name": "Collegiate Bronze Intl. Tango  (T)",
+    "couples": [
+      "Matthew Fox & Stephanya Moran",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Kaitlyn Wallace & Edward McManus",
+      "Ryan Salazar & Joanna Lin",
+      "Shameeq Willis & Asia Ladson",
+      "Jinqi Zhang & Naya Murdock",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Manuel Bauche & Gabrielle Newman",
+      "Daniel Bavleye & Ardita Hinkle",
+      "Nicholas Chan & Nicole Souza",
+      "Charlie Darling & Tianna Darling",
+      "Alexander Sun & Marissa Kaufmann",
+      "Thomas Yakey Jr. & Julia McAdams",
+      "Ben Gingras & Rachel Kopacko",
+      "Vanessa Coelho & Jessenia Martinez",
+      "Alexander Hudak & Sarah Bradshaw",
+      "Alexander Villatora, Jr. & Victoria Leger",
+      "Tyler Bristow & Fiona Pham"
+    ]
+  },
+  {
+    "name": "Collegiate Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Matthew Fox & Stephanya Moran",
+      "Ryan Salazar & Joanna Lin",
+      "Kaitlyn Wallace & Edward McManus",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Jinqi Zhang & Naya Murdock",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Daniel Bavleye & Ardita Hinkle",
+      "Tyler Bristow & Fiona Pham",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Nicholas Chan & Nicole Souza",
+      "Charlie Darling & Tianna Darling",
+      "Alexander Sun & Marissa Kaufmann",
+      "Ben Gingras & Rachel Kopacko",
+      "Vanessa Coelho & Jessenia Martinez",
+      "Manuel Bauche & Gabrielle Newman",
+      "Alexander Hudak & Sarah Bradshaw",
+      "isabelle stairman & Gabrielle  Vu",
+      "Alexander Villatora, Jr. & Victoria Leger",
+      "Thomas Yakey Jr. & Julia McAdams"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Standard  (WQ)",
+    "couples": [
+      "Katherine Bell & Sarah Srivichitranond",
+      "Michael Kiang & Isabel Jiah",
+      "Ang Li & Rea Yoh",
+      "Josh Keys & Vanessa Zighelboim",
+      "Hannah Powers & Emily Parker",
+      "Ben Toth & Rebecca Chalmers",
+      "Jeremy Bai & Madison Leone",
+      "Max Luo & Vivian Tao",
+      "David Mount & Alison Bert",
+      "Zachary Pappalau & Sarah McRae",
+      "Angela Vu & Sarah Williams",
+      "Owen Mooney & Rosalie Garcia",
+      "William Tait & Janna DiVico",
+      "Chris McCooey & Kate Eminger",
+      "Olivia Gould & Liz Cordone",
+      "Edward McManus & Helen Bian"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Intl. Tango  (T)",
+    "couples": [
+      "Katherine Bell & Sarah Srivichitranond",
+      "Ang Li & Rea Yoh",
+      "Michael Kiang & Isabel Jiah",
+      "Ben Toth & Rebecca Chalmers",
+      "Josh Keys & Vanessa Zighelboim",
+      "Jeremy Bai & Madison Leone",
+      "Hannah Powers & Emily Parker",
+      "Max Luo & Vivian Tao",
+      "William Tait & Janna DiVico",
+      "David Mount & Alison Bert",
+      "Angela Vu & Sarah Williams",
+      "Chris McCooey & Kate Eminger",
+      "Olivia Gould & Liz Cordone",
+      "Edward McManus & Helen Bian",
+      "Zachary Pappalau & Sarah McRae"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Katherine Bell & Sarah Srivichitranond",
+      "Michael Kiang & Isabel Jiah",
+      "Josh Keys & Vanessa Zighelboim",
+      "Ben Toth & Rebecca Chalmers",
+      "Ang Li & Rea Yoh",
+      "Hannah Powers & Emily Parker",
+      "Jeremy Bai & Madison Leone",
+      "Max Luo & Vivian Tao",
+      "Zachary Pappalau & Sarah McRae",
+      "William Tait & Janna DiVico",
+      "Chris McCooey & Olivia Gould",
+      "David Mount & Alison Bert",
+      "Edward McManus & Helen Bian",
+      "Alexander Villatora, Jr. & Victoria Leger"
+    ]
+  },
+  {
+    "name": "Collegiate Syllabus Intl. V. Waltz  (V)",
+    "couples": [
+      "Katherine Bell & Sarah Srivichitranond",
+      "Michael Kiang & Isabel Jiah",
+      "Josh Keys & 524 zNew_Follow",
+      "Garrett Maglio & Sophia Pham",
+      "Ben Toth & Rebecca Chalmers",
+      "Ang Li & Rea Yoh",
+      "Hannah Powers & Emily Parker",
+      "Jeremy Bai & Madison Leone",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Alexander Hudak & Sarah Bradshaw",
+      "Max Luo & 507 zNew_Follow",
+      "William Tait & Janna DiVico",
+      "David Mount & Alison Bert",
+      "Zachary Pappalau & 560 zNew_Follow",
+      "Owen Mooney & Rosalie Garcia",
+      "Chris McCooey & Kate Eminger",
+      "Derrick Powers & Vanessa Coelho",
+      "Olivia Gould & Liz Cordone",
+      "Edward McManus & Helen Bian"
+    ]
+  },
+  {
+    "name": "Collegiate Gold Standard  (WQ)",
+    "couples": [
+      "Garrett Maglio & Sophia Pham"
+    ]
+  },
+  {
+    "name": "Collegiate Gold Standard  (TF)",
+    "couples": [
+      "Garrett Maglio & Sophia Pham"
+    ]
+  },
+  {
+    "name": "Collegiate Open Standard  (WTVFQ)",
+    "couples": [
+      "Michael Greco & Elira Fifo",
+      "Christian Larsen & Lara Beecher",
+      "Scott Loescher & Heidi Levin",
+      "HoangNam Nguyen & Allison Keefe"
+    ]
+  },
+  {
+    "name": "Collegiate Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Salman Parvez & Mary Lucas",
+      "Angelina Mos & Brooke Agro",
+      "Nicholas Chieppo & Quinn Lupton",
+      "Seth Mischo & Kathryne Soper",
+      "Marissa Kaufmann & Emma Pereira",
+      "Jackson Young & Bianca Bacchus",
+      "Leigh Davis & Aimee Meunier",
+      "Dejhanna Garnetto & Ashley Hein",
+      "Peter McMichael & Katherine Grist",
+      "Annie Ayero & Alexa Schwartz"
+    ]
+  },
+  {
+    "name": "Collegiate Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Shameeq Willis & Rachel Kopacko",
+      "Ryan Salazar & Joanna Lin",
+      "Kaitlyn Wallace & Rachel Philipson",
+      "Harrison Burr & Audrey Lee",
+      "Corrado Mazzarelli & Stephanya Moran",
+      "Sam Wiegand & Emi Ahlo",
+      "Hannah Powers & Emily Davey",
+      "Daniel Bavleye & Ardita Hinkle",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Manuel Bauche & Gabrielle Newman",
+      "Matthew Fox & Emily Parker",
+      "Jinqi Zhang & Naya Murdock",
+      "Thomas Yakey Jr. & Jessenia Martinez",
+      "Jeffrey Dumpson & Skye Jacobson",
+      "Vanessa Coelho & Emily McGrady",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Alexander Hudak & Sarah Bradshaw",
+      "Jared Briones & Mercedez Young",
+      "Nicholas Chan & Nicole Souza",
+      "isabelle stairman & Gabrielle  Vu",
+      "Alexander Villatora, Jr. & Victoria Leger"
+    ]
+  },
+  {
+    "name": "Collegiate Bronze Am. Rumba  (R)",
+    "couples": [
+      "Shameeq Willis & Rachel Kopacko",
+      "Ryan Salazar & Joanna Lin",
+      "Kaitlyn Wallace & Rachel Philipson",
+      "Sam Wiegand & Emi Ahlo",
+      "Corrado Mazzarelli & Stephanya Moran",
+      "Harrison Burr & Audrey Lee",
+      "Matthew Fox & Emily Parker",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Manuel Bauche & Gabrielle Newman",
+      "Daniel Bavleye & Ardita Hinkle",
+      "Jinqi Zhang & Naya Murdock",
+      "Hannah Powers & Emily Davey",
+      "Thomas Yakey Jr. & Jessenia Martinez",
+      "Nicholas Chan & Nicole Souza",
+      "Jared Briones & Mercedez Young",
+      "Kaleb Seifert & Sara Koprek",
+      "Jeffrey Dumpson & Skye Jacobson",
+      "Vanessa Coelho & Emily McGrady",
+      "Alexander Hudak & Sarah Bradshaw",
+      "Alexander Villatora, Jr. & Victoria Leger"
+    ]
+  },
+  {
+    "name": "Collegiate Bronze Am. Swing  (S)",
+    "couples": [
+      "Ryan Salazar & Joanna Lin",
+      "Shameeq Willis & Rachel Kopacko",
+      "Kaitlyn Wallace & Rachel Philipson",
+      "Sam Wiegand & Emi Ahlo",
+      "Alexander Hudak & Sarah Bradshaw",
+      "Corrado Mazzarelli & Stephanya Moran",
+      "Harrison Burr & Audrey Lee",
+      "Hannah Powers & Emily Davey",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Jeffrey Dumpson & Skye Jacobson",
+      "Jinqi Zhang & Naya Murdock",
+      "Thomas Yakey Jr. & Jessenia Martinez",
+      "Manuel Bauche & Gabrielle Newman",
+      "Matthew Fox & Emily Parker",
+      "Nicholas Chan & Nicole Souza",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Jared Briones & Mercedez Young",
+      "Kaleb Seifert & Sara Koprek",
+      "Vanessa Coelho & Emily McGrady",
+      "Daniel Bavleye & Ardita Hinkle",
+      "Alexander Villatora, Jr. & Victoria Leger"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Rhythm  (CR)",
+    "couples": [
+      "Nick Boronski & Magali Bazzano",
+      "Angela Vu & Sarah Williams",
+      "Josh Keys & Vivian Tao",
+      "Michael Kiang & Isabel Jiah",
+      "Alexander Sun & Ben Toth",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Katherine Bell & Sarah Srivichitranond",
+      "Max Luo & Vanessa Zighelboim",
+      "Edward McManus & Erin Shapland",
+      "Kate Eminger & Julia McAdams",
+      "William Tait & Janna DiVico",
+      "Zachary Pappalau & Vivian Nwudu",
+      "Connor Theis & Meghan Mulloy",
+      "Derrick Powers & Liz Cordone",
+      "Chris McCooey & Olivia Gould",
+      "Chang Ju Kim & Allison Daboval",
+      "Owen Mooney & Rosalie Garcia",
+      "Isabelle Donahue & Brittany Wendzel"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Am. Swing  (S)",
+    "couples": [
+      "Nick Boronski & Magali Bazzano",
+      "Angela Vu & Sarah Williams",
+      "Josh Keys & Vivian Tao",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Michael Kiang & Isabel Jiah",
+      "Alexander Sun & Ben Toth",
+      "Kate Eminger & Julia McAdams",
+      "Katherine Bell & Sarah Srivichitranond",
+      "Connor Theis & Meghan Mulloy",
+      "Max Luo & Vanessa Zighelboim",
+      "Edward McManus & Erin Shapland",
+      "Zachary Pappalau & Vivian Nwudu",
+      "William Tait & Janna DiVico",
+      "Chris McCooey & Olivia Gould",
+      "Derrick Powers & Liz Cordone",
+      "Chang Ju Kim & Allison Daboval",
+      "Isabelle Donahue & Brittany Wendzel",
+      "Owen Mooney & Rosalie Garcia"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Am. Mambo  (M)",
+    "couples": [
+      "Nick Boronski & Magali Bazzano",
+      "Josh Keys & Vivian Tao",
+      "Michael Kiang & Isabel Jiah",
+      "Alexander Sun & Ben Toth",
+      "Zachary Pappalau & Vivian Nwudu",
+      "Katherine Bell & Sarah Srivichitranond",
+      "Kate Eminger & Julia McAdams",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Max Luo & Vanessa Zighelboim",
+      "Chris McCooey & Olivia Gould",
+      "Chang Ju Kim & Allison Daboval",
+      "Edward McManus & Erin Shapland",
+      "Derrick Powers & Liz Cordone",
+      "Thomas Yakey Jr. & Jessenia Martinez",
+      "Isabelle Donahue & Brittany Wendzel",
+      "Owen Mooney & Rosalie Garcia",
+      "William Tait & Janna DiVico",
+      "Angela Vu & Sarah Williams"
+    ]
+  },
+  {
+    "name": "Collegiate Syllabus Am. Bolero  (B)",
+    "couples": [
+      "Steven Chick & Deshauna Hammond",
+      "Nick Sawyer & Christine Albain",
+      "Nick Boronski & Magali Bazzano",
+      "Josh Keys & 524 zNew_Follow",
+      "Benjamin Zackin & Katie Mihalek",
+      "Michael Kiang & Isabel Jiah",
+      "Alexander Sun & Ben Toth",
+      "Max Luo & 507 zNew_Follow",
+      "Derrick Powers & Olivia Gould",
+      "Katherine Bell & Sarah Srivichitranond",
+      "Nicole Piche & Sarah McRae",
+      "Chris McCooey & Kate Eminger",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Edward McManus & Erin Shapland",
+      "William Tait & Janna DiVico",
+      "Isabelle Donahue & 575 zNew_Follow",
+      "Angela Vu & Sarah Williams",
+      "Owen Mooney & Rosalie Garcia",
+      "Connor Theis & Meghan Mulloy",
+      "Thomas Yakey Jr. & Julia McAdams",
+      "Jessenia Martinez & Emily McGrady"
+    ]
+  },
+  {
+    "name": "Collegiate Newcomer Am. Swing  (S)",
+    "couples": [
+      "Marissa Kaufmann & Emma Pereira",
+      "Salman Parvez & Mary Lucas",
+      "Angelina Mos & Brooke Agro",
+      "Nicholas Chieppo & Quinn Lupton",
+      "Leigh Davis & Aimee Meunier",
+      "Seth Mischo & Kathryne Soper",
+      "Jackson Young & Bianca Bacchus",
+      "Dejhanna Garnetto & Ashley Hein",
+      "Peter McMichael & Katherine Grist",
+      "Annie Ayero & Alexa Schwartz"
+    ]
+  },
+  {
+    "name": "Collegiate Gold Rhythm  (CR)",
+    "couples": [
+      "Nick Sawyer & Christine Albain",
+      "Steven Chick & Deshauna Hammond",
+      "Benjamin Zackin & Katie Mihalek",
+      "Nicole Piche & Sarah McRae"
+    ]
+  },
+  {
+    "name": "Collegiate Gold Rhythm  (SM)",
+    "couples": [
+      "Nick Sawyer & Christine Albain",
+      "Steven Chick & Deshauna Hammond",
+      "Benjamin Zackin & Katie Mihalek",
+      "Nicole Piche & Sarah McRae"
+    ]
+  },
+  {
+    "name": "Collegiate Pre-Champ Rhythm  (CRSBM)",
+    "couples": [
+      "Daniel Spencer & Emily Calobrisi",
+      "Benjamin Zackin & Katie Mihalek"
+    ]
+  },
+  {
+    "name": "Collegiate Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Kaitlyn Wallace & Rachel Philipson",
+      "Shameeq Willis & Rachel Kopacko",
+      "Charlie Darling & Tianna Darling",
+      "Tyler Bristow & Fiona Pham",
+      "Jinqi Zhang & Stephanya Moran",
+      "Harrison Burr & Audrey Lee",
+      "Alexander Hudak & Sarah Bradshaw",
+      "Sam Wiegand & 565 zNew_Follow",
+      "Manuel Bauche & Gabrielle Newman",
+      "Daniel Bavleye & 578 zNew_Follow",
+      "Alexander Sun & Marissa Kaufmann",
+      "Kaleb Seifert & Sara Koprek",
+      "Thomas Yakey Jr. & Vanessa Coelho",
+      "Hannah Powers & Emily Parker",
+      "Jessenia Martinez & Emily McGrady",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Nicholas Chan & Nicole Souza",
+      "isabelle stairman & Gabrielle  Vu",
+      "Alexander Villatora, Jr. & Victoria Leger",
+      "Ben Gingras & Asia Ladson"
+    ]
+  },
+  {
+    "name": "Collegiate Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Shameeq Willis & Rachel Kopacko",
+      "Kaitlyn Wallace & Rachel Philipson",
+      "Charlie Darling & Tianna Darling",
+      "Tyler Bristow & Fiona Pham",
+      "Jinqi Zhang & Stephanya Moran",
+      "Alexander Sun & Marissa Kaufmann",
+      "Harrison Burr & Audrey Lee",
+      "Sam Wiegand & 565 zNew_Follow",
+      "Hannah Powers & Emily Parker",
+      "Thomas Yakey Jr. & Vanessa Coelho",
+      "Jessenia Martinez & Emily McGrady",
+      "Ben Gingras & Asia Ladson",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Kaleb Seifert & Sara Koprek",
+      "Manuel Bauche & Gabrielle Newman",
+      "Nicholas Chan & Nicole Souza",
+      "Alexander Hudak & Sarah Bradshaw",
+      "Alexander Villatora, Jr. & Victoria Leger"
+    ]
+  },
+  {
+    "name": "Collegiate Bronze Intl. Jive  (J)",
+    "couples": [
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Shameeq Willis & Rachel Kopacko",
+      "Alexander Hudak & Sarah Bradshaw",
+      "Jinqi Zhang & Stephanya Moran",
+      "Manuel Bauche & Gabrielle Newman",
+      "Harrison Burr & Audrey Lee",
+      "Tyler Bristow & Fiona Pham",
+      "Hannah Powers & Emily Parker",
+      "Alexander Sun & Marissa Kaufmann",
+      "Thomas Yakey Jr. & Vanessa Coelho",
+      "Jessenia Martinez & Emily McGrady",
+      "Sam Wiegand & 565 zNew_Follow",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Charlie Darling & Tianna Darling",
+      "Alexander Villatora, Jr. & Victoria Leger",
+      "Ben Gingras & Asia Ladson",
+      "Kaitlyn Wallace & Rachel Philipson",
+      "Nicholas Chan & Nicole Souza"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Latin  (CR)",
+    "couples": [
+      "Nick Sawyer & Sarah McRae",
+      "Angela Vu & Sarah Williams",
+      "Josh Keys & Vivian Tao",
+      "Ryan Salazar & Madison Leone",
+      "Michael Kiang & Isabel Jiah",
+      "Katherine Bell & Sarah Srivichitranond",
+      "Ben Toth & Rebecca Chalmers",
+      "Jeremy Bai & Joanna Lin",
+      "Ang Li & Rea Yoh",
+      "Connor Theis & Meghan Mulloy",
+      "Max Luo & Vanessa Zighelboim",
+      "William Tait & Janna DiVico",
+      "Chris McCooey & Kate Eminger",
+      "Olivia Gould & Julia McAdams",
+      "Derrick Powers & Liz Cordone",
+      "Owen Mooney & Rosalie Garcia",
+      "isabelle stairman & Gabrielle  Vu",
+      "Edward McManus & Helen Bian"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Intl. Samba  (S)",
+    "couples": [
+      "Nick Sawyer & Sarah McRae",
+      "Angela Vu & Sarah Williams",
+      "Ryan Salazar & Madison Leone",
+      "Ben Toth & Rebecca Chalmers",
+      "Michael Kiang & Isabel Jiah",
+      "Josh Keys & Vivian Tao",
+      "Jeremy Bai & Joanna Lin",
+      "Katherine Bell & Sarah Srivichitranond",
+      "Ang Li & Rea Yoh",
+      "Max Luo & Vanessa Zighelboim",
+      "Chris McCooey & Kate Eminger",
+      "Olivia Gould & Emily McGrady",
+      "Thomas Yakey Jr. & Jessenia Martinez",
+      "William Tait & Janna DiVico",
+      "Derrick Powers & Liz Cordone",
+      "Owen Mooney & Rosalie Garcia",
+      "Connor Theis & Meghan Mulloy",
+      "Edward McManus & Helen Bian",
+      "Alexander Villatora, Jr. & Victoria Leger",
+      "Vanessa Coelho & Julia McAdams"
+    ]
+  },
+  {
+    "name": "Collegiate Silver Intl. Jive  (J)",
+    "couples": [
+      "Nick Sawyer & Sarah McRae",
+      "Angela Vu & Sarah Williams",
+      "Ryan Salazar & Madison Leone",
+      "Ben Toth & Rebecca Chalmers",
+      "Josh Keys & Vivian Tao",
+      "Michael Kiang & Isabel Jiah",
+      "Katherine Bell & Sarah Srivichitranond",
+      "Ang Li & Rea Yoh",
+      "Jeremy Bai & Joanna Lin",
+      "Olivia Gould & Julia McAdams",
+      "Max Luo & Vanessa Zighelboim",
+      "Chris McCooey & Kate Eminger",
+      "Connor Theis & Meghan Mulloy",
+      "William Tait & Janna DiVico",
+      "Derrick Powers & Liz Cordone",
+      "Owen Mooney & Rosalie Garcia",
+      "Edward McManus & Helen Bian"
+    ]
+  },
+  {
+    "name": "Collegiate Syllabus Intl. Paso Doble  (P)",
+    "couples": [
+      "Josh Keys & 524 zNew_Follow",
+      "Michael Kiang & Isabel Jiah",
+      "Amadeusz Nasuta & 535 zNew_Follow",
+      "Ben Toth & Rebecca Chalmers",
+      "Angela Vu & Sarah Williams",
+      "Katherine Bell & Sarah Srivichitranond",
+      "Matthew Trimberger & Gabriella Grezzi",
+      "Garrett Maglio & Sophia Pham",
+      "Max Luo & Vanessa Zighelboim",
+      "Ryan Salazar & Madison Leone",
+      "William Tait & Janna DiVico",
+      "Derrick Powers & Julia McAdams",
+      "Thomas Yakey Jr. & Kate Eminger",
+      "Connor Theis & Meghan Mulloy",
+      "Olivia Gould & Emily McGrady",
+      "Edward McManus & Helen Bian"
+    ]
+  },
+  {
+    "name": "Collegiate Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Seth Mischo & Katherine Grist",
+      "Nicholas Chieppo & Morgan Moliengo",
+      "Annie Ayero & Quinn Lupton",
+      "Angelina Mos & Brooke Agro",
+      "Leigh Davis & Ashley Hein",
+      "Dejhanna Garnetto & Kathryne Soper",
+      "Peter McMichael & Aimee Meunier"
+    ]
+  },
+  {
+    "name": "Collegiate Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Annie Ayero & Quinn Lupton",
+      "Angelina Mos & Brooke Agro",
+      "Nicholas Chieppo & Morgan Moliengo"
+    ]
+  },
+  {
+    "name": "Collegiate Gold Latin  (CR)",
+    "couples": [
+      "Steven Chick & Deshauna Hammond",
+      "Garrett Maglio & Sophia Pham",
+      "Amadeusz Nasuta & Heidi Levin"
+    ]
+  },
+  {
+    "name": "Collegiate Gold Latin  (SJ)",
+    "couples": [
+      "Steven Chick & Deshauna Hammond",
+      "Garrett Maglio & Sophia Pham",
+      "Amadeusz Nasuta & Heidi Levin"
+    ]
+  },
+  {
+    "name": "Collegiate Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "HoangNam Nguyen & Samantha Loescher",
+      "Phi Nguyen & Victoria Dumeng"
+    ]
+  },
+  {
+    "name": "Collegiate Pre-Champ Intl. Paso Doble  (P)",
+    "couples": [
+      "HoangNam Nguyen & Samantha Loescher"
+    ]
+  },
+  {
+    "name": "Collegiate Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Annie Ayero & Alexa Schwartz"
+    ]
+  },
+  {
+    "name": "Collegiate Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Angelina Mos & Brooke Agro"
+    ]
+  }
+]

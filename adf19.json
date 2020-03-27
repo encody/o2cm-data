@@ -1,0 +1,948 @@
+[
+  {
+    "name": "Teacher/Student Adult B2* Bronze Am. Cha Cha*  (C)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Bronze Am. Rumba  (R)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Bronze Am. Swing*  (S)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Bronze Am. Bolero*  (B)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Bronze Am. Mambo*  (M)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Bronze* Am. Cha Cha*  (C)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Bronze* Am. Rumba  (R)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Bronze* Am. Swing*  (S)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Bronze* Am. Bolero*  (B)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Silver Am. Mambo*  (M)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Full Bronze* Intl. Cha Cha*  (C)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Silver Intl. Rumba*  (R)",
+    "couples": []
+  },
+  {
+    "name": "Teacher/Student Adult B2* Bronze Scholarship Rhythm  (CRSB)",
+    "couples": []
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Bronze* Am. Mambo*  (M)",
+    "couples": []
+  },
+  {
+    "name": "Teacher/Student Adult B1* Silver Intl. Cha Cha*  (C)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Silver Scholarship Latin  (SCRJ)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Bronze Scholarship Latin  (SCRJ)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Bronze Scholarship Latin  (SCRJ)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Bronze* Intl. Samba*  (S)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Bronze* Intl. Cha Cha*  (C)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Bronze* Intl. Rumba*  (R)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Bronze* Intl. Paso Doble*  (P)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Bronze* Intl. Jive*  (J)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II* Bronze Intl. Samba*  (S)",
+    "couples": [
+      "Artemii Lysov & Alexandra Kaszuba"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Intl. Samba*  (S)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II* Bronze Intl. Cha Cha*  (C)",
+    "couples": [
+      "Artemii Lysov & Alexandra Kaszuba"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Intl. Cha Cha*  (C)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II* Bronze Intl. Rumba*  (R)",
+    "couples": [
+      "Artemii Lysov & Alexandra Kaszuba"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Intl. Rumba*  (R)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Intl. Jive*  (J)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Silver Intl. Samba*  (S)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Silver Intl. Cha Cha*  (C)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Silver Intl. Rumba*  (R)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Full Bronze* Intl. Paso Doble*  (P)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Silver Intl. Paso Doble*  (P)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Full Bronze* Intl. Jive*  (J)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Silver Intl. Jive*  (J)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II* Bronze Latin  (CR)",
+    "couples": [
+      "Connor Palmer & Veronika Rozenberg",
+      "Mason Palmer & Victoria Rozenberg",
+      "Damir Saiapov & Paloma Kassoff",
+      "Artemii Lysov & Alexandra Kaszuba"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Latin  (CR)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II* Bronze Latin  (SJ)",
+    "couples": [
+      "Damir Saiapov & Paloma Kassoff",
+      "Artemii Lysov & Alexandra Kaszuba"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Latin  (SJ)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Full Bronze* Intl. Samba*  (S)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A1* Gold Intl. Samba*  (S)",
+    "couples": [
+      "Alexandru Munteanu & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Bronze Intl. Cha Cha*  (C)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A1* Gold Intl. Cha Cha*  (C)",
+    "couples": [
+      "Alexandru Munteanu & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Bronze Intl. Rumba*  (R)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A1* Gold Intl. Rumba*  (R)",
+    "couples": [
+      "Alexandru Munteanu & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Bronze Intl. Paso Doble*  (P)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A1* Gold Intl. Paso Doble*  (P)",
+    "couples": [
+      "Alexandru Munteanu & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Bronze Intl. Jive*  (J)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A1* Gold Intl. Jive*  (J)",
+    "couples": [
+      "Alexandru Munteanu & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Silver Intl. Cha Cha*  (C)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II* Full Bronze* Latin  (CR)",
+    "couples": [
+      "Artemii Lysov & Alexandra Kaszuba"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Bronze Latin  (CR)",
+    "couples": [
+      "Connor Palmer & Veronika Rozenberg",
+      "Mason Palmer & Victoria Rozenberg"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Silver Intl. Rumba*  (R)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Silver Intl. Samba*  (S)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II* Full Bronze* Latin  (SJ)",
+    "couples": [
+      "Artemii Lysov & Alexandra Kaszuba"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Silver Intl. Jive*  (J)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Bronze Intl. Samba*  (S)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Silver* Intl. Samba*  (S)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Bronze Intl. Cha Cha*  (C)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Silver* Intl. Cha Cha*  (C)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Bronze Intl. Rumba*  (R)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Silver* Intl. Rumba*  (R)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Bronze Intl. Paso Doble*  (P)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Silver* Intl. Paso Doble*  (P)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Bronze Intl. Jive*  (J)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B2* Full Silver* Intl. Jive*  (J)",
+    "couples": [
+      "Alexandru Munteanu & Nancy Poorvu"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I* Full Silver* Latin  (SCRJ)",
+    "couples": [
+      "Daniel  Reunov & Marielle Shvaitser"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Silver Latin  (SCRJ)",
+    "couples": [
+      "Jordan Palmer & Finley Severance",
+      "Sebastian Mankevich & Kasia Wienc",
+      "Benjamin Trobaugh & Aleksandra Montanus"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A1* Full Gold* Intl. Samba*  (S)",
+    "couples": [
+      "Alexandru Munteanu & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A1* Full Gold* Intl. Cha Cha*  (C)",
+    "couples": [
+      "Alexandru Munteanu & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A1* Full Gold* Intl. Rumba*  (R)",
+    "couples": [
+      "Alexandru Munteanu & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A1* Full Gold* Intl. Paso Doble*  (P)",
+    "couples": [
+      "Alexandru Munteanu & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A1* Full Gold* Intl. Jive*  (J)",
+    "couples": [
+      "Alexandru Munteanu & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Amateur Youth* Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Denis Melnichenko & Zijia Cheng"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I* Silver Latin  (SCRJ)",
+    "couples": [
+      "Daniel  Reunov & Marielle Shvaitser"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II* Silver Latin  (SCRJ)",
+    "couples": [
+      "Jordan Palmer & Finley Severance",
+      "Damir Saiapov & Paloma Kassoff"
+    ]
+  },
+  {
+    "name": "Amateur Youth* Full Gold* Latin  (SCRPJ)",
+    "couples": [
+      "Juan Pablo Gutierrez Bolivar & Mariana Alarcon Ruiz"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Silver* Latin  (SCRJ)",
+    "couples": [
+      "Aleksandra Montanus & Benjamin Trobaugh"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A1* Gold Scholarship Latin  (SCRPJ)",
+    "couples": [
+      "Alexandru Munteanu & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II* Open Scholarship (1) Latin  (SCRPJ)",
+    "couples": [
+      "Sebastian Mateo Burbano Hernandez & Mariana Alarcon Ruiz"
+    ]
+  },
+  {
+    "name": "Amateur Junior II* Novice Latin  (SCR)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Adult Rising Star Standard  (WTVFQ)",
+    "couples": [
+      "Dennis Matveev & Anna Jonczyk",
+      "Vladislav Palagniuk & Valeriya Menyaylo",
+      "Danya Rubashevsky & Anastasiya Rubashevsky",
+      "Wang Lixin & Wei Jiaping",
+      "Mitchell Hayutt & Sophia Levit",
+      "Eugene Lobko & Alla Zemlyak",
+      "Matthew Sorrentino & Theresa Vallese",
+      "Anthony Kozloff & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Amateur Junior II* Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Denis Melnichenko & Zijia Cheng",
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Latin  (SCRPJ)",
+    "couples": [
+      "Arkady Dudko & Lena Dudko",
+      "Christopher Chaleki & Karen Chaleki"
+    ]
+  },
+  {
+    "name": "Amateur Junior II* Championship Latin  (SCRPJ)",
+    "couples": [
+      "Tamir Azbel & Anna Kozyar",
+      "Denis Melnichenko & Zijia Cheng"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Silver Am. Waltz*  (W)",
+    "couples": [
+      "George Cometa & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Silver Am. Tango*  (T)",
+    "couples": [
+      "George Cometa & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Silver Am. Foxtrot*  (F)",
+    "couples": [
+      "George Cometa & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Silver Am. V. Waltz*  (V)",
+    "couples": [
+      "George Cometa & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I* Bronze Standard  (WQ)",
+    "couples": [
+      "Daniel  Reunov & Marielle Shvaitser"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II* Bronze Standard  (WQ)",
+    "couples": [
+      "Jordan Palmer & Finley Severance",
+      "Connor Palmer & Veronika Rozenberg",
+      "Mason Palmer & Victoria Rozenberg"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I* Bronze Standard  (TF)",
+    "couples": [
+      "Daniel  Reunov & Marielle Shvaitser"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Standard  (TF)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Full Silver* Am. Waltz*  (W)",
+    "couples": [
+      "George Cometa & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Full Silver* Am. Tango*  (T)",
+    "couples": [
+      "George Cometa & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Full Silver* Am. Foxtrot*  (F)",
+    "couples": [
+      "George Cometa & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Full Silver* Am. V. Waltz*  (V)",
+    "couples": [
+      "George Cometa & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Open Gold* Intl. Waltz*  (W)",
+    "couples": [
+      "David Hui Hu & Vanessa Man Seung Fan"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult C1* Open Gold* Intl. Waltz*  (W)",
+    "couples": [
+      "Yao Weidong & Cheung Ping",
+      "Qiu Yuming & Kristina Lee May"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Open Gold* Intl. Tango*  (T)",
+    "couples": [
+      "David Hui Hu & Vanessa Man Seung Fan"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult C1* Open Gold* Intl. Tango*  (T)",
+    "couples": [
+      "Qiu Yuming & Kristina Lee May",
+      "Yao Weidong & Cheung Ping"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Open Gold* Intl. V. Waltz*  (V)",
+    "couples": [
+      "David Hui Hu & Vanessa Man Seung Fan"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult C1* Open Gold* Intl. V. Waltz*  (V)",
+    "couples": [
+      "Qiu Yuming & Kristina Lee May",
+      "Yao Weidong & Cheung Ping"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Open Gold* Intl. Foxtrot*  (F)",
+    "couples": [
+      "David Hui Hu & Vanessa Man Seung Fan"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult C1* Open Gold* Intl. Foxtrot*  (F)",
+    "couples": [
+      "Qiu Yuming & Kristina Lee May",
+      "Yao Weidong & Cheung Ping"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Open Gold* Intl. Quickstep*  (Q)",
+    "couples": [
+      "David Hui Hu & Vanessa Man Seung Fan"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult C1* Open Gold* Intl. Quickstep*  (Q)",
+    "couples": [
+      "Qiu Yuming & Kristina Lee May"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Silver Scholarship Smooth  (WTFQ)",
+    "couples": [
+      "George Cometa & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I* Full Bronze* Standard  (WQ)",
+    "couples": [
+      "Daniel  Reunov & Marielle Shvaitser"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Bronze Standard  (WQ)",
+    "couples": [
+      "Jordan Palmer & Finley Severance",
+      "Connor Palmer & Veronika Rozenberg",
+      "Mason Palmer & Victoria Rozenberg"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Standard  (WQ)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc",
+      "Benjamin Trobaugh & Aleksandra Montanus"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I* Full Bronze* Standard  (TF)",
+    "couples": [
+      "Daniel  Reunov & Marielle Shvaitser"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II* Bronze Intl. Waltz*  (W)",
+    "couples": [
+      "Douglas Montanus & Anastasia Yakovleva"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Intl. Waltz*  (W)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II* Full Bronze* Intl. Waltz*  (W)",
+    "couples": [
+      "Douglas Montanus & Anastasia Yakovleva"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Intl. Tango*  (T)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II* Full Bronze* Intl. Tango*  (T)",
+    "couples": [
+      "Douglas Montanus & Anastasia Yakovleva"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Intl. Foxtrot*  (F)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II* Full Bronze* Intl. Foxtrot*  (F)",
+    "couples": [
+      "Douglas Montanus & Anastasia Yakovleva"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Intl. Quickstep*  (Q)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II* Full Bronze* Intl. Quickstep*  (Q)",
+    "couples": [
+      "Douglas Montanus & Anastasia Yakovleva"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Full Bronze* Intl. V. Waltz*  (V)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Silver Standard  (WTFQ)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc",
+      "Jordan Palmer & Finley Severance"
+    ]
+  },
+  {
+    "name": "Amateur Junior II* Novice Standard  (WFQ)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Silver Intl. Waltz*  (W)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II* Silver Intl. Waltz*  (W)",
+    "couples": [
+      "Douglas Montanus & Anastasia Yakovleva"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Silver Intl. Tango*  (T)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II* Silver Intl. Tango*  (T)",
+    "couples": [
+      "Douglas Montanus & Anastasia Yakovleva"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Silver Intl. V. Waltz*  (V)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II* Silver Intl. V. Waltz*  (V)",
+    "couples": [
+      "Douglas Montanus & Anastasia Yakovleva"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Silver Intl. Foxtrot*  (F)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II* Silver Intl. Foxtrot*  (F)",
+    "couples": [
+      "Douglas Montanus & Anastasia Yakovleva"
+    ]
+  },
+  {
+    "name": "Amateur Junior I* Silver Intl. Quickstep*  (Q)",
+    "couples": [
+      "Sebastian Mankevich & Kasia Wienc"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II* Silver Intl. Quickstep*  (Q)",
+    "couples": [
+      "Douglas Montanus & Anastasia Yakovleva"
+    ]
+  },
+  {
+    "name": "Amateur Adult Rising Star Latin  (SCRPJ)",
+    "couples": [
+      "Danya Rubashevsky & Anastasiya Rubashevsky",
+      "Dennis Matveev & Anna Jonczyk",
+      "Lev  Libkind & Anastasiia Melnychenko"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Open Scholarship (1) Standard  (WTVFQ)",
+    "couples": [
+      "David Hui Hu & Vanessa Man Seung Fan"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Standard  (WT_FQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Championship Standard  (WTVFQ)",
+    "couples": [
+      "Eric Austin & Yanina Kisler",
+      "Yusuf Mihaylov & Elena Simonova",
+      "Arkady Dudko & Lena Dudko",
+      "Claude Guay & Ginette Beaulieu",
+      "Christopher Chaleki & Karen Chaleki"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II* Silver Standard  (WTFQ)",
+    "couples": [
+      "Jordan Palmer & Finley Severance"
+    ]
+  },
+  {
+    "name": "Amateur Junior II* Championship Standard  (WTVFQ)",
+    "couples": [
+      "Matthew Kamenetsky & Rachel Tulman",
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Anthony Kozloff & Nicoletta Agostino"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Championship Standard  (WTVFQ)",
+    "couples": [
+      "Claude Guay & Ginette Beaulieu"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A2* Bronze Intl. Cha Cha*  (C)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A2* Bronze Intl. Samba*  (S)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A2* Full Bronze* Intl. Rumba*  (R)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A2* Full Bronze* Intl. Paso Doble*  (P)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A2* Full Bronze* Intl. Jive*  (J)",
+    "couples": [
+      "Janos Bogre & Elizabeth Metzgar"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A2* Full Bronze* Intl. Samba*  (S)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult A2* Full Bronze* Intl. Cha Cha*  (C)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult B1* Full Bronze* Intl. Rumba*  (R)",
+    "couples": [
+      "Janos Bogre & Patti Peterson"
+    ]
+  },
+  {
+    "name": "Teacher/Student Adult C1* Open Scholarship (1) Standard  (WTVFQ)",
+    "couples": [
+      "Yao Weidong & Cheung Ping",
+      "Qiu Yuming & Kristina Lee May"
+    ]
+  }
+]

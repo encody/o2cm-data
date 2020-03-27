@@ -1,0 +1,735 @@
+[
+  {
+    "name": "Junior Bronze Standard  (WFQ)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Bronze Standard  (WFQ)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Junior Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Intl. Waltz  (W)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch"
+    ]
+  },
+  {
+    "name": "Junior Bronze Intl. Tango  (T)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. Tango  (T)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Intl. Tango  (T)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch"
+    ]
+  },
+  {
+    "name": "Junior Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch"
+    ]
+  },
+  {
+    "name": "Adult Silver Standard  (WTFQ)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Pre-Teen II Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Pre-Teen II Bronze Intl. Tango  (T)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Pre-Teen II Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior III Silver Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Richard Waszak & Sandra Lott",
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior I Championship Smooth  (WTFV)",
+    "couples": [
+      "Mike Shelton & Daneen Shelton"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Smooth  (WT)",
+    "couples": [
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior III Newcomer Smooth  (WT)",
+    "couples": [
+      "Javier Mazzetti & Diana Mazzetti",
+      "Royce Kessler & Joyce Kiesel"
+    ]
+  },
+  {
+    "name": "Senior III Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Javier Mazzetti & Diana Mazzetti",
+      "Royce Kessler & Joyce Kiesel"
+    ]
+  },
+  {
+    "name": "Adult Bronze Am. Waltz  (W)",
+    "couples": [
+      "Grant Latham & Olga Chalagina",
+      "Douglas Gaydusek & Sarah Bardo",
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Am. Waltz  (W)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Senior II Silver Am. Waltz  (W)",
+    "couples": [
+      "Richard Waszak & Sandra Lott",
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior III Newcomer Am. Tango  (T)",
+    "couples": [
+      "Javier Mazzetti & Diana Mazzetti",
+      "Royce Kessler & Joyce Kiesel"
+    ]
+  },
+  {
+    "name": "Adult Bronze Am. Tango  (T)",
+    "couples": [
+      "Grant Latham & Olga Chalagina",
+      "Douglas Gaydusek & Sarah Bardo",
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Am. Tango  (T)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Senior II Silver Am. Tango  (T)",
+    "couples": [
+      "Richard Waszak & Sandra Lott",
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior III Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Javier Mazzetti & Diana Mazzetti",
+      "Royce Kessler & Joyce Kiesel"
+    ]
+  },
+  {
+    "name": "Adult Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Grant Latham & Olga Chalagina",
+      "Douglas Gaydusek & Sarah Bardo",
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Senior II Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Richard Waszak & Sandra Lott",
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Adult Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Grant Latham & Olga Chalagina",
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch"
+    ]
+  },
+  {
+    "name": "Senior II Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Richard Waszak & Sandra Lott",
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior II Silver Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Richard Waszak & Sandra Lott",
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior III Silver Am. Waltz  (W)",
+    "couples": [
+      "Jay Malik & Liesa Malik",
+      "Richard Waszak & Sandra Lott"
+    ]
+  },
+  {
+    "name": "Senior III Silver Am. Tango  (T)",
+    "couples": [
+      "Jay Malik & Liesa Malik",
+      "Richard Waszak & Sandra Lott"
+    ]
+  },
+  {
+    "name": "Senior III Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Richard Waszak & Sandra Lott",
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior III Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Larry Gray & Sheryl Gray"
+    ]
+  },
+  {
+    "name": "Senior III Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Richard Waszak & Sandra Lott",
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Adult Bronze Smooth  (WTF)",
+    "couples": [
+      "Grant Latham & Olga Chalagina",
+      "Douglas Gaydusek & Sarah Bardo",
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior III Bronze Smooth  (WTF)",
+    "couples": [
+      "Javier Mazzetti & Diana Mazzetti",
+      "Edward Nockunas & Beth Schuette",
+      "Royce Kessler & Joyce Kiesel",
+      "Larry Gray & Sheryl Gray"
+    ]
+  },
+  {
+    "name": "Senior III Silver Smooth  (WTFV)",
+    "couples": [
+      "Richard Waszak & Sandra Lott",
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior III Bronze Am. Waltz  (W)",
+    "couples": [
+      "Edward Nockunas & Beth Schuette",
+      "Royce Kessler & Joyce Kiesel",
+      "Javier Mazzetti & Diana Mazzetti",
+      "Larry Gray & Sheryl Gray"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Tango  (T)",
+    "couples": [
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior III Bronze Am. Tango  (T)",
+    "couples": [
+      "Javier Mazzetti & Diana Mazzetti",
+      "Edward Nockunas & Beth Schuette",
+      "Royce Kessler & Joyce Kiesel",
+      "Larry Gray & Sheryl Gray"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior III Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Javier Mazzetti & Diana Mazzetti",
+      "Edward Nockunas & Beth Schuette",
+      "Royce Kessler & Joyce Kiesel",
+      "Larry Gray & Sheryl Gray"
+    ]
+  },
+  {
+    "name": "Adult Bronze Scholarship Smooth  (WTF)",
+    "couples": [
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Smooth  (WTF)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Senior II Silver Smooth  (WTFV)",
+    "couples": [
+      "Richard Waszak & Sandra Lott",
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior II Championship Smooth  (WTFV)",
+    "couples": [
+      "Mike Shelton & Daneen Shelton"
+    ]
+  },
+  {
+    "name": "Pre-Teen II Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Pre-Teen II Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Pre-Teen II Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Pre-Teen II Bronze Intl. Samba  (S)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Bronze Intl. Samba  (S)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Intl. Samba  (S)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch"
+    ]
+  },
+  {
+    "name": "Junior Bronze Latin  (SCR)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Bronze Latin  (SCR)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Junior Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Junior Bronze Intl. Samba  (S)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Silver Intl. Samba  (S)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Junior Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Silver Intl. Rumba  (R)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Junior Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Pre-Teen II Bronze Latin  (SCR)",
+    "couples": [
+      "Luke Leone & Sofia Leone"
+    ]
+  },
+  {
+    "name": "Adult Silver Latin  (SCRJ)",
+    "couples": [
+      "Eric Einerson & Divinaa Burder"
+    ]
+  },
+  {
+    "name": "Senior II Silver Scholarship Rhythm  (CRSB)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Rhythm  (CR)",
+    "couples": [
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior III Newcomer Rhythm  (CR)",
+    "couples": [
+      "Royce Kessler & Joyce Kiesel"
+    ]
+  },
+  {
+    "name": "Adult Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Grant Latham & Olga Chalagina",
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior III Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Royce Kessler & Joyce Kiesel",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Senior II Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Adult Bronze Am. Rumba  (R)",
+    "couples": [
+      "Grant Latham & Olga Chalagina",
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior III Bronze Am. Rumba  (R)",
+    "couples": [
+      "Javier Mazzetti & Diana Mazzetti",
+      "Edward Nockunas & Beth Schuette",
+      "Royce Kessler & Joyce Kiesel"
+    ]
+  },
+  {
+    "name": "Senior II Silver Am. Rumba  (R)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Adult Bronze Am. Swing  (S)",
+    "couples": [
+      "Grant Latham & Olga Chalagina",
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior III Bronze Am. Swing  (S)",
+    "couples": [
+      "Edward Nockunas & Beth Schuette",
+      "Javier Mazzetti & Diana Mazzetti"
+    ]
+  },
+  {
+    "name": "Senior II Silver Am. Swing  (S)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior II Silver Am. Bolero  (B)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior II Silver Am. Mambo  (M)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Rhythm  (CRS)",
+    "couples": [
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Senior II Silver Rhythm  (CRSB)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior III Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Royce Kessler & Joyce Kiesel"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior III Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Javier Mazzetti & Diana Mazzetti",
+      "Royce Kessler & Joyce Kiesel"
+    ]
+  },
+  {
+    "name": "Adult Newcomer Am. Swing  (S)",
+    "couples": [
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior III Newcomer Am. Swing  (S)",
+    "couples": [
+      "Javier Mazzetti & Diana Mazzetti"
+    ]
+  },
+  {
+    "name": "Senior III Silver Scholarship Rhythm  (CRSB)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Adult Bronze Rhythm  (CRS)",
+    "couples": [
+      "Grant Latham & Olga Chalagina",
+      "Douglas Gaydusek & Sarah Bardo"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Senior III Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Am. Rumba  (R)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Senior III Silver Am. Rumba  (R)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Am. Swing  (S)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Senior III Silver Am. Swing  (S)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Am. Bolero  (B)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch"
+    ]
+  },
+  {
+    "name": "Adult Silver Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Senior III Silver Am. Bolero  (B)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior II Bronze Am. Mambo  (M)",
+    "couples": [
+      "John Hutyra & Julia Balashevitch"
+    ]
+  },
+  {
+    "name": "Senior III Silver Am. Mambo  (M)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  },
+  {
+    "name": "Senior III Bronze Rhythm  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Senior III Silver Rhythm  (CRSB)",
+    "couples": [
+      "Jay Malik & Liesa Malik"
+    ]
+  }
+]

@@ -1,0 +1,4444 @@
+[
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Peabody  (P)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Waltz  (W)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Gold Am. Waltz  (W)",
+    "couples": [
+      "Aaron Greer & Catherine Wilson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Open Gold Am. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Tango  (T)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Gold Am. Tango  (T)",
+    "couples": [
+      "Aaron Greer & Catherine Wilson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Open Gold Am. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Aaron Greer & Catherine Wilson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Open Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Aaron Greer & Catherine Wilson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Open Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Dennis Woods & Jane Elmore",
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Dennis Woods & Jane Elmore",
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Waltz  (W)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Gold Am. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Tango  (T)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Gold Am. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Open Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Peabody  (P)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Peabody  (P)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Greg Michelle & Rachel Champion"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Daniel Chaplin & Sara Syron"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Advanced Silver Am. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Greg Michelle & Rachel Champion"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Daniel Chaplin & Sara Syron"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Advanced Silver Am. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Greg Michelle & Rachel Champion"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Daniel Chaplin & Sara Syron"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Advanced Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Daniel Chaplin & Sara Syron"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Advanced Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Spenser Thompson & Cheyenne Henley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Spenser Thompson & Cheyenne Henley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Spenser Thompson & Cheyenne Henley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Advanced Silver Am. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Gold Am. Waltz  (W)",
+    "couples": [
+      "Aaron Greer & Catherine Wilson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Advanced Silver Am. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Gold Am. Tango  (T)",
+    "couples": [
+      "Aaron Greer & Catherine Wilson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Advanced Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Aaron Greer & Catherine Wilson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Advanced Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Aaron Greer & Catherine Wilson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Am. Peabody  (P)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Peabody  (P)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Gold Am. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Gold Am. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Am. Peabody  (P)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Am. Peabody  (P)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Am. Waltz  (W)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Gold Am. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Am. Tango  (T)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Gold Am. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Open Silver Am. Peabody  (P)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast",
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Am. Peabody  (P)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Silver Smooth  (WTF)",
+    "couples": [
+      "Chuck Garrett & Lee Oswalt",
+      "Jerry Donahue & Irina Donahue",
+      "Don Young & Tammy Young",
+      "David McNish & Rhonda McNish",
+      "John Hammett & Ginger Marsh",
+      "Michael Durkan & Maria Salazar",
+      "Larry Gogel & Yana Solilova",
+      "Ford Steele & Teresa Steele",
+      "Roy Brown & Andrea McCafferty"
+    ]
+  },
+  {
+    "name": "Amateur Senior V Silver Smooth  (WTF)",
+    "couples": [
+      "Alexander Jolly & Dr. Suzanne Robbins"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Silver Smooth  (WTF)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast",
+      "Ryan McDaniel & Toni Moore",
+      "Greg Michelle & Rachel Champion",
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Silver Smooth  (WTF)",
+    "couples": [
+      "David Tsai & Pamela Tsai",
+      "Greg Warner & Jill Smith",
+      "Jerry Donahue & Irina Donahue",
+      "C. Philip Carter & Elise Denneny",
+      "John Hammett & Ginger Marsh",
+      "Chuck Garrett & Lee Oswalt",
+      "Michael Durkan & Maria Salazar",
+      "David McNish & Rhonda McNish",
+      "Larry Gogel & Yana Solilova",
+      "Melvin Paterline & Victoria Paterline",
+      "Ford Steele & Teresa Steele"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Thomas Hirata & Kenna Jackson",
+      "Clifford Arnold & Lilian Paternostre",
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick",
+      "John DeFino & Penny DeFino",
+      "Henry Hudson & Olivia Hudson",
+      "Thomas Eade & Ginger Eade",
+      "Stephen Barba & Susan Ryan"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Smooth  (WF)",
+    "couples": [
+      "Chuck Garrett & Lee Oswalt",
+      "Tevfik Altan & Pamela Mittoo",
+      "David McNish & Rhonda McNish"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Bronze Smooth  (WF)",
+    "couples": [
+      "Dennis Woods & Tanya Gille",
+      "Brian Baker & Lynette Pope",
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Smooth  (WF)",
+    "couples": [
+      "Chuck Garrett & Lee Oswalt",
+      "C. Philip Carter & Elise Denneny",
+      "David Hooker & Sharon Dean",
+      "David McNish & Rhonda McNish",
+      "Fred Prior & Linda Larson",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Am. Tango  (T)",
+    "couples": [
+      "Chuck Garrett & Lee Oswalt",
+      "C. Philip Carter & Elise Denneny",
+      "David McNish & Rhonda McNish",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Gold Smooth  (WTFV)",
+    "couples": [
+      "David Tsai & Pamela Tsai",
+      "Greg Warner & Jill Smith",
+      "Jerry Donahue & Irina Donahue",
+      "Frank Burzik & Catherine Burzik",
+      "John Hammett & Ginger Marsh",
+      "Larry Gogel & Yana Solilova",
+      "Melvin Paterline & Victoria Paterline"
+    ]
+  },
+  {
+    "name": "Amateur Senior V Gold Smooth  (WTFV)",
+    "couples": [
+      "Alexander Jolly & Dr. Suzanne Robbins"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Smooth  (WF)",
+    "couples": [
+      "David Hooker & Sharon Dean",
+      "C. Philip Carter & Elise Denneny",
+      "Fred Prior & Linda Larson",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Bronze Smooth  (WF)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Brian Baker & Lynette Pope",
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Am. Tango  (T)",
+    "couples": [
+      "Chuck Garrett & Lee Oswalt",
+      "David McNish & Rhonda McNish"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Am. Tango  (T)",
+    "couples": [
+      "C. Philip Carter & Elise Denneny",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Gold Smooth  (WTFV)",
+    "couples": [
+      "Greg Warner & Jill Smith",
+      "Frank Burzik & Catherine Burzik",
+      "Melvin Paterline & Victoria Paterline",
+      "Alexander Jolly & Dr. Suzanne Robbins"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Novice Smooth  (WTF)",
+    "couples": [
+      "Clifford Arnold & Lilian Paternostre",
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Eade & Ginger Eade"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Silver Smooth  (WTF)",
+    "couples": [
+      "C. Philip Carter & Elise Denneny",
+      "Frank Burzik & Catherine Burzik",
+      "Melvin Paterline & Victoria Paterline",
+      "Alexander Jolly & Dr. Suzanne Robbins"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Novice Smooth  (WTF)",
+    "couples": [
+      "Clifford Arnold & Lilian Paternostre",
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Eade & Ginger Eade"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Thomas Hirata & Kenna Jackson",
+      "Patrick Datoc & Antoinette Datoc",
+      "Clifford Arnold & Lilian Paternostre",
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Eade & Ginger Eade",
+      "Henry Hudson & Olivia Hudson"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Gold Smooth  (WTFV)",
+    "couples": [
+      "Jerry Donahue & Irina Donahue",
+      "John Hammett & Ginger Marsh",
+      "Larry Gogel & Yana Solilova"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "John DeFino & Penny DeFino",
+      "Stephen Barba & Susan Ryan"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Gold Smooth  (WTFV)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore",
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Silver Country Two-Step  (2)",
+    "couples": [
+      "Greg Michelle & Rachel Champion"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Merengue  (M)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Salsa  (S)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze West Coast Swing  (W)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Argentine Tango  (A)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Hustle  (H)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Hustle  (H)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Merengue  (M)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Salsa  (S)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze West Coast Swing  (W)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Night Club 2-Step  (N)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner",
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Argentine Tango  (A)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Hustle  (H)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Merengue  (M)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Salsa  (S)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver West Coast Swing  (W)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Night Club 2-Step  (N)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Argentine Tango  (A)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Hustle  (H)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Merengue  (M)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Salsa  (S)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze West Coast Swing  (W)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Night Club 2-Step  (N)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Argentine Tango  (A)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Hustle  (H)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Merengue  (M)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Salsa  (S)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver West Coast Swing  (W)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Silver West Coast Swing  (W)",
+    "couples": [
+      "Greg Michelle & Rachel Champion"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Bronze Night Club 2-Step  (N)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Night Club 2-Step  (N)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Argentine Tango  (A)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Night Club 2-Step  (N)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Silver Night Club 2-Step  (N)",
+    "couples": [
+      "Greg Michelle & Rachel Champion"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Hustle  (H)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Merengue  (M)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Salsa  (S)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Salsa  (S)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Newcomer West Coast Swing  (W)",
+    "couples": [
+      "Spenser Thompson & Cheyenne Henley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze West Coast Swing  (W)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Argentine Tango  (A)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Hustle  (H)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Merengue  (M)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Salsa  (S)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Salsa  (S)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Argentine Tango  (A)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze West Coast Swing  (W)",
+    "couples": [
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver West Coast Swing  (W)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Hustle  (H)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Merengue  (M)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Salsa  (S)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze West Coast Swing  (W)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Argentine Tango  (A)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Advanced Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Dennis Woods & Annaleigh Holloway"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Greg Michelle & Rachel Champion"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Advanced Bronze Am. Rumba  (R)",
+    "couples": [
+      "Dennis Woods & Annaleigh Holloway"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Greg Michelle & Rachel Champion"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Advanced Bronze Am. Swing  (S)",
+    "couples": [
+      "Dennis Woods & Annaleigh Holloway"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D2 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Greg Michelle & Rachel Champion"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Rumba  (R)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Swing  (S)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Bolero  (B)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Bolero  (B)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Newcomer Am. Mambo  (M)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Bronze Am. Mambo  (M)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Silver Am. Mambo  (M)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Am. Mambo  (M)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Rumba  (R)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Swing  (S)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Bolero  (B)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Open Bronze Am. Bolero  (B)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Bolero  (B)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Am. Bolero  (B)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Mambo  (M)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Bronze Am. Mambo  (M)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Silver Am. Mambo  (M)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Am. Bolero  (B)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Silver Am. Bolero  (B)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Pre-Bronze Am. Mambo  (M)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D1 Full Bronze Am. Bolero  (B)",
+    "couples": [
+      "Dennis Woods & Tanya Gille"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Am. Mambo  (M)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Dennis Woods & Jane Elmore",
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Mambo  (M)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Bronze Am. Mambo  (M)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Dennis Woods & Jane Elmore",
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Dennis Woods & Jane Elmore",
+      "Phillip Farley & Shelley Hurst"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Am. Bolero  (B)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Am. Bolero  (B)",
+    "couples": [
+      "Brian Baker & Lynette Pope"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Int. Bronze Am. Mambo  (M)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Am. Mambo  (M)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Daniel Chaplin & Sara Syron"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Daniel Chaplin & Sara Syron"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Bolero  (B)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "Daniel Chaplin & Sara Syron"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Am. Mambo  (M)",
+    "couples": [
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Daniel Chaplin & Sara Syron"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Spenser Thompson & Cheyenne Henley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Daniel Chaplin & Sara Syron"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Spenser Thompson & Cheyenne Henley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Spenser Thompson & Cheyenne Henley"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Bolero  (B)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Mambo  (M)",
+    "couples": [
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Full Bronze Am. Mambo  (M)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Rhythm  (CR)",
+    "couples": [
+      "Tevfik Altan & Pamela Mittoo",
+      "Chuck Garrett & Lee Oswalt",
+      "David McNish & Rhonda McNish"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Rhythm  (CR)",
+    "couples": [
+      "David Hooker & Sharon Dean",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Bronze Rhythm  (CR)",
+    "couples": [
+      "Dennis Woods & Tanya Gille",
+      "Brian Baker & Lynette Pope",
+      "Taylor Moore & Carolyn Brauner"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Am. Swing  (S)",
+    "couples": [
+      "Chuck Garrett & Lee Oswalt",
+      "David McNish & Rhonda McNish"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Am. Swing  (S)",
+    "couples": [
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Gold Rhythm  (CRSB)",
+    "couples": [
+      "John Hammett & Ginger Marsh",
+      "Jim Scalise & Kimberly Scalise"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Gold Rhythm  (CRSB)",
+    "couples": [
+      "John DeFino & Penny DeFino",
+      "Greg Warner & Jill Smith",
+      "C. Philip Carter & Ann Carter",
+      "Alexander Jolly & Dr. Suzanne Robbins"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Rhythm  (CR)",
+    "couples": [
+      "Chuck Garrett & Lee Oswalt",
+      "David Hooker & Sharon Dean",
+      "David McNish & Rhonda McNish",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Bronze Rhythm  (CR)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Brian Baker & Lynette Pope",
+      "Phillip Farley & Shelley Hurst",
+      "Dennis Woods & Jane Elmore"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Am. Swing  (S)",
+    "couples": [
+      "Chuck Garrett & Lee Oswalt",
+      "David McNish & Rhonda McNish",
+      "Edward Nockunas & Beth Schuette"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Gold Rhythm  (CRSB)",
+    "couples": [
+      "John Hammett & Ginger Marsh",
+      "John DeFino & Penny DeFino",
+      "Jim Scalise & Kimberly Scalise",
+      "Greg Warner & Jill Smith",
+      "C. Philip Carter & Ann Carter"
+    ]
+  },
+  {
+    "name": "Amateur Senior V Gold Rhythm  (CRSB)",
+    "couples": [
+      "Alexander Jolly & Dr. Suzanne Robbins"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Gold Rhythm  (CRSB)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Novice Rhythm  (CRS)",
+    "couples": [
+      "John Hammett & Ginger Marsh",
+      "Thomas Eade & Ginger Eade",
+      "John DeFino & Penny DeFino"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Silver Rhythm  (CRS)",
+    "couples": [
+      "Greg Warner & Jill Smith",
+      "C. Philip Carter & Elise Denneny",
+      "Alexander Jolly & Dr. Suzanne Robbins"
+    ]
+  },
+  {
+    "name": "Amateur Senior V Silver Rhythm  (CRS)",
+    "couples": [
+      "Alexander Jolly & Dr. Suzanne Robbins"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Silver Rhythm  (CRS)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast",
+      "Greg Michelle & Rachel Champion",
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Novice Rhythm  (CRS)",
+    "couples": [
+      "John Hammett & Ginger Marsh",
+      "Thomas Eade & Ginger Eade"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Novice Rhythm  (CRS)",
+    "couples": [
+      "John DeFino & Penny DeFino"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Silver Rhythm  (CRS)",
+    "couples": [
+      "C. Philip Carter & Elise Denneny",
+      "Greg Warner & Jill Smith",
+      "Jim Scalise & Kimberly Scalise",
+      "Chuck Garrett & Lee Oswalt",
+      "David McNish & Rhonda McNish",
+      "Ford Steele & Teresa Steele"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Pre-Champ Rhythm  (CRSB)",
+    "couples": [
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Hirata & Kenna Jackson",
+      "Thomas Eade & Ginger Eade"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Pre-Champ Rhythm  (CRSB)",
+    "couples": [
+      "Edward Hanlon & Louise Hanlon"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Silver Rhythm  (CRS)",
+    "couples": [
+      "Tevfik Altan & Pamela Mittoo",
+      "Jim Scalise & Kimberly Scalise",
+      "Don Young & Tammy Young",
+      "Chuck Garrett & Lee Oswalt",
+      "David McNish & Rhonda McNish",
+      "Ford Steele & Teresa Steele"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Rhythm  (CRSB)",
+    "couples": [
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Hirata & Kenna Jackson",
+      "Thomas Eade & Ginger Eade",
+      "Edward Hanlon & Louise Hanlon"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Standard  (WTVFQ)",
+    "couples": [
+      "Juan Vasquez & Janice Vasquez",
+      "Ming Wang & Chenhua Yang",
+      "Johnny Tang & Jun Tang",
+      "Carmine Rucco & Maria Bolyard",
+      "Richard Richards & Rita Snyder",
+      "John DeFino & Penny DeFino",
+      "Bob Pratico & Deborah Pratico"
+    ]
+  },
+  {
+    "name": "Amateur Youth Championship Standard  (WTVFQ)",
+    "couples": [
+      "Maxim Moscaliov & Sutton Severance",
+      "Michael May & Pallany English",
+      "Aliaksandr Rybakov & Madeleine Mravkarov",
+      "Alessandro Scalora & Sofia Ward"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Intl. V. Waltz  (V)",
+    "couples": [
+      "Richard Richards & Rita Snyder",
+      "Arkady Dudko & Lena Dudko",
+      "Tin Pham-Tran & Eunice Caducoy",
+      "Clifford Arnold & Lilian Paternostre",
+      "Kyle Swisher & Paige Williams",
+      "Larry Gogel & Yana Solilova",
+      "Fred Prior & Linda Larson",
+      "Zachary Hopper & Gemi Moore"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Championship Standard  (WTVFQ)",
+    "couples": [
+      "Michael May & Pallany English",
+      "Alessandro Scalora & Sofia Ward",
+      "Aliaksandr Rybakov & Madeleine Mravkarov"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Rising Star Standard  (WTVFQ)",
+    "couples": [
+      "Michael May & Pallany English",
+      "Maxim Moscaliov & Sutton Severance",
+      "Alessandro Scalora & Sofia Ward"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Championship Standard  (WTVFQ)",
+    "couples": [
+      "Eugene Lobko & Alla Zemlyak",
+      "Alan Burns & Kelly Batchelor"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Championship Rhythm  (CRSBM)",
+    "couples": [
+      "Creighton Duncan & Victoria Self",
+      "Braden Magness & Abby Leonard"
+    ]
+  },
+  {
+    "name": "Amateur Open Master Of Syllabus Standard  (WTFQ)",
+    "couples": [
+      "Matthew Boguslawski & Connie Liu",
+      "Arkady Dudko & Lena Dudko",
+      "Tin Pham-Tran & Paige Williams",
+      "Mark Lichtenberger & Cynthia Romine",
+      "Kyle Swisher & Eunice Caducoy",
+      "Melvin Paterline & Victoria Paterline"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Am. Bolero  (B)",
+    "couples": [
+      "Stephen Takata & Joanna Mielnick",
+      "Creighton Duncan & Victoria Self",
+      "John Hammett & Ginger Marsh",
+      "Chuck Garrett & Lee Oswalt",
+      "Edward Hanlon & Louise Hanlon",
+      "Braden Magness & Leighann Gully",
+      "Zachary Hopper & Gemi Moore",
+      "Sean Molitor & Shaughnessy Martin"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Salsa  (S)",
+    "couples": [
+      "Stephen Takata & Joanna Mielnick",
+      "Creighton Duncan & Victoria Self",
+      "Wesley Littleton & BreAnna Hebert",
+      "Andrew Castro & Brooklyn Billings",
+      "Braden Magness & Leighann Gully",
+      "Zachary Hopper & Gemi Moore",
+      "Sean Molitor & Addison Nichols"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Rising Star Rhythm  (CRSBM)",
+    "couples": [
+      "Creighton Duncan & Victoria Self",
+      "Andrew Castro & Mia Moreno",
+      "Wesley Littleton & Mattilyn Maples",
+      "Braden Magness & Abby Leonard"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Intl. Paso Doble  (P)",
+    "couples": [
+      "Tin Pham-Tran & Eunice Caducoy",
+      "Richard Richards & Rita Snyder",
+      "Thomas Hamrick & Rebecca Hamrick"
+    ]
+  },
+  {
+    "name": "Amateur Youth Championship Rhythm  (CRSBM)",
+    "couples": [
+      "Braden Magness & Abby Leonard"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Championship Rhythm  (CRSBM)",
+    "couples": [
+      "Terry Whittington & Melanie Whittington"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Rhythm  (CRSBM)",
+    "couples": [
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Hirata & Kenna Jackson",
+      "Edward Hanlon & Louise Hanlon"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Rising Star Latin  (SCRPJ)",
+    "couples": [
+      "Michael May & Pallany English",
+      "Maxim Moscaliov & Sutton Severance",
+      "Alessandro Scalora & Sofia Ward"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Open Scholarship Latin  (SCRPJ)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Hustle  (H)",
+    "couples": [
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Hirata & Kenna Jackson",
+      "Zachary Hopper & Gemi Moore",
+      "John Hammett & Ginger Marsh",
+      "Stephen Barba & Susan Ryan",
+      "Chuck Garrett & Lee Oswalt"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open West Coast Swing  (W)",
+    "couples": [
+      "Zachary Hopper & Gemi Moore",
+      "Stephen Takata & Joanna Mielnick",
+      "Jesse Wright & Allex Briggs",
+      "Chuck Garrett & Lee Oswalt"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Am. Mambo  (M)",
+    "couples": [
+      "Stephen Takata & Joanna Mielnick",
+      "Edward Hanlon & Louise Hanlon"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Latin  (SCRPJ)",
+    "couples": [
+      "Alessandro Scalora & Sofia Ward",
+      "Tin Pham-Tran & Eunice Caducoy"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Latin  (SCRPJ)",
+    "couples": [
+      "Carmine Rucco & Maria Bolyard",
+      "Richard Richards & Rita Snyder"
+    ]
+  },
+  {
+    "name": "WDSF Senior I Open Smooth  (WTFV)",
+    "couples": [
+      "Juan Vasquez & Janice Vasquez",
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick",
+      "Clifford Arnold & Lilian Paternostre",
+      "Terry Whittington & Melanie Whittington",
+      "Jerry Donahue & Irina Donahue"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Open Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast",
+      "Ryan McDaniel & Toni Moore",
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Championship Smooth  (WTFV)",
+    "couples": [
+      "Bill Manning & Frances Manning",
+      "John DeFino & Penny DeFino",
+      "Stephen Barba & Susan Ryan"
+    ]
+  },
+  {
+    "name": "Amateur Fun Dances Open Open Am. V. Waltz  (V)",
+    "couples": [
+      "Tin Pham-Tran & Paige Williams",
+      "Stephen Takata & Joanna Mielnick",
+      "Creighton Duncan & Victoria Self",
+      "Clifford Arnold & Lilian Paternostre",
+      "Jerry Donahue & Irina Donahue",
+      "Larry Gogel & Yana Solilova"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Open Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Taylor Moore & Pam Effinger",
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Smooth  (WTFV)",
+    "couples": [
+      "Juan Vasquez & Janice Vasquez",
+      "Thomas Hirata & Kenna Jackson",
+      "Patrick Datoc & Antoinette Datoc"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Rising Star Smooth  (WTFV)",
+    "couples": [
+      "Creighton Duncan & Victoria Self",
+      "Wesley Littleton & Mattilyn Maples",
+      "Andrew Castro & Mia Moreno",
+      "Braden Magness & Abby Leonard"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Smooth  (WTFV)",
+    "couples": [
+      "Terry Whittington & Melanie Whittington",
+      "Tin Pham-Tran & Paige Williams"
+    ]
+  },
+  {
+    "name": "WDSF Senior II Open Smooth  (WTFV)",
+    "couples": [
+      "Juan Vasquez & Janice Vasquez",
+      "Bill Manning & Frances Manning",
+      "Stephen Takata & Joanna Mielnick",
+      "Patrick Datoc & Antoinette Datoc",
+      "Clifford Arnold & Lilian Paternostre",
+      "Jerry Donahue & Irina Donahue"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Silver Rhythm  (CRS)",
+    "couples": [
+      "Ben Boudreaux & BreAnna Hebert",
+      "Sean Molitor & Shaughnessy Martin",
+      "Jace Littleton & Eden Manuel",
+      "David Olivarez & Anna Flood"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice Rhythm  (CRS)",
+    "couples": [
+      "Andrew Castro & Mia Moreno"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Rhythm  (CR)",
+    "couples": [
+      "Sean Molitor & Addison Nichols",
+      "Noah Ramirez & Eden Manuel",
+      "David Olivarez & Anna Flood"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Rhythm  (CRSB)",
+    "couples": [
+      "Ben Boudreaux & BreAnna Hebert"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Rhythm  (CRSB)",
+    "couples": [
+      "Andrew Castro & Mia Moreno"
+    ]
+  },
+  {
+    "name": "Amateur Youth Silver Rhythm  (CRS)",
+    "couples": [
+      "Ben Boudreaux & Leighann Gully",
+      "Sean Molitor & Addison Nichols",
+      "Noah Ramirez & Eden Manuel",
+      "David Olivarez & Brooklyn Billings"
+    ]
+  },
+  {
+    "name": "Amateur Youth Novice Rhythm  (CRS)",
+    "couples": [
+      "Andrew Castro & Mia Moreno",
+      "Wesley Littleton & Mattilyn Maples"
+    ]
+  },
+  {
+    "name": "Amateur Youth Bronze Rhythm  (CR)",
+    "couples": [
+      "Zachary Hopper & Gemi Moore",
+      "Sean Molitor & Shaughnessy Martin",
+      "David Olivarez & Brooklyn Billings",
+      "Jace Littleton & Eden Manuel"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Rhythm  (CRSB)",
+    "couples": [
+      "Ben Boudreaux & Leighann Gully"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Rhythm  (CRSB)",
+    "couples": [
+      "Andrew Castro & Mia Moreno",
+      "Braden Magness & Abby Leonard",
+      "Wesley Littleton & Mattilyn Maples"
+    ]
+  },
+  {
+    "name": "Amateur Youth Bronze Smooth  (WF)",
+    "couples": [
+      "Zachary Hopper & Gemi Moore",
+      "David Olivarez & Brooklyn Billings",
+      "Sean Molitor & Shaughnessy Martin",
+      "Jace Littleton & Eden Manuel"
+    ]
+  },
+  {
+    "name": "Amateur Youth Bronze Am. Tango  (T)",
+    "couples": [
+      "Zachary Hopper & Gemi Moore",
+      "Sean Molitor & Shaughnessy Martin",
+      "David Olivarez & Brooklyn Billings",
+      "Noah Ramirez & Eden Manuel"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Ben Alley & Theresa Kiernan"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Ben Alley & Theresa Kiernan"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Silver Smooth  (WTF)",
+    "couples": [
+      "Ben Boudreaux & BreAnna Hebert",
+      "Sean Molitor & Shaughnessy Martin",
+      "David Olivarez & Anna Flood",
+      "Jace Littleton & Eden Manuel"
+    ]
+  },
+  {
+    "name": "Amateur Youth Novice Smooth  (WTF)",
+    "couples": [
+      "Andrew Castro & Mia Moreno",
+      "Wesley Littleton & Mattilyn Maples"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Smooth  (WF)",
+    "couples": [
+      "Ben Alley & Theresa Kiernan",
+      "Daniel Harms & Pamela May",
+      "Gui Zhang & Arina Nikitina",
+      "Zachary Hopper & Gemi Moore",
+      "Eamonn Morris & Megan Kundel",
+      "Jesse Wright & Allex Briggs"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Smooth  (WF)",
+    "couples": [
+      "Tevfik Altan & Pamela Mittoo"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Am. Tango  (T)",
+    "couples": [
+      "Daniel Harms & Pamela May",
+      "Ben Alley & Theresa Kiernan",
+      "Gui Zhang & Arina Nikitina",
+      "Zachary Hopper & Gemi Moore",
+      "Eamonn Morris & Megan Kundel"
+    ]
+  },
+  {
+    "name": "Amateur Youth Silver Smooth  (WTF)",
+    "couples": [
+      "Zachary Hopper & Gemi Moore",
+      "Ben Boudreaux & Leighann Gully",
+      "David Olivarez & Brooklyn Billings",
+      "Sean Molitor & Addison Nichols",
+      "Noah Ramirez & Eden Manuel"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice Smooth  (WTF)",
+    "couples": [
+      "Andrew Castro & Mia Moreno"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Smooth  (WTF)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Terry Whittington & Melanie Whittington"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Smooth  (WF)",
+    "couples": [
+      "Sean Molitor & Addison Nichols",
+      "Noah Ramirez & Eden Manuel",
+      "David Olivarez & Anna Flood"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Smooth  (WTFV)",
+    "couples": [
+      "Ben Boudreaux & BreAnna Hebert"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Andrew Castro & Mia Moreno"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Smooth  (WTF)",
+    "couples": [
+      "Gui Zhang & Arina Nikitina",
+      "Zachary Hopper & Gemi Moore"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Smooth  (WTF)",
+    "couples": [
+      "Don Young & Tammy Young",
+      "Roy Brown & Andrea McCafferty"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Smooth  (WTFV)",
+    "couples": [
+      "Ben Boudreaux & Leighann Gully"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Wesley Littleton & Mattilyn Maples",
+      "Braden Magness & Abby Leonard",
+      "Andrew Castro & Mia Moreno"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Terry Whittington & Melanie Whittington",
+      "Tin Pham-Tran & Paige Williams"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Silver Intl. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C2 Open Gold Intl. Waltz  (W)",
+    "couples": [
+      "Bob Pratico & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Silver Intl. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C2 Open Gold Intl. Tango  (T)",
+    "couples": [
+      "Bob Pratico & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C2 Open Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Bob Pratico & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C2 Open Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Bob Pratico & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C2 Open Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Bob Pratico & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Silver Intl. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Silver Intl. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Pre-Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C3 Open Gold Intl. Waltz  (W)",
+    "couples": [
+      "Bob Pratico & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C3 Open Gold Intl. Tango  (T)",
+    "couples": [
+      "Bob Pratico & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C3 Open Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Bob Pratico & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C3 Open Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Bob Pratico & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C3 Open Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Bob Pratico & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Silver Intl. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Silver Intl. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Silver Intl. Tango  (T)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Silver Intl. Tango  (T)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Open Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B3 Int. Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Aaron Greer & Sharon Lee"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Bronze Standard  (WQ)",
+    "couples": [
+      "Austin Clemens & Katerina Penatzer",
+      "Dmitry Masibut & Sophie Zaychik",
+      "Daniel Badalbayev & Ella Fingerman",
+      "Aaron Delovsky & Ilona Gavryliv",
+      "Dobilas Naujokas & Natasha Venuti",
+      "Brian Liu & Krista Coyne",
+      "Sebastian Gluzman & Sasha Popham",
+      "Jordan Palmer & Finley Severance",
+      "Connor Palmer & Veronika Rozenberg"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Standard  (WQ)",
+    "couples": [
+      "David McNish & Rhonda McNish",
+      "Chuck Garrett & Lee Oswalt",
+      "Clayton Bodnarek & Sandra Bodnarek",
+      "Don Young & Tammy Young",
+      "Roy Brown & Andrea McCafferty",
+      "Michael Durkan & Maria Salazar"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Bronze Standard  (WQ)",
+    "couples": [
+      "Austin Clemens & Katerina Penatzer",
+      "Nikita Rybakov & Gabriella Mravkarov",
+      "Dmitry Masibut & Sophie Zaychik",
+      "Natan Polunin & Lily Gorokhov",
+      "Sebastian Gluzman & Sasha Popham",
+      "Alexander Zhmaylo & Paulina Ward",
+      "Jordan Palmer & Finley Severance",
+      "Gabriel Davidov & Sarah Solomon",
+      "Connor Palmer & Veronika Rozenberg"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Standard  (WQ)",
+    "couples": [
+      "Greg Warner & Jill Smith",
+      "David Tsai & Pamela Tsai",
+      "Chuck Garrett & Lee Oswalt",
+      "David McNish & Rhonda McNish",
+      "Steve Hamilton & Pamela Hamilton",
+      "Clayton Bodnarek & Sandra Bodnarek",
+      "Jerry Donahue & Irina Donahue",
+      "C. Philip Carter & Ann Carter",
+      "Michael Durkan & Maria Salazar",
+      "David Hooker & Sharon Dean"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Standard  (WFQ)",
+    "couples": [
+      "Nicholas Gibby & Riley Kliethermes",
+      "Marek Nosal & Dilyana Pavlova",
+      "Hal Reid & Michelle Story",
+      "Harrison Berggren & Suzie Chhouk",
+      "Gui Zhang & Arina Nikitina",
+      "Sun Qi & Christina Soisson",
+      "Kyle Swisher & Paige Williams",
+      "Ian Mower & Meghan Rivera",
+      "Juan Carlos Mier & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Standard  (TF)",
+    "couples": [
+      "Nicholas Gibby & Riley Kliethermes",
+      "Gui Zhang & Arina Nikitina",
+      "Daniel Harms & Pamela May",
+      "Sun Qi & Christina Soisson",
+      "Trevor Macks & Rachel Kleman",
+      "Ian Mower & Meghan Rivera",
+      "Juan Carlos Mier & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Standard  (TF)",
+    "couples": [
+      "Roy Brown & Andrea McCafferty",
+      "Don Young & Tammy Young"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Standard  (TF)",
+    "couples": [
+      "C. Philip Carter & Ann Carter"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Bronze Standard  (WQ)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Bronze Standard  (WQ)",
+    "couples": [
+      "Daniel Badalbayev & Ella Fingerman",
+      "Aaron Delovsky & Ilona Gavryliv",
+      "Dobilas Naujokas & Natasha Venuti",
+      "Brian Liu & Krista Coyne"
+    ]
+  },
+  {
+    "name": "Amateur Youth Bronze Standard  (WQ)",
+    "couples": [
+      "Albert Shmukler & Shina Resenson",
+      "Zachary Hopper & Gemi Moore"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Standard  (TF)",
+    "couples": [
+      "Chuck Garrett & Lee Oswalt",
+      "Roy Brown & Andrea McCafferty",
+      "Clayton Bodnarek & Sandra Bodnarek",
+      "Michael Durkan & Maria Salazar",
+      "Don Young & Tammy Young"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Tango  (T)",
+    "couples": [
+      "Marek Nosal & Dilyana Pavlova",
+      "Hal Reid & Michelle Story",
+      "Harrison Berggren & Suzie Chhouk",
+      "Sun Qi & Christina Soisson",
+      "Kyle Swisher & Paige Williams",
+      "Ian Mower & Meghan Rivera",
+      "Juan Carlos Mier & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Standard  (TF)",
+    "couples": [
+      "David Tsai & Pamela Tsai",
+      "Clayton Bodnarek & Sandra Bodnarek",
+      "Chuck Garrett & Lee Oswalt",
+      "Michael Durkan & Maria Salazar",
+      "C. Philip Carter & Ann Carter"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Bronze Standard  (WQ)",
+    "couples": [
+      "Jackson Graber & Briella Rabinovich"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Standard  (WQ)",
+    "couples": [
+      "Nikita Rybakov & Gabriella Mravkarov",
+      "Albert Shmukler & Shina Resenson",
+      "Alexander Zhmaylo & Paulina Ward",
+      "Gabriel Davidov & Sarah Solomon"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Standard  (WQ)",
+    "couples": [
+      "Don Young & Tammy Young",
+      "Roy Brown & Andrea McCafferty"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Standard  (WQ)",
+    "couples": [
+      "Steve Hamilton & Pamela Hamilton",
+      "Greg Warner & Jill Smith",
+      "C. Philip Carter & Ann Carter",
+      "David Hooker & Sharon Dean"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Standard  (WFQ)",
+    "couples": [
+      "Marek Nosal & Dilyana Pavlova"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Novice Standard  (WFQ)",
+    "couples": [
+      "Arkady Dudko & Lena Dudko",
+      "William Buysse & Nicola Booker",
+      "Clifford Arnold & Lilian Paternostre",
+      "Mark Lichtenberger & Cynthia Romine",
+      "Melvin Paterline & Victoria Paterline"
+    ]
+  },
+  {
+    "name": "Amateur Junior Silver Intl. Tango  (T)",
+    "couples": [
+      "Alexander Zhmaylo & Paulina Ward"
+    ]
+  },
+  {
+    "name": "Amateur Youth Silver Intl. Tango  (T)",
+    "couples": [
+      "Elijah Woodman & Amry Rivera"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Silver Standard  (WFQ)",
+    "couples": [
+      "Chuck Garrett & Lee Oswalt",
+      "Larry Gogel & Yana Solilova"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Novice Standard  (WFQ)",
+    "couples": [
+      "Alex Korygin & Galina Korygina",
+      "Kyle Ross & Tina Ross"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Silver Standard  (WFQ)",
+    "couples": [
+      "Daniel Badalbayev & Ella Fingerman",
+      "Aaron Delovsky & Ilona Gavryliv"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Novice Standard  (WFQ)",
+    "couples": [
+      "Ilyah Badalbayev & Ariana Rabinovich",
+      "Christopher Lesesne & Anastasia Krivosheev"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice Standard  (WFQ)",
+    "couples": [
+      "Anthony Novokshanov & Anna Grigorian"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Standard  (WTFQ)",
+    "couples": [
+      "Marek Nosal & Dilyana Pavlova",
+      "Hal Reid & Michelle Story",
+      "Kyle Swisher & Paige Williams"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Gold Standard  (WTFQ)",
+    "couples": [
+      "Jon Hochberg & Ginger Pizer",
+      "Mark Lichtenberger & Cynthia Romine",
+      "Larry Gogel & Yana Solilova"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Silver Standard  (WFQ)",
+    "couples": [
+      "Austin Clemens & Katerina Penatzer",
+      "Dmitry Masibut & Sophie Zaychik",
+      "Alexander Derenstein & Elise Bensman",
+      "Benjamin Tseng & Scarlett Graber",
+      "Natan Polunin & Lily Gorokhov"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Silver Standard  (WFQ)",
+    "couples": [
+      "Elijah Woodman & Amry Rivera",
+      "Nikita Rybakov & Gabriella Mravkarov"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Gold Standard  (WTFQ)",
+    "couples": [
+      "Marek Nosal & Dilyana Pavlova",
+      "Jon Hochberg & Ginger Pizer"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Kyle Ross & Tina Ross"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Gold Standard  (WTFQ)",
+    "couples": [
+      "Mark Lichtenberger & Cynthia Romine",
+      "Frank Burzik & Catherine Burzik",
+      "Melvin Paterline & Victoria Paterline",
+      "Stephen Barba & Susan Ryan",
+      "Kerry Lovell & Diana Lovell",
+      "Fred Prior & Linda Larson",
+      "Larry Gogel & Yana Solilova",
+      "David Bilotta & Terry Bilotta"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Standard  (WFQ)",
+    "couples": [
+      "Nikita Rybakov & Gabriella Mravkarov",
+      "Austin Clemens & Katerina Penatzer",
+      "Alexander Derenstein & Elise Bensman",
+      "Dmitry Masibut & Sophie Zaychik",
+      "Benjamin Tseng & Scarlett Graber"
+    ]
+  },
+  {
+    "name": "Amateur Youth Silver Standard  (WFQ)",
+    "couples": [
+      "Elijah Woodman & Amry Rivera"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Gold Standard  (WTFQ)",
+    "couples": [
+      "Fred Prior & Linda Larson",
+      "Melvin Paterline & Victoria Paterline",
+      "Stephen Barba & Susan Ryan",
+      "Frank Burzik & Catherine Burzik",
+      "David Bilotta & Terry Bilotta",
+      "Kerry Lovell & Diana Lovell"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Standard  (WTFQ)",
+    "couples": [
+      "Ilyah Badalbayev & Ariana Rabinovich",
+      "Alexander Derenstein & Elise Bensman",
+      "Christopher Lesesne & Anastasia Krivosheev"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Standard  (WTFQ)",
+    "couples": [
+      "Elijah Woodman & Amry Rivera"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Evan Greenberg & Victoria Simanovich",
+      "Anthony Novokshanov & Anna Grigorian"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Silver Standard  (WFQ)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore",
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Standard  (WFQ)",
+    "couples": [
+      "Alexandru Ardelean & Claire Sheppard",
+      "Matthew Boguslawski & Connie Liu",
+      "Brian Wolf & Vivian Delchamps"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Standard  (WTFQ)",
+    "couples": [
+      "Ilyah Badalbayev & Ariana Rabinovich"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Standard  (WTFQ)",
+    "couples": [
+      "Elijah Woodman & Amry Rivera"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Evan Greenberg & Victoria Simanovich",
+      "Maxim Moscaliov & Sutton Severance",
+      "Aliaksandr Rybakov & Madeleine Mravkarov",
+      "Alessandro Scalora & Sofia Ward"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Novice Standard  (WFQ)",
+    "couples": [
+      "Alex Korygin & Galina Korygina",
+      "Arkady Dudko & Lena Dudko",
+      "William Buysse & Nicola Booker",
+      "Clifford Arnold & Lilian Paternostre",
+      "Kyle Ross & Tina Ross",
+      "Mark Lichtenberger & Cynthia Romine"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Gold Standard  (WTFQ)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Bill Manning & Frances Manning",
+      "John Rannella & Helena Brody",
+      "John DeFino & Penny DeFino",
+      "Bob Pratico & Deborah Pratico"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Ming Wang & Chenhua Yang",
+      "Johnny Tang & Jun Tang",
+      "Arkady Dudko & Lena Dudko",
+      "Richard Richards & Rita Snyder",
+      "William Buysse & Nicola Booker",
+      "Clifford Arnold & Lilian Paternostre",
+      "Kyle Ross & Tina Ross"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Silver Standard  (WFQ)",
+    "couples": [
+      "David Tsai & Pamela Tsai",
+      "Greg Warner & Jill Smith",
+      "Chuck Garrett & Lee Oswalt",
+      "Fred Prior & Linda Larson",
+      "Melvin Paterline & Victoria Paterline",
+      "Steve Hamilton & Pamela Hamilton",
+      "Stephen Barba & Susan Ryan",
+      "Kerry Lovell & Diana Lovell",
+      "Larry Gogel & Yana Solilova",
+      "David Bilotta & Terry Bilotta",
+      "C. Philip Carter & Ann Carter"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Standard  (WQ)",
+    "couples": [
+      "Nicholas Gibby & Riley Kliethermes",
+      "Gui Zhang & Arina Nikitina",
+      "Sun Qi & Christina Soisson",
+      "Daniel Harms & Pamela May",
+      "Trevor Macks & Rachel Kleman",
+      "Daniel Molsbarger & Brittany Szafran",
+      "Juan Carlos Mier & Kate Koontz",
+      "Ian Mower & Meghan Rivera"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Silver Standard  (WFQ)",
+    "couples": [
+      "Greg Warner & Jill Smith",
+      "Frank Burzik & Catherine Burzik",
+      "Melvin Paterline & Victoria Paterline",
+      "Kerry Lovell & Diana Lovell",
+      "Steve Hamilton & Pamela Hamilton",
+      "Stephen Barba & Susan Ryan",
+      "Fred Prior & Linda Larson",
+      "C. Philip Carter & Ann Carter",
+      "David Bilotta & Terry Bilotta"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Arkady Dudko & Lena Dudko",
+      "Ming Wang & Chenhua Yang",
+      "Bill Manning & Frances Manning",
+      "William Buysse & Nicola Booker",
+      "Johnny Tang & Jun Tang",
+      "Richard Richards & Rita Snyder",
+      "Clifford Arnold & Lilian Paternostre",
+      "John Rannella & Helena Brody",
+      "John DeFino & Penny DeFino",
+      "Bob Pratico & Deborah Pratico"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Alexandru Ardelean & Claire Sheppard",
+      "Aliaksandr Rybakov & Madeleine Mravkarov",
+      "Matthew Boguslawski & Connie Liu",
+      "Brian Wolf & Vivian Delchamps",
+      "Tin Pham-Tran & Eunice Caducoy"
+    ]
+  },
+  {
+    "name": "Amateur Youth Championship Smooth  (WTFV)",
+    "couples": [
+      "Braden Magness & Abby Leonard"
+    ]
+  },
+  {
+    "name": "Amateur Open Master Of Syllabus Smooth  (WTFV)",
+    "couples": [
+      "Matthew Boguslawski & Connie Liu",
+      "Jerry Donahue & Irina Donahue"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Smooth  (WTFV)",
+    "couples": [
+      "Juan Vasquez & Janice Vasquez",
+      "Thomas Hirata & Kenna Jackson",
+      "Patrick Datoc & Antoinette Datoc",
+      "Bill Manning & Frances Manning",
+      "John DeFino & Penny DeFino",
+      "Henry Hudson & Olivia Hudson",
+      "Stephen Barba & Susan Ryan"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Championship Smooth  (WTFV)",
+    "couples": [
+      "Creighton Duncan & Victoria Self",
+      "Braden Magness & Abby Leonard"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Championship Smooth  (WTFV)",
+    "couples": [
+      "Terry Whittington & Melanie Whittington"
+    ]
+  },
+  {
+    "name": "Amateur Youth Championship Latin  (SCRPJ)",
+    "couples": [
+      "Michael May & Pallany English",
+      "Alessandro Scalora & Sofia Ward",
+      "Maxim Moscaliov & Sutton Severance",
+      "Evan Greenberg & Victoria Simanovich"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Championship Latin  (SCRPJ)",
+    "couples": [
+      "Peter See & Megin Nichols"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Latin  (SCRPJ)",
+    "couples": [
+      "Richard Richards & Rita Snyder",
+      "Carmine Rucco & Maria Bolyard",
+      "Henry Hudson & Olivia Hudson"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Championship Latin  (SCRPJ)",
+    "couples": [
+      "Michael May & Pallany English",
+      "Alessandro Scalora & Sofia Ward"
+    ]
+  },
+  {
+    "name": "Amateur Open Master Of Syllabus Latin  (SCRJ)",
+    "couples": [
+      "Tin Pham-Tran & Eunice Caducoy",
+      "Thomas Hamrick & Rebecca Hamrick",
+      "Mark Lichtenberger & Cynthia Romine",
+      "Kyle Swisher & Paige Williams"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Open Scholarship Rhythm  (CRSBM)",
+    "couples": [
+      "Taylor Moore & Cynthia Gast",
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Championship Rhythm  (CRSBM)",
+    "couples": [
+      "Edward Hanlon & Louise Hanlon"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Open Scholarship Rhythm  (CRSBM)",
+    "couples": [
+      "Taylor Moore & Pam Effinger"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Rhythm  (CRSBM)",
+    "couples": [
+      "Patrick Datoc & Antoinette Datoc",
+      "Stephen Takata & Joanna Mielnick",
+      "Thomas Hirata & Kenna Jackson"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Standard  (WTVFQ)",
+    "couples": [
+      "Alan Burns & Kelly Batchelor",
+      "Juan Vasquez & Janice Vasquez",
+      "Johnny Tang & Jun Tang",
+      "Ming Wang & Chenhua Yang",
+      "Carmine Rucco & Maria Bolyard",
+      "Richard Richards & Rita Snyder"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Standard  (WTVFQ)",
+    "couples": [
+      "Jonathan Lui & MacKenzie Baker",
+      "Eugene Lobko & Alla Zemlyak",
+      "Aliaksandr Rybakov & Madeleine Mravkarov",
+      "Alessandro Scalora & Sofia Ward",
+      "Tin Pham-Tran & Eunice Caducoy"
+    ]
+  },
+  {
+    "name": "WDSF Senior II Open Standard  (WTVFQ)",
+    "couples": [
+      "Alan Burns & Kelly Batchelor",
+      "David Getchell & Allison Gonzalez",
+      "Juan Vasquez & Janice Vasquez",
+      "Ming Wang & Chenhua Yang",
+      "Clifford Arnold & Lilian Paternostre"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Open Scholarship Standard  (WTVFQ)",
+    "couples": [
+      "Bob Pratico & Alyssa Kark",
+      "Ryan McDaniel & Toni Moore",
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Championship Standard  (WTVFQ)",
+    "couples": [
+      "David Getchell & Allison Gonzalez",
+      "Bill Manning & Frances Manning",
+      "John Rannella & Helena Brody",
+      "John DeFino & Penny DeFino",
+      "Bob Pratico & Deborah Pratico"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance B Open Scholarship Standard  (WTVFQ)",
+    "couples": [
+      "Ryan McDaniel & Toni Moore"
+    ]
+  },
+  {
+    "name": "WDSF Senior I Open Standard  (WTVFQ)",
+    "couples": [
+      "Eugene Lobko & Alla Zemlyak",
+      "Alan Burns & Kelly Batchelor",
+      "Eckhard Grosz & Gabriela Grosz",
+      "Ming Wang & Chenhua Yang"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Dale Teal & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Dale Teal & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Dale Teal & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Dale Teal & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Full Bronze Intl. Jive  (J)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Dale Teal & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Dale Teal & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Dale Teal & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult D1 Int. Bronze Intl. Jive  (J)",
+    "couples": [
+      "Dale Teal & Alyssa Kark"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Intl. Rumba  (R)",
+    "couples": [
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Pre-Silver Intl. Jive  (J)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Jive  (J)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult D2 Int. Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Intl. Jive  (J)",
+    "couples": [
+      "Jonathan Hamilton & Kiyomi Meason"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Silver Latin  (SCR)",
+    "couples": [
+      "Daniel Badalbayev & Ella Fingerman",
+      "Aaron Delovsky & Ilona Gavryliv",
+      "Dobilas Naujokas & Natasha Venuti"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Silver Latin  (SCR)",
+    "couples": [
+      "Elijah Woodman & Amry Rivera",
+      "Albert Shmukler & Isabelle Fershteyn",
+      "Alexander Zhmaylo & Paulina Ward"
+    ]
+  },
+  {
+    "name": "Amateur Youth Silver Latin  (SCR)",
+    "couples": [
+      "Elijah Woodman & Amry Rivera"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Latin  (SCR)",
+    "couples": [
+      "Gui Zhang & Arina Nikitina",
+      "Hal Reid & Michelle Story",
+      "Kyle Swisher & Paige Williams",
+      "Ian Mower & Meghan Rivera",
+      "Juan Carlos Mier & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Youth Silver Intl. Jive  (J)",
+    "couples": [
+      "Elijah Woodman & Amry Rivera"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Intl. Jive  (J)",
+    "couples": [
+      "Kyle Swisher & Paige Williams",
+      "Hal Reid & Michelle Story",
+      "Ian Mower & Meghan Rivera",
+      "Juan Carlos Mier & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Bronze Latin  (CR)",
+    "couples": [
+      "Jackson Graber & Briella Rabinovich"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen I Bronze Latin  (CR)",
+    "couples": [
+      "Daniel Badalbayev & Ella Fingerman",
+      "Aaron Delovsky & Ilona Gavryliv",
+      "Dobilas Naujokas & Natasha Venuti",
+      "Brian Liu & Krista Coyne"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Latin  (CR)",
+    "couples": [
+      "Gabriel Davidov & Sarah Solomon",
+      "Alexander Zhmaylo & Paulina Ward"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Latin  (CR)",
+    "couples": [
+      "Gui Zhang & Arina Nikitina",
+      "Ian Mower & Meghan Rivera",
+      "Juan Carlos Mier & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Bronze Latin  (CR)",
+    "couples": [
+      "C. Philip Carter & Ann Carter",
+      "David McNish & Rhonda McNish",
+      "Fred Prior & Linda Larson"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Latin  (SCRJ)",
+    "couples": [
+      "Ilyah Badalbayev & Ariana Rabinovich",
+      "Christopher Lesesne & Anastasia Krivosheev"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Latin  (SCRJ)",
+    "couples": [
+      "Danila Gritsev & Elizabeth Domashchenko",
+      "Elijah Woodman & Amry Rivera",
+      "Nikita Rybakov & Gabriella Mravkarov",
+      "Albert Shmukler & Isabelle Fershteyn"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Bronze Latin  (CR)",
+    "couples": [
+      "David McNish & Rhonda McNish"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Bronze Latin  (CR)",
+    "couples": [
+      "C. Philip Carter & Ann Carter",
+      "Fred Prior & Linda Larson"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Bronze Latin  (CR)",
+    "couples": [
+      "Dale Teal & Alyssa Kark",
+      "Jonathan Hamilton & Mona Fitzpatrick"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Silver Intl. Jive  (J)",
+    "couples": [
+      "Natan Polunin & Lily Gorokhov"
+    ]
+  },
+  {
+    "name": "Amateur Junior Silver Intl. Jive  (J)",
+    "couples": [
+      "Alexander Zhmaylo & Paulina Ward"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Latin  (SCR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Silver Latin  (SCR)",
+    "couples": [
+      "Fred Prior & Linda Larson",
+      "C. Philip Carter & Ann Carter"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Silver Latin  (SCR)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Latin  (SCRJ)",
+    "couples": [
+      "Nikita Rybakov & Gabriella Mravkarov",
+      "Ilyah Badalbayev & Ariana Rabinovich"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Latin  (SCRJ)",
+    "couples": [
+      "Danila Gritsev & Elizabeth Domashchenko",
+      "Elijah Woodman & Amry Rivera",
+      "Albert Shmukler & Isabelle Fershteyn"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Silver Latin  (SCR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior IV Silver Latin  (SCR)",
+    "couples": [
+      "Kerry Lovell & Diana Lovell",
+      "C. Philip Carter & Ann Carter",
+      "Fred Prior & Linda Larson"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Bronze Latin  (CR)",
+    "couples": [
+      "Austin Clemens & Katerina Penatzer",
+      "Daniel Badalbayev & Ella Fingerman",
+      "Jordan Palmer & Finley Severance",
+      "Dobilas Naujokas & Natasha Venuti",
+      "Aaron Delovsky & Ilona Gavryliv",
+      "Dmitry Masibut & Sophie Zaychik",
+      "Brian Liu & Krista Coyne",
+      "Sebastian Gluzman & Sasha Popham",
+      "Connor Palmer & Veronika Rozenberg"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Latin  (SCRJ)",
+    "couples": [
+      "Hal Reid & Michelle Story",
+      "Kyle Swisher & Paige Williams"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Gold Latin  (SCRJ)",
+    "couples": [
+      "Thomas Hamrick & Rebecca Hamrick",
+      "Mark Lichtenberger & Cynthia Romine"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Bronze Latin  (CR)",
+    "couples": [
+      "Austin Clemens & Katerina Penatzer",
+      "Alexander Zhmaylo & Paulina Ward",
+      "Jordan Palmer & Finley Severance",
+      "Dmitry Masibut & Sophie Zaychik",
+      "Sebastian Gluzman & Sasha Popham",
+      "Connor Palmer & Veronika Rozenberg",
+      "Gabriel Davidov & Sarah Solomon"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Gold Latin  (SCRJ)",
+    "couples": [
+      "Mark Lichtenberger & Cynthia Romine",
+      "Thomas Hamrick & Rebecca Hamrick",
+      "Kerry Lovell & Diana Lovell",
+      "David Bilotta & Terry Bilotta"
+    ]
+  },
+  {
+    "name": "Pro/Am Multi-Dance C Gold Latin  (SCRJ)",
+    "couples": [
+      "Jonathan Hamilton & Wanda Gimlin"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Silver Latin  (SCR)",
+    "couples": [
+      "Natan Polunin & Lily Gorokhov",
+      "Dobilas Naujokas & Natasha Venuti",
+      "Austin Clemens & Katerina Penatzer",
+      "Alexander Derenstein & Elise Bensman",
+      "Benjamin Tseng & Scarlett Graber",
+      "Jordan Palmer & Finley Severance",
+      "Dmitry Masibut & Sophie Zaychik",
+      "Connor Palmer & Veronika Rozenberg"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Gold Latin  (SCRJ)",
+    "couples": [
+      "Kerry Lovell & Diana Lovell",
+      "David Bilotta & Terry Bilotta"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Latin  (SCR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Novice Latin  (SCR)",
+    "couples": [
+      "Billy Dillon & Allison Bailey"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Evan Greenberg & Victoria Simanovich"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Latin  (SCR)",
+    "couples": [
+      "Alexander Zhmaylo & Paulina Ward",
+      "Austin Clemens & Katerina Penatzer",
+      "Benjamin Tseng & Scarlett Graber",
+      "Jordan Palmer & Finley Severance",
+      "Dmitry Masibut & Sophie Zaychik",
+      "Alexander Derenstein & Elise Bensman",
+      "Connor Palmer & Veronika Rozenberg"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Novice Latin  (SCR)",
+    "couples": [
+      "Ming Wang & Chenhua Yang",
+      "Arkady Dudko & Lena Dudko",
+      "Johnny Tang & Jun Tang",
+      "Thomas Hamrick & Rebecca Hamrick",
+      "Mark Lichtenberger & Cynthia Romine"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Novice Latin  (SCR)",
+    "couples": [
+      "Edward Hanlon & Louise Hanlon",
+      "David Bilotta & Terry Bilotta"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Novice Latin  (SCR)",
+    "couples": [
+      "Ming Wang & Chenhua Yang",
+      "Arkady Dudko & Lena Dudko",
+      "Johnny Tang & Jun Tang",
+      "Thomas Hamrick & Rebecca Hamrick",
+      "Mark Lichtenberger & Cynthia Romine",
+      "Edward Hanlon & Louise Hanlon",
+      "David Bilotta & Terry Bilotta"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Novice Latin  (SCR)",
+    "couples": [
+      "Christopher Lesesne & Anastasia Krivosheev"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Alessandro Scalora & Sofia Ward",
+      "Maxim Moscaliov & Sutton Severance",
+      "Evan Greenberg & Victoria Simanovich"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Tin Pham-Tran & Eunice Caducoy"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Ming Wang & Chenhua Yang",
+      "Carmine Rucco & Maria Bolyard",
+      "Richard Richards & Rita Snyder",
+      "Arkady Dudko & Lena Dudko",
+      "Johnny Tang & Jun Tang",
+      "Edward Hanlon & Louise Hanlon"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Ming Wang & Chenhua Yang",
+      "Carmine Rucco & Maria Bolyard",
+      "Richard Richards & Rita Snyder",
+      "Arkady Dudko & Lena Dudko",
+      "Johnny Tang & Jun Tang"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen II Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Ksenia Epstein & Ksenia Epstein"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen I Silver Latin  (SCR)",
+    "couples": [
+      "Veronika Rozenberg & Veronika Rozenberg"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior I Gold Latin  (SCRJ)",
+    "couples": [
+      "Shina Resenson & Shina Resenson",
+      "Rita Fingerman & Rita Fingerman",
+      "Sasha Popham & Sasha Popham",
+      "Sophie Zaychik & Sophie Zaychik"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen II Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Ksenia Epstein & Ksenia Epstein"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior I Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Ksenia Epstein & Ksenia Epstein"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior I Silver Latin  (SCR)",
+    "couples": [
+      "Shina Resenson & Shina Resenson",
+      "Rita Fingerman & Rita Fingerman",
+      "Anna Grinshpon & Anna Grinshpon",
+      "Daniele Naujokas & Daniele Naujokas",
+      "Sasha Lapayeva & Sasha Lapayeva"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior I Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Ksenia Epstein & Ksenia Epstein"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen II Silver Latin  (SCR)",
+    "couples": [
+      "Shina Resenson & Shina Resenson",
+      "Veronika Rozenberg & Veronika Rozenberg",
+      "Sasha Lapayeva & Sasha Lapayeva"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior II Silver Latin  (SCR)",
+    "couples": [
+      "Anna Grinshpon & Anna Grinshpon",
+      "Rita Fingerman & Rita Fingerman",
+      "Daniele Naujokas & Daniele Naujokas"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen I Bronze Latin  (CR)",
+    "couples": [
+      "Veronika Rozenberg & Veronika Rozenberg"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior I Bronze Latin  (CR)",
+    "couples": [
+      "Finley Severance & Finley Severance",
+      "Sarah Solomon & Sarah Solomon",
+      "Sasha Lapayeva & Sasha Lapayeva",
+      "Daniele Naujokas & Daniele Naujokas",
+      "Ksenia Epstein & Ksenia Epstein"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen II Gold Latin  (SCRJ)",
+    "couples": [
+      "Sasha Popham & Sasha Popham",
+      "Sophie Zaychik & Sophie Zaychik"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior II Gold Latin  (SCRJ)",
+    "couples": [
+      "Shina Resenson & Shina Resenson"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen II Bronze Latin  (CR)",
+    "couples": [
+      "Veronika Rozenberg & Veronika Rozenberg",
+      "Finley Severance & Finley Severance",
+      "Sasha Lapayeva & Sasha Lapayeva",
+      "Ksenia Epstein & Ksenia Epstein"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior II Bronze Latin  (CR)",
+    "couples": [
+      "Sarah Solomon & Sarah Solomon",
+      "Daniele Naujokas & Daniele Naujokas"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior I Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Ksenia Epstein & Ksenia Epstein"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior I Gold Standard  (WTFQ)",
+    "couples": [
+      "Sasha Popham & Sasha Popham",
+      "Sophie Zaychik & Sophie Zaychik"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior I Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Ksenia Epstein & Ksenia Epstein"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen II Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Ksenia Epstein & Ksenia Epstein"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior I Silver Standard  (WFQ)",
+    "couples": [
+      "Shina Resenson & Shina Resenson",
+      "Sasha Popham & Sasha Popham",
+      "Anna Grinshpon & Anna Grinshpon",
+      "Sophie Zaychik & Sophie Zaychik",
+      "Rita Fingerman & Rita Fingerman"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen II Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Ksenia Epstein & Ksenia Epstein"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen II Silver Standard  (WFQ)",
+    "couples": [
+      "Sasha Popham & Sasha Popham",
+      "Shina Resenson & Shina Resenson",
+      "Sophie Zaychik & Sophie Zaychik"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior II Silver Standard  (WFQ)",
+    "couples": [
+      "Anna Grinshpon & Anna Grinshpon",
+      "Rita Fingerman & Rita Fingerman"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen I Bronze Standard  (WQ)",
+    "couples": [
+      "Veronika Rozenberg & Veronika Rozenberg"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior I Bronze Standard  (WQ)",
+    "couples": [
+      "Daniele Naujokas & Daniele Naujokas",
+      "Sarah Solomon & Sarah Solomon",
+      "Finley Severance & Finley Severance",
+      "Sasha Lapayeva & Sasha Lapayeva"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen II Gold Standard  (WTFQ)",
+    "couples": [
+      "Sasha Popham & Sasha Popham",
+      "Sophie Zaychik & Sophie Zaychik"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen II Bronze Standard  (WQ)",
+    "couples": [
+      "Veronika Rozenberg & Veronika Rozenberg",
+      "Sasha Lapayeva & Sasha Lapayeva",
+      "Finley Severance & Finley Severance"
+    ]
+  },
+  {
+    "name": "Solo Ladies Junior II Bronze Standard  (WQ)",
+    "couples": [
+      "Daniele Naujokas & Daniele Naujokas",
+      "Sarah Solomon & Sarah Solomon"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Am. Swing  (S)",
+    "couples": [
+      "Daniel Harms & Pamela May",
+      "Gui Zhang & Arina Nikitina",
+      "Zachary Hopper & Gemi Moore",
+      "Daniel Molsbarger & Madison Meyer",
+      "Eamonn Morris & Jennings Williford"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. Swing  (S)",
+    "couples": [
+      "Ben Alley & Theresa Kiernan"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Rhythm  (CR)",
+    "couples": [
+      "Gui Zhang & Arina Nikitina",
+      "Ben Alley & Theresa Kiernan",
+      "Zachary Hopper & Gemi Moore",
+      "Daniel Harms & Pamela May",
+      "Daniel Molsbarger & Madison Meyer",
+      "Jesse Wright & Allex Briggs",
+      "Eamonn Morris & Jennings Williford"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Ben Alley & Theresa Kiernan"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Bronze Rhythm  (CR)",
+    "couples": [
+      "Tevfik Altan & Pamela Mittoo"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Rhythm  (CRS)",
+    "couples": [
+      "Daniel Harms & Pamela May",
+      "Zachary Hopper & Gemi Moore",
+      "Daniel Molsbarger & Madison Meyer"
+    ]
+  },
+  {
+    "name": "Amateur Adult Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Ben Alley & Theresa Kiernan"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Silver Rhythm  (CRS)",
+    "couples": [
+      "Tevfik Altan & Pamela Mittoo",
+      "Don Young & Tammy Young"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Novice Rhythm  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Pre-Champ Rhythm  (CRSB)",
+    "couples": [
+      "Terry Whittington & Melanie Whittington"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Billy Dillon & Allison Bailey",
+      "Peter See & Megin Nichols"
+    ]
+  },
+  {
+    "name": "Amateur Senior IV Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Edward Hanlon & Louise Hanlon"
+    ]
+  }
+]

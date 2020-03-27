@@ -1,0 +1,4374 @@
+[
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Milan Locic & Alice Mrosczcyk"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Silver Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Gold Am. Tango  (T)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Gold Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 1 Silver Scholarship Standard  (WTVFQ)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay",
+      "Artsiom Chapinlion & Samantha Nee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Silver Intl. Samba  (S)",
+    "couples": [
+      "Kathleen Brophy & Kathleen Brophy"
+    ]
+  },
+  {
+    "name": "Amateur A Bronze Smooth  (WTFV)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur A Silver Smooth  (WTFV)",
+    "couples": [
+      "Daniel Wilson & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur B Silver Smooth  (WTFV)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur A Gold Smooth  (WTFV)",
+    "couples": [
+      "Arun Nair & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur C Open Smooth  (WTFV)",
+    "couples": [
+      "Gregory Warwick & Karen Batchelder"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Daniel Wilson & Ben Garfield"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Renee Waldman & Helen Abraham",
+      "Laurie Langelo & Beth Aufiero"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Miwa Rifu & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Open Am. Waltz  (W)",
+    "couples": [
+      "Gregory Warwick & Zachary Germain",
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Nicolas Rael & Elizabeth Stackhouse",
+      "Jared Vigneaolt & Alison Burkart",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Zachary Germain & Kathleen Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Gold Am. Tango  (T)",
+    "couples": [
+      "Irina Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Arun Nair & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Laurie Langelo & Beth Aufiero"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Miwa Rifu & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Zachary Germain & Kathleen Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze (P) Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff",
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Daniel Wilson & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Milan Locic & Alice Mrosczcyk",
+      "Arko Beybutyan & Connie Barr",
+      "April Knight & Sylvia Wojcik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Jared Vigneaolt & Alison Burkart",
+      "Nicolas Rael & Elizabeth Stackhouse"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Open Am. Foxtrot  (F)",
+    "couples": [
+      "Gregory Warwick & Karen Batchelder",
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Daniel Wilson & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Open Am. V. Waltz  (V)",
+    "couples": [
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Zachary Germain & Kathleen Lewis",
+      "Nicolas Rael & Eileen Hodell",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Gold Am. Waltz  (W)",
+    "couples": [
+      "Arun Nair & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Gold Am. Waltz  (W)",
+    "couples": [
+      "Irina Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Miwa Rifu & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Silver Am. Tango  (T)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Zachary Germain & Elizabeth Leary"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Jared Vigneaolt & Marie Hobart",
+      "Nicolas Rael & Eileen Hodell",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Daniel Wilson & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Open Am. V. Waltz  (V)",
+    "couples": [
+      "Gregory Warwick & Karen Batchelder",
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Irina Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Gold Am. Tango  (T)",
+    "couples": [
+      "Arun Nair & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Open Am. Tango  (T)",
+    "couples": [
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Open Am. Tango  (T)",
+    "couples": [
+      "Zachary Germain & Gregory Warwick"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Arun Nair & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Zachary Germain & Elizabeth Leary"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "John Mahoney & Pat Menard",
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed",
+      "Milan Locic & Alice Mrosczcyk"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Renee Waldman & Helen Abraham",
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Gold Am. Tango  (T)",
+    "couples": [
+      "Arun Nair & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Open Am. Tango  (T)",
+    "couples": [
+      "Gregory Warwick & Karen Batchelder",
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Tony Miloski & Lena Li"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Robert Cormack & Linda Cohen",
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Daniel Wilson & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Open Am. Foxtrot  (F)",
+    "couples": [
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay",
+      "Zachary Germain & Michelle Mastin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Nicolas Rael & Elizabeth Stackhouse",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Daniel Wilson & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Gold Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Nicolas Rael & Elizabeth Stackhouse",
+      "Jared Vigneaolt & Alison Burkart"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Open Am. Waltz  (W)",
+    "couples": [
+      "Zachary Germain & Gregory Warwick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze (P) Am. Tango  (T)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Daniel Wilson & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Full Silver Am. Tango  (T)",
+    "couples": [
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Mike Baris & Anne",
+      "Daniel Meath & Elizabeth Nowakowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Zachary Germain & Kathleen Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "John Mahoney & Pat Menard",
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Arun Nair & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Irina Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Milan Locic & Alice Mrosczcyk"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Robert Cormack & Linda Cohen",
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Tony Miloski & Lena Li"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Jared Vigneaolt & Marie Hobart",
+      "Nicolas Rael & Eileen Hodell",
+      "Zachary Germain & Kathleen Lewis",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Laurie Langelo & Beth Aufiero"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Newcomer Am. Tango  (T)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Daniel Wilson & Ben Garfield"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Nicolas Rael & Eileen Hodell",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Zachary Germain & Kathleen Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Zachary Germain & Kathleen Lewis"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Milan Locic & Alice Mrosczcyk"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Robert Cormack & Linda Cohen",
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Renee Waldman & Helen Abraham",
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Laurie Langelo & Beth Aufiero"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Arun Nair & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Jared Vigneaolt & Cindy Dube",
+      "Daniel Meath & Deborah Dolan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Nicolas Rael & Elizabeth Stackhouse"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Mike Baris & Anne",
+      "Milan Locic & Sharon Spaulding",
+      "Daniel Meath & Elizabeth Nowakowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Daniel Wilson & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed",
+      "Milan Locic & Alice Mrosczcyk"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Zachary Germain & Kathleen Lewis",
+      "Nicolas Rael & Eileen Hodell",
+      "Jared Vigneaolt & Marie Hobart",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Daniel Meath & Elizabeth Nowakowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Open Am. V. Waltz  (V)",
+    "couples": [
+      "Zachary Germain & Gregory Warwick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr",
+      "Milan Locic & Alice Mrosczcyk",
+      "April Knight & Sylvia Wojcik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Zachary Germain & Elizabeth Leary"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Daniel Wilson & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Jared Vigneaolt & Cindy Dube",
+      "Daniel Meath & Deborah Dolan"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult C1 Open Am. Foxtrot  (F)",
+    "couples": [
+      "Zachary Germain & Gregory Warwick"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Daniel Meath & Elizabeth Nowakowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Jared Vigneaolt & Marie Hobart",
+      "Nicolas Rael & Eileen Hodell",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Zachary Germain & Kathleen Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Miwa Rifu & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding",
+      "Mike Baris & Anne",
+      "Daniel Meath & Elizabeth Nowakowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Jared Vigneaolt & Marie Hobart",
+      "Mike D`Ambrisi & Linda Salles Vodicka",
+      "Nicolas Rael & Eileen Hodell"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Int. Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Daniel Wilson & Ben Garfield"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Zachary Germain & Michelle Mastin",
+      "Jared Vigneaolt & Cindy Dube",
+      "Daniel Meath & Deborah Dolan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Zachary Germain & Kathleen Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay",
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Zachary Germain & Michelle Mastin",
+      "Jared Vigneaolt & Cindy Dube",
+      "Daniel Meath & Deborah Dolan",
+      "April Knight & Sylvia Wojcik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Jared Vigneaolt & Cindy Dube",
+      "Daniel Meath & Deborah Dolan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding",
+      "Arko Beybutyan & Linda Cohen",
+      "Jared Vigneaolt & Cindy Dube",
+      "Daniel Meath & Deborah Dolan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Zachary Germain & Michelle Mastin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Bronze Am. Waltz  (W)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding",
+      "Daniel Meath & Elizabeth Nowakowski",
+      "Mike Baris & Anne"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Nicolas Rael & Elizabeth Stackhouse",
+      "Jared Vigneaolt & Alison Burkart",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding",
+      "Daniel Meath & Elizabeth Nowakowski",
+      "Mike Baris & Anne"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Tango  (T)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding",
+      "Daniel Meath & Elizabeth Nowakowski",
+      "Mike Baris & Anne"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus",
+      "Zachary Germain & Michele Kirousis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer (P) Am. Tango  (T)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay",
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr",
+      "April Knight & Sylvia Wojcik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Zachary Germain & Elizabeth Leary"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Zachary Germain & Michelle Mastin",
+      "Jared Vigneaolt & Cindy Dube",
+      "Daniel Meath & Deborah Dolan",
+      "April Knight & Sylvia Wojcik"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Arko Beybutyan & Jennifer Marcus",
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer (P) Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Nicolas Rael & Elizabeth Stackhouse",
+      "Jared Vigneaolt & Alison Burkart",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer (P) Am. Waltz  (W)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "Daniel Wilson & Ben Garfield"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Gold Am. Waltz  (W)",
+    "couples": [
+      "Arun Nair & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Open Am. Waltz  (W)",
+    "couples": [
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Int. Silver Am. Tango  (T)",
+    "couples": [
+      "Daniel Wilson & Ben Garfield"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Tango  (T)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Zachary Germain & Michelle Mastin",
+      "Jared Vigneaolt & Cindy Dube",
+      "Daniel Meath & Deborah Dolan",
+      "April Knight & Sylvia Wojcik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Zachary Germain & Kathleen Lewis",
+      "Nicolas Rael & Eileen Hodell",
+      "Jared Vigneaolt & Marie Hobart",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay",
+      "Arko Beybutyan & Linda Cohen",
+      "Zachary Germain & Michelle Mastin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze (P) Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Nicolas Rael & Elizabeth Stackhouse",
+      "Jared Vigneaolt & Alison Burkart"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay",
+      "Arko Beybutyan & Linda Cohen",
+      "Zachary Germain & Michelle Mastin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Zachary Germain & Kathleen Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze West Coast Swing  (W)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze West Coast Swing  (W)",
+    "couples": [
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Newcomer Night Club 2-Step  (N)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Open Night Club 2-Step  (N)",
+    "couples": [
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Night Club 2-Step  (N)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Hustle  (H)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Bronze Hustle  (H)",
+    "couples": [
+      "Miwa Rifu & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Salsa  (S)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Open Salsa  (S)",
+    "couples": [
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Pre-Bronze Salsa  (S)",
+    "couples": [
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Salsa  (S)",
+    "couples": [
+      "Miwa Rifu & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Open West Coast Swing  (W)",
+    "couples": [
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Pre-Bronze West Coast Swing  (W)",
+    "couples": [
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Hustle  (H)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Pre-Bronze Hustle  (H)",
+    "couples": [
+      "Miwa Rifu & Candice Chen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Salsa  (S)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Bronze Salsa  (S)",
+    "couples": [
+      "Miwa Rifu & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Int. Bronze Salsa  (S)",
+    "couples": [
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Salsa  (S)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Pre-Bronze Country Two-Step  (T)",
+    "couples": [
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Country Two-Step  (T)",
+    "couples": [
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Salsa  (S)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Hustle  (H)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Newcomer Hustle  (H)",
+    "couples": [
+      "Miwa Rifu & Candice Chen"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Pre-Bronze Hustle  (H)",
+    "couples": [
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Country Two-Step  (T)",
+    "couples": [
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Int. Bronze Country Two-Step  (T)",
+    "couples": [
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Hustle  (H)",
+    "couples": [
+      "Miwa Rifu & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Int. Bronze Hustle  (H)",
+    "couples": [
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze West Coast Swing  (W)",
+    "couples": [
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Int. Bronze West Coast Swing  (W)",
+    "couples": [
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Open Hustle  (H)",
+    "couples": [
+      "Miwa Rifu & Candice Chen"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Open Hustle  (H)",
+    "couples": [
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Open Hustle  (H)",
+    "couples": [
+      "Miwa Rifu & Jennifer Courtney"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Mount & Gabrielle Reynolds"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Jared Vigneaolt & Sandi Theros"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "Jiri Zejda & Tina Ellis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Gold Intl. Waltz  (W)",
+    "couples": [
+      "Anatoli Gorolevici & Joan Lautenschleger",
+      "Pavel Vodicka & Denise Lawson",
+      "Ramon Martinez & Betty Hood"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Silver Intl. Tango  (T)",
+    "couples": [
+      "David Mount & Gabrielle Reynolds"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Open Intl. Tango  (T)",
+    "couples": [
+      "Andreas Woytowitz & Erik Jaeger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "Jared Vigneaolt & Sandi Theros"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Intl. Tango  (T)",
+    "couples": [
+      "Jiri Zejda & Tina Ellis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Gold Intl. Tango  (T)",
+    "couples": [
+      "Ramon Martinez & Betty Hood"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "David Mount & Gabrielle Reynolds"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Jared Vigneaolt & Sandi Theros"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Jiri Zejda & Tina Ellis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Irina Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Anatoli Gorolevici & Joan Lautenschleger",
+      "Ramon Martinez & Betty Hood"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Mount & Gabrielle Reynolds"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Jiri Zejda & Tina Ellis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Zachary Germain & Elizabeth Leary"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Anatoli Gorolevici & Joan Lautenschleger",
+      "Ramon Martinez & Betty Hood",
+      "Pavel Vodicka & Denise Lawson"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Mount & Gabrielle Reynolds",
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Open Intl. Quickstep  (Q)",
+    "couples": [
+      "Andreas Woytowitz & Erik Jaeger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Jared Vigneaolt & Sandi Theros"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Jiri Zejda & Tina Ellis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Ramon Martinez & Betty Hood"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Durso & Erica Dillon",
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "David Mount & Gabrielle Reynolds"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Intl. Waltz  (W)",
+    "couples": [
+      "Jiri Zejda & Tina Ellis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Waltz  (W)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay",
+      "Pavel Vodicka & Denise Lawson",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Gold Intl. Waltz  (W)",
+    "couples": [
+      "Zachary Germain & Elizabeth Leary"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Gold Intl. Waltz  (W)",
+    "couples": [
+      "Ramon Martinez & Betty Hood"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Durso & Erica Dillon",
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Jared Vigneaolt & Sandi Theros"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Intl. Tango  (T)",
+    "couples": [
+      "Jiri Zejda & Tina Ellis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Gold Intl. Tango  (T)",
+    "couples": [
+      "Anatoli Gorolevici & Joan Lautenschleger",
+      "Pavel Vodicka & Denise Lawson",
+      "Ramon Martinez & Betty Hood"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Intl. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Jared Vigneaolt & Sandi Theros"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Artsiom Chapinlion & Samantha Nee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Jiri Zejda & Tina Ellis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Zachary Germain & Elizabeth Leary"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Ramon Martinez & Betty Hood"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Intl. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Jared Vigneaolt & Sandi Theros"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Jiri Zejda & Tina Ellis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay",
+      "Pavel Vodicka & Denise Lawson",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Durso & Erica Dillon",
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Artsiom Chapinlion & Samantha Nee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Jiri Zejda & Tina Ellis"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "David Mount & Gabrielle Reynolds"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Jared Vigneaolt & Sandi Theros"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Zachary Germain & Elizabeth Leary"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Anatoli Gorolevici & Joan Lautenschleger",
+      "Ramon Martinez & Betty Hood"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Intl. Tango  (T)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay",
+      "Pavel Vodicka & Denise Lawson",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Gold Intl. Tango  (T)",
+    "couples": [
+      "Zachary Germain & Elizabeth Leary"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Jared Vigneaolt & Sandi Theros"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Artsiom Chapinlion & Samantha Nee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Pavel Vodicka & Denise Lawson",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Irina Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Irina Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Open Intl. Waltz  (W)",
+    "couples": [
+      "Andreas Woytowitz & Erik Jaeger"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Jared Vigneaolt & Sandi Theros"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "Artsiom Chapinlion & Samantha Nee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. Waltz  (W)",
+    "couples": [
+      "Pavel Vodicka & Denise Lawson",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Gold Intl. Waltz  (W)",
+    "couples": [
+      "Irina Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "David Mount & Gabrielle Reynolds"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Intl. Tango  (T)",
+    "couples": [
+      "Artsiom Chapinlion & Samantha Nee"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Intl. Tango  (T)",
+    "couples": [
+      "Pavel Vodicka & Denise Lawson",
+      "Mike D`Ambrisi & Linda Salles Vodicka"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Gold Intl. Tango  (T)",
+    "couples": [
+      "Irina Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "David Mount & Gabrielle Reynolds"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Open Intl. Foxtrot  (F)",
+    "couples": [
+      "Andreas Woytowitz & Erik Jaeger"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Anatoli Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Ramon Martinez & Betty Hood"
+    ]
+  },
+  {
+    "name": "Amateur C Newcomer Smooth  (WTF)",
+    "couples": [
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 3 Novice (1) Country  (WTW)",
+    "couples": [
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult 1 Pre-Champ (1) Country  (WTW)",
+    "couples": [
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Amateur B Bronze Standard  (WTVFQ)",
+    "couples": [
+      "David Durso & Erica Dillon"
+    ]
+  },
+  {
+    "name": "Amateur B Silver Standard  (WTVFQ)",
+    "couples": [
+      "Ron Quill & Elizabeth Aufiero"
+    ]
+  },
+  {
+    "name": "Amateur Adult 2 Pre-Champ (1) Standard  (WTVFQ)",
+    "couples": [
+      "Andreas Woytowitz & Erik Jaeger"
+    ]
+  },
+  {
+    "name": "Amateur B Gold Smooth  (WTFV)",
+    "couples": [
+      "Arun Nair & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult 3 Championship  (1) Smooth  (WTFV)",
+    "couples": [
+      "John Mahoney & Pat Menard"
+    ]
+  },
+  {
+    "name": "Amateur Adult 2 Championship  (1) Country  (WTEN)",
+    "couples": [
+      "Lauren Myrtha & Elizabeth Aufiero"
+    ]
+  },
+  {
+    "name": "Amateur Open Open Showdance  (#)",
+    "couples": [
+      "Beth Aufiero & Beth Aufiero",
+      "Briana Jones & Briana Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Open Open Showdance  (#)",
+    "couples": [
+      "Jonathan Cabrera & Stephanie Micken",
+      "Zachary Germain & Kathleen Lewis",
+      "Arko Beybutyan & Connie Barr",
+      "Volha Chapinliova & Samantha Nee",
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 2 Silver Scholarship Standard  (WTVFQ)",
+    "couples": [
+      "Irina Gorolevici & Eileen Gay"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 1 Gold Scholarship Standard  (WTVFQ)",
+    "couples": [
+      "Anatoli Gorolevici & Joan Lautenschleger",
+      "Zachary Germain & Elizabeth Leary"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 2 Bronze Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 3 Bronze Scholarship Standard  (WTVFQ)",
+    "couples": [
+      "Jared Vigneaolt & Sandi Theros"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Newcomer Scholar Smooth  (WTF)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 3 Bronze Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Zachary Germain & Michelle Mastin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 2 Newcomer Scholar Smooth  (WTF)",
+    "couples": [
+      "Mike Baris & Anne"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 PB Scholarship Smooth  (WTF)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C Bronze Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding",
+      "Zachary Germain & Michelle Mastin"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult 1 Newcomer Scholar Smooth  (WTF)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 3 PB Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Jared Vigneaolt & Cindy Dube"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C Silver Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Anatoli Gorolevici & Yulan Lin",
+      "Zachary Germain & Kathleen Lewis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 2 PB Scholarship Smooth  (WTF)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 1 Silver Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Zachary Germain & Elizabeth Leary"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Am. Samba  (S)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Milan Locic & Kate Reid",
+      "April Knight & Sylvia Wojcik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Nicolas Rael & Alicia Capellan"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Tom Battin & Daryl Battin"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Anthony Ross & Maureen Cleary",
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Michael Kiang & Josh Keys"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Zachary Germain & Michelle Mastin",
+      "Daniel Meath & Deborah Dolan",
+      "April Knight & Sylvia Wojcik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Pam Theodore & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer (P) Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Pam Theodore & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Michael Kiang & Josh Keys",
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Am. Bolero  (B)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Am. Bolero  (B)",
+    "couples": [
+      "Daniel Meath & Elizabeth Nowakowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Bolero  (B)",
+    "couples": [
+      "Zachary Germain & Michelle Mastin",
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Am. Bolero  (B)",
+    "couples": [
+      "Michael Kiang & Josh Keys",
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Nicolas Rael & Eileen Hodell",
+      "Kristie Mullins & Marie Hobart"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Zachary Germain & Donna Crown"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Am. Mambo  (M)",
+    "couples": [
+      "Michael Kiang & Josh Keys",
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Anthony Ross & Maureen Cleary",
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Pam Theodore & Miwa Rifu",
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Tom Battin & Daryl Battin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Milan Locic & Alice Mrosczcyk",
+      "Arko Beybutyan & Connie Barr",
+      "April Knight & Sylvia Wojcik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Nicolas Rael & Alicia Capellan"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Pam Theodore & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Anthony Ross & Maureen Cleary",
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer (P) Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Pam Theodore & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze (P) Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Daniel Meath & Elizabeth Nowakowski",
+      "Mike Baris & Anne"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith",
+      "Milan Locic & Kate Reid"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Michael Kiang & Josh Keys",
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Tom Battin & Daryl Battin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding",
+      "Daniel Meath & Elizabeth Nowakowski",
+      "Mike Baris & Anne"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Pam Theodore & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Tom Battin & Daryl Battin"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Robert Cormack & Linda Cohen",
+      "Anthony Ross & Maureen Cleary",
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Kathleen Brophy & Beth Aufiero"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Am. Bolero  (B)",
+    "couples": [
+      "Nicolas Rael & Eileen Hodell"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Silver Am. Bolero  (B)",
+    "couples": [
+      "Kathleen Brophy & Beth Aufiero"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Am. Mambo  (M)",
+    "couples": [
+      "Daniel Meath & Elizabeth Nowakowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Am. Mambo  (M)",
+    "couples": [
+      "Nicolas Rael & Alicia Capellan"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Bronze Am. Mambo  (M)",
+    "couples": [
+      "Anthony Ross & Maureen Cleary"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Silver Am. Mambo  (M)",
+    "couples": [
+      "Kathleen Brophy & Beth Aufiero"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Open Am. Mambo  (M)",
+    "couples": [
+      "Gregory Warwick & Karen Batchelder"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Renee Waldman & Helen Abraham",
+      "Robert Cormack & Linda Cohen",
+      "Anthony Ross & Maureen Cleary"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Kathleen Brophy & Beth Aufiero"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Silver Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Nicolas Rael & Alicia Capellan"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Tom Battin & Daryl Battin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze (P) Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff",
+      "Pam Theodore & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Robert Cormack & Linda Cohen",
+      "Anthony Ross & Maureen Cleary"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Tom Battin & Daryl Battin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Bolero  (B)",
+    "couples": [
+      "Zachary Germain & Donna Crown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Under 21 Open Am. Bolero  (B)",
+    "couples": [
+      "Jonathan Cabrera & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Mambo  (M)",
+    "couples": [
+      "Daniel Meath & Deborah Dolan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Mambo  (M)",
+    "couples": [
+      "Zachary Germain & Michelle Mastin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Silver Am. Mambo  (M)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Ron Quill & Janice Robillard"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Pam Theodore & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Tom Battin & Daryl Battin"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff",
+      "Renee Waldman & Helen Abraham"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Milan Locic & Kate Reid"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Nicolas Rael & Elizabeth Stackhouse",
+      "Zachary Germain & Michele Kirousis",
+      "Jared Vigneaolt & Alison Burkart"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Kathleen Brophy & Beth Aufiero"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Gold Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Renee Waldman & Helen Abraham",
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Anthony Ross & Maureen Cleary",
+      "Renee Waldman & Helen Abraham",
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Daniel Wilson & Robin Weiss"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Zachary Germain & Michelle Mastin",
+      "Arko Beybutyan & Linda Cohen",
+      "April Knight & Sylvia Wojcik"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Pam Theodore & Miwa Rifu",
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "Nicolas Rael & Eileen Hodell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "Zachary Germain & Donna Crown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Am. Mambo  (M)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Mambo  (M)",
+    "couples": [
+      "Zachary Germain & Michelle Mastin",
+      "Daniel Meath & Deborah Dolan"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Full Bronze Am. Mambo  (M)",
+    "couples": [
+      "Anthony Ross & Maureen Cleary"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Milan Locic & Kate Reid",
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Nicolas Rael & Eileen Hodell",
+      "Kristie Mullins & Marie Hobart"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Gold Am. Rumba  (R)",
+    "couples": [
+      "Zachary Germain & Kelsey Lobie"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Open Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Under 21 Open Am. Rumba  (R)",
+    "couples": [
+      "Jonathan Cabrera & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Open Am. Rumba  (R)",
+    "couples": [
+      "Gregory Warwick & Karen Batchelder"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr",
+      "April Knight & Sylvia Wojcik",
+      "Milan Locic & Alice Mrosczcyk"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Nicolas Rael & Alicia Capellan"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Robert Cormack & Linda Cohen",
+      "Anthony Ross & Maureen Cleary"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Renee Waldman & Helen Abraham",
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "Nicolas Rael & Alicia Capellan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Gold Am. Bolero  (B)",
+    "couples": [
+      "Zachary Germain & Kelsey Lobie"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Am. Mambo  (M)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Bronze Am. Mambo  (M)",
+    "couples": [
+      "Daniel Meath & Elizabeth Nowakowski"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Pre-Bronze Am. Mambo  (M)",
+    "couples": [
+      "Anthony Ross & Maureen Cleary"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding",
+      "Kristie Mullins & Deb Larsen",
+      "Daniel Meath & Elizabeth Nowakowski",
+      "Mike Baris & Anne"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Daniel Meath & Deborah Dolan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Zachary Germain & Michelle Mastin",
+      "Arko Beybutyan & Linda Cohen",
+      "Kristie Mullins & Deb Larsen",
+      "Daniel Meath & Deborah Dolan",
+      "April Knight & Sylvia Wojcik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Am. Bolero  (B)",
+    "couples": [
+      "Nicolas Rael & Elizabeth Stackhouse",
+      "Zachary Germain & Michele Kirousis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Am. Mambo  (M)",
+    "couples": [
+      "Kristie Mullins & Marie Hobart",
+      "Nicolas Rael & Eileen Hodell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Mambo  (M)",
+    "couples": [
+      "Zachary Germain & Donna Crown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Daniel Meath & Deborah Dolan",
+      "April Knight & Sylvia Wojcik",
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Nicolas Rael & Eileen Hodell",
+      "Kristie Mullins & Marie Hobart"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Zachary Germain & Donna Crown"
+    ]
+  },
+  {
+    "name": "Amateur Adult A2 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Kathleen Brophy & Beth Aufiero"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding",
+      "Mike Baris & Anne",
+      "Daniel Meath & Elizabeth Nowakowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Am. Bolero  (B)",
+    "couples": [
+      "Nicolas Rael & Alicia Capellan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Gold Am. Bolero  (B)",
+    "couples": [
+      "Zachary Germain & Kelsey Lobie"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Open Am. Bolero  (B)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Gold Am. Mambo  (M)",
+    "couples": [
+      "Zachary Germain & Kelsey Lobie"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Nicolas Rael & Elizabeth Stackhouse",
+      "Jared Vigneaolt & Alison Burkart"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Closed Silver Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Zachary Germain & Donna Crown"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Anthony Ross & Maureen Cleary",
+      "Robert Cormack & Linda Cohen",
+      "Tom Battin & Daryl Battin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Zachary Germain & Michelle Mastin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Am. Bolero  (B)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Bronze Am. Bolero  (B)",
+    "couples": [
+      "Daniel Meath & Elizabeth Nowakowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Bolero  (B)",
+    "couples": [
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Bolero  (B)",
+    "couples": [
+      "Zachary Germain & Michelle Mastin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Nicolas Rael & Elizabeth Stackhouse"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Kristie Mullins & Marie Hobart",
+      "Nicolas Rael & Eileen Hodell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Zachary Germain & Donna Crown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Nicolas Rael & Alicia Capellan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Open Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Amateur Adult C2 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Tom Battin & Daryl Battin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Milan Locic & Alice Mrosczcyk",
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Nicolas Rael & Elizabeth Stackhouse"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Nicolas Rael & Elizabeth Stackhouse"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Open Am. Bolero  (B)",
+    "couples": [
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Open Am. Bolero  (B)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Open Am. Bolero  (B)",
+    "couples": [
+      "Gregory Warwick & Karen Batchelder"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Nicolas Rael & Alicia Capellan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Gold Am. Mambo  (M)",
+    "couples": [
+      "Zachary Germain & Kelsey Lobie"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Zachary Germain & Michelle Mastin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Open Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Open Am. Swing  (S)",
+    "couples": [
+      "Gregory Warwick & Karen Batchelder"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Silver Am. Bolero  (B)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Open Am. Mambo  (M)",
+    "couples": [
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Open Am. Mambo  (M)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed",
+      "Milan Locic & Alice Mrosczcyk"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Am. Rumba  (R)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Nicolas Rael & Elizabeth Stackhouse",
+      "Jared Vigneaolt & Alison Burkart"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Open Am. Rumba  (R)",
+    "couples": [
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Nicolas Rael & Elizabeth Stackhouse"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Am. Mambo  (M)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Nicolas Rael & Elizabeth Stackhouse"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze (P) Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding",
+      "Daniel Meath & Elizabeth Nowakowski",
+      "Kristie Mullins & Deb Larsen",
+      "Mike Baris & Anne"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis",
+      "Nicolas Rael & Elizabeth Stackhouse",
+      "Jared Vigneaolt & Alison Burkart"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Newcomer (P) Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith",
+      "Milan Locic & Kate Reid"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Nicolas Rael & Valeria Mazza"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Zachary Germain & Donna Crown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Open Am. Mambo  (M)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Milan Locic & Kate Reid",
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Amateur Adult B2 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Kristie Mullins & Marie Hobart",
+      "Nicolas Rael & Eileen Hodell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Silver Am. Swing  (S)",
+    "couples": [
+      "Zachary Germain & Donna Crown"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Open Am. Swing  (S)",
+    "couples": [
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Open Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Zachary Germain & Kelsey Lobie"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Open Am. Cha Cha  (C)",
+    "couples": [
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Open Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Amateur Adult C1 Open Am. Cha Cha  (C)",
+    "couples": [
+      "Gregory Warwick & Karen Batchelder"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "Tammy Keithley & Anya Jacoff"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Newcomer Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Kristie Mullins & Marie Hobart",
+      "Nicolas Rael & Eileen Hodell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Kristie Mullins & Marie Hobart",
+      "Nicolas Rael & Eileen Hodell"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Zachary Germain & Donna Crown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Bronze Am. Rumba  (R)",
+    "couples": [
+      "Milan Locic & Sharon Spaulding",
+      "Mike Baris & Anne",
+      "Daniel Meath & Elizabeth Nowakowski"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Gold Am. Rumba  (R)",
+    "couples": [
+      "Zachary Germain & Kelsey Lobie"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Zachary Germain & Kelsey Lobie"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Open Am. Cha Cha  (C)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Under 21 Open Am. Cha Cha  (C)",
+    "couples": [
+      "Jonathan Cabrera & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen",
+      "Kristie Mullins & Deb Larsen",
+      "Daniel Meath & Deborah Dolan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Gold Am. Swing  (S)",
+    "couples": [
+      "Zachary Germain & Kelsey Lobie"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Zachary Germain & Michelle Mastin",
+      "Arko Beybutyan & Linda Cohen",
+      "Daniel Meath & Deborah Dolan",
+      "Tony Miloski & Deb Larsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Int. Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Nicolas Rael & Alicia Capellan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Gold Am. Swing  (S)",
+    "couples": [
+      "Zachary Germain & Kelsey Lobie"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Under 21 Open Am. Swing  (S)",
+    "couples": [
+      "Jonathan Cabrera & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Nicolas Rael & Chelsea Smith"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult A2 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Am. Swing  (S)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Int. Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Int. Silver Intl. Samba  (S)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Int. Silver Intl. Rumba  (R)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Full Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Gold Intl. Samba  (S)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Gold Intl. Rumba  (R)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Int. Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Full Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Gold Intl. Jive  (J)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Full Silver Intl. Jive  (J)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Int. Silver Intl. Jive  (J)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Full Silver Intl. Samba  (S)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Mathew Shimizu & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Under 21 Open Intl. Cha Cha  (C)",
+    "couples": [
+      "Jonathan Cabrera & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Duke Khuu & Christopher Phan"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Intl. Samba  (S)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Milan Locic & Alice Mrosczcyk"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Mathew Shimizu & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Pavel Vodicka & Sharon Spence"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Under 21 Open Intl. Rumba  (R)",
+    "couples": [
+      "Jonathan Cabrera & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Gold Intl. Rumba  (R)",
+    "couples": [
+      "Duke Khuu & Christopher Phan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Newcomer Intl. Paso Doble  (P)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Mathew Shimizu & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Full Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Intl. Jive  (J)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Intl. Jive  (J)",
+    "couples": [
+      "Mathew Shimizu & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Under 21 Open Intl. Jive  (J)",
+    "couples": [
+      "Jonathan Cabrera & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Full Bronze Intl. Jive  (J)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Mathew Shimizu & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Intl. Samba  (S)",
+    "couples": [
+      "Mathew Shimizu & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C2 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Milan Locic & Alice Mrosczcyk"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Gold Intl. Samba  (S)",
+    "couples": [
+      "Duke Khuu & Christopher Phan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Mathew Shimizu & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Int. Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Pavel Vodicka & Sharon Spence"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Pre-Teen II Full Silver Intl. Rumba  (R)",
+    "couples": [
+      "Jani Bogre & Shreya Sharma"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Mathew Shimizu & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Duke Khuu & Christopher Phan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Intl. Jive  (J)",
+    "couples": [
+      "Mathew Shimizu & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Adult A1 Full Bronze Intl. Jive  (J)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur Adult B1 Gold Intl. Jive  (J)",
+    "couples": [
+      "Duke Khuu & Christopher Phan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C1 Pre-Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Pavel Vodicka & Sharon Spence"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B1 Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Mathew Shimizu & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 PB Scholarship Rhythm  (CRS)",
+    "couples": [
+      "Arko Beybutyan & Sam Steed"
+    ]
+  },
+  {
+    "name": "Amateur B Newcomer Rhythm  (CRS)",
+    "couples": [
+      "Pam Theodore & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur C Newcomer Rhythm  (CRS)",
+    "couples": [
+      "Robert Cormack & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C Newcomer Scholar Rhythm  (CRS)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult 1 Newcomer Scholar Rhythm  (CRS)",
+    "couples": [
+      "Mike Baris & Ryan Kane"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 2 Newcomer Scholar Latin  (CRJ)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 2 Bronze Scholarship Latin  (CSRPJ)",
+    "couples": [
+      "Jani Bogre & Kelly Rogers",
+      "Mathew Shimizu & Miwa Rifu"
+    ]
+  },
+  {
+    "name": "Amateur A Bronze Latin  (CSRPJ)",
+    "couples": [
+      "Michael Laemmle & Meixintong Zha"
+    ]
+  },
+  {
+    "name": "Amateur B Gold Latin  (CSRPJ)",
+    "couples": [
+      "Duke Khuu & Christopher Phan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 3 PB Scholarship Rhythm  (CRS)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C Silver Scholarship Rhythm  (CRSBM)",
+    "couples": [
+      "Zachary Germain & Donna Crown"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents Adult 1 Open Scholarship (1) Rhythm  (CRSBM)",
+    "couples": [
+      "Michael Sims & Dom Pandy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 2 Open Scholarship (1) Rhythm  (CRSBM)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Amateur C Open Rhythm  (CRSBM)",
+    "couples": [
+      "Gregory Warwick & Karen Batchelder"
+    ]
+  },
+  {
+    "name": "Amateur Adult 1 Championship  (1) Rhythm  (CRSBM)",
+    "couples": [
+      "Aniket Rad & Boris Yelin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 2 PB Scholarship Rhythm  (CRS)",
+    "couples": [
+      "Arko Beybutyan & Jennifer Marcus"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 2 Newcomer Scholar Rhythm  (CRS)",
+    "couples": [
+      "Mike Baris & Anne"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 2 Silver Scholarship Rhythm  (CRSBM)",
+    "couples": [
+      "Zachary Germain & Michele Kirousis"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 3 Newcomer Scholar Rhythm  (CRS)",
+    "couples": [
+      "Arko Beybutyan & Linda Cohen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C Bronze Scholarship Rhythm  (CRSBM)",
+    "couples": [
+      "Zachary Germain & Michelle Mastin"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult C3 Newcomer Scholar Rhythm  (CRS)",
+    "couples": [
+      "Arko Beybutyan & Connie Barr"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 1 Gold Scholarship Rhythm  (CRSBM)",
+    "couples": [
+      "Zachary Germain & Kelsey Lobie"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult 1 Open Scholarship (1) Rhythm  (CRSBM)",
+    "couples": [
+      "Arko Beybutyan & Gabrielle Dugas"
+    ]
+  },
+  {
+    "name": "Pro Adult Mix Intermediate Am. Multi-Dance  (WCR)",
+    "couples": [
+      "Nicolas Rael & Gianna Scalisi",
+      "Douglas Dombrowik & Tyla Tognarelli",
+      "Liz Davidson & Kara Crosgrove"
+    ]
+  },
+  {
+    "name": "Pro Adult Novice (1) Am. Multi-Dance  (TR)",
+    "couples": [
+      "Douglas Dombrowik & Tyla Tognarelli",
+      "Liz Davidson & Kara Crosgrove"
+    ]
+  },
+  {
+    "name": "Pro Adult Rising Star Smooth  (WTFV)",
+    "couples": [
+      "Michael Sims & Theresa Higtt"
+    ]
+  },
+  {
+    "name": "Pro Adult Open Rhythm  (CRSBM)",
+    "couples": [
+      "Zachary Germain & Jenna Caskie"
+    ]
+  },
+  {
+    "name": "Pro Adult Open Country  (TSWWC)",
+    "couples": [
+      "Christopher Muise & Bradley Mather",
+      "Michael Sims & Kat Flores"
+    ]
+  },
+  {
+    "name": "Pro Adult Open Smooth  (WTFV)",
+    "couples": [
+      "Mike Baris & Kat Flores",
+      "Michael Sims & Theresa Higtt"
+    ]
+  }
+]

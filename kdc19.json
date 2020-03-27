@@ -1,0 +1,817 @@
+[
+  {
+    "name": "Bronze Am. Waltz  (W)",
+    "couples": [
+      "Louis Orehek & Alyssa Reese",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Patrick Lee & Jiamin Wang",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Alexander Villatora & Victoria Leger",
+      "David Veller & Natalie Stone",
+      "Corey Herr & Shannon Fiedler",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Dhruv Patel & Alison Kempf",
+      "Atip Lawanprasert & 106 zNew_Follow",
+      "Jose Morel & Beth Nemerovsky",
+      "Currier Wolfe & Emily Gingrich",
+      "Grant Merkel & Samantha Hong",
+      "Jeremy Pritts & Mermaid Klar",
+      "Connor Patch & Faith Kibuye",
+      "Annan Shang & Katie Hayden",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Logan Badeau & Elizabeth DeCaro"
+    ]
+  },
+  {
+    "name": "Bronze Am. Tango  (T)",
+    "couples": [
+      "Louis Orehek & Alyssa Reese",
+      "Patrick Lee & Jiamin Wang",
+      "Grant Merkel & Samantha Hong",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "David Veller & Natalie Stone",
+      "Jose Morel & Beth Nemerovsky",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Alexander Villatora & Victoria Leger",
+      "Corey Herr & Shannon Fiedler",
+      "Dhruv Patel & Alison Kempf",
+      "Atip Lawanprasert & 106 zNew_Follow",
+      "Jeremy Pritts & Mermaid Klar",
+      "Connor Patch & Faith Kibuye",
+      "Annan Shang & Katie Hayden",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Logan Badeau & Elizabeth DeCaro",
+      "Currier Wolfe & Emily Gingrich",
+      "Malcolm Mallard & Shohini Banerjee"
+    ]
+  },
+  {
+    "name": "Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Patrick Lee & Jiamin Wang",
+      "Louis Orehek & Alyssa Reese",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "David Veller & Natalie Stone",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Grant Merkel & Samantha Hong",
+      "Dhruv Patel & Alison Kempf",
+      "Alexander Villatora & Victoria Leger",
+      "Jose Morel & Beth Nemerovsky",
+      "Corey Herr & Shannon Fiedler",
+      "Atip Lawanprasert & 106 zNew_Follow",
+      "Logan Badeau & Elizabeth DeCaro",
+      "Currier Wolfe & Emily Gingrich",
+      "Laurel Wood & Isabell Kassaye",
+      "Jeremy Pritts & Mermaid Klar",
+      "Connor Patch & Faith Kibuye",
+      "Annan Shang & Katie Hayden",
+      "Malcolm Mallard & Shohini Banerjee"
+    ]
+  },
+  {
+    "name": "Silver Smooth  (WT)",
+    "couples": [
+      "Lorenz Vargas & Dasom Chung",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Patrick Lee & Jiamin Wang",
+      "Chris Cortez & Jay Liu"
+    ]
+  },
+  {
+    "name": "Silver Smooth  (FV)",
+    "couples": [
+      "Lorenz Vargas & Dasom Chung",
+      "Chris Cortez & Jay Liu",
+      "Ryan Lidgett & Elizabeth Jiang"
+    ]
+  },
+  {
+    "name": "Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Louis Orehek & Alyssa Reese",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "David Veller & Natalie Stone",
+      "Patrick Lee & Jiamin Wang",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Corey Herr & Shannon Fiedler",
+      "Grant Merkel & Samantha Hong",
+      "Jose Morel & Beth Nemerovsky",
+      "Logan Badeau & Elizabeth DeCaro",
+      "Dhruv Patel & Alison Kempf",
+      "Annan Shang & Katie Hayden",
+      "Laurel Wood & Isabell Kassaye",
+      "Jared Mondschein & Paulina Piotrowski"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Alexander Villatora & Victoria Leger",
+      "Connor Patch & Faith Kibuye",
+      "Jeremy Pritts & Mermaid Klar",
+      "Annan Shang & Katie Hayden",
+      "Danny Ayllon & Shannon Fiedler",
+      "Jake Ryan & Elizabeth Carpenter",
+      "Atip Lawanprasert & Jay Liu",
+      "Laurel Wood & Isabell Kassaye",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Jacqueline Gu & Amy Padia"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Tango  (T)",
+    "couples": [
+      "Alexander Villatora & Victoria Leger",
+      "Connor Patch & Faith Kibuye",
+      "Annan Shang & Katie Hayden",
+      "Jacqueline Gu & Amy Padia",
+      "Laurel Wood & Isabell Kassaye",
+      "Atip Lawanprasert & Jay Liu",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Jeremy Pritts & Mermaid Klar",
+      "Danny Ayllon & Shannon Fiedler",
+      "Jake Ryan & Elizabeth Carpenter"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Alexander Villatora & Victoria Leger",
+      "Laurel Wood & Isabell Kassaye",
+      "Connor Patch & Faith Kibuye",
+      "Annan Shang & Katie Hayden",
+      "Atip Lawanprasert & Jay Liu",
+      "Jeremy Pritts & Mermaid Klar",
+      "Jacqueline Gu & Amy Padia",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Jake Ryan & Elizabeth Carpenter",
+      "Danny Ayllon & Shannon Fiedler"
+    ]
+  },
+  {
+    "name": "Gold Smooth  (WTFV)",
+    "couples": [
+      "Stephen Chen & Jenny Saouaf",
+      "Christopher Doty & Kelsey Farenhem",
+      "Michael Porter & Dasom Chung",
+      "Chris Cortez & Jay Liu"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Louis Orehek & Alyssa Reese",
+      "Platon Lukyanenko & Erika Nosal",
+      "Alexander Villatora & Victoria Leger",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "David Veller & Natalie Stone",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Grant Merkel & Samantha Hong",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Connor Patch & Faith Kibuye",
+      "Corey Herr & Shannon Fiedler",
+      "Jared Mondschein & Paulina Piotrowski",
+      "Laurel Wood & Isabell Kassaye",
+      "Jeremy Pritts & Mermaid Klar",
+      "Jose Morel & Beth Nemerovsky",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Atip Lawanprasert & Jay Liu",
+      "Eshet Wodajo & Elizabeth DeCaro",
+      "Dhruv Patel & Alison Kempf",
+      "Annan Shang & Katie Hayden",
+      "Hua Tian & Atip Lawanprasert"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Tango  (T)",
+    "couples": [
+      "Platon Lukyanenko & Erika Nosal",
+      "Louis Orehek & Alyssa Reese",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Alexander Villatora & Victoria Leger",
+      "David Veller & Natalie Stone",
+      "Connor Patch & Faith Kibuye",
+      "Grant Merkel & Samantha Hong",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Corey Herr & Shannon Fiedler",
+      "Jose Morel & Beth Nemerovsky",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Jeremy Pritts & Mermaid Klar",
+      "Dhruv Patel & Alison Kempf",
+      "Laurel Wood & Isabell Kassaye",
+      "Jared Mondschein & Paulina Piotrowski",
+      "Atip Lawanprasert & Jay Liu",
+      "Eshet Wodajo & Elizabeth DeCaro",
+      "Annan Shang & Katie Hayden",
+      "Hua Tian & Atip Lawanprasert"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Louis Orehek & Alyssa Reese",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Platon Lukyanenko & Erika Nosal",
+      "David Veller & Natalie Stone",
+      "Grant Merkel & Samantha Hong",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Alexander Villatora & Victoria Leger",
+      "Corey Herr & Shannon Fiedler",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Connor Patch & Faith Kibuye",
+      "Jeremy Pritts & Mermaid Klar",
+      "Annan Shang & Katie Hayden",
+      "Laurel Wood & Isabell Kassaye",
+      "Jose Morel & Beth Nemerovsky",
+      "Jared Mondschein & Paulina Piotrowski",
+      "Atip Lawanprasert & Jay Liu",
+      "Eshet Wodajo & Elizabeth DeCaro",
+      "Dhruv Patel & Alison Kempf",
+      "Hua Tian & Atip Lawanprasert",
+      "Malcolm Mallard & Shohini Banerjee"
+    ]
+  },
+  {
+    "name": "Silver Standard  (WQ)",
+    "couples": [
+      "Tommy Zinkovsky & Rebekah Russell",
+      "Adrian Sarmiento & Carly Mattox",
+      "Lars Breuer & Vanessa Kessler",
+      "Justin Valenti & Talia Leventhal",
+      "Lorenz Vargas & Dasom Chung",
+      "Louis Orehek & Alyssa Reese",
+      "Chris Cortez & Jay Liu",
+      "Patrick Lee & Jiamin Wang",
+      "Chi Zhang & Jenny Saouaf",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Jared Mondschein & Paulina Piotrowski"
+    ]
+  },
+  {
+    "name": "Silver Standard  (TF)",
+    "couples": [
+      "Adrian Sarmiento & Carly Mattox",
+      "Tommy Zinkovsky & Rebekah Russell",
+      "Justin Valenti & Talia Leventhal",
+      "Lars Breuer & Vanessa Kessler",
+      "Lorenz Vargas & Dasom Chung",
+      "Chris Cortez & Jay Liu",
+      "Louis Orehek & Alyssa Reese",
+      "Patrick Lee & Jiamin Wang",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Chi Zhang & Jenny Saouaf"
+    ]
+  },
+  {
+    "name": "Syllabus Intl. V. Waltz  (V)",
+    "couples": [
+      "Lars Breuer & Vanessa Kessler",
+      "Christopher Doty & Kelsey Farenhem",
+      "Adrian Sarmiento & Carly Mattox",
+      "Justin Valenti & Talia Leventhal",
+      "Tommy Zinkovsky & Rebekah Russell",
+      "Lorenz Vargas & Dasom Chung",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Platon Lukyanenko & Erika Nosal",
+      "Louis Orehek & Alyssa Reese",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Corey Herr & Shannon Fiedler",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Grant Merkel & Samantha Hong",
+      "Jared Mondschein & Paulina Piotrowski"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Louis Orehek & Alyssa Reese",
+      "Platon Lukyanenko & Erika Nosal",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Grant Merkel & Samantha Hong",
+      "David Veller & Natalie Stone",
+      "Corey Herr & Shannon Fiedler",
+      "Dhruv Patel & Alison Kempf",
+      "Laurel Wood & Isabell Kassaye",
+      "Jose Morel & Beth Nemerovsky"
+    ]
+  },
+  {
+    "name": "Gold Standard  (WTFQ)",
+    "couples": [
+      "Victor Song & Eileen You",
+      "Tommy Zinkovsky & Rebekah Russell",
+      "Michael Porter & Dasom Chung",
+      "Christopher Doty & Kelsey Farenhem",
+      "Lars Breuer & Vanessa Kessler",
+      "Justin Valenti & Talia Leventhal",
+      "Chris Cortez & Jay Liu",
+      "Patrick Lee & Jiamin Wang"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Lars Breuer & 118 zNew_Follow",
+      "Alexander Villatora & Victoria Leger",
+      "Connor Patch & Faith Kibuye",
+      "Laurel Wood & Isabell Kassaye",
+      "Annan Shang & Katie Hayden",
+      "Atip Lawanprasert & Jay Liu",
+      "Jeremy Pritts & Mermaid Klar",
+      "Eshet Wodajo & Alexandra Lombard",
+      "Jacqueline Gu & Amy Padia",
+      "Jakob Haiman & Jessica Xu",
+      "Logan Badeau & Samantha Hong",
+      "Jake Ryan & Elizabeth Carpenter",
+      "Danny Ayllon & Shannon Fiedler",
+      "Malcolm Mallard & Shohini Banerjee"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Lars Breuer & 118 zNew_Follow",
+      "Alexander Villatora & Victoria Leger",
+      "Connor Patch & Faith Kibuye",
+      "Laurel Wood & Isabell Kassaye",
+      "Annan Shang & Katie Hayden",
+      "Jacqueline Gu & Amy Padia",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Logan Badeau & Samantha Hong",
+      "Atip Lawanprasert & Jay Liu",
+      "Jeremy Pritts & Mermaid Klar",
+      "Eshet Wodajo & Alexandra Lombard",
+      "Jake Ryan & Elizabeth Carpenter",
+      "Danny Ayllon & Shannon Fiedler"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Alexander Villatora & Victoria Leger",
+      "Lars Breuer & 118 zNew_Follow",
+      "Connor Patch & Faith Kibuye",
+      "Annan Shang & Katie Hayden",
+      "Logan Badeau & Samantha Hong",
+      "Jeremy Pritts & Mermaid Klar",
+      "Atip Lawanprasert & Jay Liu",
+      "Eshet Wodajo & Alexandra Lombard",
+      "Laurel Wood & Isabell Kassaye",
+      "Jacqueline Gu & Amy Padia",
+      "Jakob Haiman & Jessica Xu",
+      "Jake Ryan & Elizabeth Carpenter",
+      "Danny Ayllon & Shannon Fiedler",
+      "Malcolm Mallard & Shohini Banerjee"
+    ]
+  },
+  {
+    "name": "Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Louis Orehek & Alyssa Reese",
+      "David Veller & Natalie Stone",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Jose Morel & Beth Nemerovsky",
+      "Grant Merkel & Samantha Hong",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Laurel Wood & Isabell Kassaye",
+      "Jim Palmer & Elizabeth DeCaro",
+      "Jeremy Pritts & Mermaid Klar",
+      "Connor Patch & Faith Kibuye",
+      "Alexander Villatora & Victoria Leger",
+      "Annan Shang & Katie Hayden",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Dhruv Patel & Alison Kempf"
+    ]
+  },
+  {
+    "name": "Bronze Am. Rumba  (R)",
+    "couples": [
+      "Louis Orehek & Alyssa Reese",
+      "David Veller & Natalie Stone",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Jose Morel & Beth Nemerovsky",
+      "Grant Merkel & Samantha Hong",
+      "Laurel Wood & Isabell Kassaye",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Dhruv Patel & Alison Kempf",
+      "Alexander Villatora & Victoria Leger",
+      "Annan Shang & Katie Hayden",
+      "Jim Palmer & Elizabeth DeCaro",
+      "Connor Patch & Faith Kibuye",
+      "Jeremy Pritts & Mermaid Klar",
+      "Malcolm Mallard & Shohini Banerjee"
+    ]
+  },
+  {
+    "name": "Bronze Am. Swing  (S)",
+    "couples": [
+      "Faizon Alexander & Tiarra Johnson",
+      "Louis Orehek & Alyssa Reese",
+      "Jordan Ellis & Sierra Ferrell",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "David Veller & Natalie Stone",
+      "Dhruv Patel & Alison Kempf",
+      "Connor Patch & Faith Kibuye",
+      "Grant Merkel & Samantha Hong",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Alexander Villatora & Victoria Leger",
+      "Laurel Wood & Isabell Kassaye",
+      "Annan Shang & Katie Hayden",
+      "Jose Morel & Beth Nemerovsky",
+      "Currier Wolfe & Emily Gingrich",
+      "Jeremy Pritts & Mermaid Klar",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Jim Palmer & Elizabeth DeCaro"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Grant Merkel & Samantha Hong",
+      "D`Aundre Seldon & Pam Roberts",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Laurel Wood & Isabell Kassaye",
+      "Annan Shang & Katie Hayden",
+      "Logan Badeau & Amy Padia",
+      "Alexander Villatora & Victoria Leger",
+      "Connor Patch & Faith Kibuye",
+      "Nigel Allen & Tiarra Johnson",
+      "Jake Ryan & Elizabeth Carpenter",
+      "Danny Ayllon & Shannon Fiedler",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Jeremy Pritts & Mermaid Klar",
+      "Faizon Alexander & 138 zNew_Follow"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Rumba  (R)",
+    "couples": [
+      "D`Aundre Seldon & Pam Roberts",
+      "Grant Merkel & Samantha Hong",
+      "Nigel Allen & Tiarra Johnson",
+      "Laurel Wood & Isabell Kassaye",
+      "Logan Badeau & Amy Padia",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Annan Shang & Katie Hayden",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Jeremy Pritts & Mermaid Klar",
+      "Connor Patch & Faith Kibuye",
+      "Alexander Villatora & Victoria Leger",
+      "Jake Ryan & Elizabeth Carpenter",
+      "Danny Ayllon & Shannon Fiedler"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Swing  (S)",
+    "couples": [
+      "Faizon Alexander & Eme Bassey",
+      "Nigel Allen & Tiarra Johnson",
+      "Jordan Ellis & Sierra Ferrell",
+      "D`Aundre Seldon & Pam Roberts",
+      "Grant Merkel & Samantha Hong",
+      "Laurel Wood & Isabell Kassaye",
+      "Logan Badeau & Amy Padia",
+      "Connor Patch & Faith Kibuye",
+      "Annan Shang & Katie Hayden",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Alexander Villatora & Victoria Leger",
+      "Jeremy Pritts & Mermaid Klar",
+      "Jake Ryan & Elizabeth Carpenter",
+      "Danny Ayllon & Shannon Fiedler"
+    ]
+  },
+  {
+    "name": "Bronze Am. Mambo  (M)",
+    "couples": [
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Louis Orehek & Alyssa Reese",
+      "David Veller & Natalie Stone",
+      "Grant Merkel & Samantha Hong",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Laurel Wood & Isabell Kassaye",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Annan Shang & Katie Hayden",
+      "Dhruv Patel & Alison Kempf",
+      "Jose Morel & Beth Nemerovsky",
+      "Chi Zhang & Jiamin Wang",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Jim Palmer & Elizabeth DeCaro"
+    ]
+  },
+  {
+    "name": "Silver Rhythm  (CR)",
+    "couples": [
+      "D`Aundre Seldon & Tiarra Johnson",
+      "Patrick Lee & Jenny Saouaf",
+      "Chris Cortez & Jay Liu"
+    ]
+  },
+  {
+    "name": "Silver Rhythm  (SM)",
+    "couples": [
+      "D`Aundre Seldon & Tiarra Johnson",
+      "Patrick Lee & Jenny Saouaf",
+      "Chris Cortez & Jay Liu"
+    ]
+  },
+  {
+    "name": "Gold Rhythm  (CRSM)",
+    "couples": [
+      "Lorenz Vargas & Dasom Chung",
+      "Chris Cortez & Jay Liu"
+    ]
+  },
+  {
+    "name": "Syllabus Am. Bolero  (B)",
+    "couples": [
+      "Lorenz Vargas & Dasom Chung"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Faizon Alexander & Tiarra Johnson",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Jordan Ellis & Sierra Ferrell",
+      "David Veller & Natalie Stone",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Platon Lukyanenko & Erika Nosal",
+      "Louis Orehek & Alyssa Reese",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Alexander Villatora & Victoria Leger",
+      "Grant Merkel & Samantha Hong",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Currier Wolfe & Emily Gingrich",
+      "Annan Shang & Katie Hayden",
+      "Laurel Wood & Isabell Kassaye",
+      "Corey Herr & Shannon Fiedler",
+      "Jose Morel & Beth Nemerovsky",
+      "Logan Badeau & Amy Padia",
+      "Jeremy Pritts & Mermaid Klar",
+      "Connor Patch & Faith Kibuye",
+      "Eshet Wodajo & Elizabeth DeCaro",
+      "Dhruv Patel & Alison Kempf",
+      "Chi Zhang & Jiamin Wang",
+      "Malcolm Mallard & Shohini Banerjee"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Samba  (S)",
+    "couples": [
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "David Veller & Natalie Stone",
+      "Platon Lukyanenko & Erika Nosal",
+      "Louis Orehek & Alyssa Reese",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Grant Merkel & Samantha Hong",
+      "Jose Morel & Beth Nemerovsky",
+      "Jordan Ellis & Sierra Ferrell",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Laurel Wood & Isabell Kassaye",
+      "Logan Badeau & Amy Padia",
+      "Currier Wolfe & Emily Gingrich",
+      "Jim Palmer & Elizabeth DeCaro",
+      "Dhruv Patel & Alison Kempf",
+      "Chi Zhang & Jiamin Wang"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Faizon Alexander & Tiarra Johnson",
+      "David Veller & Natalie Stone",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Platon Lukyanenko & Erika Nosal",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Jordan Ellis & Sierra Ferrell",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Louis Orehek & Alyssa Reese",
+      "Alexander Villatora & Victoria Leger",
+      "Grant Merkel & Samantha Hong",
+      "Jose Morel & Beth Nemerovsky",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Logan Badeau & Amy Padia",
+      "Annan Shang & Katie Hayden",
+      "Currier Wolfe & Emily Gingrich",
+      "Connor Patch & Faith Kibuye",
+      "Laurel Wood & Isabell Kassaye",
+      "Jeremy Pritts & Mermaid Klar",
+      "Eshet Wodajo & Elizabeth DeCaro",
+      "Dhruv Patel & Alison Kempf",
+      "Corey Herr & Shannon Fiedler",
+      "Chi Zhang & Jiamin Wang",
+      "Malcolm Mallard & Shohini Banerjee"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Jive  (J)",
+    "couples": [
+      "Faizon Alexander & Tiarra Johnson",
+      "Platon Lukyanenko & Erika Nosal",
+      "Nicholas Vasquez & Stephanie Gonzalez",
+      "Jordan Ellis & Sierra Ferrell",
+      "Louis Orehek & Alyssa Reese",
+      "David Veller & Natalie Stone",
+      "Arthur Pamboukis & Elizabeth Carpenter",
+      "Grant Merkel & Samantha Hong",
+      "Jesse Mogilyansky & Mariya Savinov",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Jose Morel & Beth Nemerovsky",
+      "Alexander Villatora & Victoria Leger",
+      "Annan Shang & Katie Hayden",
+      "Dhruv Patel & Alison Kempf",
+      "Logan Badeau & Amy Padia",
+      "Laurel Wood & Isabell Kassaye",
+      "Jeremy Pritts & Mermaid Klar",
+      "Connor Patch & Faith Kibuye",
+      "Eshet Wodajo & Elizabeth DeCaro",
+      "Corey Herr & Shannon Fiedler",
+      "Chi Zhang & Jiamin Wang",
+      "Malcolm Mallard & Shohini Banerjee"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Faizon Alexander & Eme Bassey",
+      "Jordan Ellis & Sierra Ferrell",
+      "Nigel Allen & Tiarra Johnson",
+      "Annan Shang & Katie Hayden",
+      "Laurel Wood & Isabell Kassaye",
+      "Alexander Villatora & Victoria Leger",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Connor Patch & Faith Kibuye",
+      "Jakob Haiman & Jessica Xu",
+      "Danny Ayllon & Shannon Fiedler",
+      "Drew Russell & Hua Tian",
+      "Jeremy Pritts & Mermaid Klar",
+      "Eshet Wodajo & Elizabeth DeCaro",
+      "Jake Ryan & Elizabeth Carpenter"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Jordan Ellis & Sierra Ferrell",
+      "Faizon Alexander & Eme Bassey",
+      "Nigel Allen & Tiarra Johnson",
+      "Alexander Villatora & Victoria Leger",
+      "Laurel Wood & Isabell Kassaye",
+      "Annan Shang & Katie Hayden",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Jakob Haiman & Jessica Xu",
+      "Eshet Wodajo & Elizabeth DeCaro",
+      "Drew Russell & Hua Tian",
+      "Jeremy Pritts & Mermaid Klar",
+      "Connor Patch & Faith Kibuye",
+      "Jake Ryan & Elizabeth Carpenter",
+      "Danny Ayllon & Shannon Fiedler"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Jordan Ellis & Sierra Ferrell",
+      "Faizon Alexander & Eme Bassey",
+      "Nigel Allen & Tiarra Johnson",
+      "Annan Shang & Katie Hayden",
+      "Alexander Villatora & Victoria Leger",
+      "Connor Patch & Faith Kibuye",
+      "Laurel Wood & Isabell Kassaye",
+      "Malcolm Mallard & Shohini Banerjee",
+      "Drew Russell & Hua Tian",
+      "Jeremy Pritts & Mermaid Klar",
+      "Eshet Wodajo & Elizabeth DeCaro",
+      "Jake Ryan & Elizabeth Carpenter",
+      "Danny Ayllon & Shannon Fiedler"
+    ]
+  },
+  {
+    "name": "Silver Latin  (CR)",
+    "couples": [
+      "Jordan Ellis & Molly Rohrer",
+      "Lorenz Vargas & Dasom Chung",
+      "Patrick Lee & Jenny Saouaf",
+      "Christopher Doty & Kelsey Farenhem",
+      "Justin Valenti & Talia Leventhal",
+      "Louis Orehek & Alyssa Reese",
+      "Chris Cortez & Jay Liu",
+      "Lars Breuer & Vanessa Kessler",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Jim Palmer & Jacqueline Gu"
+    ]
+  },
+  {
+    "name": "Silver Latin  (SJ)",
+    "couples": [
+      "Lorenz Vargas & Dasom Chung",
+      "Jordan Ellis & Molly Rohrer",
+      "Patrick Lee & Jenny Saouaf",
+      "Christopher Doty & Kelsey Farenhem",
+      "Justin Valenti & Talia Leventhal",
+      "Chris Cortez & Jay Liu",
+      "Louis Orehek & Alyssa Reese",
+      "Ryan Lidgett & Elizabeth Jiang",
+      "Jim Palmer & Jacqueline Gu"
+    ]
+  },
+  {
+    "name": "Gold Latin  (SCRJ)",
+    "couples": [
+      "Adrian Sarmiento & Carly Mattox",
+      "Jordan Ellis & Molly Rohrer",
+      "Justin Valenti & Talia Leventhal"
+    ]
+  },
+  {
+    "name": "Syllabus Intl. Paso Doble  (P)",
+    "couples": [
+      "Adrian Sarmiento & Carly Mattox",
+      "Justin Valenti & Talia Leventhal",
+      "Lorenz Vargas & Dasom Chung",
+      "Louis Orehek & Elizabeth DeCaro",
+      "Jim Palmer & Jacqueline Gu"
+    ]
+  },
+  {
+    "name": "Open Rhythm  (CRSM)",
+    "couples": [
+      "Kevin Chan & Roxanne Schroeder",
+      "Cameron Hammel & Molly Rohrer",
+      "Bob Carleone & Sam Sye"
+    ]
+  },
+  {
+    "name": "Open Am. Bolero  (B)",
+    "couples": [
+      "Kevin Chan & Roxanne Schroeder",
+      "Cameron Hammel & Molly Rohrer",
+      "Bob Carleone & Sam Sye"
+    ]
+  },
+  {
+    "name": "Open Latin  (SCRJ)",
+    "couples": [
+      "Cameron Hammel & Masha Sierova",
+      "Kevin Chan & Roxanne Schroeder",
+      "Stephen Chen & Maria Peifer",
+      "Marcus Thomas & Molly Rohrer",
+      "Elliott Toy & Yvonne Ma",
+      "Jeff Kuelling & Alexandra Lombard",
+      "Stephen O`Neill & Kelly Douglass"
+    ]
+  },
+  {
+    "name": "Open Intl. Paso Doble  (P)",
+    "couples": [
+      "Kevin Chan & Roxanne Schroeder",
+      "Stephen O`Neill & Kelly Douglass"
+    ]
+  },
+  {
+    "name": "Open Smooth  (WTFV)",
+    "couples": [
+      "Chen Ling & Natalie Plumb",
+      "Cameron Hammel & Molly Rohrer",
+      "Bob Carleone & Sam Sye"
+    ]
+  },
+  {
+    "name": "Open Standard  (WTFQ)",
+    "couples": [
+      "Marcus Thomas & Masha Sierova",
+      "Elliott Toy & Daphne Lee",
+      "Andrew Simonson & Natalie Nash",
+      "Victor Song & Eileen You",
+      "Stephen O`Neill & Kelly Douglass"
+    ]
+  },
+  {
+    "name": "Open Intl. V. Waltz  (V)",
+    "couples": [
+      "Marcus Thomas & Masha Sierova",
+      "Elliott Toy & Daphne Lee",
+      "Andrew Simonson & Natalie Nash",
+      "Stephen O`Neill & Kelly Douglass",
+      "Chen Ling & Natalie Plumb"
+    ]
+  }
+]

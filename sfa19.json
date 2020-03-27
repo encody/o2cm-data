@@ -1,0 +1,820 @@
+[
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Am. Waltz  (W)",
+    "couples": [
+      "David Chan & Sarah Bodanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Silver Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Int. Silver Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Silver Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Gold Intl. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Full Silver Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Silver Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Gents Adult B2 Full Silver Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Silver Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Champ Intl. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Silver Am. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Silver Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Gold Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Intl. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Gold Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Silver Am. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Silver Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Intl. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Gold Am. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Gold Am. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Gold Am. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Pre-Champ Intl. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Pre-Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Pre-Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Gold Intl. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Gold Am. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Gold Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Gold Am. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Newcomer Ballroom  (WT)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Newcomer Smooth  (WT)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Silver/Gold Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Silver/Gold Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Open Gold Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Silver Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Gold Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Gold Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Gold Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Junior I Silver/Gold Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Open Gold Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Junior I Open Gold Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Silver Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Gold Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Gold Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Gold Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Pre-Bronze Ballroom  (WT)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Pre-Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Pre-Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Silver Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Bronze Ballroom  (WT)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Newcomer Ballroom  (WT)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Bronze Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Pre-Bronze Ballroom  (WT)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Silver Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Novice (1) Smooth  (WTF)",
+    "couples": []
+  },
+  {
+    "name": "Mixed Ladies Juvenile 1 Pre-Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Silver Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Pre-Champ Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Pre-Champ Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Newcomer Ballroom  (WT)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Newcomer Ballroom  (WT)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Bronze Ballroom  (WT)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Pre-Champ Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Pre-Champ Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Silver Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Silver Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Silver Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Open Ballroom  (WTVFQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Open Ballroom  (WTVFQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Open Ballroom  (WTVFQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Newcomer Rhythm  (CS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Novice (1) Rhythm  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Newcomer Latin  (CR)",
+    "couples": []
+  },
+  {
+    "name": "Mixed Ladies Juvenile II Pre-Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Bronze Latin  (CR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Pre-Bronze Latin  (CR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Pre-Bronze Latin  (CR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Silver Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Open Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Open Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Newcomer Latin  (CR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Silver/Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Silver/Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Mixed Ladies Juvenile 1 Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Newcomer Latin  (CR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Newcomer Latin  (CR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile 1 Bronze Latin  (CR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Junior I Bronze Latin  (CR)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Junior I Silver/Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Mixed Ladies Juvenile II Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Juvenile II Silver Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Solo Junior I Open Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Junior 1 Int. Silver Intl. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Junior II Open Intl. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Silver Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Champ Intl. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Junior II Open Intl. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult A2 Pre-Champ Intl. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Silver Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Silver Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Silver Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Silver Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Pre-Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Bronze Blk 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Silver Blk 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Silver Blk 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Gold Blk 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Gold Blk 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Pre-Champ Intl. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division A One Dance Open Intl. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Silver Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Silver Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Open Silver Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Junior 1 Int. Silver Intl. Samba  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division A One Dance Open Intl. Samba  (S)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Silver Blk 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Gold Blk 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Pre-Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Pre-Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Gold Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Gold Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Gold Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Int. Gold Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Junior 1 Int. Silver Intl. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division A One Dance Open Intl. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Gold Am. Cha Cha  (C)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Gold Am. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Gold Am. Swing  (S)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult B2 Full Gold Am. Bolero  (B)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Adult A1 Pre-Champ Intl. Rumba  (R)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Junior II Open Intl. Samba  (S)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Silver Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Silver Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Silver Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior I Silver Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Junior 1 Int. Silver Intl. Paso Doble  (P)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Ladies Junior 1 Int. Silver Intl. Jive  (J)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division A Gold Star Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Pre-Champ Blk 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Pre-Champ Blk 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division C  Rising Star Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Pre-Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Pre-Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Pre-Champ Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Pre-Champ Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile 1 Open Latin  (CSRPJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile II Open Latin  (CSRPJ)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Junior II Rising Star Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division A One Dance Open Intl. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division B One Dance Open Intl. Waltz  (W)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division A One Dance Open Intl. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division B One Dance Open Intl. Tango  (T)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division A One Dance Open Intl. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division B One Dance Open Intl. Foxtrot  (F)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Silver Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division B One Dance Open Intl. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division B One Dance Open Intl. Quickstep  (Q)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division A Pre-Champ Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Junior II Pre-Champ Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Under 21 Gold Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Open Latin  (CSRPJ)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division C  Open Scholarship 3D Ballroom  (WTF)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division B Open Scholarship Ballroom  (WTVFQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Open Ballroom  (WTVFQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Silver Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Pre-Champ Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Same Sex Adult Pre-Champ Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Blk 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Under 21 Gold Blk 2 Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Open Latin  (CSRPJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Under 21 Gold Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Open Ballroom  (WTVFQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Silver Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Under 21 Gold Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior I Silver Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Under 21 Silver Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Silver Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Silver Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Pre-Champ Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Senior III Silver Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Under 21 Silver Blk 2 Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Open Ballroom  (WTVFQ)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Division A Pre-Champ Smooth  (WTFV)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Adult A1 Pre-Champ (1) Rhythm  (CRSB)",
+    "couples": []
+  }
+]

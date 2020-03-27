@@ -1,0 +1,951 @@
+[
+  {
+    "name": "Amateur* Collegiate* Newcomer* Am. Rumba*  (R)",
+    "couples": [
+      "Nia Heinrich & Arden Agos"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Pre-Novice* Smooth*  (WT)",
+    "couples": [
+      "Michael Perce & Queenique Dinh",
+      "Alexey Tregubov & Dana Dinh",
+      "Joshua Rice & Megan Fisher"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Pre-Champ* Smooth*  (WTFV)",
+    "couples": [
+      "Edward Rogers & Trisha Rogers"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Am. Waltz*  (W)",
+    "couples": [
+      "Nathan Justin & Sydney Clark",
+      "Kalani Newman & Hannah Kernal",
+      "Juha Nieminen & Mingze Sun",
+      "Nikhil Thomas Vettikattu & Jay Canyarasmi",
+      "Joaquin Malagon & Parminder Ghotra"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Am. Tango*  (T)",
+    "couples": [
+      "Juha Nieminen & Mingze Sun",
+      "Kalani Newman & Hannah Kernal",
+      "Alvin Liang & Jie Zhang",
+      "Nathan Justin & Sydney Clark",
+      "Renee De Palma & Jane Hammond",
+      "Nikhil Thomas Vettikattu & Jay Canyarasmi",
+      "Franco Vidal & Nia Heinrich"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Am. Foxtrot*  (F)",
+    "couples": [
+      "Juha Nieminen & Mingze Sun",
+      "Nathan Justin & Sydney Clark",
+      "Renee De Palma & Jane Hammond",
+      "Alvin Liang & Jie Zhang",
+      "Kalani Newman & Hannah Kernal",
+      "Nikhil Thomas Vettikattu & Jay Canyarasmi"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Silver* Smooth*  (WT)",
+    "couples": [
+      "Kevin Enario & Jasmine Galdamez",
+      "Devin Mercier & Nicole Pang",
+      "Kalani Newman & Hannah Kernal",
+      "Juha Nieminen & Mingze Sun",
+      "Clark Whitsett & Logan Kramer",
+      "Alexander Frangulov & Lauren Tovar",
+      "Renee De Palma & Jane Hammond",
+      "Nikhil Thomas Vettikattu & Jay Canyarasmi"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Silver 2* Smooth*  (FV)",
+    "couples": [
+      "Kevin Enario & Jasmine Galdamez",
+      "Devin Mercier & Nicole Pang",
+      "Kalani Newman & Hannah Kernal",
+      "Alexander Frangulov & Lauren Tovar",
+      "Juha Nieminen & Juha Nieminen",
+      "Clark Whitsett & Logan Kramer",
+      "Renee De Palma & Jane Hammond"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Am. V. Waltz*  (V)",
+    "couples": [
+      "Nathan Justin & Sydney Clark",
+      "Kalani Newman & Hannah Kernal",
+      "Juha Nieminen & Mingze Sun",
+      "Alvin Liang & Jie Zhang",
+      "Renee De Palma & Jane Hammond"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Am. Waltz*  (W)",
+    "couples": [
+      "Alvin Liang & Jie Zhang",
+      "Bryan Lam & Erin Webbs"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Am. Tango*  (T)",
+    "couples": [
+      "Alvin Liang & Jie Zhang",
+      "Bryan Lam & Arden Agos"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Am. Foxtrot*  (F)",
+    "couples": [
+      "Alvin Liang & Jie Zhang",
+      "Mikhail Cabillan & Nadine Lampe"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Am. V. Waltz*  (V)",
+    "couples": [
+      "Alvin Liang & Jie Zhang"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Gold* Smooth*  (WT)",
+    "couples": [
+      "Michael Perce & Queenique Dinh",
+      "Alexey Tregubov & Dana Dinh",
+      "Devin Mercier & Nicole Pang",
+      "Clark Whitsett & Logan Kramer"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Gold 2* Smooth*  (FV)",
+    "couples": [
+      "Michael Perce & Queenique Dinh",
+      "Devin Mercier & Nicole Pang",
+      "Alexey Tregubov & Dana Dinh",
+      "Clark Whitsett & Logan Kramer"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Am. Waltz*  (W)",
+    "couples": [
+      "Alexey Tregubov & Mingze Sun",
+      "Michael Perez & Lauren Tovar",
+      "Alexander Frangulov & Rachel Good"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Am. Tango*  (T)",
+    "couples": [
+      "Michael Perez & Joan Li",
+      "Alexey Tregubov & Mingze Sun",
+      "Alexander Frangulov & Rachel Good"
+    ]
+  },
+  {
+    "name": "Rookie Leads* Collegiate* Bronze* Am. Tango*  (T)",
+    "couples": [
+      "Juha Nieminen & Dana Dinh",
+      "Bradley Davis & Vanessa Garcia"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Am. Foxtrot*  (F)",
+    "couples": [
+      "Alexey Tregubov & Mingze Sun",
+      "Michael Perez & Lauren Tovar",
+      "Michael Perce & Katherine Nguyen",
+      "Alexander Frangulov & Rachel Good"
+    ]
+  },
+  {
+    "name": "Rookie Leads* Collegiate* Bronze* Am. Foxtrot*  (F)",
+    "couples": [
+      "Juha Nieminen & Dana Dinh",
+      "Bradley Davis & Vanessa Garcia"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Am. V. Waltz*  (V)",
+    "couples": [
+      "Michael Perez & Lauren Tovar",
+      "Alexey Tregubov & Mingze Sun",
+      "Alexander Frangulov & Rachel Good"
+    ]
+  },
+  {
+    "name": "Rookie Leads* Collegiate* Bronze* Am. V. Waltz*  (V)",
+    "couples": [
+      "Juha Nieminen & Dana Dinh"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Intl. Waltz*  (W)",
+    "couples": [
+      "Kalani Newman & Joan Li",
+      "Michael Perez & Hannah Kernal",
+      "George Troulis & Clara Hess",
+      "Han Maw Aung & Vanessa Lincoln",
+      "Liam McDonough & Kelly Chow",
+      "Renee De Palma & Jane Hammond"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Intl. Tango*  (T)",
+    "couples": [
+      "Kalani Newman & Joan Li",
+      "Michael Perez & Hannah Kernal",
+      "Renee De Palma & Jane Hammond",
+      "George Troulis & Clara Hess",
+      "Han Maw Aung & Vanessa Lincoln",
+      "Eva Molina & Sonya Hadley",
+      "Rachel Howard & Jessica Mei"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Intl. Quickstep*  (Q)",
+    "couples": [
+      "Kalani Newman & Joan Li",
+      "Michael Perez & Hannah Kernal",
+      "Han Maw Aung & Vanessa Lincoln",
+      "George Troulis & Clara Hess",
+      "Renee De Palma & Jane Hammond",
+      "Eva Molina & Sonya Hadley",
+      "Rachel Howard & Jessica Mei"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Silver* Standard*  (WQ)",
+    "couples": [
+      "Alexander Frangulov & Mingze Sun",
+      "Joan Valls & Paige Wasniak",
+      "Jackson Hurley & Ariana Weiss",
+      "Han Maw Aung & Vanessa Lincoln",
+      "Kalani Newman & Joan Li",
+      "Clark Whitsett & Logan Kramer",
+      "Renee De Palma & Jane Hammond"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Silver 2* Standard*  (TF)",
+    "couples": [
+      "Joan Valls & Paige Wasniak",
+      "Kalani Newman & Joan Li",
+      "Alexander Frangulov & Mingze Sun",
+      "Han Maw Aung & Vanessa Lincoln",
+      "Jackson Hurley & Ariana Weiss",
+      "Renee De Palma & Jane Hammond",
+      "Clark Whitsett & Logan Kramer"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Silver* Intl. V. Waltz*  (V)",
+    "couples": [
+      "Joan Valls & Paige Wasniak",
+      "Alexander Frangulov & Mingze Sun",
+      "Jackson Hurley & Ariana Weiss",
+      "Clark Whitsett & Logan Kramer",
+      "Han Maw Aung & Vanessa Lincoln",
+      "Renee De Palma & Jane Hammond"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Intl. V. Waltz*  (V)",
+    "couples": [
+      "Kalani Newman & Joan Li",
+      "Han Maw Aung & Vanessa Lincoln",
+      "Michael Perez & Hannah Kernal",
+      "Renee De Palma & Jane Hammond"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Intl. Foxtrot*  (F)",
+    "couples": [
+      "Kalani Newman & Joan Li",
+      "Renee De Palma & Jane Hammond",
+      "Michael Perez & Hannah Kernal",
+      "Han Maw Aung & Vanessa Lincoln"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Intl. Waltz*  (W)",
+    "couples": [
+      "Eva Molina & Sonya Hadley"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Intl. Tango*  (T)",
+    "couples": [
+      "Eva Molina & Sonya Hadley"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Intl. Quickstep*  (Q)",
+    "couples": [
+      "Eva Molina & Sonya Hadley"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Gold* Standard*  (WQ)",
+    "couples": [
+      "Hans Zhou & Ana Stevens",
+      "Jackson Hurley & Ariana Weiss",
+      "Joan Valls & Paige Wasniak",
+      "Clark Whitsett & Logan Kramer",
+      "Jaren Ko & Jessica Yu"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Gold 2* Standard*  (TF)",
+    "couples": [
+      "Hans Zhou & Ana Stevens",
+      "Joan Valls & Paige Wasniak",
+      "Jackson Hurley & Ariana Weiss",
+      "Clark Whitsett & Logan Kramer",
+      "Jaren Ko & Jessica Yu"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Gold* Intl. V. Waltz*  (V)",
+    "couples": [
+      "Hans Zhou & Ana Stevens",
+      "Jackson Hurley & Ariana Weiss",
+      "Joan Valls & Paige Wasniak",
+      "Clark Whitsett & Logan Kramer"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Intl. Waltz*  (W)",
+    "couples": [
+      "Sydney Clark & Toni Anderson",
+      "Clark Whitsett & Celia Fritsch"
+    ]
+  },
+  {
+    "name": "Rookie Leads* Collegiate* Bronze* Intl. Waltz*  (W)",
+    "couples": [
+      "James Karsten & Logan Kramer"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Intl. Tango*  (T)",
+    "couples": [
+      "Sydney Clark & Toni Anderson",
+      "Clark Whitsett & Celia Fritsch"
+    ]
+  },
+  {
+    "name": "Rookie Leads* Collegiate* Bronze* Intl. Tango*  (T)",
+    "couples": [
+      "James Karsten & Logan Kramer"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Intl. Foxtrot*  (F)",
+    "couples": [
+      "Sydney Clark & Toni Anderson"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Intl. V. Waltz*  (V)",
+    "couples": [
+      "Sydney Clark & Toni Anderson"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Intl. Quickstep*  (Q)",
+    "couples": [
+      "Clark Whitsett & Celia Fritsch",
+      "Sydney Clark & Toni Anderson"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Am. Cha Cha*  (C)",
+    "couples": [
+      "Kevin Gutierrez & Adeline Wu",
+      "Alvin Liang & Jay Canyarasmi",
+      "Renee De Palma & Jane Hammond",
+      "Juha Nieminen & Mingze Sun",
+      "Joaquin Malagon & Parminder Ghotra",
+      "Alexey Tregubov & Yachun Ye",
+      "Mikhail Cabillan & Nadine Lampe",
+      "Jesus Salazar & Megan Perez"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Am. Rumba*  (R)",
+    "couples": [
+      "Alvin Liang & Jay Canyarasmi",
+      "Alexey Tregubov & Yachun Ye",
+      "Franco Vidal & Marina Perry",
+      "Renee De Palma & Jane Hammond",
+      "Juha Nieminen & Mingze Sun",
+      "Joaquin Malagon & Parminder Ghotra",
+      "Jesus Salazar & Megan Perez"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Am. Swing*  (S)",
+    "couples": [
+      "Alvin Liang & Jay Canyarasmi",
+      "Alexey Tregubov & Yachun Ye",
+      "Franco Vidal & Marina Perry",
+      "Renee De Palma & Jane Hammond",
+      "Juha Nieminen & Mingze Sun",
+      "Joaquin Malagon & Parminder Ghotra",
+      "Harry Tran & Clara Hess",
+      "Jesus Salazar & Megan Perez"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Am. Bolero*  (B)",
+    "couples": [
+      "Alvin Liang & Jay Canyarasmi",
+      "Renee De Palma & Jane Hammond",
+      "Alexey Tregubov & Yachun Ye",
+      "Juha Nieminen & Mingze Sun"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Am. Mambo*  (M)",
+    "couples": [
+      "Alvin Liang & Jay Canyarasmi",
+      "Renee De Palma & Jane Hammond",
+      "Alexey Tregubov & Yachun Ye",
+      "Juha Nieminen & Mingze Sun"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Am. Cha Cha*  (C)",
+    "couples": [
+      "Mikhail Cabillan & Nadine Lampe"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Am. Swing*  (S)",
+    "couples": [
+      "Harry Tran & Clara Hess",
+      "Nia Heinrich & Arden Agos",
+      "Bryan Lam & Erin Webbs"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Silver* Rhythm*  (CR)",
+    "couples": [
+      "Michael Perce & Queenique Dinh",
+      "Kevin Enario & Jasmine Galdamez",
+      "Alvin Liang & Jay Canyarasmi",
+      "Alexey Tregubov & Yachun Ye",
+      "Alexander Frangulov & Lauren Tovar",
+      "Renee De Palma & Jane Hammond"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Silver 2* Rhythm*  (SB)",
+    "couples": [
+      "Michael Perce & Queenique Dinh",
+      "Kevin Enario & Jasmine Galdamez",
+      "Alexey Tregubov & Yachun Ye",
+      "Alexander Frangulov & Lauren Tovar",
+      "Alvin Liang & Jay Canyarasmi",
+      "Renee De Palma & Jane Hammond",
+      "Juha Nieminen & Mingze Sun"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Silver* Am. Mambo*  (M)",
+    "couples": [
+      "Alvin Liang & Jay Canyarasmi",
+      "Renee De Palma & Jane Hammond",
+      "Alexander Frangulov & Lauren Tovar",
+      "Alexey Tregubov & Yachun Ye"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Gold* Rhythm*  (CR)",
+    "couples": [
+      "Michael Perce & Queenique Dinh"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Gold 2* Rhythm*  (SB)",
+    "couples": [
+      "Michael Perce & Queenique Dinh"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Am. Cha Cha*  (C)",
+    "couples": [
+      "Alexander Frangulov & Rachel Good",
+      "Shawn Recinos & Nadine Lampe",
+      "Michael Perce & Katherine Nguyen"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Am. Rumba*  (R)",
+    "couples": [
+      "Alexander Frangulov & Rachel Good",
+      "Shawn Recinos & Nadine Lampe"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Am. Swing*  (S)",
+    "couples": [
+      "Shawn Recinos & Michael Perez",
+      "Alexander Frangulov & Rachel Good"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Am. Bolero*  (B)",
+    "couples": [
+      "Shawn Recinos & Michael Perez",
+      "Alexander Frangulov & Rachel Good"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Intl. Cha Cha*  (C)",
+    "couples": [
+      "George Troulis & Lara Derderian",
+      "Christina Dong & Alana Weiss",
+      "Alexey Tregubov & Yachun Ye",
+      "Michael Perez & Hannah Kernal",
+      "James Karsten & Jaimie Ding",
+      "Han Maw Aung & Vanessa Lincoln",
+      "Renee De Palma & Jane Hammond",
+      "Liam McDonough & Kelly Chow",
+      "Nicholas Gagnon & Bianca Wu",
+      "Shreya Padmanabhan & Toni Anderson",
+      "Jessica Mei & Rachel Howard",
+      "Jaren Ko & Jessica Yu",
+      "Eva Molina & Sonya Hadley",
+      "Diana Lin & Claire Chang"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Silver* Latin*  (CR)",
+    "couples": [
+      "Lawrence Chen & Nicole Pang",
+      "Joan Valls & Amanda Lam",
+      "Christina Dong & Alana Weiss",
+      "Han Maw Aung & Vanessa Lincoln",
+      "Clark Whitsett & Logan Kramer",
+      "Alexander Frangulov & Mingze Sun",
+      "Jackson Hurley & Ariana Weiss",
+      "James Karsten & Jaimie Ding",
+      "Renee De Palma & Jane Hammond"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Intl. Rumba*  (R)",
+    "couples": [
+      "Christina Dong & Alana Weiss",
+      "Han Maw Aung & Vanessa Lincoln",
+      "Nicholas Gagnon & Bianca Wu",
+      "James Karsten & Jaimie Ding",
+      "Michael Perez & Lauren Tovar",
+      "Jessica Mei & Rachel Howard",
+      "Alexey Tregubov & Yachun Ye",
+      "Shreya Padmanabhan & Toni Anderson",
+      "Renee De Palma & Jane Hammond",
+      "Jaren Ko & Jessica Yu"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Intl. Samba*  (S)",
+    "couples": [
+      "Christina Dong & Alana Weiss",
+      "Michael Perez & Hannah Kernal",
+      "Han Maw Aung & Vanessa Lincoln",
+      "James Karsten & Jaimie Ding",
+      "Shreya Padmanabhan & Toni Anderson"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Bronze* Intl. Jive*  (J)",
+    "couples": [
+      "Michael Perez & Hannah Kernal",
+      "Alvin Liang & Jay Canyarasmi",
+      "Han Maw Aung & Vanessa Lincoln",
+      "James Karsten & Jaimie Ding",
+      "Alexey Tregubov & Yachun Ye",
+      "Nicholas Gagnon & Bianca Wu",
+      "Jessica Mei & Rachel Howard",
+      "Jaren Ko & Jessica Yu",
+      "Shreya Padmanabhan & Toni Anderson"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Intl. Cha Cha*  (C)",
+    "couples": [
+      "George Troulis & Lara Derderian",
+      "Nicholas Gagnon & Bianca Wu",
+      "Harry Tran & Clara Hess",
+      "Diana Lin & Claire Chang",
+      "Eva Molina & Sonya Hadley"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Intl. Rumba*  (R)",
+    "couples": [
+      "Nicholas Gagnon & Bianca Wu"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Newcomer* Intl. Jive*  (J)",
+    "couples": [
+      "Nicholas Gagnon & Bianca Wu"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Silver 2* Latin*  (SJ)",
+    "couples": [
+      "Lawrence Chen & Nicole Pang",
+      "Joan Valls & Amanda Lam",
+      "Alvin Liang & Jie Zhang",
+      "Clark Whitsett & Logan Kramer",
+      "Han Maw Aung & Vanessa Lincoln",
+      "Jackson Hurley & Ariana Weiss"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Gold* Latin*  (CR)",
+    "couples": [
+      "Lawrence Chen & Nicole Pang",
+      "Joan Valls & Amanda Lam",
+      "Nathan Justin & Hannah State",
+      "Jackson Hurley & Ariana Weiss",
+      "Clark Whitsett & Logan Kramer",
+      "Kevin Gutierrez & Adeline Wu Gutierrez"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Gold 2* Latin*  (SJ)",
+    "couples": [
+      "Lawrence Chen & Nicole Pang",
+      "Nathan Justin & Hannah State",
+      "Joan Valls & Amanda Lam",
+      "Clark Whitsett & Logan Kramer",
+      "Jackson Hurley & Ariana Weiss"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Intl. Cha Cha*  (C)",
+    "couples": [
+      "Jinyi Jiang & Andrea Chen",
+      "Shawn Recinos & Joan Li",
+      "Clark Whitsett & Celia Fritsch",
+      "Sydney Clark & Toni Anderson"
+    ]
+  },
+  {
+    "name": "Rookie Leads* Collegiate* Bronze* Intl. Cha Cha*  (C)",
+    "couples": [
+      "Fatuma Omer & Hannah State"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Intl. Rumba*  (R)",
+    "couples": [
+      "Shawn Recinos & Joan Li",
+      "Sydney Clark & Toni Anderson",
+      "Clark Whitsett & Celia Fritsch"
+    ]
+  },
+  {
+    "name": "Rookie Leads* Collegiate* Bronze* Intl. Rumba*  (R)",
+    "couples": [
+      "Fatuma Omer & Hannah State"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Intl. Samba*  (S)",
+    "couples": [
+      "Shawn Recinos & Joan Li",
+      "Jinyi Jiang & Andrea Chen",
+      "Sydney Clark & Toni Anderson",
+      "Clark Whitsett & Celia Fritsch"
+    ]
+  },
+  {
+    "name": "Rookie Leads* Collegiate* Bronze* Intl. Samba*  (S)",
+    "couples": [
+      "Fatuma Omer & Hannah State"
+    ]
+  },
+  {
+    "name": "Rookie Follows* Collegiate* Bronze* Intl. Jive*  (J)",
+    "couples": [
+      "Shawn Recinos & Joan Li",
+      "Sydney Clark & Toni Anderson",
+      "Clark Whitsett & Celia Fritsch"
+    ]
+  },
+  {
+    "name": "Rookie Leads* Collegiate* Bronze* Intl. Jive*  (J)",
+    "couples": [
+      "Fatuma Omer & Hannah State"
+    ]
+  },
+  {
+    "name": "Am Team Match  Open Intl. Multi-Dance  (WTCR)",
+    "couples": [
+      "UCLA Team & UCLA Team",
+      "CCBDC Team & CCBDC Team",
+      "USC Team & USC Team",
+      "CSUN Team & CSUN Team"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Beginner Nightclub* Salsa*  (S)",
+    "couples": [
+      "Alvin Liang & Jay Canyarasmi",
+      "Franco Vidal & Marina Perry",
+      "Indiana Huey & Sabrina Hartono",
+      "Alexander Frangulov & Lauren Tovar",
+      "Renee De Palma & Jane Hammond",
+      "Ronoldy Vargas & Lisa Homeidan",
+      "Joaquin Malagon & Parminder Ghotra",
+      "Alexis Rizk & Arden Agos",
+      "Lauren Braswell & Emma Reder",
+      "Jesus Salazar & Megan Perez"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Advanced Nightclub* Bachata  (B)",
+    "couples": [
+      "Kevin Enario & Jasmine Galdamez",
+      "Michael Perez & Joan Li"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Beginner Nightclub* Bachata  (B)",
+    "couples": [
+      "Franco Vidal & Marina Perry",
+      "Ronoldy Vargas & Lisa Homeidan",
+      "Indiana Huey & Sabrina Hartono",
+      "Mikhail Cabillan & Yachun Ye",
+      "Alexander Frangulov & Lauren Tovar",
+      "Lauren Braswell & Emma Reder",
+      "Joaquin Malagon & Parminder Ghotra",
+      "Alexis Rizk & Erin Webbs",
+      "Jesus Salazar & Megan Perez"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Beginner Nightclub* Night Club 2-Step*  (N)",
+    "couples": [
+      "Renee De Palma & Jane Hammond",
+      "Indiana Huey & Sabrina Hartono",
+      "Lauren Braswell & Emma Reder"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Beginner Nightclub* Argentine Tango*  (A)",
+    "couples": [
+      "Ronoldy Vargas & Lisa Homeidan",
+      "Alexander Frangulov & Lauren Tovar"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Beginner Nightclub* Merengue*  (M)",
+    "couples": [
+      "Franco Vidal & Marina Perry",
+      "Ronoldy Vargas & Lisa Homeidan",
+      "Joaquin Malagon & Parminder Ghotra",
+      "Alvin Liang & Jay Canyarasmi",
+      "Alexander Frangulov & Lauren Tovar",
+      "Mikhail Cabillan & Rachel Good",
+      "Nadine Lampe & Yachun Ye",
+      "Alexis Rizk & Erin Webbs",
+      "Lauren Braswell & Emma Reder",
+      "Jesus Salazar & Megan Perez"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Advanced Nightclub* Merengue*  (M)",
+    "couples": [
+      "Kevin Enario & Jasmine Galdamez",
+      "Shawn Recinos & Mingze Sun",
+      "Michael Perez & Joan Li",
+      "Kalani Newman & Hannah Kernal"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Advanced Nightclub* West Coast Swing*  (W)",
+    "couples": [
+      "Justin Yang & Genevieve Patterson"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Beginner Nightclub* West Coast Swing*  (W)",
+    "couples": [
+      "Renee De Palma & Jane Hammond",
+      "Franco Vidal & Alexis Rizk",
+      "Alvin Liang & Jie Zhang"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Advanced Nightclub* Lindy Hop*  (L)",
+    "couples": [
+      "Kalani Newman & Hannah Kernal"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Beginner Nightclub* Lindy Hop*  (L)",
+    "couples": [
+      "Alexander Frangulov & Lauren Tovar"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Beginner Nightclub* Hustle*  (H)",
+    "couples": [
+      "Alvin Liang & Jay Canyarasmi",
+      "Franco Vidal & Alexis Rizk",
+      "Ronoldy Vargas & Lisa Homeidan",
+      "Alexander Frangulov & Lauren Tovar"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Advanced Nightclub* Hustle*  (H)",
+    "couples": [
+      "Kevin Enario & Jasmine Galdamez",
+      "Michael Perce & Queenique Dinh",
+      "Shawn Recinos & Mingze Sun",
+      "Kalani Newman & Hannah Kernal",
+      "Michael Perez & Joan Li",
+      "Alexey Tregubov & Dana Dinh"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Advanced Nightclub* Salsa*  (S)",
+    "couples": [
+      "Kevin Enario & Jasmine Galdamez",
+      "Shawn Recinos & Mingze Sun",
+      "Michael Perez & Joan Li",
+      "Kalani Newman & Hannah Kernal"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Pre Novice 2* Smooth*  (FV)",
+    "couples": [
+      "Michael Perce & Queenique Dinh",
+      "Joshua Rice & Megan Fisher",
+      "Alexey Tregubov & Dana Dinh"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Pre-Novice* Standard*  (WQ)",
+    "couples": [
+      "Hans Zhou & Ana Stevens"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Novice* Standard*  (WFQ)",
+    "couples": [
+      "Justin Yang & Genevieve Patterson",
+      "Sho Harvey & Alicia Tirone"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Novice* Intl. Tango*  (T)",
+    "couples": [
+      "Justin Yang & Genevieve Patterson",
+      "Sho Harvey & Alicia Tirone"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Pre Novice 2* Standard*  (TF)",
+    "couples": [
+      "Hans Zhou & Ana Stevens"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Novice* Intl. V. Waltz*  (V)",
+    "couples": [
+      "Sho Harvey & Alicia Tirone"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Pre Novice 2* Intl. V. Waltz*  (V)",
+    "couples": [
+      "Hans Zhou & Ana Stevens"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Pre-Champ* Standard*  (WTFQ)",
+    "couples": [
+      "Brian Wolf & Vivian Delchamps",
+      "Justin Yang & Genevieve Patterson",
+      "Sho Harvey & Alicia Tirone"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Pre-Champ* Intl. V. Waltz*  (V)",
+    "couples": [
+      "Sho Harvey & Alicia Tirone"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Championship* Smooth*  (WTFV)",
+    "couples": [
+      "Edward Rogers & Trisha Rogers"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Novice* Smooth*  (WTF)",
+    "couples": [
+      "Joshua Rice & Megan Fisher"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Novice* Am. V. Waltz*  (V)",
+    "couples": [
+      "Joshua Rice & Megan Fisher"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Pre-Novice* Latin*  (CR__)",
+    "couples": [
+      "Nathan Justin & Hannah State"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Pre-Champ* Latin*  (SCRJ)",
+    "couples": [
+      "Linton Lyu & Jinyi Jiang",
+      "Sho Harvey & Alicia Tirone"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Pre Novice 2* Latin*  (__SJ)",
+    "couples": [
+      "Nathan Justin & Hannah State"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Novice* Latin*  (SCR)",
+    "couples": [
+      "Linton Lyu & Jinyi Jiang",
+      "Sho Harvey & Alicia Tirone"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Novice* Intl. Jive*  (J)",
+    "couples": [
+      "Linton Lyu & Jinyi Jiang",
+      "Sho Harvey & Alicia Tirone"
+    ]
+  },
+  {
+    "name": "Amateur* Collegiate* Championship* Rhythm*  (CRSBM)",
+    "couples": [
+      "Edward Rogers & Trisha Rogers"
+    ]
+  }
+]

@@ -1,0 +1,809 @@
+[
+  {
+    "name": "Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Theodore Sauyet & Meghan DeChello",
+      "Hannah Powers & Emily Parker",
+      "Rish Rastogi & Stephanya Moran",
+      "Rafael Gabriel & Hailey Forsberg",
+      "Damien Hoffman & Tina Liu",
+      "Nicholas Pontrello & Rachel Kopacko",
+      "Akeem Francis & Victoria Anderson",
+      "Zachary Pappalau & Escher Campanella",
+      "Jeffrey Galczynski & Grace Wu",
+      "Shameeq Willis & Asia Ladson",
+      "Alexander Diaz & Natalie Schriefer",
+      "Matthew Fox & Emily Davey",
+      "Jessica Nicholos & Abigail Wilkerson",
+      "Eric Deiros & Rebecca Mier",
+      "Timothy Sayers & Margaret Sayers",
+      "Chang Ju Kim & Allison Daboval",
+      "Dominic Buttino & Chelsea Brodka",
+      "Adam Barna & Hope Barnes",
+      "Harry Zhang & Skye Jacobson",
+      "Nicole Piche & Amber Kmak",
+      "Caleb Fesmire & Anna Judd",
+      "Jake Wood & Savannah Nichols",
+      "Toby Sundstrom & Gabriel Mule"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Tango  (T)",
+    "couples": [
+      "Justin Vasselli & Sophia Marx",
+      "Theodore Sauyet & Meghan DeChello",
+      "Chang Ju Kim & Allison Daboval",
+      "Nicholas Pontrello & Rachel Kopacko",
+      "Akeem Francis & Victoria Anderson",
+      "Jeffrey Galczynski & Grace Wu",
+      "Hannah Powers & Emily Parker",
+      "Zachary Pappalau & Escher Campanella",
+      "Rish Rastogi & Stephanya Moran",
+      "Shameeq Willis & Asia Ladson",
+      "Eric Deiros & Rebecca Mier",
+      "Matthew Fox & Emily Davey",
+      "Harry Zhang & Skye Jacobson",
+      "Timothy Sayers & Margaret Sayers",
+      "Jake Wood & Savannah Nichols",
+      "Jessica Nicholos & Bethany Meloney",
+      "Dominic Buttino & Chelsea Brodka"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Justin Vasselli & Sophia Marx",
+      "Theodore Sauyet & Meghan DeChello",
+      "Hannah Powers & Emily Parker",
+      "Nicole Piche & Bethany Meloney",
+      "Nicholas Pontrello & Rachel Kopacko",
+      "Akeem Francis & Victoria Anderson",
+      "Rafael Gabriel & Hailey Forsberg",
+      "Rish Rastogi & Stephanya Moran",
+      "Zachary Pappalau & Escher Campanella",
+      "Jeffrey Galczynski & Grace Wu",
+      "Chang Ju Kim & Allison Daboval",
+      "Shameeq Willis & Asia Ladson",
+      "Damien Hoffman & Tina Liu",
+      "Matthew Fox & Emily Davey",
+      "Alexander Diaz & Natalie Schriefer",
+      "Dominic Buttino & Chelsea Brodka",
+      "Jake Wood & Savannah Nichols",
+      "Harry Zhang & Skye Jacobson",
+      "Timothy Sayers & Margaret Sayers",
+      "Adam Barna & Hope Barnes"
+    ]
+  },
+  {
+    "name": "Silver Standard  (WQ)",
+    "couples": [
+      "Justin Vasselli & Sophia Marx",
+      "Theodore Sauyet & Meghan DeChello",
+      "Zachary Pearson & Sarah McRae",
+      "Katherine Bell & Ben Toth",
+      "Kristopher Kornheisl & Jessica Nicholos",
+      "Akeem Francis & Savannah Nichols",
+      "Philip Herin & Angela Vu"
+    ]
+  },
+  {
+    "name": "Silver Standard  (TF)",
+    "couples": [
+      "Justin Vasselli & Sophia Marx",
+      "Theodore Sauyet & Meghan DeChello",
+      "Ben Toth & Katherine Bell",
+      "Kristopher Kornheisl & Jessica Nicholos",
+      "Zachary Pearson & Sarah McRae",
+      "Philip Herin & Angela Vu",
+      "Akeem Francis & Savannah Nichols"
+    ]
+  },
+  {
+    "name": "Syllabus Intl. V. Waltz  (V)",
+    "couples": [
+      "Levi Leab & Olivia Schrantz",
+      "Eric Lam & Karen Baltazar",
+      "Zachary Pearson & Sarah McRae",
+      "Erick Singleman & Ann Singleman",
+      "Ben Toth & Katherine Bell",
+      "Nicole Piche & Bethany Meloney",
+      "Kristopher Kornheisl & Jessica Nicholos",
+      "Philip Herin & Angela Vu",
+      "Akeem Francis & Victoria Anderson",
+      "Michael Kiang & Isabel Jiah",
+      "Rebecca Ehrhardt & Maggie Caridi",
+      "Theodore Sauyet & Meghan DeChello",
+      "Zachary Pappalau & Escher Campanella",
+      "Damien Hoffman & Tina Liu",
+      "Ann Singleman & Erick Singleman"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Abigail Wilkerson & Abigail Doyle",
+      "Julian Viereck & Lyndsay Borko"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Julian Viereck & Lyndsay Borko"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Julian Viereck & Lyndsay Borko"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Justin Vasselli & Sophia Marx",
+      "Theodore Sauyet & Meghan DeChello",
+      "Hannah Powers & Emily Parker",
+      "Kevin Tung & Natasha Lowry",
+      "Jeffrey Galczynski & Grace Wu",
+      "Akeem Francis & Victoria Anderson",
+      "Timothy Sayers & Margaret Sayers"
+    ]
+  },
+  {
+    "name": "Gold Standard  (WQ)",
+    "couples": [
+      "Levi Leab & Olivia Schrantz",
+      "Eric Lam & Karen Baltazar",
+      "Thomas Russell & Tamara Russell",
+      "Erick Singleman & Ann Singleman"
+    ]
+  },
+  {
+    "name": "Gold Standard  (TF)",
+    "couples": [
+      "Levi Leab & Olivia Schrantz",
+      "Eric Lam & Karen Baltazar",
+      "Thomas Russell & Tamara Russell",
+      "Erick Singleman & Ann Singleman"
+    ]
+  },
+  {
+    "name": "Bronze Am. Waltz  (W)",
+    "couples": [
+      "Theodore Sauyet & Meghan DeChello",
+      "Akeem Francis & Victoria Anderson",
+      "Chang Ju Kim & Allison Daboval",
+      "Jeffrey Galczynski & Grace Wu",
+      "Nicholas Pontrello & Rachel Kopacko",
+      "Corrado Mazzarelli & Victoria Cervantes",
+      "Shameeq Willis & Asia Ladson",
+      "Alexander Diaz & Natalie Schriefer",
+      "Damien Hoffman & Tina Liu",
+      "Kaitlyn Nilark & Bethany Maloney",
+      "Rish Rastogi & 125 zNew_Follow",
+      "Matthew Fox & Naya Murdock",
+      "Jordan Faas-Bush & Stephanya Moran",
+      "Dominic Buttino & Chelsea Brodka",
+      "Sam Wiegand & Emily Davey",
+      "Adam Barna & Hope Barnes",
+      "Harry Zhang & Jenna Hoggan",
+      "Caleb Fesmire & Anna Judd",
+      "Eric Deiros & Rebecca Mier",
+      "Jake Wood & Savannah Nichols",
+      "Maggie Caridi & I`layah Willis",
+      "Emi Ahlo & Skye Jacobson",
+      "Toby Sundstrom & Gabriel Mule"
+    ]
+  },
+  {
+    "name": "Bronze Am. Tango  (T)",
+    "couples": [
+      "Theodore Sauyet & Meghan DeChello",
+      "Akeem Francis & Victoria Anderson",
+      "Kaitlyn Nilark & Bethany Maloney",
+      "Chang Ju Kim & Allison Daboval",
+      "Nicholas Pontrello & Rachel Kopacko",
+      "Damien Hoffman & Tina Liu",
+      "Shameeq Willis & Asia Ladson",
+      "Corrado Mazzarelli & Victoria Cervantes",
+      "Alexander Diaz & Natalie Schriefer",
+      "Rish Rastogi & 125 zNew_Follow",
+      "Jeffrey Galczynski & Grace Wu",
+      "Jake Wood & Savannah Nichols",
+      "Matthew Fox & Naya Murdock",
+      "Adam Barna & Hope Barnes",
+      "Sam Wiegand & Emily Davey",
+      "Jordan Faas-Bush & Stephanya Moran",
+      "Eric Deiros & Rebecca Mier",
+      "Maggie Caridi & I`layah Willis",
+      "Emi Ahlo & Skye Jacobson",
+      "Dominic Buttino & Chelsea Brodka",
+      "Caleb Fesmire & Anna Judd",
+      "Toby Sundstrom & Gabriel Mule",
+      "Harry Zhang & Jenna Hoggan"
+    ]
+  },
+  {
+    "name": "Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Theodore Sauyet & Meghan DeChello",
+      "Nicholas Pontrello & Rachel Kopacko",
+      "Akeem Francis & Victoria Anderson",
+      "Alexander Diaz & Natalie Schriefer",
+      "Chang Ju Kim & Allison Daboval",
+      "Damien Hoffman & Tina Liu",
+      "Jeffrey Galczynski & Grace Wu",
+      "Kaitlyn Nilark & Bethany Maloney",
+      "Corrado Mazzarelli & Victoria Cervantes",
+      "Matthew Fox & Naya Murdock",
+      "Jordan Faas-Bush & Stephanya Moran",
+      "Rish Rastogi & 125 zNew_Follow",
+      "Shameeq Willis & Asia Ladson",
+      "Jake Wood & Savannah Nichols",
+      "Eric Deiros & Rebecca Mier",
+      "Emi Ahlo & Skye Jacobson",
+      "Caleb Fesmire & Anna Judd",
+      "Maggie Caridi & I`layah Willis",
+      "Harry Zhang & Jenna Hoggan",
+      "Dominic Buttino & Chelsea Brodka",
+      "Adam Barna & Hope Barnes",
+      "Sam Wiegand & Emily Davey",
+      "Toby Sundstrom & Gabriel Mule"
+    ]
+  },
+  {
+    "name": "Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Daniel Lubitz & Samm Katcher",
+      "Kristopher Kornheisl & Jessica Nicholos",
+      "Zachary Pearson & Escher Campanella",
+      "Kevin Tung & Natasha Lowry",
+      "Theodore Sauyet & Meghan DeChello",
+      "Akeem Francis & Victoria Anderson",
+      "Katherine Bell & Ben Toth",
+      "Philip Herin & Angela Vu",
+      "Chang Ju Kim & Allison Daboval",
+      "Zachary Pappalau & Sarah McRae",
+      "Damien Hoffman & Tina Liu",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Levi Leab & Levi Leab",
+      "Michael Kiang & Isabel Jiah",
+      "Rebecca Ehrhardt & Maggie Caridi",
+      "Rish Rastogi & Isabelle Donahue",
+      "Timothy Sayers & Margaret Sayers"
+    ]
+  },
+  {
+    "name": "Open Bronze Am. Waltz  (W)",
+    "couples": [
+      "Sarah McRae & Skye Jacobson",
+      "Chang Ju Kim & Allison Daboval",
+      "Corrado Mazzarelli & Stephanya Moran",
+      "Adam Barna & Abigail Wilkerson",
+      "Alexander Diaz & Natalie Schriefer",
+      "Matthew Fox & Naya Murdock",
+      "Sam Wiegand & Emily Davey",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Isabelle Donahue & I`layah Willis",
+      "Harry Zhang & Emi Ahlo"
+    ]
+  },
+  {
+    "name": "Open Bronze Am. Tango  (T)",
+    "couples": [
+      "Chang Ju Kim & Allison Daboval",
+      "Sarah McRae & Skye Jacobson",
+      "Matthew Fox & Naya Murdock",
+      "Adam Barna & Abigail Wilkerson",
+      "Alexander Diaz & Natalie Schriefer",
+      "Corrado Mazzarelli & Stephanya Moran",
+      "Sam Wiegand & Emily Davey",
+      "Isabelle Donahue & I`layah Willis",
+      "Harry Zhang & Emi Ahlo",
+      "Jordan Faas-Bush & Jenna Hoggan"
+    ]
+  },
+  {
+    "name": "Open Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Chang Ju Kim & Allison Daboval",
+      "Matthew Fox & Naya Murdock",
+      "Adam Barna & Abigail Wilkerson",
+      "Alexander Diaz & Natalie Schriefer",
+      "Corrado Mazzarelli & Stephanya Moran",
+      "Sarah McRae & Skye Jacobson",
+      "Sam Wiegand & Emily Davey",
+      "Harry Zhang & Emi Ahlo",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Isabelle Donahue & I`layah Willis"
+    ]
+  },
+  {
+    "name": "Silver Smooth  (WT)",
+    "couples": [
+      "Theodore Sauyet & Meghan DeChello",
+      "Daniel Lubitz & Samm Katcher",
+      "Zachary Pearson & Escher Campanella",
+      "Kevin Tung & Natasha Lowry",
+      "Joshua Thomas & Susannah Kane",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Akeem Francis & Savannah Nichols",
+      "Rish Rastogi & Isabelle Donahue",
+      "Zachary Pappalau & Sarah McRae",
+      "Philip Herin & Angela Vu",
+      "Katherine Bell & Ben Toth",
+      "Rebecca Ehrhardt & Maggie Caridi",
+      "Timothy Sayers & Margaret Sayers",
+      "Levi Leab & Levi Leab",
+      "Michael Kiang & Isabel Jiah"
+    ]
+  },
+  {
+    "name": "Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Katherine Bell & Ben Toth",
+      "Zachary Pearson & Escher Campanella",
+      "Kevin Tung & Natasha Lowry",
+      "Daniel Lubitz & Samm Katcher",
+      "Joshua Thomas & Susannah Kane",
+      "Theodore Sauyet & Meghan DeChello",
+      "Zachary Pappalau & Sarah McRae",
+      "Akeem Francis & Savannah Nichols",
+      "Rebecca Ehrhardt & Maggie Caridi",
+      "Philip Herin & Angela Vu",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Levi Leab & Levi Leab",
+      "Michael Kiang & Isabel Jiah",
+      "Rish Rastogi & Isabelle Donahue",
+      "Timothy Sayers & Margaret Sayers"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Jared Briones & Shalyn Palmateer",
+      "Abigail Wilkerson & Abigail Doyle",
+      "Jeffrey Dumpson & TBA 1"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Tango  (T)",
+    "couples": [
+      "Jared Briones & Shalyn Palmateer",
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Jeffrey Dumpson & TBA 1",
+      "Abigail Wilkerson & Abigail Doyle"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Jared Briones & Shalyn Palmateer",
+      "Jeffrey Dumpson & TBA 1",
+      "Abigail Wilkerson & Abigail Doyle"
+    ]
+  },
+  {
+    "name": "Gold Smooth  (WT)",
+    "couples": [
+      "Levi Leab & Olivia Schrantz",
+      "Ben Toth & Katherine Bell",
+      "Thomas Russell & Tamara Russell",
+      "Tyler O`Brien & Samm Katcher",
+      "Philip Herin & Nicole Piche"
+    ]
+  },
+  {
+    "name": "Gold Smooth  (FV)",
+    "couples": [
+      "Levi Leab & Olivia Schrantz",
+      "Ben Toth & Katherine Bell",
+      "Tyler O`Brien & Samm Katcher",
+      "Thomas Russell & Tamara Russell",
+      "Philip Herin & Nicole Piche"
+    ]
+  },
+  {
+    "name": "Syllabus Am. Peabody  (P)",
+    "couples": [
+      "Eric Lam & Karen Baltazar",
+      "Tyler O`Brien & Samm Katcher",
+      "Theodore Sauyet & Meghan DeChello",
+      "Zachary Pappalau & Sarah McRae",
+      "Philip Herin & Nicole Piche",
+      "Rebecca Ehrhardt & 121 zNew_Follow",
+      "Ben Toth & Katherine Bell"
+    ]
+  },
+  {
+    "name": "Open Smooth  (WTFV)",
+    "couples": [
+      "Eric Lam & Karen Baltazar",
+      "Levi Leab & Olivia Schrantz"
+    ]
+  },
+  {
+    "name": "Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Rafael Gabriel & Hailey Forsberg",
+      "Theodore Sauyet & Meghan DeChello",
+      "Damien Hoffman & Tina Liu",
+      "Shameeq Willis & Chelsea Brodka",
+      "Kaitlyn Nilark & 185 zNew_Follow",
+      "Adam Barna & Abigail Wilkerson",
+      "Alexander Diaz & Natalie Schriefer",
+      "Chang Ju Kim & Allison Daboval",
+      "Nicholas Pontrello & Asia Ladson",
+      "Matthew Holmes & Hope Barnes",
+      "Savannah Nichols & Angela Vu",
+      "Matthew Fox & Emi Ahlo",
+      "Corrado Mazzarelli & Victoria Cervantes",
+      "Jake Wood & Rachel Kopacko",
+      "Harry Zhang & Stephanya Moran",
+      "Victoria Anderson & Naya Murdock",
+      "Jordan Faas-Bush & Emily Parker",
+      "Eric Deiros & Rebecca Mier",
+      "Hannah Powers & Jenna Hoggan",
+      "Caleb Fesmire & Amber Kmak",
+      "Sam Wiegand & I`layah Willis",
+      "Toby Sundstrom & Anna Judd"
+    ]
+  },
+  {
+    "name": "Bronze Am. Rumba  (R)",
+    "couples": [
+      "Shameeq Willis & Chelsea Brodka",
+      "Theodore Sauyet & Meghan DeChello",
+      "Nicholas Pontrello & Asia Ladson",
+      "Damien Hoffman & Tina Liu",
+      "Chang Ju Kim & Allison Daboval",
+      "Kaitlyn Nilark & 185 zNew_Follow",
+      "Savannah Nichols & Angela Vu",
+      "Corrado Mazzarelli & Victoria Cervantes",
+      "Adam Barna & Abigail Wilkerson",
+      "Victoria Anderson & Naya Murdock",
+      "Matthew Holmes & Hope Barnes",
+      "Eric Deiros & Rebecca Mier",
+      "Jake Wood & Rachel Kopacko",
+      "Nell Owens & Philip Herin",
+      "Matthew Fox & Emi Ahlo",
+      "Harry Zhang & Stephanya Moran",
+      "Jordan Faas-Bush & Emily Parker",
+      "Hannah Powers & Jenna Hoggan",
+      "Alexander Diaz & Natalie Schriefer",
+      "Sam Wiegand & I`layah Willis",
+      "Caleb Fesmire & Amber Kmak",
+      "Toby Sundstrom & Anna Judd"
+    ]
+  },
+  {
+    "name": "Bronze Am. Swing  (S)",
+    "couples": [
+      "Theodore Sauyet & Meghan DeChello",
+      "Rafael Gabriel & Hailey Forsberg",
+      "Shameeq Willis & Chelsea Brodka",
+      "Kaitlyn Nilark & 185 zNew_Follow",
+      "Damien Hoffman & Tina Liu",
+      "Chang Ju Kim & Allison Daboval",
+      "Alexander Diaz & Natalie Schriefer",
+      "Matthew Fox & Emi Ahlo",
+      "Corrado Mazzarelli & Victoria Cervantes",
+      "Hannah Powers & Jenna Hoggan",
+      "Harry Zhang & Stephanya Moran",
+      "Caleb Fesmire & Amber Kmak",
+      "Victoria Anderson & Naya Murdock",
+      "Nicholas Pontrello & Asia Ladson",
+      "Adam Barna & Abigail Wilkerson",
+      "Sam Wiegand & I`layah Willis",
+      "Jake Wood & Rachel Kopacko",
+      "Matthew Holmes & Hope Barnes",
+      "Savannah Nichols & Angela Vu",
+      "Jordan Faas-Bush & Emily Parker",
+      "Eric Deiros & Rebecca Mier",
+      "Nell Owens & Philip Herin",
+      "Toby Sundstrom & Anna Judd"
+    ]
+  },
+  {
+    "name": "Open Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Sarah McRae & Emi Ahlo",
+      "Alexander Diaz & Natalie Schriefer",
+      "Adam Barna & Abigail Wilkerson",
+      "Escher Campanella & Zachary Pappalau",
+      "Chang Ju Kim & Allison Daboval",
+      "Matthew Fox & Emily Parker",
+      "Hannah Powers & Jenna Hoggan",
+      "Isabelle Donahue & Emily Davey",
+      "Sam Wiegand & I`layah Willis",
+      "Harry Zhang & Stephanya Moran"
+    ]
+  },
+  {
+    "name": "Open Bronze Am. Rumba  (R)",
+    "couples": [
+      "Sarah McRae & Emi Ahlo",
+      "Adam Barna & Abigail Wilkerson",
+      "Harry Zhang & Stephanya Moran",
+      "Chang Ju Kim & Allison Daboval",
+      "Hannah Powers & Jenna Hoggan",
+      "Alexander Diaz & Natalie Schriefer",
+      "Isabelle Donahue & Emily Davey",
+      "Corrado Mazzarelli & 100 zNew_Follow",
+      "Escher Campanella & Zachary Pappalau",
+      "Matthew Fox & Emily Parker",
+      "Sam Wiegand & I`layah Willis"
+    ]
+  },
+  {
+    "name": "Open Bronze Am. Swing  (S)",
+    "couples": [
+      "Sarah McRae & Emi Ahlo",
+      "Adam Barna & Abigail Wilkerson",
+      "Isabelle Donahue & Emily Davey",
+      "Alexander Diaz & Natalie Schriefer",
+      "Chang Ju Kim & Allison Daboval",
+      "Harry Zhang & Stephanya Moran",
+      "Corrado Mazzarelli & 100 zNew_Follow",
+      "Sam Wiegand & I`layah Willis",
+      "Escher Campanella & Zachary Pappalau",
+      "Hannah Powers & Jenna Hoggan",
+      "Matthew Fox & Emily Parker"
+    ]
+  },
+  {
+    "name": "Silver Rhythm  (CR)",
+    "couples": [
+      "Katherine Bell & Ben Toth",
+      "Nicole Piche & Sarah McRae",
+      "Akeem Francis & Victoria Anderson",
+      "Theodore Sauyet & Meghan DeChello",
+      "Daniel Lubitz & Samm Katcher",
+      "Joshua Thomas & Susannah Kane",
+      "Zachary Pearson & Escher Campanella",
+      "Rish Rastogi & Isabelle Donahue",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Philip Herin & Angela Vu",
+      "Maggie Caridi & Rebecca Ehrhardt",
+      "Levi Leab & Levi Leab",
+      "Michael Kiang & Isabel Jiah"
+    ]
+  },
+  {
+    "name": "Silver Rhythm  (SM)",
+    "couples": [
+      "Katherine Bell & Ben Toth",
+      "Nicole Piche & Sarah McRae",
+      "Daniel Lubitz & Samm Katcher",
+      "Akeem Francis & Victoria Anderson",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Zachary Pearson & Escher Campanella",
+      "Joshua Thomas & Susannah Kane",
+      "Theodore Sauyet & Meghan DeChello",
+      "Philip Herin & Angela Vu",
+      "Rish Rastogi & Isabelle Donahue",
+      "Maggie Caridi & Rebecca Ehrhardt",
+      "Levi Leab & Levi Leab",
+      "Michael Kiang & Isabel Jiah"
+    ]
+  },
+  {
+    "name": "Syllabus Am. Bolero  (B)",
+    "couples": [
+      "Eric Lam & Karen Baltazar",
+      "Ben Toth & Katherine Bell",
+      "Nicole Piche & Sarah McRae",
+      "Damien Hoffman & Tina Liu",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Rish Rastogi & 125 zNew_Follow",
+      "Philip Herin & Angela Vu",
+      "Maggie Caridi & Rebecca Ehrhardt",
+      "Levi Leab & Olivia Schrantz",
+      "Michael Kiang & Isabel Jiah"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Nell Owens & Lyndsay Borko",
+      "Jared Briones & Shalyn Palmateer",
+      "Jeffrey Dumpson & TBA 1",
+      "Julian Viereck & Ekin Basaran",
+      "Gabriel Mule & Abigail Doyle"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Jeffrey Dumpson & TBA 1",
+      "Jared Briones & Shalyn Palmateer",
+      "Nell Owens & Lyndsay Borko",
+      "Julian Viereck & Ekin Basaran",
+      "Gabriel Mule & Abigail Doyle"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Swing  (S)",
+    "couples": [
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Nell Owens & Lyndsay Borko",
+      "Jeffrey Dumpson & TBA 1",
+      "Jared Briones & Shalyn Palmateer",
+      "Julian Viereck & Ekin Basaran",
+      "Gabriel Mule & Abigail Doyle"
+    ]
+  },
+  {
+    "name": "Gold Rhythm  (CR)",
+    "couples": [
+      "Ben Toth & Katherine Bell",
+      "Levi Leab & Olivia Schrantz"
+    ]
+  },
+  {
+    "name": "Gold Rhythm  (SM)",
+    "couples": [
+      "Ben Toth & Katherine Bell",
+      "Levi Leab & Olivia Schrantz"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Justin Vasselli & Sophia Marx",
+      "Theodore Sauyet & Meghan DeChello",
+      "Rafael Gabriel & Hailey Forsberg",
+      "Savannah Nichols & Angela Vu",
+      "Shameeq Willis & Chelsea Brodka",
+      "Damien Hoffman & Tina Liu",
+      "Jake Wood & Rachel Kopacko",
+      "Hannah Powers & Emily Parker",
+      "Nell Owens & Ekin Basaran",
+      "Nicholas Pontrello & Asia Ladson",
+      "Adam Barna & Gabriel Mule",
+      "Sam Wiegand & Naya Murdock",
+      "Abigail Wilkerson & Hope Barnes",
+      "Caleb Fesmire & Amber Kmak",
+      "Toby Sundstrom & Anna Judd"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Samba  (S)",
+    "couples": [
+      "Savannah Nichols & Angela Vu",
+      "Theodore Sauyet & Meghan DeChello",
+      "Justin Vasselli & Sophia Marx",
+      "Shameeq Willis & Chelsea Brodka",
+      "Nell Owens & Ekin Basaran",
+      "Nicholas Pontrello & Asia Ladson",
+      "Matthew Holmes & Hope Barnes",
+      "Dominic Buttino & Skye Jacobson",
+      "Hannah Powers & Emily Parker",
+      "Jake Wood & Rachel Kopacko",
+      "Toby Sundstrom & Anna Judd"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Justin Vasselli & Sophia Marx",
+      "Theodore Sauyet & Meghan DeChello",
+      "Shameeq Willis & Chelsea Brodka",
+      "Savannah Nichols & Angela Vu",
+      "Rafael Gabriel & Hailey Forsberg",
+      "Nell Owens & Ekin Basaran",
+      "Damien Hoffman & Tina Liu",
+      "Hannah Powers & Emily Parker",
+      "Abigail Wilkerson & Hope Barnes",
+      "Nicholas Pontrello & Asia Ladson",
+      "Sam Wiegand & Naya Murdock",
+      "Jake Wood & Rachel Kopacko",
+      "Adam Barna & Gabriel Mule"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Jive  (J)",
+    "couples": [
+      "Rafael Gabriel & Hailey Forsberg",
+      "Theodore Sauyet & Meghan DeChello",
+      "Shameeq Willis & Chelsea Brodka",
+      "Damien Hoffman & Tina Liu",
+      "Savannah Nichols & Angela Vu",
+      "Nell Owens & Ekin Basaran",
+      "Hannah Powers & Emily Parker",
+      "Adam Barna & Abigail Wilkerson",
+      "Sam Wiegand & Emi Ahlo",
+      "Caleb Fesmire & Amber Kmak",
+      "Nicholas Pontrello & Asia Ladson",
+      "Jake Wood & Rachel Kopacko",
+      "Matthew Holmes & Hope Barnes",
+      "Toby Sundstrom & Anna Judd"
+    ]
+  },
+  {
+    "name": "Silver Latin  (CR)",
+    "couples": [
+      "Justin Vasselli & Sophia Marx",
+      "Katherine Bell & Ben Toth",
+      "Akeem Francis & Victoria Anderson",
+      "Theodore Sauyet & Meghan DeChello",
+      "Philip Herin & Angela Vu"
+    ]
+  },
+  {
+    "name": "Silver Latin  (SJ)",
+    "couples": [
+      "Katherine Bell & Ben Toth",
+      "Justin Vasselli & Sophia Marx",
+      "Akeem Francis & Victoria Anderson",
+      "Theodore Sauyet & Meghan DeChello",
+      "Philip Herin & Angela Vu"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Nell Owens & Lyndsay Borko",
+      "Chelsea Brodka & Dominic Buttino",
+      "Julian Viereck & Ekin Basaran",
+      "Gabriel Mule & Abigail Doyle"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Nell Owens & Lyndsay Borko",
+      "Julian Viereck & Ekin Basaran",
+      "Gabriel Mule & Abigail Doyle"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Nell Owens & Lyndsay Borko",
+      "Nicolas Gregoris & Sofia Fahsi",
+      "Julian Viereck & Ekin Basaran",
+      "Gabriel Mule & Abigail Doyle"
+    ]
+  },
+  {
+    "name": "Gold Latin  (CR)",
+    "couples": [
+      "Ben Toth & Katherine Bell",
+      "Levi Leab & Olivia Schrantz"
+    ]
+  },
+  {
+    "name": "Gold Latin  (SJ)",
+    "couples": [
+      "Ben Toth & Katherine Bell",
+      "Levi Leab & Olivia Schrantz"
+    ]
+  },
+  {
+    "name": "Syllabus Intl. Paso Doble  (P)",
+    "couples": [
+      "Justin Vasselli & Sophia Marx",
+      "Eric Lam & Karen Baltazar",
+      "Ben Toth & Katherine Bell",
+      "Levi Leab & Olivia Schrantz",
+      "Philip Herin & Nell Owens",
+      "Savannah Nichols & Jake Wood"
+    ]
+  },
+  {
+    "name": "Open Rhythm  (CRSBM)",
+    "couples": [
+      "Tyler O`Brien & Kuwabo Mubyana"
+    ]
+  }
+]

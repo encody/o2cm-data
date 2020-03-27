@@ -1,0 +1,832 @@
+[
+  {
+    "name": "Teacher/Student Under 8 Pre-Bronze Latin  (SJ)",
+    "couples": [
+      "Klinta Smite & Briel Nepo",
+      "Allen Glaizer & Rachel Zemels",
+      "Daniel Serebrenik & Sofiya Stratiy",
+      "Elizabeth Pozniazkova & Alice Trypadush",
+      "Yevgeniy Lerner & Isabelle Coulanges",
+      "Lev  Libkind & Eva Mesh"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Pre-Bronze Latin  (CR)",
+    "couples": [
+      "Klinta Smite & Briel Nepo",
+      "Allen Glaizer & Rachel Zemels",
+      "Daniel Serebrenik & Sofiya Stratiy",
+      "Elizabeth Pozniazkova & Alice Trypadush",
+      "Lev  Libkind & Eva Mesh",
+      "Yevgeniy Lerner & Isabelle Coulanges",
+      "Arthur Manouilovitch & Michelle Mastey",
+      "Samuil Gamorin & Eliana Krol"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Newcomer Latin  (SJ)",
+    "couples": [
+      "Lev  Libkind & Eva Mesh",
+      "Daniel Serebrenik & Sofiya Stratiy",
+      "Yevgeniy Lerner & Isabelle Coulanges"
+    ]
+  },
+  {
+    "name": "Teacher/Student Gent Pre-Teen Ia Newcomer Latin  (CR)",
+    "couples": [
+      "Elizabeth Pozniazkova & Daniel Savitsky"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Newcomer Latin  (CR)",
+    "couples": [
+      "Lev  Libkind & Eva Mesh",
+      "Daniel Serebrenik & Sofiya Stratiy",
+      "Yevgeniy Lerner & Isabelle Coulanges",
+      "Arthur Manouilovitch & Michelle Mastey",
+      "Samuil Gamorin & Eliana Krol"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Newcomer (1) Latin  (L)",
+    "couples": [
+      "Lev  Libkind & Victoria Gapeyeva"
+    ]
+  },
+  {
+    "name": "Teacher/Student Gent Pre-Teen II Newcomer Latin  (CR)",
+    "couples": [
+      "Elizabeth Pozniazkova & Daniel Savitsky"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen Ia Pre-Bronze Latin  (SCRJ)",
+    "couples": [
+      "Yanni Glukhovskiy & Kristine Staniuk",
+      "Klinta Smite & Briel Nepo",
+      "Yevgeniy Lerner & Kristina Dubodel"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen Ia Bronze Latin  (SCRJ)",
+    "couples": [
+      "Yanni Glukhovskiy & Kristine Staniuk",
+      "Emil Martirosyan & Francis Hrpcha",
+      "Kirill Budagovskiy & Victoria Brantsevich"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen Ia Newcomer Latin  (SCRJ)",
+    "couples": [
+      "Dima Romanenko & Feifei Wang",
+      "Lev  Libkind & Victoria Gapeyeva",
+      "Yevgeniy Lerner & Kristina Dubodel"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Bronze Latin  (SCRJ)",
+    "couples": [
+      "Daniel Tikhomirov & Emily Gulyak",
+      "Emil Martirosyan & Lea Soyfer",
+      "Allen Glaizer & Rachel Zemels",
+      "Elizabeth Pozniazkova & Alice Trypadush"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen I Pre-Bronze Latin  (SCRJ)",
+    "couples": [
+      "Alice Yankelevich & Solo"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen I Newcomer Latin  (SCRJ)",
+    "couples": [
+      "Hanna Sverdlov & Ava Goldstein"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior I Newcomer Latin  (SCRJ)",
+    "couples": [
+      "Igor Golovach & Lauren Cook"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen I Bronze Latin  (SCRJ)",
+    "couples": [
+      "Yevgeniy Lerner & Alice Bikhman"
+    ]
+  },
+  {
+    "name": "Solo Ladies Pre-Teen I Bronze Latin  (SCRJ)",
+    "couples": []
+  },
+  {
+    "name": "Teacher/Student Gent Pre-Teen Ia Bronze Latin  (SCRJ)",
+    "couples": [
+      "Elizabeth Pozniazkova & Noam Fainstein"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Silver Latin  (SCRJ)",
+    "couples": [
+      "Daniel Tikhomirov & Emily Gulyak",
+      "Anthony Mancuso & Eva Zaydman"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen II Bronze Latin  (SCRJ)",
+    "couples": [
+      "Yevgeniy Lerner & Valarie Zabrodina"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior I Bronze Latin  (SCRJ)",
+    "couples": [
+      "Igor Golovach & Lauren Cook"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen I Pre-Bronze Latin  (SCRJ)",
+    "couples": [
+      "Hanna Sverdlov & Ava Goldstein",
+      "Dima Romanenko & Feifei Wang",
+      "Yevgeniy Lerner & Alice Bikhman"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen II Pre-Bronze Latin  (SCRJ)",
+    "couples": [
+      "Yevgeniy Lerner & Valarie Zabrodina"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior I Pre-Bronze Latin  (SCRJ)",
+    "couples": [
+      "Igor Golovach & Lauren Cook"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen II Gold Latin  (SCRJ)",
+    "couples": [
+      "Kristers Smits & Isabella Beylis",
+      "Yuriy Nagay & Christina Shumko"
+    ]
+  },
+  {
+    "name": "Teacher/Student Gent Pre-Teen Ia Silver Latin  (SCRJ)",
+    "couples": [
+      "Elizabeth Pozniazkova & Noam Fainstein"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen Ia Silver Latin  (SCRJ)",
+    "couples": [
+      "Anthony Mancuso & Eva Zaydman"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior I Silver Latin  (SCRJ)",
+    "couples": [
+      "Igor Golovach & Lauren Cook"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior I Open Latin  (SCRJ)",
+    "couples": [
+      "Kristers Smits & Ariel Strochkova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Gent Pre-Teen II Gold Latin  (SCRJ)",
+    "couples": [
+      "maxim Chernin & Jacklyn Mogilevskiy"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior I Gold Latin  (SCRJ)",
+    "couples": [
+      "Yuriy Nagay & Christina Shumko",
+      "Kristers Smits & Ariel Strochkova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Youth Open Latin  (SCRJ)",
+    "couples": [
+      "Igor Golovach & Stephanie Micken",
+      "gregory rybakov & Anna Vakhnovetsky",
+      "Lev  Libkind & Stephanie Klebanov"
+    ]
+  },
+  {
+    "name": "Teacher/Student Youth Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Igor Golovach & Stephanie Micken"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen II Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Yuriy Nagay & Christina Shumko"
+    ]
+  },
+  {
+    "name": "Teacher/Student Youth Gold Latin  (SCRJ)",
+    "couples": [
+      "Igor Golovach & Stephanie Micken",
+      "Lev  Libkind & Stephanie Klebanov"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen II Open Latin  (SCRJ)",
+    "couples": [
+      "Kristers Smits & Isabella Beylis"
+    ]
+  },
+  {
+    "name": "Teacher/Student Youth Open Intl. Paso Doble  (P)",
+    "couples": [
+      "Igor Golovach & Stephanie Micken",
+      "gregory rybakov & Anna Vakhnovetsky"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior I Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Yuriy Nagay & Christina Shumko"
+    ]
+  },
+  {
+    "name": "Teacher/Student Gent Pre-Teen II Newcomer Standard  (WQ)",
+    "couples": [
+      "Elizabeth Pozniazkova & Daniel Savitsky"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Newcomer Standard  (WQ)",
+    "couples": [
+      "Arthur Manouilovitch & Michelle Mastey",
+      "Samuil Gamorin & Eliana Krol"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Daniel Tikhomirov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen II Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Yuriy Nagay & Christina Shumko"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Pre-Bronze Standard  (WQ)",
+    "couples": [
+      "Elizabeth Pozniazkova & Alice Trypadush",
+      "Arthur Manouilovitch & Michelle Mastey",
+      "Samuil Gamorin & Eliana Krol"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen II Open Standard  (WQT)",
+    "couples": [
+      "Kristers Smits & Isabella Beylis"
+    ]
+  },
+  {
+    "name": "Teacher/Student Gent Pre-Teen Ia Bronze Standard  (WQ)",
+    "couples": [
+      "Elizabeth Pozniazkova & Noam Fainstein"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Silver Standard  (WQT)",
+    "couples": [
+      "Daniel Tikhomirov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen II Silver Standard  (WQT)",
+    "couples": [
+      "Yuriy Nagay & Christina Shumko"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II Open Standard  (WQT)",
+    "couples": [
+      "Mitchell Hayutt & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen II Gold Standard  (F)",
+    "couples": [
+      "Yuriy Nagay & Nicolette Galperin"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Bronze Standard  (F)",
+    "couples": [
+      "Daniel Tikhomirov & Emily Gulyak"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II Open Standard  (F)",
+    "couples": [
+      "Mitchell Hayutt & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Teacher/Student Gent Pre-Teen Ia Newcomer Standard  (WQ)",
+    "couples": [
+      "Elizabeth Pozniazkova & Daniel Savitsky"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior I Silver Standard  (WTFQ)",
+    "couples": [
+      "Yuriy Nagay & Nicolette Galperin",
+      "Mitchell Hayutt & Rachel Kurilova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Under 8 Bronze Standard  (WQ)",
+    "couples": [
+      "Daniel Tikhomirov & Emily Gulyak",
+      "Elizabeth Pozniazkova & Alice Trypadush"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II Silver Standard  (WTFQ)",
+    "couples": [
+      "Yuriy Nagay & Briana Bobrov",
+      "Mitchell Hayutt & Rachel Kurilova"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II Gold Standard  (WTFQ)",
+    "couples": [
+      "Yuriy Nagay & Briana Bobrov",
+      "Mitchell Hayutt & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior I Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Mitchell Hayutt & Eva Blyakherov"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Daniel Tikhomirov & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Teacher/Student Gent Pre-Teen Ia Silver Standard  (WQ)",
+    "couples": [
+      "Elizabeth Pozniazkova & Noam Fainstein"
+    ]
+  },
+  {
+    "name": "Teacher/Student Pre-Teen II Gold Standard  (WQT)",
+    "couples": [
+      "Kristers Smits & Isabella Beylis",
+      "Yuriy Nagay & Nicolette Galperin"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior I Gold Standard  (WTFQ)",
+    "couples": [
+      "Mitchell Hayutt & Eva Blyakherov"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior II Open Intl. V. Waltz  (V)",
+    "couples": [
+      "Daniel Tikhomirov & Milana Fridman"
+    ]
+  },
+  {
+    "name": "Teacher/Student Junior I Open Standard  (WTVFQ)",
+    "couples": [
+      "Kristers Smits & Ariel Strochkova",
+      "Mitchell Hayutt & Eva Blyakherov"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Pre-Bronze Intl. Tango  (T)",
+    "couples": [
+      "Noam Fainstein & Alisa Kruglyansky"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Silver Intl. Tango  (T)",
+    "couples": [
+      "Daniel  Reunov & Marielle Shvaitser"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Nikita  Chekhovskoy & Margaret Medleva"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Silver Standard  (WFQ)",
+    "couples": [
+      "Daniel  Reunov & Marielle Shvaitser"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Standard  (WFQ)",
+    "couples": [
+      "Daniel Loziner & RACHEL  Rudshteyn",
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Amateur Under 8 Newcomer Standard  (WQ)",
+    "couples": [
+      "Matthew Shulman & Zoe Felder",
+      "Lenny Sanderov & Emiliana Romanchenko"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Bronze Standard  (WQ)",
+    "couples": [
+      "Noam Fainstein & Alisa Kruglyansky"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Bronze Intl. Tango  (T)",
+    "couples": [
+      "Noam Fainstein & Alisa Kruglyansky"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Standard  (T)",
+    "couples": [
+      "Nikita  Chekhovskoy & Margaret Medleva"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Standard  (WTFQ)",
+    "couples": [
+      "Matthew Liam Kotlyar & Chanelle Kim",
+      "Tom Yankelevich & Victoria Folmer"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Standard  (WTFQ)",
+    "couples": [
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Amateur Under 8 Pre-Bronze Standard  (WQ)",
+    "couples": [
+      "Matthew Shulman & Zoe Felder",
+      "Lenny Sanderov & Emiliana Romanchenko"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Pre-Bronze Standard  (WQ)",
+    "couples": [
+      "Noam Fainstein & Alisa Kruglyansky"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Standard  (WQ)",
+    "couples": [
+      "Nikita  Chekhovskoy & Margaret Medleva"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Silver Standard  (WFQ)",
+    "couples": [
+      "Daniel Loziner & RACHEL  Rudshteyn"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice Standard  (WFQ)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Youth Novice Standard  (WFQ)",
+    "couples": [
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice Standard  (TV)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Youth Novice Standard  (TV)",
+    "couples": [
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Matthew Liam Kotlyar & Chanelle Kim",
+      "Tom Yankelevich & Victoria Folmer"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Standard  (WTQ)",
+    "couples": [
+      "Henry Crain & Winnie Chen"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Standard  (WTFQ)",
+    "couples": [
+      "Theodore Sauyet & Meghan DeChello"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Bryan Rudshteyn & Liza Tsidulko",
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Intl. V. Waltz  (V)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Intl. V. Waltz  (V)",
+    "couples": [
+      "Bryan Rudshteyn & Liza Tsidulko",
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Latin  (CRJ)",
+    "couples": [
+      "Henry Crain & Winnie Chen"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Bryan Rudshteyn & Liza Tsidulko",
+      "Dima Romanenko & Abigail Pukin",
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Intl. Paso Doble  (P)",
+    "couples": [
+      "Dima Romanenko & Abigail Pukin",
+      "Bryan Rudshteyn & Liza Tsidulko"
+    ]
+  },
+  {
+    "name": "Amateur Senior II Championship Latin  (SCRPJ)",
+    "couples": [
+      "Anatoliy Shvarts & Tatiana Keegan",
+      "Khuong Pham & Arlene Yu"
+    ]
+  },
+  {
+    "name": "Amateur Youth Championship Latin  (SCRPJ)",
+    "couples": [
+      "Daniel Tikhomirov & Elizabeth Pozniazkova",
+      "Yanni Glukhovskiy & Julia Seleznyov",
+      "Leon Shvaitser & Alissa Guissine",
+      "Dima Romanenko & Abigail Pukin",
+      "Bryan Rudshteyn & Liza Tsidulko"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Smooth  (WTFV)",
+    "couples": [
+      "Theodore Sauyet & Meghan DeChello"
+    ]
+  },
+  {
+    "name": "Amateur Senior I Championship Latin  (SCRPJ)",
+    "couples": [
+      "Anatoliy Shvarts & Tatiana Keegan"
+    ]
+  },
+  {
+    "name": "Amateur Senior III Championship Latin  (SCRPJ)",
+    "couples": [
+      "Khuong Pham & Arlene Yu"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Latin  (SCRPJ)",
+    "couples": [
+      "Mathew Kheyfets & Sima Sadykhov",
+      "Daniel Tikhomirov & Elizabeth Pozniazkova",
+      "Leon Shvaitser & Alissa Guissine"
+    ]
+  },
+  {
+    "name": "Amateur Under 8 Newcomer Latin  (CR)",
+    "couples": [
+      "Aaron Lu & Neta Ribinik",
+      "Leon Chernov & Mia Shtivelman",
+      "Misko Katuscakov & Natalie Hernandez",
+      "Matthew Shulman & Zoe Felder",
+      "Lenny Sanderov & Emiliana Romanchenko"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Newcomer Latin  (CR)",
+    "couples": [
+      "Joshua Agres & Evelina Bass"
+    ]
+  },
+  {
+    "name": "Amateur Under 8 Newcomer Latin  (SJ)",
+    "couples": [
+      "Aaron Lu & Neta Ribinik",
+      "Misko Katuscakov & Natalie Hernandez"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Newcomer Latin  (SJ)",
+    "couples": [
+      "Joshua Agres & Evelina Bass"
+    ]
+  },
+  {
+    "name": "Amateur Under 8 Pre-Bronze Latin  (CR)",
+    "couples": [
+      "Aaron Lu & Neta Ribinik",
+      "Leon Chernov & Mia Shtivelman",
+      "Misko Katuscakov & Natalie Hernandez",
+      "Aidan Migunenko & Deanna Mashurova",
+      "Matthew Shulman & Zoe Felder",
+      "Lenny Sanderov & Emiliana Romanchenko"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Bronze Latin  (CR)",
+    "couples": [
+      "Noam Fainstein & Alisa Kruglyansky"
+    ]
+  },
+  {
+    "name": "Amateur Under 8 Pre-Bronze Latin  (SJ)",
+    "couples": [
+      "Aaron Lu & Neta Ribinik",
+      "Aidan Migunenko & Deanna Mashurova",
+      "Misko Katuscakov & Natalie Hernandez"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Pre-Bronze Latin  (SJ)",
+    "couples": [
+      "Joshua Agres & Evelina Bass"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Silver Intl. Jive  (J)",
+    "couples": [
+      "Daniel  Reunov & Marielle Shvaitser",
+      "Daniel Serebrenik & Erika Berman"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Pre-Bronze Latin  (CR)",
+    "couples": [
+      "Noam Fainstein & Alisa Kruglyansky",
+      "Joshua Agres & Evelina Bass"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Latin  (SCRJ)",
+    "couples": [
+      "Nikita  Chekhovskoy & Margaret Medleva"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Silver Latin  (SCR)",
+    "couples": [
+      "Daniel Serebrenik & Erika Berman"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Silver Intl. Jive  (J)",
+    "couples": [
+      "Daniel Serebrenik & Erika Berman"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Daniel  Reunov & Marielle Shvaitser"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Latin  (SCRJ)",
+    "couples": [
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Latin  (SCRJ)",
+    "couples": [
+      "Matthew Liam Kotlyar & Chanelle Kim",
+      "Tom Yankelevich & Victoria Folmer",
+      "Daniel Serebrenik & Claudia Liu"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Latin  (SCRJ)",
+    "couples": [
+      "Daniel Serebrenik & Claudia Liu",
+      "Samuil Gamorin & Marianne Ayzikovich"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Latin  (SCRJ)",
+    "couples": [
+      "Jashua Rai & Briana Bobrov"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen Ia Silver Latin  (SCR)",
+    "couples": [
+      "Daniel  Reunov & Marielle Shvaitser",
+      "Daniel Serebrenik & Erika Berman"
+    ]
+  },
+  {
+    "name": "Amateur Pre-Teen II Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Matthew Liam Kotlyar & Chanelle Kim",
+      "Tom Yankelevich & Victoria Folmer"
+    ]
+  },
+  {
+    "name": "Amateur Youth Championship Standard  (WTVFQ)",
+    "couples": [
+      "Daniel Tikhomirov & Elizabeth Pozniazkova",
+      "Leon Shvaitser & Alissa Guissine",
+      "Yanni Glukhovskiy & Julia Seleznyov",
+      "Bryan Rudshteyn & Liza Tsidulko"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Novice Latin  (SCRJ)",
+    "couples": [
+      "Arthur Manouilovitch & Anna Gladkov"
+    ]
+  },
+  {
+    "name": "Amateur Youth Novice Latin  (SCRJ)",
+    "couples": [
+      "Gregory Roitbourd & Irene Kobiler"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Standard  (WTVFQ)",
+    "couples": [
+      "Nicolas Ballester & Simona Gentile",
+      "Daniel Tikhomirov & Elizabeth Pozniazkova",
+      "Leon Shvaitser & Alissa Guissine",
+      "Phil Beylison & Jenna Rubenchick",
+      "Yanni Glukhovskiy & Julia Seleznyov"
+    ]
+  }
+]

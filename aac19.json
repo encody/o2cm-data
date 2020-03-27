@@ -1,0 +1,1395 @@
+[
+  {
+    "name": "Am Team Match  Open Am. Multi-Dance  (WTCR)",
+    "couples": [
+      "UT ORANGE & UT ORANGE",
+      "SMU RED & SMU RED",
+      "RICE BLUE & RICE BLUE",
+      "Texas Tech YELLOW & Texas Tech YELLOW",
+      "Arkansas PURPLE & Arkansas PURPLE",
+      "UofH GREEN & UofH GREEN",
+      "A and M FUCHSIA & A and M FUCHSIA"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Am. Waltz  (W)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Jeremy Bauer & Ellora Vela",
+      "Edgar Martinez & Dalia Martinez",
+      "Jacob Sacco & Danielle Andrade",
+      "carlos velazquez sagrero & Darce Markowsky",
+      "Reagan Ashley & Maggie Nance",
+      "Eric Castro & Ashley Taylor",
+      "Ryan Lanier & Lynelle Frakes",
+      "Thomas Martinez & Ingrid Tamez",
+      "Sebastian Castellanos & Caroline Garnett",
+      "Alex Lenhard & Catherine Rankin",
+      "Eric Lee & Nataliia Sviazinska",
+      "Phong Tran & Amber Royea",
+      "Timothy Vincent & Victoria Wright",
+      "Vaibhav Intwala & Mikayla Merigan",
+      "Daniel Cartwright & Karen Chen",
+      "Colton Bauer & 155 zNew_Follow",
+      "Brennon Freeman & Maria Rodriguez",
+      "Brandon Corey & Jackie Rosenthal",
+      "Henry Zhang & Madigan McDaniel"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Am. Tango  (T)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Jeremy Bauer & Ellora Vela",
+      "carlos velazquez sagrero & Darce Markowsky",
+      "Eric Lee & Nataliia Sviazinska",
+      "Ryan Lanier & Lynelle Frakes",
+      "Sebastian Castellanos & Caroline Garnett",
+      "Reagan Ashley & Maggie Nance",
+      "Jacob Sacco & Danielle Andrade",
+      "Edgar Martinez & Dalia Martinez",
+      "Alex Lenhard & Catherine Rankin",
+      "Thomas Martinez & Ingrid Tamez",
+      "Phong Tran & Amber Royea",
+      "Eric Castro & Ashley Taylor",
+      "Brennon Freeman & Tracy Tse",
+      "Brandon Corey & Jackie Rosenthal",
+      "Henry Zhang & Madigan McDaniel",
+      "Richard Zule & Maria Rodriguez",
+      "Colton Bauer & 155 zNew_Follow"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Edgar Martinez & Dalia Martinez",
+      "Jeremy Bauer & Ellora Vela",
+      "carlos velazquez sagrero & Darce Markowsky",
+      "Eric Lee & Nataliia Sviazinska",
+      "Ryan Lanier & Lynelle Frakes",
+      "Jacob Sacco & Danielle Andrade",
+      "Eric Castro & Ashley Taylor",
+      "Timothy Vincent & Victoria Wright",
+      "Reagan Ashley & Maggie Nance",
+      "Thomas Martinez & Ingrid Tamez",
+      "Sebastian Castellanos & Caroline Garnett",
+      "Colton Bauer & 155 zNew_Follow",
+      "Phong Tran & Amber Royea",
+      "Brandon Corey & Jackie Rosenthal",
+      "landon Harris & Madelinn Young",
+      "Alex Lenhard & Catherine Rankin",
+      "Henry Zhang & Madigan McDaniel",
+      "Brennon Freeman & Maria Rodriguez"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Am. Waltz  (W)",
+    "couples": [
+      "Heather Smith & Lilah Qubrosi",
+      "Rey Ylagan & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Silver Am. Waltz  (W)",
+    "couples": [
+      "Patrick Schiess & Shaler Williams",
+      "mitchell Schonhoeft & Felipa Mendez"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Am. Tango  (T)",
+    "couples": [
+      "Heather Smith & Lilah Qubrosi",
+      "Rey Ylagan & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Silver Am. Tango  (T)",
+    "couples": [
+      "Patrick Schiess & Shaler Williams",
+      "mitchell Schonhoeft & Felipa Mendez"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Heather Smith & Lilah Qubrosi"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Patrick Schiess & Shaler Williams"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Heather Smith & Lilah Qubrosi"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Patrick Schiess & Shaler Williams"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Jeremy Bauer & Ellora Vela",
+      "Jacob Sacco & Danielle Andrade",
+      "Thomas Martinez & Ingrid Tamez",
+      "Eric Castro & Ashley Taylor",
+      "Alex Lenhard & Catherine Rankin",
+      "Eric Lee & Nataliia Sviazinska",
+      "Reagan Ashley & Maggie Nance",
+      "Ryan Lanier & Lynelle Frakes"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Jared Tu & Jackie Rosenthal",
+      "Rey Ylagan & Elizabeth Nguyen",
+      "Chris Proodian & Mikayla Merigan"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Newcomer Am. Tango  (T)",
+    "couples": [
+      "Ali Abualsaud & Lauren Quesada"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Brennon Freeman & Maria Rodriguez",
+      "Jared Tu & Jackie Rosenthal",
+      "landon Harris & Madelinn Young",
+      "Rey Ylagan & Elizabeth Nguyen"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Am. Waltz  (W)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "bryce freund & Briana Kallenbach",
+      "Edgar Martinez & Dalia Martinez",
+      "Ben Scarborough & Lauren Quesada",
+      "Jacob Sacco & Hailey Daugherty",
+      "Heather Smith & Niki Adams",
+      "Brandon Corey & Danielle Andrade",
+      "Alex Lenhard & Darce Markowsky",
+      "Eric Lee & Maggie Nance",
+      "Reagan Ashley & Amber Royea",
+      "Ryan Lanier & Lynelle Frakes",
+      "Thomas Martinez & Ingrid Tamez"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Am. Tango  (T)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "bryce freund & Briana Kallenbach",
+      "Edgar Martinez & Dalia Martinez",
+      "Jacob Sacco & Hailey Daugherty",
+      "Brandon Corey & Danielle Andrade",
+      "Reagan Ashley & Amber Royea",
+      "Heather Smith & Niki Adams",
+      "Alex Lenhard & Darce Markowsky",
+      "Thomas Martinez & Ingrid Tamez",
+      "Eric Lee & Maggie Nance",
+      "Ben Scarborough & Lauren Quesada",
+      "Ryan Lanier & Lynelle Frakes"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Edgar Martinez & Dalia Martinez",
+      "bryce freund & Briana Kallenbach",
+      "Jacob Sacco & Hailey Daugherty",
+      "Brandon Corey & Danielle Andrade",
+      "Heather Smith & Niki Adams",
+      "Alex Lenhard & Darce Markowsky",
+      "Eric Lee & Maggie Nance",
+      "Thomas Martinez & Ingrid Tamez",
+      "Reagan Ashley & Amber Royea",
+      "Ben Scarborough & Lauren Quesada",
+      "Ryan Lanier & Lynelle Frakes"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Ben Scarborough & Lauren Quesada",
+      "Jeremy Bauer & Ellora Vela",
+      "bryce freund & Briana Kallenbach",
+      "Heather Smith & Niki Adams",
+      "Jacob Sacco & Hailey Daugherty",
+      "Alex Lenhard & Darce Markowsky",
+      "Eric Lee & Maggie Nance",
+      "Neil Chen & Lyla Dong"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Daniel Cartwright & Karen Chen",
+      "Vaibhav Intwala & Lynelle Frakes",
+      "Henry Zhang & Madigan McDaniel",
+      "Eloy Escobar & Victoria Meyer",
+      "Richard Zule & Ellora Vela",
+      "Colton Bauer & Ingrid Tamez",
+      "Ali Abualsaud & Lauren Quesada"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Paul Forness & Ainsley Jackson",
+      "Eloy Escobar & Victoria Meyer",
+      "Henry Zhang & Madigan McDaniel"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Am. Waltz  (W)",
+    "couples": [
+      "Anthony Moeller & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Am. Tango  (T)",
+    "couples": [
+      "Anthony Moeller & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Anthony Moeller & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Anthony Moeller & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Intl. Waltz  (W)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Nathan Gates & Milla Winner",
+      "bryce freund & Victoria Tatum",
+      "Connor Peters & Vivian Glick",
+      "Paul Forness & Sophia Landers",
+      "Heather Smith & Melina Corriveau",
+      "Jacob Lloyd & Sabrina Fleming",
+      "Devin Long & Niki Adams",
+      "Nick Ryan & Anna Weber",
+      "Sanmit Narvekar & Lauren Quesada",
+      "Eric Lee & Danielle Andrade",
+      "Karl Martin & Shaler Williams",
+      "Ben Scarborough & Briana Kallenbach",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Jacob Sacco & Hailey Daugherty",
+      "Ian Mower & Kate Koontz",
+      "Reagan Ashley & Nataliia Sviazinska",
+      "Zachary Munder & Sage Konstanzer",
+      "Adam Czarnik & Avery Wacker",
+      "Ryan Lanier & Lynelle Frakes"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Intl. Tango  (T)",
+    "couples": [
+      "Connor Peters & Vivian Glick",
+      "Neil Chen & Lyla Dong",
+      "Nathan Gates & Milla Winner",
+      "Paul Forness & Sophia Landers",
+      "Jacob Lloyd & Sabrina Fleming",
+      "Heather Smith & Melina Corriveau",
+      "Sanmit Narvekar & Lauren Quesada",
+      "Nick Ryan & Anna Weber",
+      "bryce freund & Victoria Tatum",
+      "Reagan Ashley & Nataliia Sviazinska",
+      "Karl Martin & Shaler Williams",
+      "Ben Scarborough & Briana Kallenbach",
+      "Devin Long & Niki Adams",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Ryan Lanier & Lynelle Frakes",
+      "Adam Czarnik & Avery Wacker",
+      "Ian Mower & Kate Koontz",
+      "Zachary Munder & Sage Konstanzer"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Connor Peters & Vivian Glick",
+      "Paul Forness & Sophia Landers",
+      "Sanmit Narvekar & Lauren Quesada",
+      "Heather Smith & Melina Corriveau",
+      "Jacob Lloyd & Sabrina Fleming",
+      "Reagan Ashley & Nataliia Sviazinska",
+      "Ben Scarborough & Briana Kallenbach",
+      "Jeremy Bauer & Ellora Vela",
+      "Nathan Gates & Milla Winner",
+      "Jacob Sacco & Hailey Daugherty",
+      "Karl Martin & Shaler Williams",
+      "bryce freund & Victoria Tatum",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Eric Lee & Danielle Andrade",
+      "Ian Mower & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Connor Peters & Vivian Glick",
+      "Paul Forness & Sophia Landers",
+      "Jacob Lloyd & Sabrina Fleming",
+      "Sanmit Narvekar & Lauren Quesada",
+      "Nathan Gates & Milla Winner",
+      "Heather Smith & Melina Corriveau",
+      "Ben Scarborough & Briana Kallenbach",
+      "bryce freund & Victoria Tatum",
+      "Reagan Ashley & Nataliia Sviazinska",
+      "Nick Ryan & Anna Weber",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Karl Martin & Shaler Williams",
+      "Jeremy Bauer & Ellora Vela",
+      "Devin Long & Niki Adams",
+      "Jacob Sacco & Hailey Daugherty",
+      "Adam Czarnik & Avery Wacker",
+      "Ian Mower & Kate Koontz",
+      "Zachary Munder & Sage Konstanzer"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Damien Young & Alexandra Barnes",
+      "Johnathan Roberts & Annabel Chang",
+      "Emmanuel Barsallo & Itzel Munoz Monroy",
+      "Rey Ylagan & Elizabeth Nguyen",
+      "landon Harris & Madelinn Young",
+      "Alireza Ansaripour & Sarah Taylor"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Emmanuel Barsallo & Itzel Munoz Monroy",
+      "Damien Young & Alexandra Barnes",
+      "landon Harris & Madelinn Young",
+      "Alireza Ansaripour & Sarah Taylor",
+      "Rey Ylagan & Elizabeth Nguyen",
+      "Johnathan Roberts & Annabel Chang"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "bryce freund & Victoria Tatum",
+      "Connor Peters & Vivian Glick",
+      "Jacob Lloyd & Sabrina Fleming",
+      "Heather Smith & Melina Corriveau",
+      "Paul Forness & Sophia Landers",
+      "Nathan Gates & Milla Winner",
+      "Ben Scarborough & Briana Kallenbach",
+      "Zachary Munder & Sage Konstanzer",
+      "Karl Martin & Shaler Williams",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Ryan Lanier & Lynelle Frakes",
+      "Ian Mower & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Austin Mohle & Margaret Kamholz",
+      "Nathan Gates & Milla Winner",
+      "Ben Scarborough & Briana Kallenbach",
+      "mitchell Schonhoeft & Shuya Chen",
+      "Reagan Ashley & Nataliia Sviazinska",
+      "Devin Long & Minaz Zad",
+      "Ryan Lanier & Lynelle Frakes",
+      "Nick Ryan & Anna Weber",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Daniel Cartwright & Karen Chen",
+      "Eric Lee & Hailey Daugherty",
+      "Karl Martin & Anna Musich",
+      "Damien Young & Alexandra Barnes",
+      "Sebastian Castellanos & Caroline Garnett",
+      "Eric Castro & Ashley Taylor",
+      "Timothy Vincent & Victoria Wright",
+      "landon Harris & Madelinn Young",
+      "Henry Zhang & Madigan McDaniel",
+      "Johnathan Roberts & Annabel Chang",
+      "Alireza Ansaripour & Sarah Taylor",
+      "Emmanuel Barsallo & Itzel Munoz Monroy"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Intl. Tango  (T)",
+    "couples": [
+      "Nathan Gates & Milla Winner",
+      "Austin Mohle & Margaret Kamholz",
+      "Ben Scarborough & Briana Kallenbach",
+      "mitchell Schonhoeft & Shuya Chen",
+      "Ryan Lanier & Lynelle Frakes",
+      "Sebastian Castellanos & Caroline Garnett",
+      "Reagan Ashley & Nataliia Sviazinska",
+      "Nick Ryan & Anna Weber",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Eric Castro & Ashley Taylor",
+      "Eric Lee & Hailey Daugherty",
+      "Karl Martin & Anna Musich",
+      "Devin Long & Minaz Zad",
+      "Damien Young & Alexandra Barnes",
+      "Daniel Cartwright & Karen Chen",
+      "Emmanuel Barsallo & Itzel Munoz Monroy",
+      "Johnathan Roberts & Annabel Chang",
+      "landon Harris & Madelinn Young",
+      "Henry Zhang & Madigan McDaniel",
+      "Alireza Ansaripour & Sarah Taylor"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Ben Scarborough & Briana Kallenbach",
+      "Reagan Ashley & Nataliia Sviazinska",
+      "Austin Mohle & Margaret Kamholz",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Karl Martin & Anna Musich",
+      "Jeremy Bauer & Ellora Vela",
+      "Daniel Cartwright & Karen Chen",
+      "Brandon Corey & Danielle Andrade",
+      "Eric Lee & Hailey Daugherty",
+      "Nick Ryan & Anna Weber",
+      "Devin Long & Minaz Zad",
+      "Eric Castro & Ashley Taylor",
+      "Henry Zhang & Madigan McDaniel",
+      "Johnathan Roberts & Annabel Chang",
+      "Nathan Gates & Milla Winner",
+      "Phong Tran & Amber Royea",
+      "landon Harris & Madelinn Young",
+      "Emmanuel Barsallo & Itzel Munoz Monroy"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Austin Mohle & Margaret Kamholz",
+      "Karl Martin & Anna Musich",
+      "Tin Pham-Tran & Kathy Yu",
+      "Drake Cadeddu & Stephanie Dodgen",
+      "Paul Forness & Ainsley Jackson",
+      "Daniel Cartwright & Karen Chen",
+      "Ali Abualsaud & Lauren Quesada",
+      "Samuel Park & Niki Adams",
+      "Henry Zhang & Madigan McDaniel",
+      "Derek Sun & Melina Corriveau",
+      "Brennon Freeman & Maria Rodriguez"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Austin Mohle & Margaret Kamholz",
+      "Tin Pham-Tran & Kathy Yu",
+      "Karl Martin & Anna Musich",
+      "Drake Cadeddu & Stephanie Dodgen",
+      "Daniel Cartwright & Karen Chen",
+      "Ali Abualsaud & Lauren Quesada",
+      "Samuel Park & Niki Adams",
+      "Henry Zhang & Madigan McDaniel",
+      "Derek Sun & Melina Corriveau"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Tin Pham-Tran & Kathy Yu",
+      "Connor Peters & Diana Sattarova",
+      "Rey Ylagan & Victoria Tatum",
+      "Zachary Munder & Sage Konstanzer"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Intl. Tango  (T)",
+    "couples": [
+      "Connor Peters & Diana Sattarova",
+      "Tin Pham-Tran & Kathy Yu",
+      "Rey Ylagan & Victoria Tatum",
+      "Zachary Munder & Sage Konstanzer"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Connor Peters & Diana Sattarova",
+      "Heather Smith & Anna Weber"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Tin Pham-Tran & Kathy Yu",
+      "Heather Smith & Anna Weber",
+      "Rey Ylagan & Victoria Tatum",
+      "Zachary Munder & Sage Konstanzer"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Tin Pham-Tran & Kathy Yu",
+      "Rey Ylagan & Victoria Tatum",
+      "Zachary Munder & Sage Konstanzer",
+      "Paul Forness & Ainsley Jackson"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Austin Mohle & Margaret Kamholz",
+      "Ben Scarborough & Briana Kallenbach",
+      "Reagan Ashley & Nataliia Sviazinska",
+      "Jacob Sacco & Catherine Rankin",
+      "Jeremy Bauer & Ellora Vela",
+      "Nick Ryan & Shaler Williams",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Ryan Lanier & Lynelle Frakes",
+      "mitchell Schonhoeft & Shuya Chen",
+      "Eric Castro & Ashley Taylor",
+      "Eric Lee & Hailey Daugherty"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Nathan Gates & Milla Winner",
+      "Ben Scarborough & Briana Kallenbach",
+      "Sebastian Castellanos & Caroline Garnett",
+      "Henry Zhang & Madigan McDaniel",
+      "Nick Ryan & Shaler Williams",
+      "Austin Mohle & Margaret Kamholz",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Ryan Lanier & Lynelle Frakes",
+      "Daniel Cartwright & Karen Chen",
+      "Timothy Vincent & Victoria Wright"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Intl. Waltz  (W)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Anthony Moeller & Kira Placido",
+      "Jared Nirenberg & Tracy Tse",
+      "Connor Peters & Vivian Glick",
+      "Paul Forness & Sophia Landers",
+      "Juan Mier & Tin Pham",
+      "Victoria Tatum & Lauren Quesada",
+      "Heather Smith & Stephanie Dodgen"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Intl. Tango  (T)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Anthony Moeller & Kira Placido",
+      "Jared Nirenberg & Tracy Tse",
+      "Connor Peters & Vivian Glick",
+      "Juan Mier & Tin Pham",
+      "Paul Forness & Sophia Landers",
+      "Heather Smith & Stephanie Dodgen",
+      "Victoria Tatum & Lauren Quesada"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Anthony Moeller & Kira Placido",
+      "Jared Nirenberg & Tracy Tse",
+      "Connor Peters & Vivian Glick",
+      "Paul Forness & Sophia Landers",
+      "Heather Smith & Stephanie Dodgen",
+      "Victoria Tatum & Lauren Quesada",
+      "Neil Chen & Lyla Dong"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Anthony Moeller & Kira Placido",
+      "Jared Nirenberg & Tracy Tse",
+      "Neil Chen & Lyla Dong",
+      "Juan Mier & Tin Pham",
+      "Connor Peters & Vivian Glick",
+      "Victoria Tatum & Lauren Quesada",
+      "Paul Forness & Sophia Landers",
+      "Heather Smith & Stephanie Dodgen"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Jared Nirenberg & Tracy Tse",
+      "Anthony Moeller & Kira Placido",
+      "Juan Mier & Tin Pham",
+      "Paul Forness & Sophia Landers",
+      "Connor Peters & Vivian Glick",
+      "Heather Smith & Stephanie Dodgen",
+      "Victoria Tatum & Lauren Quesada"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Novice Standard  (WFQ)",
+    "couples": [
+      "Mario Venegas & Emily Clarke",
+      "Nolan Whitely & Halah Winner",
+      "Anthony Moeller & Kira Placido",
+      "Jared Nirenberg & Tracy Tse"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Nolan Whitely & Halah Winner"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Standard  (WTFQ)",
+    "couples": [
+      "Louis Riendeau & Tracy Card"
+    ]
+  },
+  {
+    "name": "Amateur Adult Championship Standard  (WTVFQ)",
+    "couples": [
+      "Louis Riendeau & Tracy Card"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Novice Smooth  (WTF)",
+    "couples": [
+      "Mario Venegas & Emily Clarke"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Eric Lee & Danielle Andrade",
+      "Ryan Lanier & Lynelle Frakes",
+      "Jeremy Bauer & Ellora Vela",
+      "Tracy Tse & Juan Mier",
+      "carlos velazquez sagrero & Hailey Daugherty",
+      "Thomas Martinez & Ingrid Tamez",
+      "Alex Lenhard & Amber Royea",
+      "Brennon Freeman & Maria Rodriguez",
+      "Phong Tran & Catherine Rankin",
+      "Brandon Corey & Maggie Nance",
+      "Eric Castro & Ashley Taylor",
+      "Daniel Cartwright & Karen Chen",
+      "Timothy Vincent & Victoria Wright",
+      "Reagan Ashley & Darce Markowsky",
+      "Colton Bauer & 155 zNew_Follow",
+      "Jared Tu & Jackie Rosenthal",
+      "Henry Zhang & Madigan McDaniel",
+      "Vaibhav Intwala & Mikayla Merigan"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Am. Swing  (S)",
+    "couples": [
+      "Jeremy Bauer & Ellora Vela",
+      "Reagan Ashley & Darce Markowsky",
+      "Eric Lee & Danielle Andrade",
+      "Vaibhav Intwala & 143 zNew_Follow",
+      "Thomas Martinez & Ingrid Tamez",
+      "Henry Zhang & Madigan McDaniel",
+      "Brandon Corey & Maggie Nance",
+      "Sebastian Castellanos & Caroline Garnett",
+      "Jared Tu & Jackie Rosenthal",
+      "Daniel Cartwright & Karen Chen",
+      "Eric Castro & Ashley Taylor",
+      "Alex Lenhard & Amber Royea",
+      "Phong Tran & Catherine Rankin",
+      "Chris Proodian & Mikayla Merigan",
+      "Brennon Freeman & Maria Rodriguez",
+      "Tracy Tse & Juan Mier",
+      "carlos velazquez sagrero & Hailey Daugherty",
+      "Timothy Vincent & Victoria Wright",
+      "Ryan Lanier & Lynelle Frakes",
+      "Colton Bauer & 155 zNew_Follow"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Anthony Moeller & Victoria Tatum",
+      "Mario Venegas & Lauren Quesada"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Am. Rumba  (R)",
+    "couples": [
+      "Anthony Moeller & Victoria Tatum",
+      "Mario Venegas & Lauren Quesada"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Am. Swing  (S)",
+    "couples": [
+      "Anthony Moeller & Victoria Tatum",
+      "Mario Venegas & Lauren Quesada"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Am. Bolero  (B)",
+    "couples": [
+      "Heather Smith & Lilah Qubrosi"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Am. Bolero  (B)",
+    "couples": [
+      "Anthony Moeller & Victoria Tatum",
+      "Mario Venegas & Lauren Quesada"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Am. Mambo  (M)",
+    "couples": [
+      "Heather Smith & Lilah Qubrosi"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Am. Mambo  (M)",
+    "couples": [
+      "Mario Venegas & Lauren Quesada",
+      "Anthony Moeller & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Jared Tu & Jackie Rosenthal",
+      "Rey Ylagan & Elizabeth Nguyen"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Silver Am. Cha Cha  (C)",
+    "couples": [
+      "mitchell Schonhoeft & Felipa Mendez"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Jared Tu & Jackie Rosenthal",
+      "Rey Ylagan & Elizabeth Nguyen"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Silver Am. Rumba  (R)",
+    "couples": [
+      "mitchell Schonhoeft & Felipa Mendez"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Am. Swing  (S)",
+    "couples": [
+      "Heather Smith & Lilah Qubrosi"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Silver Am. Swing  (S)",
+    "couples": [
+      "mitchell Schonhoeft & Felipa Mendez"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Am. Cha Cha  (C)",
+    "couples": [
+      "bryce freund & Briana Kallenbach",
+      "Jacob Sacco & Hailey Daugherty",
+      "Heather Smith & Niki Adams",
+      "Reagan Ashley & Danielle Andrade",
+      "Ryan Lanier & Lynelle Frakes",
+      "Zachary Munder & Vivian Glick",
+      "Thomas Martinez & Ingrid Tamez",
+      "Brandon Corey & Darce Markowsky",
+      "Henry Zhang & Lauren Quesada",
+      "Alex Lenhard & Maggie Nance"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Am. Rumba  (R)",
+    "couples": [
+      "bryce freund & Briana Kallenbach",
+      "Ryan Lanier & Lynelle Frakes",
+      "Reagan Ashley & Danielle Andrade",
+      "Jacob Sacco & Hailey Daugherty",
+      "Zachary Munder & Vivian Glick",
+      "Heather Smith & Niki Adams",
+      "Brandon Corey & Darce Markowsky",
+      "Thomas Martinez & Ingrid Tamez",
+      "Alex Lenhard & Maggie Nance"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Am. Swing  (S)",
+    "couples": [
+      "Reagan Ashley & Danielle Andrade",
+      "bryce freund & Briana Kallenbach",
+      "Henry Zhang & Lauren Quesada",
+      "Jacob Sacco & Hailey Daugherty",
+      "Ryan Lanier & Lynelle Frakes",
+      "Heather Smith & Niki Adams",
+      "Zachary Munder & Vivian Glick",
+      "Brandon Corey & Darce Markowsky",
+      "Walter Piecznski & Sophia Landers",
+      "Alex Lenhard & Maggie Nance",
+      "Thomas Martinez & Ingrid Tamez"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Heather Smith & Lilah Qubrosi",
+      "Rey Ylagan & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Am. Rumba  (R)",
+    "couples": [
+      "Heather Smith & Lilah Qubrosi",
+      "Rey Ylagan & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Vaibhav Intwala & Lynelle Frakes",
+      "Daniel Cartwright & Karen Chen",
+      "Richard Zule & Ellora Vela",
+      "Eloy Escobar & Victoria Meyer",
+      "Colton Bauer & Ingrid Tamez",
+      "Henry Zhang & Madigan McDaniel",
+      "Ali Abualsaud & Lauren Quesada"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Vaibhav Intwala & Lynelle Frakes",
+      "Ali Abualsaud & Lauren Quesada",
+      "Eloy Escobar & Victoria Meyer"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Am. Rumba  (R)",
+    "couples": [
+      "Reagan Ashley & Darce Markowsky",
+      "Ryan Lanier & Lynelle Frakes",
+      "Jeremy Bauer & Ellora Vela",
+      "Eric Lee & Danielle Andrade",
+      "carlos velazquez sagrero & Hailey Daugherty",
+      "Tracy Tse & Juan Mier",
+      "Thomas Martinez & Ingrid Tamez",
+      "Phong Tran & Catherine Rankin",
+      "Eric Castro & Ashley Taylor",
+      "Richard Zule & Maria Rodriguez",
+      "Brandon Corey & Maggie Nance",
+      "Alex Lenhard & Amber Royea"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Am. Mambo  (M)",
+    "couples": [
+      "Tracy Tse & Juan Mier",
+      "Eric Castro & Ashley Taylor",
+      "Eric Lee & Danielle Andrade",
+      "carlos velazquez sagrero & Hailey Daugherty",
+      "Reagan Ashley & Darce Markowsky",
+      "Phong Tran & Catherine Rankin",
+      "Brandon Corey & Maggie Nance",
+      "Alex Lenhard & Amber Royea",
+      "Eloy Escobar & Ellora Vela"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Am. Bolero  (B)",
+    "couples": [
+      "Jacob Sacco & Hailey Daugherty",
+      "Zachary Munder & Vivian Glick",
+      "Reagan Ashley & Danielle Andrade",
+      "Heather Smith & Niki Adams"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Am. Mambo  (M)",
+    "couples": [
+      "Zachary Munder & Vivian Glick",
+      "bryce freund & Briana Kallenbach",
+      "Jacob Sacco & Hailey Daugherty",
+      "Heather Smith & Niki Adams",
+      "Reagan Ashley & Danielle Andrade",
+      "Alex Lenhard & Maggie Nance"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Am. Bolero  (B)",
+    "couples": [
+      "Reagan Ashley & Darce Markowsky",
+      "Eric Lee & Danielle Andrade",
+      "Phong Tran & Catherine Rankin"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Intl. Samba  (S)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Ben Scarborough & Briana Kallenbach",
+      "Juan Mier & Kathy Yu",
+      "Nathan Gates & Milla Winner",
+      "Hailey Daugherty & Nataliia Sviazinska",
+      "Eric Castro & Sophia Landers",
+      "Jeremy Bauer & Ellora Vela",
+      "Alex Lenhard & Danielle Andrade",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Paul Forness & Ashley Taylor",
+      "Nick Ryan & Shaler Williams",
+      "Phong Tran & Maggie Nance",
+      "Eric Lee & Darce Markowsky",
+      "Henry Zhang & Madigan McDaniel",
+      "Johnathan Roberts & Annabel Chang",
+      "Daniel Cartwright & Karen Chen",
+      "Adam Czarnik & Sage Konstanzer",
+      "Austin Mohle & Margaret Kamholz",
+      "Damien Young & Alexandra Barnes"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Ben Scarborough & Briana Kallenbach",
+      "Juan Mier & Kathy Yu",
+      "Eric Lee & Darce Markowsky",
+      "Austin Mohle & Margaret Kamholz",
+      "Hailey Daugherty & Nataliia Sviazinska",
+      "Nathan Gates & Milla Winner",
+      "carlos velazquez sagrero & 113 zNew_Follow",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Paul Forness & Ashley Taylor",
+      "Jacob Sacco & Catherine Rankin",
+      "Nick Ryan & Shaler Williams",
+      "Phong Tran & Maggie Nance",
+      "Eric Castro & Sophia Landers",
+      "Reagan Ashley & Jackie Rosenthal",
+      "Karl Martin & Anna Musich",
+      "Daniel Cartwright & Karen Chen",
+      "Henry Zhang & Madigan McDaniel",
+      "Damien Young & Alexandra Barnes",
+      "Johnathan Roberts & Annabel Chang",
+      "Brandon Corey & Amber Royea",
+      "Adam Czarnik & Sage Konstanzer",
+      "Alireza Ansaripour & Sarah Taylor",
+      "Emmanuel Barsallo & Itzel Munoz Monroy"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Ben Scarborough & Briana Kallenbach",
+      "Eric Lee & Darce Markowsky",
+      "Hailey Daugherty & Nataliia Sviazinska",
+      "Juan Mier & Kathy Yu",
+      "Reagan Ashley & Jackie Rosenthal",
+      "Paul Forness & Ashley Taylor",
+      "Phong Tran & Maggie Nance",
+      "Karl Martin & Anna Musich",
+      "Nick Ryan & Shaler Williams",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Austin Mohle & Margaret Kamholz",
+      "Jacob Sacco & Catherine Rankin",
+      "Alex Lenhard & Danielle Andrade",
+      "Nathan Gates & Milla Winner",
+      "Daniel Cartwright & Karen Chen",
+      "Damien Young & Alexandra Barnes",
+      "Johnathan Roberts & Annabel Chang",
+      "Brandon Corey & Amber Royea",
+      "Eric Castro & Sophia Landers",
+      "Henry Zhang & Madigan McDaniel",
+      "Adam Czarnik & Sage Konstanzer",
+      "Alireza Ansaripour & Sarah Taylor",
+      "Emmanuel Barsallo & Itzel Munoz Monroy"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Intl. Jive  (J)",
+    "couples": [
+      "Juan Mier & Kathy Yu",
+      "Sebastian Castellanos & Caroline Garnett",
+      "Austin Mohle & Margaret Kamholz",
+      "Neil Chen & Lyla Dong",
+      "Hailey Daugherty & Nataliia Sviazinska",
+      "Phong Tran & Maggie Nance",
+      "Ben Scarborough & Briana Kallenbach",
+      "Eric Castro & Sophia Landers",
+      "Eric Lee & Darce Markowsky",
+      "Nathan Gates & Milla Winner",
+      "Jacob Sacco & Jackie Rosenthal",
+      "Alex Lenhard & Danielle Andrade",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Paul Forness & Ashley Taylor",
+      "Karl Martin & Anna Musich",
+      "Henry Zhang & Madigan McDaniel",
+      "Johnathan Roberts & Annabel Chang",
+      "Daniel Cartwright & Karen Chen",
+      "Brandon Corey & Amber Royea",
+      "Nick Ryan & Shaler Williams",
+      "Adam Czarnik & Sage Konstanzer",
+      "Damien Young & Alexandra Barnes"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Intl. Samba  (S)",
+    "couples": [
+      "Heather Smith & Avery Wacker",
+      "Zachary Munder & Vivian Glick"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Heather Smith & Avery Wacker",
+      "Zachary Munder & Vivian Glick"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Intl. Rumba  (R)",
+    "couples": [
+      "Zachary Munder & Vivian Glick",
+      "Heather Smith & Avery Wacker"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Zachary Munder & Vivian Glick",
+      "Heather Smith & Avery Wacker"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Gold Intl. Jive  (J)",
+    "couples": [
+      "Zachary Munder & Vivian Glick",
+      "Heather Smith & Avery Wacker"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Jared Tu & Jackie Rosenthal",
+      "Damien Young & Alexandra Barnes",
+      "Emmanuel Barsallo & Itzel Munoz Monroy",
+      "Johnathan Roberts & Annabel Chang",
+      "Rey Ylagan & Elizabeth Nguyen",
+      "Alireza Ansaripour & Sarah Taylor"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Damien Young & Alexandra Barnes",
+      "Emmanuel Barsallo & Itzel Munoz Monroy",
+      "Rey Ylagan & Elizabeth Nguyen",
+      "Jared Tu & Jackie Rosenthal",
+      "Johnathan Roberts & Annabel Chang",
+      "Alireza Ansaripour & Sarah Taylor"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Ben Scarborough & Briana Kallenbach",
+      "Neil Chen & Lyla Dong",
+      "Hailey Daugherty & 105 zNew_Follow",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Reagan Ashley & Jackie Rosenthal",
+      "Nathan Gates & Milla Winner",
+      "Phong Tran & Maggie Nance",
+      "Nick Ryan & Shaler Williams",
+      "Thomas Martinez & Ingrid Tamez"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Tin Pham-Tran & Kathy Yu",
+      "Drake Cadeddu & Stephanie Dodgen",
+      "Daniel Cartwright & Karen Chen",
+      "Austin Mohle & Margaret Kamholz",
+      "Ali Abualsaud & Lauren Quesada",
+      "Karl Martin & Anna Musich",
+      "Samuel Park & Niki Adams",
+      "Henry Zhang & Madigan McDaniel",
+      "Derek Sun & Melina Corriveau",
+      "Michael Reed & Kira Placido",
+      "Brennon Freeman & Maria Rodriguez"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Tin Pham-Tran & Kathy Yu",
+      "Drake Cadeddu & Stephanie Dodgen",
+      "Austin Mohle & Margaret Kamholz",
+      "Karl Martin & Anna Musich",
+      "Daniel Cartwright & Karen Chen",
+      "Ali Abualsaud & Lauren Quesada",
+      "Samuel Park & Niki Adams",
+      "Henry Zhang & Madigan McDaniel",
+      "Michael Reed & Kira Placido",
+      "Derek Sun & Melina Corriveau"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Intl. Samba  (S)",
+    "couples": [
+      "Jared Nirenberg & Tracy Tse",
+      "Ben Scarborough & Briana Kallenbach",
+      "Walter Piecznski & Sophia Landers",
+      "Neil Chen & Lyla Dong",
+      "bryce freund & Victoria Tatum",
+      "Reagan Ashley & Danielle Andrade",
+      "Zachary Munder & Vivian Glick",
+      "Jacob Lloyd & Sabrina Fleming",
+      "Heather Smith & Anna Weber",
+      "Nick Ryan & Avery Wacker",
+      "Juan Mier & Karen Chen",
+      "Nathan Gates & Milla Winner",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Connor Peters & Shaler Williams",
+      "Jacob Sacco & Amber Royea",
+      "Ian Mower & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Sanmit Narvekar & Lauren Quesada",
+      "Ben Scarborough & Briana Kallenbach",
+      "Neil Chen & Lyla Dong",
+      "Reagan Ashley & Danielle Andrade",
+      "Jacob Lloyd & Sabrina Fleming",
+      "Jared Nirenberg & Tracy Tse",
+      "Walter Piecznski & Sophia Landers",
+      "bryce freund & Victoria Tatum",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Juan Mier & Karen Chen",
+      "Heather Smith & Anna Weber",
+      "Zachary Munder & Vivian Glick",
+      "Nathan Gates & Milla Winner",
+      "Connor Peters & Shaler Williams",
+      "Karl Martin & Minaz Zad",
+      "Nick Ryan & Avery Wacker",
+      "Jacob Sacco & Amber Royea",
+      "Ian Mower & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Intl. Rumba  (R)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Sanmit Narvekar & Lauren Quesada",
+      "bryce freund & Victoria Tatum",
+      "Zachary Munder & Vivian Glick",
+      "Jacob Lloyd & Sabrina Fleming",
+      "Heather Smith & Anna Weber",
+      "Connor Peters & Shaler Williams",
+      "Walter Piecznski & Sophia Landers",
+      "Jared Nirenberg & Tracy Tse",
+      "Karl Martin & Minaz Zad",
+      "Ben Scarborough & Briana Kallenbach",
+      "Juan Mier & Karen Chen",
+      "Nathan Gates & Milla Winner",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Reagan Ashley & Danielle Andrade",
+      "Nick Ryan & Avery Wacker",
+      "Jacob Sacco & Amber Royea",
+      "Ian Mower & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Intl. Jive  (J)",
+    "couples": [
+      "Reagan Ashley & Danielle Andrade",
+      "Sanmit Narvekar & Lauren Quesada",
+      "Zachary Munder & Vivian Glick",
+      "Jacob Lloyd & Sabrina Fleming",
+      "Jared Nirenberg & Tracy Tse",
+      "Ben Scarborough & Briana Kallenbach",
+      "Neil Chen & Lyla Dong",
+      "Juan Mier & Karen Chen",
+      "bryce freund & Victoria Tatum",
+      "Heather Smith & Anna Weber",
+      "Walter Piecznski & Sophia Landers",
+      "Stephanie Dodgen & Lilah Qubrosi",
+      "Nathan Gates & Milla Winner",
+      "Jacob Sacco & Amber Royea",
+      "Connor Peters & Shaler Williams",
+      "Karl Martin & Minaz Zad",
+      "Nick Ryan & Avery Wacker",
+      "Ian Mower & Kate Koontz"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Silver Intl. Paso Doble  (P)",
+    "couples": [
+      "Neil Chen & Lyla Dong",
+      "Ben Scarborough & Briana Kallenbach",
+      "Zachary Munder & Vivian Glick",
+      "Jared Nirenberg & Tracy Tse",
+      "Heather Smith & Anna Weber",
+      "Nathan Gates & Milla Winner",
+      "Connor Peters & Shaler Williams",
+      "Reagan Ashley & Danielle Andrade",
+      "Nick Ryan & Avery Wacker",
+      "bryce freund & Victoria Tatum",
+      "Stephanie Dodgen & Lilah Qubrosi"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Intl. Samba  (S)",
+    "couples": [
+      "Zachary Munder & Anna Weber"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Silver Intl. Samba  (S)",
+    "couples": [
+      "Michael Marszowski & 124 zNew_Follow",
+      "Henry Zhang & Mario Venegas"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Jacob Lloyd & Diana Sattarova",
+      "Zachary Munder & Anna Weber",
+      "Rey Ylagan & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Michael Marszowski & 124 zNew_Follow",
+      "Henry Zhang & Mario Venegas"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Jacob Lloyd & Diana Sattarova",
+      "Zachary Munder & Anna Weber",
+      "Rey Ylagan & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Silver Intl. Rumba  (R)",
+    "couples": [
+      "Michael Marszowski & 124 zNew_Follow",
+      "Henry Zhang & Mario Venegas"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Zachary Munder & Anna Weber"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Bronze Intl. Jive  (J)",
+    "couples": [
+      "Jacob Lloyd & Diana Sattarova",
+      "Zachary Munder & Anna Weber",
+      "Rey Ylagan & Victoria Tatum"
+    ]
+  },
+  {
+    "name": "Mixed Proficiency Collegiate Silver Intl. Jive  (J)",
+    "couples": [
+      "Michael Marszowski & 124 zNew_Follow",
+      "Henry Zhang & Mario Venegas"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Novice Rhythm  (CRS)",
+    "couples": [
+      "Alexander Kanora & Felipa Mendez",
+      "Anthony Moeller & Victoria Tatum",
+      "Nolan Whitely & Emily Clarke"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Pre-Champ Rhythm  (CRSB)",
+    "couples": [
+      "Alexander Kanora & Felipa Mendez"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Alexander Kanora & Felipa Mendez"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Latin  (SCRJ)",
+    "couples": [
+      "Michael Marszowski & Luis Miranda",
+      "Louis Riendeau & Tracy Card"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Novice Latin  (SCR)",
+    "couples": [
+      "Nolan Whitely & Emily Clarke",
+      "Alexander Kanora & Felipa Mendez",
+      "Anthony Moeller & Kira Placido"
+    ]
+  },
+  {
+    "name": "Amateur Adult Novice Latin  (SCR)",
+    "couples": [
+      "Patrick Schiess & Sarah Vizel"
+    ]
+  },
+  {
+    "name": "Amateur Collegiate Championship Latin  (SCRPJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Championship Latin  (SCRPJ)",
+    "couples": [
+      "Michael Marszowski & Luis Miranda",
+      "Louis Riendeau & Tracy Card"
+    ]
+  }
+]

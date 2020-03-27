@@ -1,0 +1,4582 @@
+[
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Beginner Intl. Waltz  (W)",
+    "couples": [
+      "Joel Marasigan & Jessica Holm"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "George Pytlik & Jessica Poon",
+      "Joe Guan & Winnie Yuen"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents C2 Full Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Chan & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents C2 Open Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Roger Everett & Wendy Pytlik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Interm Bronze Intl. Tango  (T)",
+    "couples": [
+      "Joel Marasigan & Jessica Holm",
+      "George Pytlik & Didi Bauer"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Interm Bronze Intl. Tango  (T)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Bronze Intl. Tango  (T)",
+    "couples": [
+      "Joe Guan & Winnie Yuen"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents C2 Open Bronze Intl. Tango  (T)",
+    "couples": [
+      "Roger Everett & Wendy Pytlik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Am. Swing  (S)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver Am. Bolero  (B)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Merengue  (M)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Gold Intl. V. Waltz  (V)",
+    "couples": [
+      "Joe Guan & Stella Chan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Joel Marasigan & Amy Do"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Full Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Joe Guan & Winnie Yuen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Joel Marasigan & Amy Do"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Joe Guan & Winnie Yuen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "George Pytlik & Sherry Everett"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents C2 Open Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Roger Everett & Wendy Pytlik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Robert Hrouda & Cheryl West"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Interm Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Joel Marasigan & Jessica Holm",
+      "Robert Hrouda & Yvonne Chase"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Full Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "George Pytlik & Sherry Everett"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents C2 Open Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Roger Everett & Wendy Pytlik"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Robert Hrouda & Cheryl West"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver West Coast Swing  (W)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Am. Samba  (S)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C1 Open Silver Am. Peabody  (P)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Interm Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Joel Marasigan & Jessica Holm",
+      "George Pytlik & Didi Bauer"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Interm Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents C2 Interm Bronze Intl. Waltz  (W)",
+    "couples": [
+      "David Chan & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Bronze Intl. Waltz  (W)",
+    "couples": [
+      "Joe Guan & Winnie Yuen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Joe Guan & Winnie Yuen",
+      "George Pytlik & Jessica Poon"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Full Bronze Intl. Tango  (T)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Am. Swing  (S)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Am. Bolero  (B)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Merengue  (M)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Bronze Intl. V. Waltz  (V)",
+    "couples": [
+      "Joe Guan & Winnie Yuen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Intl. Tango  (T)",
+    "couples": [
+      "George Pytlik & Sherry Everett"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Gold Intl. Tango  (T)",
+    "couples": [
+      "Joe Guan & Stella Chan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Interm Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "George Pytlik & Didi Bauer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Robert Hrouda & Cheryl West"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Intl. Foxtrot  (F)",
+    "couples": [
+      "Joe Guan & Siu Ching Tong"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Interm Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Full Bronze Intl. Foxtrot  (F)",
+    "couples": [
+      "Joe Guan & Winnie Yuen",
+      "George Pytlik & Jessica Poon"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver West Coast Swing  (W)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Am. Samba  (S)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C1 Full Silver Am. Peabody  (P)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Intl. Waltz  (W)",
+    "couples": [
+      "George Pytlik & Sherry Everett"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Gold Intl. Waltz  (W)",
+    "couples": [
+      "Joe Guan & Ayako Oshika"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Intl. Waltz  (W)",
+    "couples": [
+      "Robert Hrouda & Cheryl West"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Gold Intl. Waltz  (W)",
+    "couples": [
+      "Joe Guan & Stella Chan"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Open Intl. Waltz  (W)",
+    "couples": [
+      "Jayden Chen & Angel Chu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Gold Intl. Tango  (T)",
+    "couples": [
+      "Joe Guan & Flora Chung"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Pre-Champ Intl. Tango  (T)",
+    "couples": [
+      "Dmitry Levita & Josephine Chang"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Gold Intl. Waltz  (W)",
+    "couples": [
+      "Joe Guan & Flora Chung"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Pre-Champ Intl. Waltz  (W)",
+    "couples": [
+      "Dmitry Levita & Josephine Chang"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Intl. Waltz  (W)",
+    "couples": [
+      "Robert Hrouda & Cheryl West"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Silver Intl. Waltz  (W)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Pre-Champ Intl. Waltz  (W)",
+    "couples": [
+      "Joe Guan & Stella Chan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Intl. Waltz  (W)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Intl. Tango  (T)",
+    "couples": [
+      "Joe Guan & Tammy Choi"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Pre-Champ Intl. Tango  (T)",
+    "couples": [
+      "Jayden Chen & Angel Chu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Intl. Tango  (T)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Gold Intl. Tango  (T)",
+    "couples": [
+      "Joe Guan & Ayako Oshika"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Gold Intl. Tango  (T)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver Merengue  (M)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Pre-Champ Intl. V. Waltz  (V)",
+    "couples": [
+      "Dmitry Levita & Josephine Chang"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Intl. V. Waltz  (V)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Intl. V. Waltz  (V)",
+    "couples": [
+      "Joe Guan & Siu Ching Tong"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Joe Guan & Flora Chung"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Pre-Champ Intl. Foxtrot  (F)",
+    "couples": [
+      "Dmitry Levita & Josephine Chang"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Joe Guan & Tammy Choi"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Pre-Champ Intl. V. Waltz  (V)",
+    "couples": [
+      "Jayden Chen & Angel Chu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Joe Guan & Tammy Choi"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Open Intl. Foxtrot  (F)",
+    "couples": [
+      "Jayden Chen & Angel Chu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Joe Guan & Stella Chan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Intl. Foxtrot  (F)",
+    "couples": [
+      "Dmitry Levita & Josephine Chang"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Intl. Foxtrot  (F)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Merengue  (M)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver West Coast Swing  (W)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Am. Samba  (S)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C1 Interm Silver Am. Peabody  (P)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Beginner Intl. Quickstep  (Q)",
+    "couples": [
+      "Joel Marasigan & Jessica Holm"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Robert Hrouda & Cheryl West"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Full Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "David Marasigan & Michele Nielsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Pre-Champ Intl. Quickstep  (Q)",
+    "couples": [
+      "Jayden Chen & Angel Chu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Pre-Champ Intl. Quickstep  (Q)",
+    "couples": [
+      "Dmitry Levita & Josephine Chang"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Intl. Quickstep  (Q)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Intl. Quickstep  (Q)",
+    "couples": [
+      "Joe Guan & Siu Ching Tong"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Full Gold Intl. Waltz  (W)",
+    "couples": [
+      "David Marasigan & Michele Nielsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Pre-Champ Intl. Waltz  (W)",
+    "couples": [
+      "Jayden Chen & Angel Chu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Intl. Waltz  (W)",
+    "couples": [
+      "Dmitry Levita & Josephine Chang"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Intl. Waltz  (W)",
+    "couples": [
+      "Joe Guan & Siu Ching Tong"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Open Intl. Tango  (T)",
+    "couples": [
+      "Jayden Chen & Angel Chu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Pre-Champ Intl. V. Waltz  (V)",
+    "couples": [
+      "Joe Guan & Stella Chan"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Open Intl. V. Waltz  (V)",
+    "couples": [
+      "Jayden Chen & Angel Chu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver Merengue  (M)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "Joe Guan & Tammy Choi"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Pre-Champ Intl. Foxtrot  (F)",
+    "couples": [
+      "Jayden Chen & Angel Chu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Robert Hrouda & Yvonne Chase"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Interm Bronze Intl. Quickstep  (Q)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Joe Guan & Tammy Choi"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Open Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "David Marasigan & Michele Nielsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Intl. Quickstep  (Q)",
+    "couples": [
+      "Dmitry Levita & Josephine Chang"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Open Intl. Quickstep  (Q)",
+    "couples": [
+      "Jayden Chen & Angel Chu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Intl. Waltz  (W)",
+    "couples": [
+      "Joe Guan & Tammy Choi"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Open Silver Intl. Waltz  (W)",
+    "couples": [
+      "David Marasigan & Michele Nielsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Silver Intl. Tango  (T)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Pre-Champ Intl. Tango  (T)",
+    "couples": [
+      "Joe Guan & Stella Chan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Intl. V. Waltz  (V)",
+    "couples": [
+      "Joe Guan & Tammy Choi"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Merengue  (M)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Full Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "David Marasigan & Michele Nielsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Pre-Champ Intl. Foxtrot  (F)",
+    "couples": [
+      "Joe Guan & Stella Chan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "Joe Guan & Tammy Choi"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Silver Intl. Quickstep  (Q)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Intl. Waltz  (W)",
+    "couples": [
+      "Joe Guan & Tammy Choi"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Gold Intl. Waltz  (W)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Open Silver Intl. Tango  (T)",
+    "couples": [
+      "David Marasigan & Michele Nielsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Intl. Tango  (T)",
+    "couples": [
+      "Joe Guan & Siu Ching Tong"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Open Silver Intl. Foxtrot  (F)",
+    "couples": [
+      "David Marasigan & Michele Nielsen"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Gold Intl. Foxtrot  (F)",
+    "couples": [
+      "Joe Guan & Ayako Oshika"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Gold Intl. Quickstep  (Q)",
+    "couples": [
+      "Joe Guan & Stella Chan"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Pre-Champ Ballroom  (WTF)",
+    "couples": [
+      "Dmitry Levita & Josephine Chang"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Closed Gold Star Ballroom  (WTF)",
+    "couples": [
+      "David Marasigan & Michele Nielsen"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Beginner Am. Tango  (T)",
+    "couples": [
+      "Wes Rogers & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver Am. Tango  (T)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents A Open Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Wes Rogers & Nathasha Thayer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Pre-Champ Ballroom  (WTF)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Pre-Champ Ballroom  (WTF)",
+    "couples": [
+      "Joe Guan & Flora Chung"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Closed Rising Star Ballroom  (WTQ)",
+    "couples": [
+      "Joel Marasigan & Amy Do"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Closed Rising Star Ballroom  (WTQ)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Amateur Senior 1 Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Ian Edwards & Winnie Ng"
+    ]
+  },
+  {
+    "name": "Amateur Senior 1 Gold Ballroom  (WTQ)",
+    "couples": [
+      "Michael Leong & Jillian Fan"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Closed Gold Star Ballroom  (WTF)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Closed Rising Star Ballroom  (WT_Q)",
+    "couples": [
+      "Joel Marasigan & Jessica Holm",
+      "Joe Guan & Tammy Choi"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Beginner Am. Waltz  (W)",
+    "couples": [
+      "Wes Rogers & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Am. Waltz  (W)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Open Silver Am. Waltz  (W)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Am. Waltz  (W)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Interm Bronze Am. Waltz  (W)",
+    "couples": [
+      "Wes Rogers & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Interm Silver Am. Waltz  (W)",
+    "couples": [
+      "Robert Hrouda & Yvonne Chase"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Interm Silver Am. Waltz  (W)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver Am. Waltz  (W)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Bronze Am. Tango  (T)",
+    "couples": [
+      "Natasha Thayer & Natashia Henderson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Wes Rogers & Sarah Tiffany"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Robert Hrouda & Yvonne Chase"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Interm Silver Am. Tango  (T)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Interm Bronze Am. Tango  (T)",
+    "couples": [
+      "Wes Rogers & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Am. Tango  (T)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Open Silver Am. Tango  (T)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Open Gold Am. Tango  (T)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Am. Tango  (T)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Amateur Senior 3 Silver Ballroom  (WTQ)",
+    "couples": [
+      "Michael Kittel & Lynne Jordon",
+      "Chris White & Elise Leyland"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Wes Rogers & Sarah Tiffany"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Interm Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Robert Hrouda & Yvonne Chase"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Open Silver Am. Foxtrot  (F)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Interm Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Wes Rogers & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Full Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Interm Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Beginner Am. V. Waltz  (V)",
+    "couples": [
+      "Robert Hrouda & Yvonne Chase"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Am. V. Waltz  (V)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Interm Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Open Silver Am. V. Waltz  (V)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver Am. V. Waltz  (V)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Am. V. Waltz  (V)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Beginner Am. Waltz  (W)",
+    "couples": [
+      "Natasha Thayer & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Interm Bronze Am. Waltz  (W)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Open Gold Am. Waltz  (W)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Am. Waltz  (W)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Interm Silver Am. Waltz  (W)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Silver Am. Waltz  (W)",
+    "couples": [
+      "Robert Hrouda & Yvonne Chase"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents A Open Silver Am. Waltz  (W)",
+    "couples": [
+      "Wes Rogers & Nathasha Thayer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Am. Tango  (T)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents A Open Silver Am. Tango  (T)",
+    "couples": [
+      "Wes Rogers & Nathasha Thayer"
+    ]
+  },
+  {
+    "name": "Amateur Senior 1 Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Don Pham & Angelyn Yeap",
+      "Peter Cheung & Helen Lu",
+      "Gary Chan & Cynthia Gordon",
+      "Michael Leong & Jillian Fan"
+    ]
+  },
+  {
+    "name": "Amateur Senior 3 Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Ian Edwards & Winnie Ng",
+      "Mingjie Huang & Yu yen Yu"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Adult Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Daniel Li & Rachel Wu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Am. Foxtrot  (F)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents A Open Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Wes Rogers & Nathasha Thayer"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Full Bronze Am. Tango  (T)",
+    "couples": [
+      "Robert Hrouda & Yvonne Chase"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Am. Tango  (T)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Interm Silver Am. Tango  (T)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Full Silver Am. Tango  (T)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Open Silver Am. Tango  (T)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver Am. Tango  (T)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Am. Tango  (T)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Beginner Am. Foxtrot  (F)",
+    "couples": [
+      "Wes Rogers & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Robert Hrouda & Yvonne Chase"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Open Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Am. Foxtrot  (F)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Open Gold Am. Foxtrot  (F)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Beginner Am. V. Waltz  (V)",
+    "couples": [
+      "Robert Hrouda & Yvonne Chase"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Open Gold Am. V. Waltz  (V)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Amateur Senior 1 Pre-Champ Ballroom  (FV)",
+    "couples": [
+      "Don Pham & Angelyn Yeap",
+      "Gary Chan & Cynthia Gordon",
+      "Michael Leong & Jillian Fan"
+    ]
+  },
+  {
+    "name": "Amateur Senior 1 Bronze Ballroom  (FV)",
+    "couples": [
+      "Ian Edwards & Winnie Ng"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Full Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Am. V. Waltz  (V)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Beginner Am. Waltz  (W)",
+    "couples": [
+      "Wes Rogers & Alyssa Liljequist"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Bronze Am. Waltz  (W)",
+    "couples": [
+      "Natasha Thayer & Natashia Henderson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Am. Waltz  (W)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Open Silver Am. Waltz  (W)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Am. Waltz  (W)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Amateur Senior 3 Bronze Ballroom  (FV)",
+    "couples": [
+      "Ian Edwards & Winnie Ng",
+      "Mingjie Huang & Yu yen Yu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Beginner Am. Tango  (T)",
+    "couples": [
+      "Natasha Thayer & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Amateur Senior 3 Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Peter Cheung & Helen Lu",
+      "Terrance Nicholson & Candace Nicholson",
+      "Gary Chan & Cynthia Gordon"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Senior 3 Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Mark Ma & Julie Ng"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Beginner Am. Foxtrot  (F)",
+    "couples": [
+      "Natasha Thayer & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Am. Foxtrot  (F)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Beginner Am. Foxtrot  (F)",
+    "couples": [
+      "Wes Rogers & Alyssa Liljequist"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Natasha Thayer & Jennifer Wright"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Interm Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Am. Foxtrot  (F)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Am. V. Waltz  (V)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Open Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Am. V. Waltz  (V)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver Am. Waltz  (W)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Amateur Senior 3 Silver Ballroom  (FV)",
+    "couples": [
+      "Michael Kittel & Lynne Jordon",
+      "Chris White & Elise Leyland"
+    ]
+  },
+  {
+    "name": "Amateur Senior 3 Pre-Champ Ballroom  (FV)",
+    "couples": [
+      "Gary Chan & Cynthia Gordon",
+      "Terrance Nicholson & Candace Nicholson"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Senior 3 Pre-Champ Ballroom  (FV)",
+    "couples": [
+      "Mark Ma & Julie Ng"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Beginner Am. Tango  (T)",
+    "couples": [
+      "Wes Rogers & Alyssa Liljequist"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Interm Bronze Am. Tango  (T)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Silver Am. Tango  (T)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Beginner Am. Foxtrot  (F)",
+    "couples": [
+      "Natasha Thayer & Jennifer Wright"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver Am. Foxtrot  (F)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Am. Foxtrot  (F)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Bronze Am. Waltz  (W)",
+    "couples": [
+      "Natasha Thayer & Alyssa Liljequist"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Silver Am. Waltz  (W)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Am. Waltz  (W)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Am. Tango  (T)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau",
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Silver Am. Tango  (T)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Interm Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Natasha Thayer & Natashia Henderson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Silver Am. Waltz  (W)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Am. Waltz  (W)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Closed Rising Star Smooth  (WTF)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau",
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Warren Eaton & Maria Carnovale"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "George Pytlik & Jessica Poon"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Silver Intl. Cha Cha  (C)",
+    "couples": [
+      "Dimitri Mikulich & Christine Townsend"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Dmitry Levita & Shannon Bachynski",
+      "Dominic Lacroix & Barbara Ward"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Interm Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "George Pytlik & Didi Bauer"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Interm Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Open Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Val Chirkov & Sabrina Makeeva"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Open Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Warren Eaton & Maria Carnovale"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Warren Eaton & Maria Carnovale"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Open Bronze Intl. Samba  (S)",
+    "couples": [
+      "Val Chirkov & Sabrina Makeeva"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Bronze Intl. Samba  (S)",
+    "couples": [
+      "Warren Eaton & Crissy Rea"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Silver Intl. Samba  (S)",
+    "couples": [
+      "Dimitri Mikulich & Christine Townsend"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Gold Intl. Samba  (S)",
+    "couples": [
+      "Dominic Lacroix & Tam Tran"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Warren Eaton & Niva Kan"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Interm Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "George Pytlik & Jessica Poon"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Open Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Val Chirkov & Sabrina Makeeva"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Interm Bronze Intl. Jive  (J)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Bronze Intl. Jive  (J)",
+    "couples": [
+      "Warren Eaton & Cynthia Nagy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Open Bronze Intl. Jive  (J)",
+    "couples": [
+      "Val Chirkov & Sabrina Makeeva"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Gold Intl. Jive  (J)",
+    "couples": [
+      "Dominic Lacroix & Tam Tran"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J2 Pre-Champ Intl. Jive  (J)",
+    "couples": [
+      "Dimitri Mikulich & Elizaveta Arkhipchenko"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Warren Eaton & Cynthia Nagy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Silver Intl. Rumba  (R)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Silver Intl. Rumba  (R)",
+    "couples": [
+      "Dimitri Mikulich & Christine Townsend"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Gold Intl. Rumba  (R)",
+    "couples": [
+      "Dominic Lacroix & Tam Tran"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Bronze Intl. Jive  (J)",
+    "couples": [
+      "Warren Eaton & Niva Kan"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Full Bronze Intl. Jive  (J)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Intl. Jive  (J)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Dmitry Levita & Shannon Bachynski",
+      "Dominic Lacroix & Barbara Ward"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Open Bronze Intl. Paso Doble  (P)",
+    "couples": [
+      "Val Chirkov & Sabrina Makeeva"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Gold Intl. Paso Doble  (P)",
+    "couples": [
+      "Dominic Lacroix & Tam Tran"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Interm Bronze Intl. Samba  (S)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Open Bronze Intl. Samba  (S)",
+    "couples": [
+      "Warren Eaton & Maria Carnovale"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Gold Intl. Samba  (S)",
+    "couples": [
+      "Dimitri Mikulich & Debbie Li"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Intl. Samba  (S)",
+    "couples": [
+      "Dmitry Levita & Shannon Bachynski",
+      "Dominic Lacroix & Barbara Ward"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Warren Eaton & Crissy Rea"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Interm Bronze Intl. Rumba  (R)",
+    "couples": [
+      "George Pytlik & Didi Bauer"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Bronze Intl. Rumba  (R)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Gold Intl. Rumba  (R)",
+    "couples": [
+      "Dimitri Mikulich & Debbie Li"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Intl. Rumba  (R)",
+    "couples": [
+      "Dominic Lacroix & Barbara Ward"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Intl. Paso Doble  (P)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Open Bronze Intl. Jive  (J)",
+    "couples": [
+      "Warren Eaton & Maria Carnovale"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Intl. Jive  (J)",
+    "couples": [
+      "Dmitry Levita & Shannon Bachynski",
+      "Dominic Lacroix & Barbara Ward"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Warren Eaton & Crissy Rea"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Open Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Dominic Lacroix & Tam Tran"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Pre-Champ Intl. Cha Cha  (C)",
+    "couples": [
+      "Dimitri Mikulich & Christine Townsend"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Open Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Warren Eaton & Maria Carnovale"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Intl. Rumba  (R)",
+    "couples": [
+      "Dmitry Levita & Shannon Bachynski",
+      "Dominic Lacroix & Barbara Ward"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Full Bronze Intl. Jive  (J)",
+    "couples": [
+      "Warren Eaton & Maria Carnovale"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Pre-Champ Intl. Jive  (J)",
+    "couples": [
+      "Dominic Lacroix & Tam Tran"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Warren Eaton & Niva Kan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "David Marasigan & Amy Lowe"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Gold Intl. Cha Cha  (C)",
+    "couples": [
+      "Dimitri Mikulich & Debbie Li"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Intl. Cha Cha  (C)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz"
+    ]
+  },
+  {
+    "name": "Amateur Senior 3 Bronze Latin  (CRS)",
+    "couples": [
+      "Ian Edwards & Winnie Ng",
+      "Mingjie Huang & Yu yen Yu"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Bronze Intl. Samba  (S)",
+    "couples": [
+      "Warren Eaton & Cynthia Nagy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Pre-Champ Intl. Samba  (S)",
+    "couples": [
+      "Dimitri Mikulich & Christine Townsend"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Intl. Samba  (S)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Full Bronze Intl. Rumba  (R)",
+    "couples": [
+      "Warren Eaton & Maria Carnovale"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Pre-Champ Intl. Rumba  (R)",
+    "couples": [
+      "Dimitri Mikulich & Christine Townsend"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Intl. Rumba  (R)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B Pre-Champ Intl. Paso Doble  (P)",
+    "couples": [
+      "Dominic Lacroix & Tam Tran"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Full Bronze Intl. Cha Cha  (C)",
+    "couples": [
+      "Warren Eaton & Cynthia Nagy"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J2 Pre-Champ Intl. Cha Cha  (C)",
+    "couples": [
+      "Dimitri Mikulich & Elizaveta Arkhipchenko"
+    ]
+  },
+  {
+    "name": "Amateur Senior 1 Bronze Latin  (CRS)",
+    "couples": [
+      "Ian Edwards & Winnie Ng"
+    ]
+  },
+  {
+    "name": "Amateur Senior 3 Silver Latin  (CRS)",
+    "couples": [
+      "Michael Kittel & Lynne Jordon"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Interm Bronze Intl. Samba  (S)",
+    "couples": [
+      "Warren Eaton & Niva Kan"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Intl. Samba  (S)",
+    "couples": [
+      "Dominic Lacroix & Barbara Ward"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Bronze Intl. Jive  (J)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Solo Division A Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Dimitri Mikulich & Christine Townsend"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Dominic Lacroix & Barbara Ward"
+    ]
+  },
+  {
+    "name": "Amateur Senior 3 Bronze Latin  (PJ)",
+    "couples": [
+      "Mingjie Huang & Yu yen Yu"
+    ]
+  },
+  {
+    "name": "Amateur Senior 3 Silver Latin  (PJ)",
+    "couples": [
+      "Michael Kittel & Lynne Jordon"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Closed Gold Star Latin  (CRS)",
+    "couples": [
+      "Dimitri Mikulich & Debbie Li"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Closed Rising Star Latin  (CRS)",
+    "couples": [
+      "Val Chirkov & Sabrina Makeeva"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Dominic Lacroix & Tam Tran"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Closed Rising Star Latin  (CRS)",
+    "couples": [
+      "Ian Edwards & Grace Lau"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Latin  (CRS)",
+    "couples": [
+      "Richard Liu & Joyce (SHIYI) Li",
+      "Ken See & Gina Zheng",
+      "Taylor Chapman & Jennifer Lee",
+      "Armin Aminuddin & Victoria Huang",
+      "Bernie Wong & Natchar Ratanasirigulchai"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Adult Bronze Latin  (CRS)",
+    "couples": [
+      "Daniel Li & Rachel Wu"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Teddy Bear Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Joel Marasigan & Margaret Loo",
+      "Andy Wong & Jenny Stumpo"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Teddy Bear Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Darren Chen & Cindia Ho",
+      "Joe Guan & Siu Ching Tong",
+      "Jay Li & Alice Shen"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Teddy Bear Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Andy Wong & Jenny Stumpo",
+      "Joel Marasigan & Margaret Loo"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Teddy Bear Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Darren Chen & Cindia Ho",
+      "Joe Guan & Siu Ching Tong",
+      "Jay Li & Alice Shen"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Teddy Bear Newcomer Intl. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Solo Division C Teddy Bear Newcomer Intl. V. Waltz  (V)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Pre-Bronze Latin  (CRS)",
+    "couples": [
+      "Taylor Chapman & Jennifer Lee",
+      "Armin Aminuddin & Victoria Huang",
+      "Bernie Wong & Natchar Ratanasirigulchai"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Adult Pre-Bronze Latin  (CRS)",
+    "couples": [
+      "Daniel Li & Rachel Wu"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz",
+      "Dmitry Levita & Josephine Chang",
+      "Ryan Anderson & Donna Hammerschmidt",
+      "Joel Marasigan & Peggy Hung",
+      "Joe Guan & Linda Liu",
+      "Darren Chen & Cindia Ho",
+      "Andy Wong & Irene Ku"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz",
+      "Ryan Anderson & Donna Hammerschmidt",
+      "Joe Guan & Linda Liu",
+      "Joel Marasigan & Peggy Hung",
+      "Andy Wong & Irene Ku",
+      "Darren Chen & Cindia Ho"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Intl. V. Waltz  (V)",
+    "couples": [
+      "Joe Guan & Linda Liu",
+      "Ryan Anderson & Donna Hammerschmidt",
+      "Andy Wong & Irene Ku",
+      "Joel Marasigan & Peggy Hung"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Latin  (CRS)",
+    "couples": [
+      "Timothy Tan & Megumi Kageyama",
+      "Richard Liu & Joyce (SHIYI) Li",
+      "Ezra Parker & Dhanya Suntharalingam",
+      "Connor Dalton & Theresa Bodnarchuk",
+      "Yury Sheykin & Blossom Naing",
+      "Ken See & Gina Zheng"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Teddy Bear Newcomer Intl. Foxtrot  (F)",
+    "couples": [
+      "Joel Marasigan & Margaret Loo",
+      "Andy Wong & Jenny Stumpo"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Teddy Bear Newcomer Intl. Foxtrot  (F)",
+    "couples": [
+      "Joe Guan & Siu Ching Tong",
+      "Darren Chen & Cindia Ho",
+      "Jay Li & Alice Shen"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Teddy Bear Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Andy Wong & Jenny Stumpo"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Teddy Bear Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Joe Guan & Siu Ching Tong",
+      "Jay Li & Alice Shen"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Latin  (CRS)",
+    "couples": [
+      "Timothy Tan & Megumi Kageyama",
+      "Ezra Parker & Dhanya Suntharalingam",
+      "Connor Dalton & Theresa Bodnarchuk",
+      "Yury Sheykin & Blossom Naing"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Latin  (PJ)",
+    "couples": [
+      "Richard Liu & Joyce (SHIYI) Li"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Latin  (PJ)",
+    "couples": [
+      "Richard Liu & Joyce (SHIYI) Li"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Latin  (PJ)",
+    "couples": [
+      "Connor Dalton & Theresa Bodnarchuk"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Intl. Foxtrot  (F)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz",
+      "Ryan Anderson & Donna Hammerschmidt",
+      "Joe Guan & Linda Liu",
+      "Darren Chen & Cindia Ho",
+      "Joel Marasigan & Peggy Hung",
+      "Andy Wong & Irene Ku"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Joe Guan & Linda Liu",
+      "Ryan Anderson & Donna Hammerschmidt",
+      "Joel Marasigan & Peggy Hung",
+      "Andy Wong & Irene Ku"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Open Scholarship Ballroom  (WTF)",
+    "couples": [
+      "Darren Chen & Cindia Ho",
+      "Joel Marasigan & Peggy Hung",
+      "Joe Guan & Stella Chan"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Am. Tango  (T)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Teddy Bear Newcomer Am. Tango  (T)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Teddy Bear Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Am. V. Waltz  (V)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Open Scholarship Ballroom  (WTF)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz",
+      "Dmitry Levita & Josephine Chang",
+      "Joel Marasigan & Margaret Loo",
+      "Ryan Anderson & Donna Hammerschmidt",
+      "Darren Chen & Cindia Ho"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Open Scholarship Ballroom  (WTVFQ)",
+    "couples": [
+      "Andy Wong & Jenny Stumpo"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Open Scholarship Ballroom  (WTVFQ)",
+    "couples": [
+      "Joe Guan & Siu Ching Tong",
+      "Jay Li & Alice Shen"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Tair Rasulov & Stephanie LePage",
+      "Simon Chung & Anna Olovyannikova",
+      "Michael Wu & Winnie Chang",
+      "Jorden Hetherington & Shayna Ding",
+      "Alexander Vlasev & Renee Berard",
+      "Jacky Wang & Kristina Richmond",
+      "Ezra Parker & Alex Jia",
+      "Garrett Simard & Ilene Friedman"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Open Scholarship Ballroom  (WTVFQ)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz",
+      "Dmitry Levita & Josephine Chang",
+      "Joe Guan & Linda Liu",
+      "Ryan Anderson & Donna Hammerschmidt",
+      "Joel Marasigan & Peggy Hung",
+      "Andy Wong & Irene Ku"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Open Scholarship Smooth  (WTFV)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Solo Division B Open Scholarship Smooth  (WTFV)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Open Scholarship Smooth  (WTFV)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Ballroom  (FV)",
+    "couples": [
+      "Jorden Hetherington & Shayna Ding",
+      "Tair Rasulov & Stephanie LePage",
+      "Alexander Vlasev & Renee Berard",
+      "Jacky Wang & Kristina Richmond",
+      "Garrett Simard & Ilene Friedman"
+    ]
+  },
+  {
+    "name": "Amateur Senior 1 Open Ballroom  (WTVFQ)",
+    "couples": [
+      "Peter Chen & Ying Xu",
+      "Kevin Lee & Sheena Watanabe",
+      "Don Pham & Angelyn Yeap",
+      "Jack Wei & Evatina Tang",
+      "Jerry Lam & Rainbow Shiu",
+      "Henry Robin High & Judy Y Chan",
+      "Darren Yesmaniski & Amanda Nunns"
+    ]
+  },
+  {
+    "name": "Amateur Adult Open Latin  (CSRPJ)",
+    "couples": [
+      "Zika Trajkovic & Liaifer Scarlett",
+      "Denis Lvov & Iveta Milciute",
+      "Zachary Lee & Jessica Petrochuk",
+      "Alexander Golovach & Alisa Popok",
+      "Winston Gaqui & Amanda Poelzer",
+      "Tanner Ladi & Ashley Asuncion",
+      "Tair Rasulov & Stephanie LePage",
+      "Simon Chung & Anna Olovyannikova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Senior 1 Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Mark Ma & Julie Ng"
+    ]
+  },
+  {
+    "name": "Amateur Senior 3 Open Ballroom  (WTVFQ)",
+    "couples": [
+      "Jack Wei & Evatina Tang",
+      "Kris Drozdzenski & Shirly Cen",
+      "Charles Han & Ai Linh Hoang",
+      "Tony Tsang & Annie Tsang",
+      "Peter Cheung & Helen Lu",
+      "Terrance Nicholson & Candace Nicholson"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Senior 1 Pre-Champ Ballroom  (FV)",
+    "couples": [
+      "Mark Ma & Julie Ng"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Natasha Thayer & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Open Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Wes Rogers & Natashia Henderson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Interm Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Interm Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Open Silver Am. Cha Cha  (C)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Am. Cha Cha  (C)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Bronze Am. Rumba  (R)",
+    "couples": [
+      "Natasha Thayer & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Am. Rumba  (R)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Open Silver Am. Rumba  (R)",
+    "couples": [
+      "Wes Rogers & Kirtsty Kalkhoven"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Interm Gold Am. Rumba  (R)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Gold Am. Rumba  (R)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Interm Bronze Am. Swing  (S)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Interm Bronze Am. Swing  (S)",
+    "couples": [
+      "Natasha Thayer & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Open Bronze Am. Swing  (S)",
+    "couples": [
+      "Wes Rogers & Natashia Henderson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Am. Swing  (S)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Full Silver Am. Swing  (S)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Full Silver Am. Swing  (S)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Am. Swing  (S)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Open Silver Am. Bolero  (B)",
+    "couples": [
+      "Wes Rogers & Kirtsty Kalkhoven"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Am. Bolero  (B)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Interm Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Am. Mambo  (M)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Am. Mambo  (M)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Full Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver Am. Mambo  (M)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Natasha Thayer & Natashia Henderson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Open Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Wes Rogers & Kirtsty Kalkhoven"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Open Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Interm Gold Am. Cha Cha  (C)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Am. Cha Cha  (C)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Interm Bronze Am. Rumba  (R)",
+    "couples": [
+      "Wes Rogers & Sarah Tiffany"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Bronze Am. Rumba  (R)",
+    "couples": [
+      "Natasha Thayer & Natashia Henderson"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Interm Silver Am. Rumba  (R)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Am. Rumba  (R)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Open Silver Am. Rumba  (R)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Open Silver Am. Rumba  (R)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Am. Rumba  (R)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Interm Bronze Am. Swing  (S)",
+    "couples": [
+      "Wes Rogers & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Bronze Am. Swing  (S)",
+    "couples": [
+      "Natasha Thayer & Natashia Henderson"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents J1 Interm Silver Am. Swing  (S)",
+    "couples": [
+      "Brandon Abaya & Catherine Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Am. Swing  (S)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Interm Silver Am. Swing  (S)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Interm Gold Am. Swing  (S)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Am. Swing  (S)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver Am. Swing  (S)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Am. Bolero  (B)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Open Silver Am. Bolero  (B)",
+    "couples": [
+      "Wes Rogers & Kirtsty Kalkhoven"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Open Silver Am. Bolero  (B)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Am. Bolero  (B)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver Am. Bolero  (B)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau",
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Full Bronze Argentine Tango  (A)",
+    "couples": [
+      "Wes Rogers & Jennifer Wright"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Interm Silver Am. Mambo  (M)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Am. Mambo  (M)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Open Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Wes Rogers & Kirtsty Kalkhoven"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Interm Bronze Am. Rumba  (R)",
+    "couples": [
+      "Wes Rogers & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Interm Silver Am. Rumba  (R)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Full Silver Am. Rumba  (R)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver Am. Rumba  (R)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Am. Rumba  (R)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Full Bronze Am. Swing  (S)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents A Open Silver Am. Swing  (S)",
+    "couples": [
+      "Wes Rogers & Nathasha Thayer"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents B1 Open Silver Am. Swing  (S)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Open Silver Am. Swing  (S)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Am. Swing  (S)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Beginner Am. Bolero  (B)",
+    "couples": [
+      "Wes Rogers & Natashia Henderson"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Interm Silver Am. Bolero  (B)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Am. Bolero  (B)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Am. Bolero  (B)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver Am. Mambo  (M)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Open Silver Am. Mambo  (M)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Am. Mambo  (M)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Interm Bronze Am. Cha Cha  (C)",
+    "couples": [
+      "Wes Rogers & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver Am. Cha Cha  (C)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver Am. Rumba  (R)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Open Silver Am. Rumba  (R)",
+    "couples": [
+      "Wes Rogers & Kirtsty Kalkhoven"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Pre-Champ Am. Rumba  (R)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Full Silver Am. Swing  (S)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Open Silver Am. Swing  (S)",
+    "couples": [
+      "Wes Rogers & Kirtsty Kalkhoven"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Open Bronze Argentine Tango  (A)",
+    "couples": [
+      "Wes Rogers & Jennifer Wright"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Am. Mambo  (M)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Gold Am. Mambo  (M)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Am. Cha Cha  (C)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Gold Am. Cha Cha  (C)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Beginner Am. Rumba  (R)",
+    "couples": [
+      "Wes Rogers & Sarah Tiffany"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Full Bronze Am. Rumba  (R)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Open Silver Am. Swing  (S)",
+    "couples": [
+      "Wes Rogers & Kirtsty Kalkhoven"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver Am. Swing  (S)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver Am. Mambo  (M)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Silver Am. Mambo  (M)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Am. Cha Cha  (C)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents A Open Silver Am. Cha Cha  (C)",
+    "couples": [
+      "Wes Rogers & Nathasha Thayer"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A1 Open Silver Argentine Tango  (A)",
+    "couples": [
+      "Wes Rogers & Kirtsty Kalkhoven"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Open Bronze Am. Rumba  (R)",
+    "couples": [
+      "Wes Rogers & Natashia Henderson"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver Am. Rumba  (R)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies J1 Interm Bronze Am. Rumba  (R)",
+    "couples": [
+      "F.J. Abaya & Ella Abaya"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Silver Am. Rumba  (R)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Gents A Open Silver Am. Rumba  (R)",
+    "couples": [
+      "Wes Rogers & Nathasha Thayer"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Full Bronze Argentine Tango  (A)",
+    "couples": [
+      "Wes Rogers & Jennifer Wright"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Closed Rising Star Rhythm  (CRS)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau",
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Beginner West Coast Swing  (W)",
+    "couples": [
+      "Wes Rogers & Alyssa Liljequist"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Interm Silver West Coast Swing  (W)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta",
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze Argentine Tango  (A)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Open Bronze Argentine Tango  (A)",
+    "couples": [
+      "Wes Rogers & Jennifer Wright"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Silver Argentine Tango  (A)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Interm Bronze Argentine Tango  (A)",
+    "couples": [
+      "Wes Rogers & Sarah Tiffany"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Interm Silver Am. Samba  (S)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Open Silver Am. Samba  (S)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Full Bronze West Coast Swing  (W)",
+    "couples": [
+      "Wes Rogers & Sarah Tiffany"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Bronze West Coast Swing  (W)",
+    "couples": [
+      "Bryan Senn & Cathy Perrotta"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver West Coast Swing  (W)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Interm Bronze Bachata  (B)",
+    "couples": [
+      "Wes Rogers & Sarah Tiffany"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Open Bronze Bachata  (B)",
+    "couples": [
+      "Natasha Thayer & Natashia Henderson"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Interm Silver Am. Samba  (S)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Open Silver Am. Samba  (S)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Open Bronze West Coast Swing  (W)",
+    "couples": [
+      "Wes Rogers & Sarah Tiffany"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies C2 Full Silver West Coast Swing  (W)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur C2 Full Silver Am. Samba  (S)",
+    "couples": [
+      "Carroll Brown & Cherri Brown"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies B1 Open Silver Am. Samba  (S)",
+    "couples": [
+      "F.J. Abaya & Joanna Lau"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile I Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Felix Sindora & Felix Sindora",
+      "Emily Pavlyuchenkova & Emily Pavlyuchenkova",
+      "Maria Kiriaeva & Maria Kiriaeva",
+      "Caitlyn Chan & Caitlyn Chan",
+      "Evelyn Lai & Evelyn Lai",
+      "Grace Chia & Grace Chia",
+      "Tara Zhang Ogden & Tara Zhang Ogden",
+      "Jeron Tesalona & Jeron Tesalona",
+      "Christina Pavlyuchenkova & Christina Pavlyuchenkova",
+      "Natalie Chan & Natalie Chan"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile I Bronze Ballroom  (WT)",
+    "couples": [
+      "Dana Ginzburg & Dana Ginzburg",
+      "Nadya Becerra & Nadya Becerra"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile II Pre-Bronze Ballroom  (WT)",
+    "couples": [
+      "Jillienne Tesalona & Jillienne Tesalona"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile I Pre-Bronze Ballroom  (WT)",
+    "couples": [
+      "Felix Sindora & Felix Sindora",
+      "Emily Pavlyuchenkova & Emily Pavlyuchenkova",
+      "Caitlyn Chan & Caitlyn Chan",
+      "Maria Kiriaeva & Maria Kiriaeva",
+      "Evelyn Lai & Evelyn Lai",
+      "Jeron Tesalona & Jeron Tesalona",
+      "Natalie Chan & Natalie Chan",
+      "Christina Pavlyuchenkova & Christina Pavlyuchenkova"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile II Open Gold Ballroom  (WTQ)",
+    "couples": [
+      "Jayden Chen & Jayden Chen"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile I Silver/Gold Ballroom  (WT)",
+    "couples": [
+      "Dana Ginzburg & Dana Ginzburg",
+      "Nadya Becerra & Nadya Becerra"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile II Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Emily Zhao & Emily Zhao",
+      "Jillienne Tesalona & Jillienne Tesalona"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile I Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Felix Sindora & Felix Sindora",
+      "Emily Pavlyuchenkova & Emily Pavlyuchenkova",
+      "Maria Kiriaeva & Maria Kiriaeva",
+      "Caitlyn Chan & Caitlyn Chan",
+      "Natalie Chan & Natalie Chan",
+      "Christina Pavlyuchenkova & Christina Pavlyuchenkova",
+      "Grace Chia & Grace Chia",
+      "Evelyn Lai & Evelyn Lai",
+      "Jeron Tesalona & Jeron Tesalona"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile II Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Jillienne Tesalona & Jillienne Tesalona"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile I Silver/Gold Latin  (CRS)",
+    "couples": [
+      "Angel Guo & Angel Guo",
+      "Dana Ginzburg & Dana Ginzburg",
+      "Nadya Becerra & Nadya Becerra"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile II Open Gold Latin  (CRS)",
+    "couples": [
+      "Jayden Chen & Jayden Chen"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile II Silver/Gold Latin  (CRS)",
+    "couples": [
+      "Angel Guo & Angel Guo"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Junior I Bronze Latin  (CR)",
+    "couples": [
+      "Sophia Xu & Sophia Xu"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile I Bronze Latin  (CR)",
+    "couples": [
+      "Angel Guo & Angel Guo",
+      "Dana Ginzburg & Dana Ginzburg",
+      "Nadya Becerra & Nadya Becerra"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Beginner Ballroom  (WT)",
+    "couples": [
+      "Conor Freeman & Bryn Piche",
+      "Felix Sindora & Maria Kiriaeva"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile I Pre-Bronze Latin  (CR)",
+    "couples": [
+      "Tara Zhang Ogden & Tara Zhang Ogden",
+      "Felix Sindora & Felix Sindora",
+      "Emily Pavlyuchenkova & Emily Pavlyuchenkova",
+      "Maria Kiriaeva & Maria Kiriaeva",
+      "Caitlyn Chan & Caitlyn Chan",
+      "Natalie Chan & Natalie Chan",
+      "Evelyn Lai & Evelyn Lai",
+      "Christina Pavlyuchenkova & Christina Pavlyuchenkova",
+      "Jeron Tesalona & Jeron Tesalona"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile I Beginner Ballroom  (WT)",
+    "couples": [
+      "Scott Nicholson & Maria Kiriaeva",
+      "Michael Levenkov & Emily Pavlyuchenkova"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Beginner Ballroom  (WT)",
+    "couples": [
+      "Conor Freeman & Bryn Piche"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Junior II Bronze Latin  (CR)",
+    "couples": [
+      "Sophia Xu & Sophia Xu"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile II Bronze Latin  (CR)",
+    "couples": [
+      "Angel Guo & Angel Guo"
+    ]
+  },
+  {
+    "name": "Amateur Same Gender Juvenile II Pre-Bronze Latin  (CR)",
+    "couples": [
+      "Jillienne Tesalona & Jillienne Tesalona",
+      "Emily Zhao & Emily Zhao"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Conor Freeman & Bryn Piche",
+      "Felix Sindora & Maria Kiriaeva",
+      "Chae Dunbar & Dana Ocampo",
+      "Kristopher Turcios-Jaugelis & Scarlett Sanchez"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Gordon Lee & Megan Ho",
+      "Chae Dunbar & Dana Ocampo",
+      "Kristopher Turcios-Jaugelis & Scarlett Sanchez"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Bronze Ballroom  (FV)",
+    "couples": [
+      "Gordon Lee & Megan Ho"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Bronze Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Mixed Ladies Junior II Bronze (1) Ballroom  (WQ)",
+    "couples": [
+      "Jaxon Phillips & Katie Wilcox"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile I Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Michael Levenkov & Emily Pavlyuchenkova",
+      "Scott Nicholson & Maria Kiriaeva"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Conor Freeman & Bryn Piche",
+      "Nathan Kusumoto & Olivia Fuller"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Anthony Valentin & Kaitlyn Ho"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Bronze Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Luke Leonard & Sarah Wilcox",
+      "Anthony Valentin & Kaitlyn Ho"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile I Silver Ballroom  (WTQ)",
+    "couples": [
+      "Scott Nicholson & Nadya Becerra"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Ballroom  (WTQ)",
+    "couples": [
+      "Logan Crisostomo & Lauren Oboy",
+      "Eric Gao & Caroline Yu"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Bronze (1) Ballroom  (WQ)",
+    "couples": [
+      "Jaxon Phillips & Katie Wilcox"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Luke Leonard & Sarah Wilcox",
+      "Daniel Pryadkin & Polina Khomytskaya",
+      "Gabriel Munoz & Sabrina Sanchez"
+    ]
+  },
+  {
+    "name": "Amateur Youth Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Eli Anderson & Ava Mecham"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Block 2 Smooth  (WTF)",
+    "couples": [
+      "Hayden Crisostomo & Nichole Hrouda",
+      "Logan Crisostomo & Lauren Oboy"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Ballroom  (WTQ)",
+    "couples": [
+      "Eric Gao & Caroline Yu",
+      "Luke Leonard & Sarah Wilcox",
+      "Gabriel Munoz & Sabrina Sanchez"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Ballroom  (WTQ)",
+    "couples": [
+      "Logan Crisostomo & Lauren Oboy",
+      "Brandon Maner & Zetta Megenhardt",
+      "Nikolay Morgan & Angelina Galeyeva",
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Ballroom  (WTQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Youth Silver Ballroom  (WTQ)",
+    "couples": [
+      "Logan Crisostomo & Lauren Oboy",
+      "Eli Anderson & Ava Mecham",
+      "Brandon Maner & Zetta Megenhardt",
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Ballroom  (WTQ)",
+    "couples": [
+      "Eric Gao & Caroline Yu"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Open Ballroom  (WTVFQ)",
+    "couples": [
+      "Alexander Shneerson & Elza Krivenkova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile II Open Ballroom  (WTVFQ)",
+    "couples": [
+      "Scott Nicholson & Liliana Letuchaya"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Open Ballroom  (WTVFQ)",
+    "couples": [
+      "Ronald Chang & Leanne Chang"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Bronze Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Juvenile I Silver Ballroom  (FV)",
+    "couples": [
+      "Gordon Lee & Megan Ho"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Ballroom  (FV)",
+    "couples": [
+      "Eric Gao & Caroline Yu"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Ballroom  (FV)",
+    "couples": [
+      "Logan Crisostomo & Lauren Oboy",
+      "Brandon Maner & Zetta Megenhardt",
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Alexander Shneerson & Elza Krivenkova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile II Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Scott Nicholson & Liliana Letuchaya"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Nathan Murstein & Sophia Gershaft"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Jaxon Phillips & Cora Longhurst"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Silver Ballroom  (WTQ)",
+    "couples": [
+      "Logan Crisostomo & Lauren Oboy",
+      "Eric Gao & Caroline Yu",
+      "Luke Leonard & Sarah Wilcox"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Gold Ballroom  (WTQ)",
+    "couples": [
+      "Sebastian Sanchez & Shantele Cherkasskiy",
+      "Lev Morgan & Dana Ginzburg"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Gold Ballroom  (FV)",
+    "couples": [
+      "Sebastian Sanchez & Shantele Cherkasskiy"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Ballroom  (FV)",
+    "couples": [
+      "Logan Crisostomo & Lauren Oboy",
+      "Eric Gao & Caroline Yu"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Silver Ballroom  (FV)",
+    "couples": [
+      "Logan Crisostomo & Lauren Oboy",
+      "Eric Gao & Caroline Yu"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Silver Ballroom  (FV)",
+    "couples": [
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Block 2 Smooth  (WTF)",
+    "couples": [
+      "Logan Crisostomo & Lauren Oboy"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Pre-Champ Smooth  (WTFV)",
+    "couples": [
+      "Hayden Crisostomo & Nichole Hrouda"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Silver Ballroom  (WTQ)",
+    "couples": [
+      "Gordon Lee & Megan Ho"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Silver Ballroom  (WTQ)",
+    "couples": [
+      "Sebastian Sanchez & Shantele Cherkasskiy",
+      "Lev Morgan & Dana Ginzburg"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Silver Ballroom  (WTQ)",
+    "couples": [
+      "Brandon Maner & Zetta Megenhardt",
+      "Eli Anderson & Ava Mecham",
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Silver Ballroom  (FV)",
+    "couples": [
+      "Sebastian Sanchez & Shantele Cherkasskiy"
+    ]
+  },
+  {
+    "name": "Amateur Youth Silver Ballroom  (FV)",
+    "couples": [
+      "Brandon Maner & Zetta Megenhardt",
+      "Logan Crisostomo & Lauren Oboy",
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Adult Pre-Bronze Ballroom  (WT)",
+    "couples": [
+      "Peter Chen & Michelle Tang",
+      "Melvin Wong & Valeriya Zabroska"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Eli Anderson & Ava Mecham"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Gold Ballroom  (WTQ)",
+    "couples": [
+      "Nikolay Morgan & Angelina Galeyeva",
+      "Stas Borissenko & Grace DeFranco",
+      "Brandon Maner & Zetta Megenhardt",
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Jaxon Phillips & Cora Longhurst"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Ballroom  (FV)",
+    "couples": [
+      "Eric Gao & Caroline Yu"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Gold Ballroom  (FV)",
+    "couples": [
+      "Brandon Maner & Zetta Megenhardt",
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Pre-Champ Ballroom  (FV)",
+    "couples": [
+      "Alexander Shneerson & Elza Krivenkova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile II Pre-Champ Ballroom  (FV)",
+    "couples": [
+      "Scott Nicholson & Liliana Letuchaya"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Champ Ballroom  (FV)",
+    "couples": [
+      "Nathan Murstein & Sophia Gershaft"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Open Ballroom  (WTVFQ)",
+    "couples": [
+      "Nathan Murstein & Sophia Gershaft"
+    ]
+  },
+  {
+    "name": "Amateur Youth Open Ballroom  (WTVFQ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Under 21 Open Ballroom  (WTVFQ)",
+    "couples": [
+      "Anthony Tseytlin & Maria Bakhmetyeva",
+      "Gleb Golovachev & Aruzhan Kussainova"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Beginner Latin  (CR)",
+    "couples": [
+      "Sunny Lan & Avva Nguyen",
+      "Conor Freeman & Bryn Piche",
+      "Mark Kravtsov & Karen Rhee",
+      "Felix Sindora & Maria Kiriaeva",
+      "Andrey Chirkov & Mariia Markina"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Beginner Latin  (CR)",
+    "couples": [
+      "Sunny Lan & Avva Nguyen",
+      "Denis Kravtsov & Sofia Kundilivski",
+      "Conor Freeman & Bryn Piche",
+      "Mark Kravtsov & Karen Rhee"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Bronze (1) Latin  (CR)",
+    "couples": [
+      "Jaxon Phillips & Katie Wilcox"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile I Beginner Latin  (CR)",
+    "couples": [
+      "Scott Nicholson & Maria Kiriaeva",
+      "Michael Levenkov & Emily Pavlyuchenkova"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Beginner Latin  (CR)",
+    "couples": [
+      "Denis Kravtsov & Sofia Kundilivski"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Pre-Bronze Latin  (CRS)",
+    "couples": [
+      "Conor Freeman & Bryn Piche",
+      "Felix Sindora & Maria Kiriaeva",
+      "Chae Dunbar & Dana Ocampo",
+      "Kristopher Turcios-Jaugelis & Scarlett Sanchez"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile I Pre-Bronze Latin  (CRS)",
+    "couples": [
+      "Scott Nicholson & Maria Kiriaeva",
+      "Michael Levenkov & Emily Pavlyuchenkova"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Pre-Bronze Latin  (CRS)",
+    "couples": [
+      "Conor Freeman & Bryn Piche",
+      "Nathan Kusumoto & Olivia Fuller"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Bronze Latin  (CRS)",
+    "couples": [
+      "Anthony Valentin & Kaitlyn Ho"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Beginner Ballroom  (WT)",
+    "couples": [
+      "Lester Yee & Susie Gareau"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Francois Verreault & Kellie Bruyneel",
+      "Michael Andrews & Angie Lo",
+      "Ian Edwards & Winnie Ng",
+      "Mingjie Huang & Yu yen Yu"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Bronze Latin  (CRS)",
+    "couples": [
+      "Gordon Lee & Megan Ho",
+      "Chae Dunbar & Dana Ocampo",
+      "Kristopher Turcios-Jaugelis & Scarlett Sanchez"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Bronze Latin  (PJ)",
+    "couples": [
+      "Daniel Pryadkin & Polina Khomytskaya"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Silver Latin  (PJ)",
+    "couples": [
+      "Tyson Fung & Claire Tao",
+      "Gordon Lee & Megan Ho"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Francois Verreault & Kellie Bruyneel"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Silver Ballroom  (WTQ)",
+    "couples": [
+      "Michael Kittel & Lynne Jordon"
+    ]
+  },
+  {
+    "name": "Amateur Senior 4 Silver Ballroom  (WTQ)",
+    "couples": [
+      "Chris White & Elise Leyland"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Gold Ballroom  (WTQ)",
+    "couples": [
+      "Michael Leong & Jillian Fan"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Bronze Ballroom  (FV)",
+    "couples": [
+      "Ian Edwards & Winnie Ng",
+      "Mingjie Huang & Yu yen Yu"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Silver Ballroom  (FV)",
+    "couples": [
+      "Michael Kittel & Lynne Jordon"
+    ]
+  },
+  {
+    "name": "Amateur Senior 4 Silver Ballroom  (FV)",
+    "couples": [
+      "Chris White & Elise Leyland"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Bronze Latin  (CRS)",
+    "couples": [
+      "Daniel Pryadkin & Polina Khomytskaya",
+      "Elizar Otorochkin & Nicole Astak",
+      "Nathan Kusumoto & Olivia Fuller"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Bronze Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Mixed Ladies Juvenile I Silver Latin  (CRS)",
+    "couples": [
+      "Scott Nicholson & Nadya Becerra"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Bronze Latin  (PJ)",
+    "couples": [
+      "Gordon Lee & Megan Ho"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Bronze Latin  (PJ)",
+    "couples": [
+      "Daniel Pryadkin & Polina Khomytskaya",
+      "Gabriel Munoz & Sabrina Sanchez"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Silver Latin  (PJ)",
+    "couples": [
+      "Egor Kit & Andrea Fonseca",
+      "Mark Efimov & Olesia Michtchenko"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Silver Latin  (CRS)",
+    "couples": [
+      "Tyson Fung & Claire Tao",
+      "Brandon Abaya & Nastya Kim",
+      "Sebastian Sanchez & Shantele Cherkasskiy",
+      "Lev Morgan & Dana Ginzburg",
+      "Elizar Otorochkin & Nicole Astak"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile II Silver Latin  (CRS)",
+    "couples": [
+      "Scott Nicholson & Nadya Becerra"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Bronze Latin  (CRS)",
+    "couples": [
+      "Luke Leonard & Sarah Wilcox",
+      "Anthony Valentin & Kaitlyn Ho"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Silver Latin  (CRS)",
+    "couples": [
+      "Tyson Fung & Claire Tao",
+      "Gordon Lee & Megan Ho"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Bronze Latin  (CRS)",
+    "couples": [
+      "Daniel Pryadkin & Polina Khomytskaya",
+      "Luke Leonard & Sarah Wilcox",
+      "Arthur Kim & Angelina Dadashova",
+      "Gabriel Munoz & Sabrina Sanchez",
+      "Elizar Otorochkin & Nicole Astak"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Michael Leong & Jillian Fan",
+      "Peter Cheung & Helen Lu"
+    ]
+  },
+  {
+    "name": "Amateur Senior 4 Pre-Champ Ballroom  (WTQ)",
+    "couples": [
+      "Johnny Kwok & Linda Kwok",
+      "Terrance Nicholson & Candace Nicholson",
+      "Paul Lee & Connie Yeung"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Latin  (CRS)",
+    "couples": [
+      "Brandon Abaya & Nastya Kim",
+      "Mark Efimov & Olesia Michtchenko",
+      "Luke Leonard & Sarah Wilcox",
+      "Arthur Kim & Angelina Dadashova",
+      "Gabriel Munoz & Sabrina Sanchez",
+      "Elizar Otorochkin & Nicole Astak"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Pre-Champ Ballroom  (FV)",
+    "couples": [
+      "Michael Leong & Jillian Fan"
+    ]
+  },
+  {
+    "name": "Amateur Senior 4 Pre-Champ Ballroom  (FV)",
+    "couples": [
+      "Terrance Nicholson & Candace Nicholson",
+      "Johnny Kwok & Linda Kwok",
+      "Paul Lee & Connie Yeung"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Silver Latin  (PJ)",
+    "couples": [
+      "Tyson Fung & Claire Tao",
+      "Sebastian Sanchez & Shantele Cherkasskiy",
+      "Lev Morgan & Dana Ginzburg"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Silver Latin  (PJ)",
+    "couples": [
+      "Mark Efimov & Olesia Michtchenko",
+      "Gabriel Munoz & Sabrina Sanchez"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Latin  (CRS)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Junior II Silver Latin  (CRS)",
+    "couples": [
+      "Egor Kit & Andrea Fonseca",
+      "Logan Crisostomo & Lauren Oboy",
+      "Luke Leonard & Sarah Wilcox",
+      "Mark Efimov & Olesia Michtchenko"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Silver Latin  (PJ)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Youth Silver Latin  (PJ)",
+    "couples": [
+      "Egor Kit & Andrea Fonseca"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Gold Latin  (PJ)",
+    "couples": [
+      "Tyson Fung & Claire Tao"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Youth Bronze (1) Latin  (CR)",
+    "couples": [
+      "Jaxon Phillips & Katie Wilcox"
+    ]
+  },
+  {
+    "name": "Amateur Youth Silver Latin  (CRS)",
+    "couples": [
+      "Logan Crisostomo & Lauren Oboy",
+      "Egor Kit & Andrea Fonseca",
+      "Brandon Maner & Zetta Megenhardt",
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Amateur Senior 4 Open Ballroom  (WTVFQ)",
+    "couples": [
+      "Tony Tsang & Annie Tsang",
+      "Terrance Nicholson & Candace Nicholson",
+      "Johnny Kwok & Linda Kwok"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Silver Latin  (CRS)",
+    "couples": [
+      "Brandon Maner & Zetta Megenhardt",
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Gold Latin  (CRS)",
+    "couples": [
+      "Tyson Fung & Claire Tao"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Gold Latin  (CRS)",
+    "couples": [
+      "Owen Tang & Jing Lan",
+      "Brandon Abaya & Nastya Kim"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Gold Latin  (CRS)",
+    "couples": [
+      "Owen Tang & Jing Lan",
+      "Brandon Abaya & Nastya Kim",
+      "Tyson Fung & Claire Tao",
+      "Sebastian Sanchez & Shantele Cherkasskiy",
+      "Lev Morgan & Dana Ginzburg"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Gold Latin  (CRS)",
+    "couples": [
+      "Logan Crisostomo & Lauren Oboy"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Gold Latin  (PJ)",
+    "couples": [
+      "Sebastian Sanchez & Shantele Cherkasskiy",
+      "Tyson Fung & Claire Tao",
+      "Lev Morgan & Dana Ginzburg"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Pre-Champ Latin  (PJ)",
+    "couples": [
+      "Alexander Shneerson & Elza Krivenkova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile II Pre-Champ Latin  (PJ)",
+    "couples": [
+      "Scott Nicholson & Liliana Letuchaya"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Pre-Champ Latin  (PJ)",
+    "couples": [
+      "Eric Gao & Caroline Yu",
+      "Ethan Tam & Jane Chen"
+    ]
+  },
+  {
+    "name": "Amateur Youth Gold Latin  (CRS)",
+    "couples": [
+      "Nikolay Morgan & Angelina Galeyeva",
+      "Logan Crisostomo & Lauren Oboy",
+      "Brandon Maner & Zetta Megenhardt",
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Adult Pre-Bronze Latin  (CJ)",
+    "couples": [
+      "Melvin Wong & Valeriya Zabroska",
+      "Peter Chen & Michelle Tang"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Pre-Champ Latin  (CSR)",
+    "couples": [
+      "Jaxon Phillips & Cora Longhurst",
+      "Hayden Crisostomo & Nichole Hrouda",
+      "Stas Borissenko & Grace DeFranco",
+      "Mark Katz & Anna Chouliak"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Open Latin  (CSRPJ)",
+    "couples": [
+      "Alexander Shneerson & Elza Krivenkova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile II Open Latin  (CSRPJ)",
+    "couples": [
+      "Scott Nicholson & Liliana Letuchaya"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Open Latin  (CSRPJ)",
+    "couples": [
+      "Eric Gao & Caroline Yu",
+      "Ethan Tam & Jane Chen"
+    ]
+  },
+  {
+    "name": "Amateur Under 21 Gold Latin  (CRS)",
+    "couples": [
+      "Nikolay Morgan & Angelina Galeyeva",
+      "Brandon Maner & Zetta Megenhardt",
+      "Adam Jepson & Kiara Mecham"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Eric Gao & Caroline Yu",
+      "Ethan Tam & Jane Chen",
+      "Mark Katz & Anna Chouliak"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Nathan Murstein & Sophia Gershaft"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Pre-Champ Latin  (PJ)",
+    "couples": [
+      "Eric Gao & Caroline Yu",
+      "Ethan Tam & Jane Chen"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Pre-Champ Latin  (PJ)",
+    "couples": [
+      "Nathan Murstein & Sophia Gershaft"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Pre-Bronze Latin  (CRS)",
+    "couples": [
+      "Colin Ford & Crissy Rea"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Bronze Latin  (CRS)",
+    "couples": [
+      "Ian Edwards & Winnie Ng",
+      "Colin Ford & Crissy Rea",
+      "Mingjie Huang & Yu yen Yu"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Silver Latin  (CRS)",
+    "couples": [
+      "Michael Kittel & Lynne Jordon"
+    ]
+  },
+  {
+    "name": "Amateur Youth Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Hayden Crisostomo & Nichole Hrouda",
+      "Jaxon Phillips & Cora Longhurst",
+      "Mark Katz & Anna Chouliak"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Bronze Latin  (PJ)",
+    "couples": [
+      "Mingjie Huang & Yu yen Yu"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Silver Latin  (PJ)",
+    "couples": [
+      "Michael Kittel & Lynne Jordon"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile I Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Alexander Shneerson & Elza Krivenkova"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile II Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Scott Nicholson & Liliana Letuchaya"
+    ]
+  },
+  {
+    "name": "Amateur Junior I Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Eric Gao & Caroline Yu",
+      "Ethan Tam & Jane Chen"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior I Open Latin  (CSRPJ)",
+    "couples": [
+      "Christian Hill & Shelli Losovsky"
+    ]
+  },
+  {
+    "name": "Amateur Junior II Open Latin  (CSRPJ)",
+    "couples": [
+      "Ronald Chang & Leanne Chang",
+      "Eric Gao & Caroline Yu",
+      "Ethan Tam & Jane Chen"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Junior II Open Latin  (CSRPJ)",
+    "couples": [
+      "Nathan Murstein & Sophia Gershaft"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Richard Liu & Joyce (SHIYI) Li",
+      "Jonathan Tiu & Rachel Wu",
+      "Armin Aminuddin & Victoria Huang",
+      "Bernie Wong & Natchar Ratanasirigulchai"
+    ]
+  },
+  {
+    "name": "Amateur Adult Silver Ballroom  (WTQ)",
+    "couples": [
+      "Daniel Li & Cindy Tan",
+      "Timothy Tan & Megumi Kageyama"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Richard Liu & Joyce (SHIYI) Li",
+      "Armin Aminuddin & Victoria Huang",
+      "Jonathan Tiu & Rachel Wu",
+      "Bernie Wong & Natchar Ratanasirigulchai"
+    ]
+  },
+  {
+    "name": "Amateur Adult Gold Ballroom  (WTQ)",
+    "couples": [
+      "Daniel Li & Cindy Tan",
+      "Timothy Tan & Megumi Kageyama"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Ryan Anderson & Donna Hammerschmidt"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Intl. Samba  (S)",
+    "couples": [
+      "Ryan Anderson & Donna Hammerschmidt"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Ryan Anderson & Donna Hammerschmidt",
+      "Dmitry Levita & Shannon Bachynski"
+    ]
+  },
+  {
+    "name": "Amateur Adult Bronze Ballroom  (FV)",
+    "couples": []
+  },
+  {
+    "name": "Amateur Adult Gold Ballroom  (FV)",
+    "couples": [
+      "Daniel Li & Cindy Tan"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Intl. Paso Doble  (P)",
+    "couples": [
+      "Ryan Anderson & Donna Hammerschmidt"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Ryan Anderson & Donna Hammerschmidt"
+    ]
+  },
+  {
+    "name": "Amateur Adult Beginner Ballroom  (WT)",
+    "couples": [
+      "Lester Yee & Susie Gareau"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Adult Pre-Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Daniel Li & Rachel Wu"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Open Scholarship Latin  (CRS)",
+    "couples": [
+      "Ryan Anderson & Donna Hammerschmidt",
+      "Dmitry Levita & Shannon Bachynski"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Open Scholarship Latin  (CRS)",
+    "couples": [
+      "Dimitri Mikulich & Christine Townsend"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Latin  (CRS)",
+    "couples": [
+      "Don Pham & Angelyn Yeap",
+      "Tair Rasulov & Stephanie LePage",
+      "Simon Chung & Anna Olovyannikova",
+      "Edmund Gu & Jessica Chang"
+    ]
+  },
+  {
+    "name": "Amateur Adult Pre-Champ Latin  (PJ)",
+    "couples": [
+      "Tair Rasulov & Stephanie LePage"
+    ]
+  },
+  {
+    "name": "Amateur Senior 2 Open Ballroom  (WTVFQ)",
+    "couples": [
+      "Jack Wei & Evatina Tang",
+      "Kris Drozdzenski & Shirly Cen",
+      "Jerry Lam & Rainbow Shiu",
+      "Charles Han & Ai Linh Hoang",
+      "Henry Robin High & Judy Y Chan",
+      "Peter Cheung & Helen Lu"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Teddy Bear Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Teddy Bear Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division A Teddy Bear Newcomer Am. Mambo  (M)",
+    "couples": [
+      "Vlad Bohdanov & Shiori Yagishita"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Am. Swing  (S)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Am. Bolero  (B)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Am. Mambo  (M)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Open Scholarship Latin  (CSRPJ)",
+    "couples": [
+      "Dominic Lacroix & Sarah Kuntz",
+      "Ryan Anderson & Donna Hammerschmidt",
+      "Dmitry Levita & Shannon Bachynski"
+    ]
+  },
+  {
+    "name": "Amateur Senior 1 Open Latin  (CSRPJ)",
+    "couples": [
+      "Kevin Lee & Sheena Watanabe"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division B Open Scholarship Rhythm  (CRSBM)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Amateur Adult Open Ballroom  (WTVFQ)",
+    "couples": [
+      "Anthony Tseytlin & Maria Bakhmetyeva",
+      "Peter Chen & Ying Xu",
+      "Tair Rasulov & Stephanie LePage",
+      "Alexander Golovach & Alisa Popok",
+      "Jorden Hetherington & Shayna Ding",
+      "Michael Wu & Winnie Chang",
+      "Simon Chung & Anna Olovyannikova",
+      "Jacky Wang & Kristina Richmond",
+      "Alexander Vlasev & Renee Berard",
+      "Tanner Ladi & Ashley Asuncion",
+      "Darren Yesmaniski & Amanda Nunns"
+    ]
+  },
+  {
+    "name": "AM-AM Mixed Amateur A Open Bronze Bachata  (B)",
+    "couples": []
+  },
+  {
+    "name": "Pro/Am Solo Division B Teddy Bear Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Vlad Bohdanov & Susan Ballachey"
+    ]
+  },
+  {
+    "name": "Pro/Am Solo Division C Teddy Bear Newcomer Am. Waltz  (W)",
+    "couples": [
+      "James Stabler & Sarah Bohdanova"
+    ]
+  },
+  {
+    "name": "Jack-n-Jill  Open Intl. Cha Cha  (C)",
+    "couples": [
+      "Couple8 & Couple8",
+      "Couple10 & Couple10",
+      "Couple11 & Couple11",
+      "Couple2 & Couple2",
+      "Couple4 & Couple4",
+      "Couple7 & Couple7",
+      "Couple5 & Couple5",
+      "Couple6 & Couple6",
+      "Couple9 & Couple9",
+      "Couple1 & Couple1",
+      "Couple3 & Couple3"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A1 Bronze Argentine Tango  (A)",
+    "couples": [
+      "Wes Rogers & Sabrina Jones"
+    ]
+  },
+  {
+    "name": "Pro/Am Ladies A Gold Argentine Tango  (A)",
+    "couples": [
+      "Wes Rogers & Kirtsty Kalkhoven"
+    ]
+  },
+  {
+    "name": "Amateur Juvenile II Bronze Ballroom  (WTQ)",
+    "couples": [
+      "Daniel Pryadkin & Polina Khomytskaya",
+      "Nathan Kusumoto & Olivia Fuller"
+    ]
+  },
+  {
+    "name": "Mixed Ladies Juvenile II Silver Ballroom  (WTQ)",
+    "couples": [
+      "Scott Nicholson & Nadya Becerra"
+    ]
+  }
+]

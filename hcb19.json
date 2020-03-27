@@ -1,0 +1,625 @@
+[
+  {
+    "name": "Bronze Standard  (WQ)",
+    "couples": [
+      "Sebastien Lamy & Ailita Eddy",
+      "Huy Pham & Chiara Bellomo",
+      "Hannah Powers & Emily Parker",
+      "Madison Leone & Julia Bowers",
+      "Andrew Banas & Bethany Rhodes",
+      "Zachary Pappalau & Escher Campanella",
+      "Derrick Powers & Elise Braddock",
+      "Matthew Fox & Stephanya Moran",
+      "Prasanna Date & Emily Davey",
+      "Chang Ju Kim & Allison Daboval",
+      "Morgan Dufour & Em Bonnici",
+      "Jordan Faas-Bush & Naya Murdock",
+      "Olivia Gould & Liz Cordone",
+      "Eric Deiros & Rebecca Mier",
+      "Mike Senatore & Faith Trinker",
+      "Ramon Dunlop & Alyssa Kess",
+      "Harry Zhang & Jenna Hoggan",
+      "Shannon Carey & Lauren Hatfield",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Ryan Breuer & Heather Cummings"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Tango  (T)",
+    "couples": [
+      "Huy Pham & Chiara Bellomo",
+      "Sebastien Lamy & Ailita Eddy",
+      "Zachary Pappalau & Escher Campanella",
+      "Hannah Powers & Emily Parker",
+      "Andrew Banas & Bethany Rhodes",
+      "Matthew Fox & Stephanya Moran",
+      "Ramon Dunlop & Alyssa Kess",
+      "Jordan Faas-Bush & Naya Murdock",
+      "Olivia Gould & Liz Cordone",
+      "Prasanna Date & Emily Davey",
+      "Derrick Powers & Elise Braddock",
+      "Chang Ju Kim & Allison Daboval",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Mike Senatore & Faith Trinker",
+      "Harry Zhang & Jenna Hoggan",
+      "Eric Deiros & Rebecca Mier",
+      "Morgan Dufour & Em Bonnici"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Waltz  (W)",
+    "couples": [
+      "Jacob Freise & Heather Lohrey",
+      "Tyler Jessey & Alexa Labossiere",
+      "Daniel Glickman & Carley Hudson",
+      "Hans Lei & Halle Fowler",
+      "Thomas Summe & Monica Roy",
+      "Meixintong Zha & Miranda Hernandez",
+      "Thomas Yakey Jr. & Aden Duffy",
+      "Michael Laemmle & Maylee Gagnon",
+      "Alec Kneedler & Sarah Love"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Tango  (T)",
+    "couples": [
+      "Thomas Summe & Monica Roy",
+      "Tyler Jessey & Alexa Labossiere",
+      "Meixintong Zha & Miranda Hernandez",
+      "Hans Lei & Halle Fowler",
+      "Jacob Freise & Heather Lohrey",
+      "Daniel Glickman & Carley Hudson",
+      "Thomas Yakey Jr. & Aden Duffy",
+      "Alec Kneedler & Sarah Love",
+      "Guillermo Nunez & Morgan Ruoss"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Quickstep  (Q)",
+    "couples": [
+      "Jacob Freise & Heather Lohrey",
+      "Tyler Jessey & Alexa Labossiere",
+      "Daniel Glickman & Carley Hudson",
+      "Thomas Summe & Monica Roy",
+      "Meixintong Zha & Miranda Hernandez",
+      "Hans Lei & Halle Fowler",
+      "Thomas Yakey Jr. & Aden Duffy",
+      "Michael Laemmle & Maylee Gagnon",
+      "Bhanuj Jain & Trang Pham",
+      "Darius Luo & Anna Eng"
+    ]
+  },
+  {
+    "name": "Syllabus Intl. V. Waltz  (V)",
+    "couples": [
+      "Tucker Spencer-Wallace & Angel Wu",
+      "Zachary Pearson & Sarah McRae",
+      "Kristopher Kornheisl & Jessica Nicholos",
+      "Benjamin Desjarlais & Marika Fox",
+      "Olivia Gould & Elise Braddock",
+      "Mike Senatore & Faith Trinker",
+      "Derrick Powers & Liz Cordone"
+    ]
+  },
+  {
+    "name": "Silver Standard  (WQ)",
+    "couples": [
+      "Tucker Spencer-Wallace & Angel Wu",
+      "Ang Li & Rea Yoh",
+      "Kristopher Kornheisl & Jessica Nicholos",
+      "Zachary Pearson & Sarah McRae",
+      "Benjamin Desjarlais & Marika Fox"
+    ]
+  },
+  {
+    "name": "Silver Standard  (TF)",
+    "couples": [
+      "Tucker Spencer-Wallace & Angel Wu",
+      "Ang Li & Rea Yoh",
+      "Kristopher Kornheisl & Jessica Nicholos",
+      "Zachary Pearson & Sarah McRae",
+      "Madison Leone & Julia Bowers",
+      "Benjamin Desjarlais & Marika Fox"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Waltz  (W)",
+    "couples": [
+      "Tyler Jessey & Alexa Labossiere",
+      "Hans Lei & Thomas Summe",
+      "Daniel Glickman & Halle Fowler",
+      "Ishaan Agarwal & Monica Roy",
+      "Thomas Yakey Jr. & Aden Duffy",
+      "Corrado Mazzarelli & Rebecca Mier",
+      "Jessenia Martinez & Carley Hudson",
+      "Sydney Grosskopf & Noor Farjo",
+      "Meixintong Zha & Miranda Hernandez",
+      "John Larson & Ella Duwell",
+      "Alec Kneedler & Sarah Love",
+      "Christopher Yates & Madison Chouinard",
+      "Bhanuj Jain & Trang Pham",
+      "Vanessa Coelho & Emily McGrady",
+      "Adam Gonzalez & Hailey Deltano",
+      "Michael Laemmle & Maylee Gagnon",
+      "Darius Luo & Anna Eng"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Tango  (T)",
+    "couples": [
+      "Hans Lei & Thomas Summe",
+      "Tyler Jessey & Alexa Labossiere",
+      "Daniel Glickman & Halle Fowler",
+      "Ishaan Agarwal & Monica Roy",
+      "Corrado Mazzarelli & Rebecca Mier",
+      "Thomas Yakey Jr. & Aden Duffy",
+      "Sydney Grosskopf & Noor Farjo",
+      "Christopher Yates & Madison Chouinard",
+      "Vanessa Coelho & Emily McGrady",
+      "John Larson & Ella Duwell",
+      "Adam Gonzalez & Hailey Deltano",
+      "Jessenia Martinez & Carley Hudson",
+      "Guillermo Nunez & Morgan Ruoss"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Foxtrot  (F)",
+    "couples": [
+      "Daniel Glickman & Halle Fowler",
+      "Jacob Freise & Heather Lohrey",
+      "Hans Lei & Thomas Summe",
+      "Tyler Jessey & Alexa Labossiere",
+      "Corrado Mazzarelli & Rebecca Mier",
+      "Thomas Yakey Jr. & Aden Duffy",
+      "Ishaan Agarwal & Monica Roy",
+      "Christopher Yates & Madison Chouinard",
+      "Sydney Grosskopf & Noor Farjo",
+      "Meixintong Zha & Miranda Hernandez",
+      "John Larson & Ella Duwell",
+      "Jessenia Martinez & Carley Hudson",
+      "Vanessa Coelho & Emily McGrady",
+      "Adam Gonzalez & Hailey Deltano"
+    ]
+  },
+  {
+    "name": "Bronze Smooth  (WT)",
+    "couples": [
+      "Sebastien Lamy & Ailita Eddy",
+      "Ang Li & Chiara Bellomo",
+      "William Walker & Emilie Scott",
+      "Guillermo Vincentelli & Krysta Murdy",
+      "Madison Leone & Julia Bowers",
+      "David Rodriguez & Mau Chu O`Connell",
+      "Ryan Breuer & Heather Cummings",
+      "Jordan Faas-Bush & Stephanya Moran",
+      "Mike Senatore & Faith Trinker",
+      "Eric Deiros & Emily Parker",
+      "Prasanna Date & Jenna Hoggan",
+      "Hannah Powers & Skye Jacobson",
+      "Harry Zhang & Emily Davey",
+      "Julianna Collazo & Lillian Brietzke",
+      "Matthew Fox & Naya Murdock",
+      "Morgan Dufour & Em Bonnici",
+      "Ramon Dunlop & Alyssa Kess",
+      "Shannon Carey & Lauren Hatfield",
+      "Chang Ju Kim & Allison Daboval",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Michael Chaoui & Lizzie Case",
+      "Patrick Dorson & Julia Mcadams",
+      "Vonn Kerzch-Alabado & Madeleine Fontenay",
+      "Keyshawn O`Connell & Katie Villa",
+      "Tyler Jessey & Kianna Annemarie",
+      "Sam Wiegand & Emi Ahlo"
+    ]
+  },
+  {
+    "name": "Bronze Am. Foxtrot  (F)",
+    "couples": [
+      "Sebastien Lamy & Ailita Eddy",
+      "Guillermo Vincentelli & Krysta Murdy",
+      "William Walker & Emilie Scott",
+      "Ang Li & Chiara Bellomo",
+      "Mike Senatore & Faith Trinker",
+      "Madison Leone & Julia Bowers",
+      "David Rodriguez & Mau Chu O`Connell",
+      "Prasanna Date & Jenna Hoggan",
+      "Jordan Faas-Bush & Stephanya Moran",
+      "Ryan Breuer & Heather Cummings",
+      "Eric Deiros & Emily Parker",
+      "Hannah Powers & Skye Jacobson",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Matthew Fox & Naya Murdock",
+      "Shannon Carey & Lauren Hatfield",
+      "Julianna Collazo & Lillian Brietzke",
+      "Tyler Jessey & Kianna Annemarie",
+      "Keyshawn O`Connell & Katie Villa",
+      "Ramon Dunlop & Alyssa Kess",
+      "Michael Chaoui & Lizzie Case",
+      "Patrick Dorson & Julia Mcadams",
+      "Harry Zhang & Emily Davey",
+      "Vonn Kerzch-Alabado & Madeleine Fontenay",
+      "Chang Ju Kim & Allison Daboval",
+      "Sam Wiegand & Emi Ahlo",
+      "Morgan Dufour & Em Bonnici"
+    ]
+  },
+  {
+    "name": "Silver Smooth  (WT)",
+    "couples": [
+      "Tucker Spencer-Wallace & Angel Wu",
+      "Zachary Pearson & Escher Campanella",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Andrew Banas & Bethany Bourgault",
+      "Rish Rastogi & Isabelle Donahue",
+      "Benjamin Desjarlais & Marika Fox",
+      "Zachary Pappalau & Sarah McRae",
+      "Joshua Thomas & Susannah Kane",
+      "Olivia Gould & Elise Braddock",
+      "Derrick Powers & Liz Cordone",
+      "Bill Kadish & Marie Hobart",
+      "Sanilo Sterlin & Paulina Jedrzejowski"
+    ]
+  },
+  {
+    "name": "Silver Am. Foxtrot  (F)",
+    "couples": [
+      "Tucker Spencer-Wallace & Angel Wu",
+      "Zachary Pearson & Escher Campanella",
+      "Andrew Banas & Bethany Bourgault",
+      "Rish Rastogi & Isabelle Donahue",
+      "Joshua Thomas & Susannah Kane",
+      "Benjamin Desjarlais & Marika Fox",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Zachary Pappalau & Sarah McRae",
+      "Olivia Gould & Elise Braddock",
+      "Bill Kadish & Marie Hobart",
+      "Sanilo Sterlin & Paulina Jedrzejowski",
+      "Derrick Powers & Liz Cordone"
+    ]
+  },
+  {
+    "name": "Silver Am. V. Waltz  (V)",
+    "couples": [
+      "Tucker Spencer-Wallace & Angel Wu",
+      "William Walker & Emilie Scott",
+      "Zachary Pearson & Escher Campanella",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Andrew Banas & Bethany Bourgault",
+      "Zachary Pappalau & Sarah McRae",
+      "Madison Leone & Julia Bowers",
+      "Mike Senatore & Faith Trinker",
+      "David Rodriguez & Mau Chu O`Connell",
+      "Benjamin Desjarlais & Marika Fox",
+      "Olivia Gould & Elise Braddock",
+      "Michael Chaoui & Lizzie Case",
+      "Bill Kadish & Marie Hobart",
+      "Sanilo Sterlin & Paulina Jedrzejowski",
+      "Derrick Powers & Liz Cordone",
+      "Kristopher Kornheisl & Jessica Nicholos"
+    ]
+  },
+  {
+    "name": "Open Smooth  (WTFV)",
+    "couples": [
+      "Alexander Solomon & Kirsten Evans",
+      "Alex Jones & Katie Fiallo"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Cha Cha  (C)",
+    "couples": [
+      "Hans Lei & Monica Roy",
+      "Tyler Jessey & Faith Trinker",
+      "Meixintong Zha & Miranda Hernandez",
+      "Thomas Summe & Halle Fowler",
+      "Thomas Yakey Jr. & Jessenia Martinez",
+      "Corrado Mazzarelli & Rebecca Mier",
+      "Ishaan Agarwal & Daniel Glickman",
+      "Aden Duffy & Emily McGrady",
+      "Adam Gonzalez & Alondra Cruz",
+      "Darius Luo & Anna Eng",
+      "Carley Hudson & Hailey Deltano",
+      "John Larson & Ella Duwell",
+      "Sydney Grosskopf & Noor Farjo",
+      "Christopher Yates & Madison Chouinard",
+      "Michael Laemmle & Maylee Gagnon",
+      "Bhanuj Jain & Trang Pham",
+      "Bethany Bourgault & Alexa Labossiere"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Rumba  (R)",
+    "couples": [
+      "Hans Lei & Monica Roy",
+      "Meixintong Zha & Miranda Hernandez",
+      "Tyler Jessey & Faith Trinker",
+      "Sydney Grosskopf & Noor Farjo",
+      "Thomas Summe & Halle Fowler",
+      "Thomas Yakey Jr. & Jessenia Martinez",
+      "Alec Kneedler & Sarah Love",
+      "Ishaan Agarwal & Daniel Glickman",
+      "Corrado Mazzarelli & Rebecca Mier",
+      "Christopher Yates & Madison Chouinard",
+      "Carley Hudson & Hailey Deltano",
+      "John Larson & Ella Duwell",
+      "Adam Gonzalez & Alondra Cruz",
+      "Aden Duffy & Emily McGrady",
+      "Guillermo Nunez & Morgan Ruoss",
+      "Bethany Bourgault & Alexa Labossiere"
+    ]
+  },
+  {
+    "name": "Newcomer Am. Swing  (S)",
+    "couples": [
+      "Tyler Jessey & Faith Trinker",
+      "Hans Lei & Monica Roy",
+      "Meixintong Zha & Miranda Hernandez",
+      "Christopher Yates & Madison Chouinard",
+      "Thomas Yakey Jr. & Jessenia Martinez",
+      "Thomas Summe & Halle Fowler",
+      "Aden Duffy & Emily McGrady",
+      "Corrado Mazzarelli & Rebecca Mier",
+      "John Larson & Ella Duwell",
+      "Alec Kneedler & Sarah Love",
+      "Adam Gonzalez & Alondra Cruz",
+      "Sydney Grosskopf & Noor Farjo",
+      "Ishaan Agarwal & Daniel Glickman",
+      "Carley Hudson & Hailey Deltano",
+      "Bethany Bourgault & Alexa Labossiere",
+      "Guillermo Nunez & Morgan Ruoss"
+    ]
+  },
+  {
+    "name": "Bronze Rhythm  (CR)",
+    "couples": [
+      "Guillermo Vincentelli & Krysta Murdy",
+      "Huy Pham & Chiara Bellomo",
+      "William Walker & Emilie Scott",
+      "Madison Leone & Julia Bowers",
+      "David Rodriguez & Mau Chu O`Connell",
+      "Sebastien Lamy & Ailita Eddy",
+      "Zachary Pearson & Escher Campanella",
+      "Mike Senatore & Bethany Rhodes",
+      "Zoe Chakoian & Morgan Dufour",
+      "Chang Ju Kim & Allison Daboval",
+      "Lillian Brietzke & Julia Mcadams",
+      "Julia Orlov & Em Bonnici",
+      "Ramon Dunlop & Alyssa Kess",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Ryan Breuer & Heather Cummings",
+      "Matthew Fox & Emily Parker",
+      "Keyshawn O`Connell & Katie Villa",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Michael Chaoui & Lizzie Case",
+      "Prasanna Date & Emi Ahlo",
+      "Sam Wiegand & Skye Jacobson",
+      "Hannah Powers & Emily Davey",
+      "Eric Deiros & Kianna Annemarie",
+      "Vonn Kerzch-Alabado & Madeleine Fontenay",
+      "Harry Zhang & Stephanya Moran"
+    ]
+  },
+  {
+    "name": "Bronze Am. Swing  (S)",
+    "couples": [
+      "Huy Pham & Chiara Bellomo",
+      "Guillermo Vincentelli & Krysta Murdy",
+      "William Walker & Emilie Scott",
+      "Zoe Chakoian & Morgan Dufour",
+      "Mike Senatore & Bethany Rhodes",
+      "Julia Orlov & Em Bonnici",
+      "Madison Leone & Julia Bowers",
+      "Zachary Pearson & Escher Campanella",
+      "Sebastien Lamy & Ailita Eddy",
+      "Michael Chaoui & Lizzie Case",
+      "Lillian Brietzke & Julia Mcadams",
+      "David Rodriguez & Mau Chu O`Connell",
+      "Zachary Pappalau & 269 zNew_Follow",
+      "Ryan Breuer & Heather Cummings",
+      "Chang Ju Kim & Allison Daboval",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Ramon Dunlop & Alyssa Kess",
+      "Jordan Faas-Bush & Jenna Hoggan",
+      "Matthew Fox & Emily Parker",
+      "Harry Zhang & Stephanya Moran",
+      "Prasanna Date & Emi Ahlo",
+      "Eric Deiros & Kianna Annemarie",
+      "Hannah Powers & Emily Davey",
+      "Sam Wiegand & Skye Jacobson",
+      "Keyshawn O`Connell & Katie Villa",
+      "Vonn Kerzch-Alabado & Madeleine Fontenay"
+    ]
+  },
+  {
+    "name": "Silver Rhythm  (CR)",
+    "couples": [
+      "Joye Hsiang & Angel Wu",
+      "Benjamin Secino & Shannon Carey",
+      "Andrew Banas & Bethany Bourgault",
+      "Nicole Piche & Sarah McRae",
+      "Julianna Collazo & Elise Braddock",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Benjamin Desjarlais & Marika Fox",
+      "Rish Rastogi & Isabelle Donahue",
+      "Derrick Powers & Liz Cordone",
+      "Joshua Thomas & Susannah Kane",
+      "Olivia Gould & Ariana Dickie",
+      "Michael Mintz & Rachel Wolff",
+      "Ariel Sanchez & Melissa Kropf",
+      "Bill Kadish & Marie Hobart"
+    ]
+  },
+  {
+    "name": "Silver Am. Swing  (S)",
+    "couples": [
+      "Benjamin Secino & Shannon Carey",
+      "Joye Hsiang & Angel Wu",
+      "Andrew Banas & Bethany Bourgault",
+      "Julianna Collazo & Elise Braddock",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Nicole Piche & Sarah McRae",
+      "Joshua Thomas & Susannah Kane",
+      "Olivia Gould & Ariana Dickie",
+      "Benjamin Desjarlais & Marika Fox",
+      "Rish Rastogi & Isabelle Donahue",
+      "Michael Mintz & Rachel Wolff",
+      "Ariel Sanchez & Melissa Kropf",
+      "Bill Kadish & Marie Hobart",
+      "Derrick Powers & Liz Cordone"
+    ]
+  },
+  {
+    "name": "Silver Am. Mambo  (M)",
+    "couples": [
+      "Benjamin Secino & Shannon Carey",
+      "Joye Hsiang & Angel Wu",
+      "Andrew Banas & Bethany Bourgault",
+      "Olivia Gould & Ariana Dickie",
+      "Julianna Collazo & Elise Braddock",
+      "Nicole Piche & Sarah McRae",
+      "Alex Schneiderman & Brittany Wendzel",
+      "Benjamin Desjarlais & Marika Fox",
+      "Michael Mintz & Rachel Wolff",
+      "Ramon Dunlop & Alyssa Kess",
+      "Ariel Sanchez & Melissa Kropf",
+      "Rish Rastogi & Isabelle Donahue",
+      "Derrick Powers & Liz Cordone"
+    ]
+  },
+  {
+    "name": "Gold Rhythm  (CRSM)",
+    "couples": [
+      "Matthew Everitt & Caroline desJardins",
+      "Ariel Sanchez & Melissa Kropf"
+    ]
+  },
+  {
+    "name": "Gold Am. Bolero  (B)",
+    "couples": [
+      "Matthew Everitt & Caroline desJardins",
+      "Andrew Banas & Bethany Bourgault",
+      "Nicole Piche & Sarah McRae",
+      "Benjamin Desjarlais & Marika Fox",
+      "Michael Mintz & Rachel Wolff"
+    ]
+  },
+  {
+    "name": "Open Rhythm  (CRSBM)",
+    "couples": [
+      "Alex Jones & Katie Fiallo"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Cha Cha  (C)",
+    "couples": [
+      "Daniel Glickman & Monica Roy",
+      "Tyler Jessey & Faith Trinker",
+      "Bethany Bourgault & Alexa Labossiere",
+      "Meixintong Zha & Miranda Hernandez",
+      "Thomas Yakey Jr. & Carley Hudson",
+      "Vanessa Coelho & Hailey Deltano",
+      "Sydney Grosskopf & Noor Farjo",
+      "Ishaan Agarwal & Halle Fowler",
+      "Darius Luo & Anna Eng",
+      "Jessenia Martinez & Emily McGrady",
+      "Bhanuj Jain & Trang Pham"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Rumba  (R)",
+    "couples": [
+      "Daniel Glickman & Monica Roy",
+      "Meixintong Zha & Miranda Hernandez",
+      "Bethany Bourgault & Alexa Labossiere",
+      "Ishaan Agarwal & Halle Fowler",
+      "Tyler Jessey & Faith Trinker",
+      "Vanessa Coelho & Hailey Deltano",
+      "Thomas Yakey Jr. & Carley Hudson",
+      "Jessenia Martinez & Emily McGrady",
+      "Guillermo Nunez & Morgan Ruoss"
+    ]
+  },
+  {
+    "name": "Newcomer Intl. Jive  (J)",
+    "couples": [
+      "Tyler Jessey & Faith Trinker",
+      "Daniel Glickman & Monica Roy",
+      "Meixintong Zha & Miranda Hernandez",
+      "Bethany Bourgault & Alexa Labossiere",
+      "Thomas Yakey Jr. & Aden Duffy",
+      "Ishaan Agarwal & Halle Fowler",
+      "Sydney Grosskopf & Noor Farjo",
+      "Vanessa Coelho & Hailey Deltano",
+      "Jessenia Martinez & Emily McGrady"
+    ]
+  },
+  {
+    "name": "Bronze Latin  (CR)",
+    "couples": [
+      "Huy Pham & Ailita Eddy",
+      "Ang Li & Rea Yoh",
+      "Mike Senatore & Bethany Rhodes",
+      "Madison Leone & Julia Bowers",
+      "Sebastien Lamy & Chiara Bellomo",
+      "Zoe Chakoian & Morgan Dufour",
+      "Julia Orlov & Em Bonnici",
+      "Patrick Dorson & Julia Mcadams",
+      "Konstantine Rychalsky & Kristen Rychalsky",
+      "Ramon Dunlop & Alyssa Kess"
+    ]
+  },
+  {
+    "name": "Bronze Intl. Jive  (J)",
+    "couples": [
+      "Huy Pham & Ailita Eddy",
+      "Mike Senatore & Bethany Rhodes",
+      "Ang Li & Rea Yoh",
+      "Zoe Chakoian & Morgan Dufour",
+      "Julia Orlov & Em Bonnici",
+      "Sebastien Lamy & Chiara Bellomo",
+      "Ryan Breuer & Heather Cummings",
+      "Patrick Dorson & Julia Mcadams",
+      "Konstantine Rychalsky & Kristen Rychalsky"
+    ]
+  },
+  {
+    "name": "Silver Latin  (CR)",
+    "couples": [
+      "Benjamin Secino & Shannon Carey",
+      "Ariel Sanchez & Melissa Kropf",
+      "Joye Hsiang & Angel Wu",
+      "Andrew Banas & Kianna Annemarie",
+      "Julianna Collazo & Elise Braddock",
+      "Olivia Gould & Ariana Dickie",
+      "Michael Mintz & Rachel Wolff",
+      "Benjamin Desjarlais & Marika Fox",
+      "Derrick Powers & Liz Cordone"
+    ]
+  },
+  {
+    "name": "Silver Latin  (SJ)",
+    "couples": [
+      "Benjamin Secino & Shannon Carey",
+      "Joye Hsiang & Angel Wu",
+      "Ariel Sanchez & Melissa Kropf",
+      "Andrew Banas & Kianna Annemarie",
+      "Julianna Collazo & Elise Braddock",
+      "Olivia Gould & Ariana Dickie",
+      "Madison Leone & Julia Bowers",
+      "Michael Mintz & Rachel Wolff",
+      "Benjamin Desjarlais & Marika Fox",
+      "Ramon Dunlop & Alyssa Kess",
+      "Derrick Powers & Liz Cordone"
+    ]
+  },
+  {
+    "name": "Syllabus Intl. Paso Doble  (P)",
+    "couples": [
+      "Ariel Sanchez & Melissa Kropf",
+      "Michael Mintz & Rachel Wolff",
+      "Benjamin Desjarlais & Marika Fox",
+      "Olivia Gould & Ariana Dickie",
+      "Thomas Yakey Jr. & Julia Mcadams"
+    ]
+  }
+]
